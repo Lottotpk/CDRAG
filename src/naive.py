@@ -53,10 +53,8 @@ def prompt_format(query: str, retrieved_context: list):
     messages = [
             {
                 "role": "user",
-                "content": prompt_template["system"] + "\n" + prompt_template["user_1"],
+                "content": prompt_template["system"] + "\n" + user_content,
             },
-            {"role": "assistant", "content": prompt_template["assistant_1"]},
-            {"role": "user", "content": user_content},
         ]
     return messages, docs
 
