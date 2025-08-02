@@ -1,0 +1,194 @@
+{
+  "entities": [
+    "animals",
+    "axolotl",
+    "salamander",
+    "Mexico",
+    "limbs",
+    "tail",
+    "brain",
+    "spinal cord",
+    "mantis shrimp",
+    "crustacean",
+    "tropical waters",
+    "crabs",
+    "mollusks",
+    "pangolin",
+    "scales",
+    "keratin",
+    "human hair",
+    "human nails",
+    "predators",
+    "common swift",
+    "bird",
+    "insects",
+    "barreleye fish",
+    "deep-sea dweller",
+    "prey",
+    "aye-aye",
+    "lemur",
+    "Madagascar",
+    "middle finger",
+    "tree bark",
+    "primates"
+  ],
+  "relations": [
+    [
+      "animals",
+      "has adaptation",
+      "limbs"
+    ],
+    [
+      "animals",
+      "has adaptation",
+      "tail"
+    ],
+    [
+      "animals",
+      "has adaptation",
+      "brain"
+    ],
+    [
+      "animals",
+      "has adaptation",
+      "spinal cord"
+    ],
+    [
+      "axolotl",
+      "is a",
+      "salamander"
+    ],
+    [
+      "axolotl",
+      "native to",
+      "Mexico"
+    ],
+    [
+      "axolotl",
+      "regenerates",
+      "limbs"
+    ],
+    [
+      "axolotl",
+      "regenerates",
+      "tail"
+    ],
+    [
+      "axolotl",
+      "regenerates",
+      "brain"
+    ],
+    [
+      "axolotl",
+      "regenerates",
+      "spinal cord"
+    ],
+    [
+      "mantis shrimp",
+      "is a",
+      "crustacean"
+    ],
+    [
+      "mantis shrimp",
+      "found in",
+      "tropical waters"
+    ],
+    [
+      "mantis shrimp",
+      "eats",
+      "crabs"
+    ],
+    [
+      "mantis shrimp",
+      "eats",
+      "mollusks"
+    ],
+    [
+      "mantis shrimp",
+      "is a",
+      "predators"
+    ],
+    [
+      "pangolin",
+      "has",
+      "scales"
+    ],
+    [
+      "scales",
+      "made of",
+      "keratin"
+    ],
+    [
+      "keratin",
+      "found in",
+      "human hair"
+    ],
+    [
+      "keratin",
+      "found in",
+      "human nails"
+    ],
+    [
+      "pangolin",
+      "protected from",
+      "predators"
+    ],
+    [
+      "common swift",
+      "is a",
+      "bird"
+    ],
+    [
+      "common swift",
+      "eats",
+      "insects"
+    ],
+    [
+      "barreleye fish",
+      "is a",
+      "deep-sea dweller"
+    ],
+    [
+      "barreleye fish",
+      "eats",
+      "prey"
+    ],
+    [
+      "aye-aye",
+      "is a",
+      "lemur"
+    ],
+    [
+      "aye-aye",
+      "native to",
+      "Madagascar"
+    ],
+    [
+      "aye-aye",
+      "has",
+      "middle finger"
+    ],
+    [
+      "aye-aye",
+      "extracts from",
+      "tree bark"
+    ],
+    [
+      "aye-aye",
+      "is a",
+      "primates"
+    ]
+  ],
+  "edges": [
+    "regenerates",
+    "found in",
+    "has",
+    "made of",
+    "is a",
+    "eats",
+    "native to",
+    "extracts from",
+    "has adaptation",
+    "protected from"
+  ]
+}

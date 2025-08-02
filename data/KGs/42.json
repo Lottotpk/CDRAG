@@ -1,0 +1,418 @@
+{
+  "entities": [
+    "zombie apocalypse",
+    "people",
+    "movies",
+    "TV shows",
+    "literature",
+    "zombie outbreak",
+    "essential supplies",
+    "food",
+    "water",
+    "medical supplies",
+    "weapons",
+    "survival kit",
+    "first aid kit",
+    "flashlight",
+    "batteries",
+    "multi-tool",
+    "source of clean water",
+    "non-perishable food",
+    "safe location",
+    "shelter",
+    "zombies",
+    "access to food",
+    "access to water",
+    "visibility of surroundings",
+    "ease of defense",
+    "escape plan",
+    "communication system",
+    "group",
+    "teamwork",
+    "trustworthy individuals",
+    "reliable individuals",
+    "roles",
+    "responsibilities",
+    "member of the group",
+    "skills",
+    "abilities",
+    "communication",
+    "cooperation",
+    "knowledge",
+    "characteristics of zombies",
+    "behaviors of zombies",
+    "headshots",
+    "brain",
+    "safety",
+    "physical fitness",
+    "good health",
+    "regular exercise",
+    "proper nutrition",
+    "adequate rest",
+    "body",
+    "risky behaviors",
+    "contaminated food",
+    "contaminated water",
+    "mental resilience",
+    "goals",
+    "adversity",
+    "coping mechanisms",
+    "stress",
+    "fear",
+    "meditation",
+    "deep breathing exercises",
+    "activities",
+    "positive mindset",
+    "adaptability",
+    "quick decisions",
+    "evolving situation",
+    "new skills",
+    "unfamiliar tasks",
+    "obstacles",
+    "undead"
+  ],
+  "relations": [
+    [
+      "zombie apocalypse",
+      "captured the imagination of",
+      "people"
+    ],
+    [
+      "zombie apocalypse",
+      "portrayed in",
+      "movies"
+    ],
+    [
+      "zombie apocalypse",
+      "portrayed in",
+      "TV shows"
+    ],
+    [
+      "zombie apocalypse",
+      "portrayed in",
+      "literature"
+    ],
+    [
+      "zombie outbreak",
+      "requires",
+      "essential supplies"
+    ],
+    [
+      "essential supplies",
+      "include",
+      "food"
+    ],
+    [
+      "essential supplies",
+      "include",
+      "water"
+    ],
+    [
+      "essential supplies",
+      "include",
+      "medical supplies"
+    ],
+    [
+      "essential supplies",
+      "include",
+      "weapons"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "first aid kit"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "flashlight"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "batteries"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "multi-tool"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "source of clean water"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "non-perishable food"
+    ],
+    [
+      "zombie outbreak",
+      "requires",
+      "safe location"
+    ],
+    [
+      "safe location",
+      "provides",
+      "shelter"
+    ],
+    [
+      "safe location",
+      "requires",
+      "access to food"
+    ],
+    [
+      "safe location",
+      "requires",
+      "access to water"
+    ],
+    [
+      "safe location",
+      "requires",
+      "visibility of surroundings"
+    ],
+    [
+      "safe location",
+      "requires",
+      "ease of defense"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "escape plan"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "communication system"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "group"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "teamwork"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "trustworthy individuals"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "reliable individuals"
+    ],
+    [
+      "group",
+      "requires",
+      "roles"
+    ],
+    [
+      "group",
+      "requires",
+      "responsibilities"
+    ],
+    [
+      "member of the group",
+      "possesses",
+      "skills"
+    ],
+    [
+      "member of the group",
+      "possesses",
+      "abilities"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "communication"
+    ],
+    [
+      "teamwork",
+      "requires",
+      "cooperation"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "knowledge"
+    ],
+    [
+      "knowledge",
+      "about",
+      "characteristics of zombies"
+    ],
+    [
+      "knowledge",
+      "about",
+      "behaviors of zombies"
+    ],
+    [
+      "weapons",
+      "used for",
+      "headshots"
+    ],
+    [
+      "headshots",
+      "destroy",
+      "brain"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "safety"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "good health"
+    ],
+    [
+      "good health",
+      "requires",
+      "regular exercise"
+    ],
+    [
+      "good health",
+      "requires",
+      "proper nutrition"
+    ],
+    [
+      "good health",
+      "requires",
+      "adequate rest"
+    ],
+    [
+      "body",
+      "requires",
+      "good health"
+    ],
+    [
+      "risky behaviors",
+      "include",
+      "contaminated food"
+    ],
+    [
+      "risky behaviors",
+      "include",
+      "contaminated water"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "mental resilience"
+    ],
+    [
+      "mental resilience",
+      "helps achieve",
+      "goals"
+    ],
+    [
+      "mental resilience",
+      "helps overcome",
+      "adversity"
+    ],
+    [
+      "mental resilience",
+      "requires",
+      "coping mechanisms"
+    ],
+    [
+      "coping mechanisms",
+      "help deal with",
+      "stress"
+    ],
+    [
+      "coping mechanisms",
+      "help deal with",
+      "fear"
+    ],
+    [
+      "coping mechanisms",
+      "include",
+      "meditation"
+    ],
+    [
+      "coping mechanisms",
+      "include",
+      "deep breathing exercises"
+    ],
+    [
+      "coping mechanisms",
+      "include",
+      "activities"
+    ],
+    [
+      "mental resilience",
+      "requires",
+      "positive mindset"
+    ],
+    [
+      "zombie apocalypse",
+      "requires",
+      "adaptability"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "quick decisions"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "evolving situation"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "new skills"
+    ],
+    [
+      "adaptability",
+      "requires",
+      "unfamiliar tasks"
+    ],
+    [
+      "adaptability",
+      "helps overcome",
+      "obstacles"
+    ],
+    [
+      "zombie apocalypse",
+      "overrun by",
+      "undead"
+    ],
+    [
+      "zombies",
+      "are",
+      "undead"
+    ]
+  ],
+  "edges": [
+    "possesses",
+    "are",
+    "help deal with",
+    "provides",
+    "overrun by",
+    "helps achieve",
+    "used for",
+    "portrayed in",
+    "include",
+    "about",
+    "captured the imagination of",
+    "destroy",
+    "requires",
+    "helps overcome",
+    "includes"
+  ]
+}

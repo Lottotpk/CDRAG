@@ -1,0 +1,412 @@
+{
+  "entities": [
+    "Writing Systems",
+    "human history",
+    "human culture",
+    "society",
+    "pictographic symbols",
+    "alphabets",
+    "scripts",
+    "human communication",
+    "Sumer",
+    "Egypt",
+    "China",
+    "3000 BCE",
+    "pictographs",
+    "syllabic scripts",
+    "logographic scripts",
+    "cuneiform",
+    "Sumerians",
+    "Mesopotamia",
+    "clay tablets",
+    "accounting",
+    "record-keeping",
+    "hieroglyphics",
+    "ancient Egypt",
+    "religious texts",
+    "historical texts",
+    "scribes",
+    "Jean-Fran\u00c3\u00a7ois Champollion",
+    "ancient Egyptian civilization",
+    "Chinese characters",
+    "words",
+    "morphemes",
+    "speech sounds",
+    "alphabet",
+    "ancient Near East",
+    "Greeks",
+    "consonants",
+    "vowels",
+    "Greek alphabet",
+    "Mediterranean region",
+    "Latin alphabet",
+    "English",
+    "European languages",
+    "cultural factors",
+    "technological factors",
+    "social factors",
+    "scripts",
+    "alphabets",
+    "language",
+    "culture",
+    "written word",
+    "digital technology",
+    "computers",
+    "smartphones",
+    "internet",
+    "digital writing systems",
+    "Unicode",
+    "written texts",
+    "languages",
+    "emojis",
+    "emoticons",
+    "augmented reality",
+    "virtual reality interfaces",
+    "human civilization",
+    "culture",
+    "thoughts",
+    "ideas",
+    "experiences",
+    "pictographs",
+    "alphabets",
+    "scripts",
+    "human communication",
+    "written language"
+  ],
+  "relations": [
+    [
+      "Writing Systems",
+      "is part of",
+      "human history"
+    ],
+    [
+      "Writing Systems",
+      "is part of",
+      "human culture"
+    ],
+    [
+      "Writing Systems",
+      "allows",
+      "human communication"
+    ],
+    [
+      "Writing Systems",
+      "includes",
+      "pictographic symbols"
+    ],
+    [
+      "Writing Systems",
+      "includes",
+      "alphabets"
+    ],
+    [
+      "Writing Systems",
+      "includes",
+      "scripts"
+    ],
+    [
+      "Sumer",
+      "is an origin of",
+      "Writing Systems"
+    ],
+    [
+      "Egypt",
+      "is an origin of",
+      "Writing Systems"
+    ],
+    [
+      "China",
+      "is an origin of",
+      "Writing Systems"
+    ],
+    [
+      "3000 BCE",
+      "is when",
+      "Writing Systems"
+    ],
+    [
+      "pictographs",
+      "evolved into",
+      "syllabic scripts"
+    ],
+    [
+      "pictographs",
+      "evolved into",
+      "logographic scripts"
+    ],
+    [
+      "cuneiform",
+      "used by",
+      "Sumerians"
+    ],
+    [
+      "Sumerians",
+      "located in",
+      "Mesopotamia"
+    ],
+    [
+      "cuneiform",
+      "written on",
+      "clay tablets"
+    ],
+    [
+      "cuneiform",
+      "used for",
+      "accounting"
+    ],
+    [
+      "cuneiform",
+      "used for",
+      "record-keeping"
+    ],
+    [
+      "hieroglyphics",
+      "used in",
+      "ancient Egypt"
+    ],
+    [
+      "hieroglyphics",
+      "used to record",
+      "religious texts"
+    ],
+    [
+      "hieroglyphics",
+      "used to record",
+      "historical texts"
+    ],
+    [
+      "scribes",
+      "used",
+      "hieroglyphics"
+    ],
+    [
+      "Jean-Fran\u00c3\u00a7ois Champollion",
+      "deciphered",
+      "hieroglyphics"
+    ],
+    [
+      "Jean-Fran\u00c3\u00a7ois Champollion",
+      "provided insights into",
+      "ancient Egyptian civilization"
+    ],
+    [
+      "Chinese characters",
+      "are",
+      "logographic scripts"
+    ],
+    [
+      "Chinese characters",
+      "represent",
+      "words"
+    ],
+    [
+      "Chinese characters",
+      "represent",
+      "morphemes"
+    ],
+    [
+      "alphabet",
+      "represents",
+      "speech sounds"
+    ],
+    [
+      "alphabet",
+      "originated in",
+      "ancient Near East"
+    ],
+    [
+      "Greeks",
+      "adapted",
+      "alphabet"
+    ],
+    [
+      "Greek alphabet",
+      "includes",
+      "consonants"
+    ],
+    [
+      "Greek alphabet",
+      "includes",
+      "vowels"
+    ],
+    [
+      "Greek alphabet",
+      "spread through",
+      "Mediterranean region"
+    ],
+    [
+      "Latin alphabet",
+      "used in",
+      "English"
+    ],
+    [
+      "Latin alphabet",
+      "used in",
+      "European languages"
+    ],
+    [
+      "cultural factors",
+      "influenced",
+      "Writing Systems"
+    ],
+    [
+      "technological factors",
+      "influenced",
+      "Writing Systems"
+    ],
+    [
+      "social factors",
+      "influenced",
+      "Writing Systems"
+    ],
+    [
+      "language",
+      "is reflected by",
+      "Writing Systems"
+    ],
+    [
+      "culture",
+      "is reflected by",
+      "Writing Systems"
+    ],
+    [
+      "digital technology",
+      "transformed",
+      "written word"
+    ],
+    [
+      "computers",
+      "are part of",
+      "digital technology"
+    ],
+    [
+      "smartphones",
+      "are part of",
+      "digital technology"
+    ],
+    [
+      "internet",
+      "is part of",
+      "digital technology"
+    ],
+    [
+      "digital writing systems",
+      "includes",
+      "Unicode"
+    ],
+    [
+      "Unicode",
+      "facilitates exchange of",
+      "written texts"
+    ],
+    [
+      "Unicode",
+      "facilitates exchange of",
+      "languages"
+    ],
+    [
+      "emojis",
+      "are a form of",
+      "human communication"
+    ],
+    [
+      "emoticons",
+      "are a form of",
+      "human communication"
+    ],
+    [
+      "augmented reality",
+      "is related to",
+      "Writing Systems"
+    ],
+    [
+      "virtual reality interfaces",
+      "is related to",
+      "Writing Systems"
+    ],
+    [
+      "Writing Systems",
+      "shaped",
+      "human civilization"
+    ],
+    [
+      "Writing Systems",
+      "shaped",
+      "human culture"
+    ],
+    [
+      "Writing Systems",
+      "records",
+      "thoughts"
+    ],
+    [
+      "Writing Systems",
+      "records",
+      "ideas"
+    ],
+    [
+      "Writing Systems",
+      "records",
+      "experiences"
+    ],
+    [
+      "pictographs",
+      "are",
+      "Writing Systems"
+    ],
+    [
+      "alphabets",
+      "are",
+      "Writing Systems"
+    ],
+    [
+      "scripts",
+      "are",
+      "Writing Systems"
+    ],
+    [
+      "Writing Systems",
+      "meets needs of",
+      "human communication"
+    ],
+    [
+      "written language",
+      "is",
+      "Writing Systems"
+    ]
+  ],
+  "edges": [
+    "allows",
+    "spread through",
+    "used to record",
+    "is",
+    "meets needs of",
+    "represents",
+    "deciphered",
+    "is an origin of",
+    "influenced",
+    "is part of",
+    "used by",
+    "located in",
+    "written on",
+    "evolved into",
+    "are",
+    "records",
+    "is when",
+    "is related to",
+    "adapted",
+    "shaped",
+    "used for",
+    "are part of",
+    "facilitates exchange of",
+    "is reflected by",
+    "provided insights into",
+    "are a form of",
+    "transformed",
+    "includes",
+    "used in",
+    "used",
+    "represent",
+    "originated in"
+  ]
+}

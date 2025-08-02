@@ -1,0 +1,408 @@
+{
+  "entities": [
+    "Color",
+    "Branding",
+    "Marketing strategies",
+    "Emotions",
+    "Messages",
+    "Consumer behavior",
+    "Businesses",
+    "Brand identity",
+    "Target audience",
+    "Color psychology",
+    "Associations",
+    "Red",
+    "Passion",
+    "Energy",
+    "Excitement",
+    "Blue",
+    "Trust",
+    "Reliability",
+    "Calmness",
+    "Visual identity",
+    "Consumer perceptions",
+    "Behaviors",
+    "Brand's personality",
+    "Quality",
+    "Value",
+    "Warm colors",
+    "Orange",
+    "Urgency",
+    "Impulse purchases",
+    "Cool colors",
+    "Green",
+    "Brand",
+    "Competitors",
+    "Memorable brand identity",
+    "Color scheme",
+    "Marketplace",
+    "Brand presence",
+    "McDonald's arches",
+    "Coca-Cola's logo",
+    "Consumers",
+    "Cultural associations",
+    "Contextual associations",
+    "Cultures",
+    "Markets",
+    "White",
+    "Purity",
+    "Cleanliness",
+    "Western cultures",
+    "Mourning",
+    "Death",
+    "Eastern cultures",
+    "Industry",
+    "Brand positioning",
+    "Color palette",
+    "Youth-oriented brand",
+    "Sophisticated color scheme",
+    "Luxury brand",
+    "Brand differentiation",
+    "Cultural factors",
+    "Contextual factors",
+    "Successful brand",
+    "Memorable brand"
+  ],
+  "relations": [
+    [
+      "Color",
+      "plays a crucial role in",
+      "Branding"
+    ],
+    [
+      "Color",
+      "plays a crucial role in",
+      "Marketing strategies"
+    ],
+    [
+      "Color",
+      "has the power to",
+      "Emotions"
+    ],
+    [
+      "Color",
+      "has the power to",
+      "Messages"
+    ],
+    [
+      "Color",
+      "has the power to",
+      "Consumer behavior"
+    ],
+    [
+      "Businesses",
+      "create",
+      "Brand identity"
+    ],
+    [
+      "Businesses",
+      "connect with",
+      "Target audience"
+    ],
+    [
+      "Color psychology",
+      "helps",
+      "Businesses"
+    ],
+    [
+      "Color psychology",
+      "concerns",
+      "Associations"
+    ],
+    [
+      "Red",
+      "associated with",
+      "Passion"
+    ],
+    [
+      "Red",
+      "associated with",
+      "Energy"
+    ],
+    [
+      "Red",
+      "associated with",
+      "Excitement"
+    ],
+    [
+      "Blue",
+      "associated with",
+      "Trust"
+    ],
+    [
+      "Blue",
+      "associated with",
+      "Reliability"
+    ],
+    [
+      "Blue",
+      "associated with",
+      "Calmness"
+    ],
+    [
+      "Businesses",
+      "create",
+      "Visual identity"
+    ],
+    [
+      "Color",
+      "influence",
+      "Consumer perceptions"
+    ],
+    [
+      "Color",
+      "influence",
+      "Behaviors"
+    ],
+    [
+      "Color",
+      "affect",
+      "Brand's personality"
+    ],
+    [
+      "Color",
+      "affect",
+      "Quality"
+    ],
+    [
+      "Color",
+      "affect",
+      "Value"
+    ],
+    [
+      "Warm colors",
+      "create",
+      "Urgency"
+    ],
+    [
+      "Warm colors",
+      "encourage",
+      "Impulse purchases"
+    ],
+    [
+      "Warm colors",
+      "include",
+      "Red"
+    ],
+    [
+      "Warm colors",
+      "include",
+      "Orange"
+    ],
+    [
+      "Cool colors",
+      "create",
+      "Trust"
+    ],
+    [
+      "Cool colors",
+      "create",
+      "Reliability"
+    ],
+    [
+      "Cool colors",
+      "include",
+      "Blue"
+    ],
+    [
+      "Cool colors",
+      "include",
+      "Green"
+    ],
+    [
+      "Color",
+      "differentiate",
+      "Brand"
+    ],
+    [
+      "Color",
+      "differentiate",
+      "Competitors"
+    ],
+    [
+      "Color",
+      "create",
+      "Memorable brand identity"
+    ],
+    [
+      "Businesses",
+      "choose",
+      "Color scheme"
+    ],
+    [
+      "Businesses",
+      "stand out in",
+      "Marketplace"
+    ],
+    [
+      "Businesses",
+      "create",
+      "Brand presence"
+    ],
+    [
+      "McDonald's arches",
+      "example of",
+      "Brand presence"
+    ],
+    [
+      "Coca-Cola's logo",
+      "example of",
+      "Brand presence"
+    ],
+    [
+      "Color",
+      "recognizable to",
+      "Consumers"
+    ],
+    [
+      "Color",
+      "consider",
+      "Cultural associations"
+    ],
+    [
+      "Color",
+      "consider",
+      "Contextual associations"
+    ],
+    [
+      "Color",
+      "have",
+      "Cultural associations"
+    ],
+    [
+      "Color",
+      "perceived in",
+      "Markets"
+    ],
+    [
+      "White",
+      "associated with",
+      "Purity"
+    ],
+    [
+      "White",
+      "associated with",
+      "Cleanliness"
+    ],
+    [
+      "White",
+      "associated with",
+      "Western cultures"
+    ],
+    [
+      "White",
+      "associated with",
+      "Mourning"
+    ],
+    [
+      "White",
+      "associated with",
+      "Death"
+    ],
+    [
+      "White",
+      "associated with",
+      "Eastern cultures"
+    ],
+    [
+      "Businesses",
+      "consider",
+      "Industry"
+    ],
+    [
+      "Businesses",
+      "consider",
+      "Brand positioning"
+    ],
+    [
+      "Color",
+      "consider",
+      "Color palette"
+    ],
+    [
+      "Color palette",
+      "appropriate for",
+      "Youth-oriented brand"
+    ],
+    [
+      "Color scheme",
+      "suitable for",
+      "Luxury brand"
+    ],
+    [
+      "Color",
+      "create",
+      "Brand differentiation"
+    ],
+    [
+      "Color",
+      "consider",
+      "Cultural factors"
+    ],
+    [
+      "Color",
+      "consider",
+      "Contextual factors"
+    ],
+    [
+      "Color psychology",
+      "create",
+      "Successful brand"
+    ],
+    [
+      "Color psychology",
+      "create",
+      "Memorable brand"
+    ],
+    [
+      "Color",
+      "evoke",
+      "Emotions"
+    ],
+    [
+      "Color",
+      "influence",
+      "Consumer perceptions"
+    ],
+    [
+      "Color",
+      "create",
+      "Brand differentiation"
+    ],
+    [
+      "Businesses",
+      "create",
+      "Brand identity"
+    ],
+    [
+      "Brand identity",
+      "resonates with",
+      "Target audience"
+    ]
+  ],
+  "edges": [
+    "appropriate for",
+    "affect",
+    "choose",
+    "recognizable to",
+    "resonates with",
+    "evoke",
+    "has the power to",
+    "include",
+    "connect with",
+    "stand out in",
+    "encourage",
+    "associated with",
+    "example of",
+    "create",
+    "concerns",
+    "influence",
+    "differentiate",
+    "perceived in",
+    "have",
+    "plays a crucial role in",
+    "consider",
+    "helps",
+    "suitable for"
+  ]
+}

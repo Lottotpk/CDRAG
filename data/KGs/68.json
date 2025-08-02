@@ -1,0 +1,280 @@
+{
+  "entities": [
+    "Time travel",
+    "fiction",
+    "audiences",
+    "literature",
+    "film",
+    "television",
+    "time machine",
+    "characters",
+    "timeline",
+    "H.G. Wells",
+    "The Time Machine",
+    "protagonist",
+    "DeLorean",
+    "Back to the Future",
+    "TARDIS",
+    "Doctor Who",
+    "power source",
+    "events in the past",
+    "supernatural means",
+    "magical means",
+    "spells",
+    "artifacts",
+    "mystical forces",
+    "J.K. Rowling",
+    "Harry Potter",
+    "Time-Turner",
+    "Groundhog Day",
+    "time loop",
+    "lesson",
+    "Parallel universes",
+    "alternate timelines",
+    "reality",
+    "history",
+    "Fringe",
+    "The Flash",
+    "catastrophic events",
+    "past",
+    "future",
+    "history",
+    "Looper",
+    "The Butterfly Effect",
+    "causality",
+    "determinism",
+    "events",
+    "storytelling",
+    "technology",
+    "universe",
+    "time"
+  ],
+  "relations": [
+    [
+      "Time travel",
+      "is a concept in",
+      "fiction"
+    ],
+    [
+      "Time travel",
+      "captivates",
+      "audiences"
+    ],
+    [
+      "Time travel",
+      "portrayed in",
+      "literature"
+    ],
+    [
+      "Time travel",
+      "portrayed in",
+      "film"
+    ],
+    [
+      "Time travel",
+      "portrayed in",
+      "television"
+    ],
+    [
+      "time machine",
+      "allows",
+      "characters"
+    ],
+    [
+      "time machine",
+      "travels through",
+      "timeline"
+    ],
+    [
+      "H.G. Wells",
+      "wrote",
+      "The Time Machine"
+    ],
+    [
+      "The Time Machine",
+      "features",
+      "protagonist"
+    ],
+    [
+      "The Time Machine",
+      "uses",
+      "time machine"
+    ],
+    [
+      "DeLorean",
+      "appears in",
+      "Back to the Future"
+    ],
+    [
+      "TARDIS",
+      "appears in",
+      "Doctor Who"
+    ],
+    [
+      "time machine",
+      "needs",
+      "power source"
+    ],
+    [
+      "time machine",
+      "cannot change",
+      "events in the past"
+    ],
+    [
+      "Time travel",
+      "occurs through",
+      "supernatural means"
+    ],
+    [
+      "Time travel",
+      "occurs through",
+      "magical means"
+    ],
+    [
+      "characters",
+      "use",
+      "spells"
+    ],
+    [
+      "characters",
+      "use",
+      "artifacts"
+    ],
+    [
+      "characters",
+      "use",
+      "mystical forces"
+    ],
+    [
+      "J.K. Rowling",
+      "wrote",
+      "Harry Potter"
+    ],
+    [
+      "Harry Potter",
+      "features",
+      "Time-Turner"
+    ],
+    [
+      "Time-Turner",
+      "allows",
+      "time"
+    ],
+    [
+      "Groundhog Day",
+      "features",
+      "time loop"
+    ],
+    [
+      "protagonist",
+      "learns",
+      "lesson"
+    ],
+    [
+      "Time travel",
+      "portrays",
+      "Parallel universes"
+    ],
+    [
+      "Time travel",
+      "portrays",
+      "alternate timelines"
+    ],
+    [
+      "characters",
+      "navigate",
+      "timeline"
+    ],
+    [
+      "characters",
+      "prevent",
+      "catastrophic events"
+    ],
+    [
+      "characters",
+      "change",
+      "past"
+    ],
+    [
+      "characters",
+      "alter",
+      "future"
+    ],
+    [
+      "Looper",
+      "features",
+      "protagonist"
+    ],
+    [
+      "The Butterfly Effect",
+      "features",
+      "characters"
+    ],
+    [
+      "Time travel",
+      "raises questions about",
+      "causality"
+    ],
+    [
+      "Time travel",
+      "raises questions about",
+      "determinism"
+    ],
+    [
+      "Time travel",
+      "alters",
+      "events"
+    ],
+    [
+      "Time travel",
+      "adds depth to",
+      "storytelling"
+    ],
+    [
+      "Time travel",
+      "challenges",
+      "audiences"
+    ],
+    [
+      "Time travel",
+      "explores",
+      "time"
+    ],
+    [
+      "Time travel",
+      "explores",
+      "universe"
+    ],
+    [
+      "Time travel",
+      "uses",
+      "technology"
+    ]
+  ],
+  "edges": [
+    "is a concept in",
+    "use",
+    "uses",
+    "raises questions about",
+    "learns",
+    "appears in",
+    "occurs through",
+    "change",
+    "captivates",
+    "features",
+    "cannot change",
+    "alters",
+    "portrayed in",
+    "explores",
+    "portrays",
+    "prevent",
+    "needs",
+    "adds depth to",
+    "travels through",
+    "wrote",
+    "navigate",
+    "alter",
+    "allows",
+    "challenges"
+  ]
+}

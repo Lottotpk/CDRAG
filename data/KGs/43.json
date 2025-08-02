@@ -1,0 +1,345 @@
+{
+  "entities": [
+    "Conspiracy theories",
+    "public imagination",
+    "official explanations",
+    "historical events",
+    "United States government",
+    "moon landing",
+    "Apollo 11 mission",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "lunar surface",
+    "America's prestige",
+    "space race",
+    "Soviet Union",
+    "photographic and video evidence",
+    "President John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Texas School Book Depository",
+    "Dallas",
+    "CIA",
+    "mafia",
+    "Illuminati",
+    "secret society",
+    "18th century",
+    "world events",
+    "governments",
+    "institutions",
+    "global phenomena",
+    "political upheavals",
+    "celebrity deaths",
+    "symbolism",
+    "subliminal messaging",
+    "September 11, 2001 terrorist attacks",
+    "World Trade Center",
+    "Pentagon",
+    "U.S. government",
+    "Middle East",
+    "controlled demolitions",
+    "World Trade Center towers",
+    "internet",
+    "social media",
+    "flat Earth",
+    "global pedophile ring",
+    "prominent figures",
+    "online discourse",
+    "political movements",
+    "societal anxieties",
+    "distrust of authority",
+    "power",
+    "secrecy",
+    "nature of truth",
+    "cultural impact",
+    "human desire",
+    "alternative explanations",
+    "mystery",
+    "intrigue"
+  ],
+  "relations": [
+    [
+      "Conspiracy theories",
+      "captured",
+      "public imagination"
+    ],
+    [
+      "Conspiracy theories",
+      "challenge",
+      "official explanations"
+    ],
+    [
+      "Conspiracy theories",
+      "present",
+      "alternative explanations"
+    ],
+    [
+      "Conspiracy theories",
+      "interpret",
+      "historical events"
+    ],
+    [
+      "moon landing",
+      "staged by",
+      "United States government"
+    ],
+    [
+      "Apollo 11 mission",
+      "involved",
+      "Neil Armstrong"
+    ],
+    [
+      "Apollo 11 mission",
+      "involved",
+      "Buzz Aldrin"
+    ],
+    [
+      "Neil Armstrong",
+      "set foot on",
+      "lunar surface"
+    ],
+    [
+      "Buzz Aldrin",
+      "set foot on",
+      "lunar surface"
+    ],
+    [
+      "moon landing",
+      "boost",
+      "America's prestige"
+    ],
+    [
+      "moon landing",
+      "related to",
+      "space race"
+    ],
+    [
+      "space race",
+      "against",
+      "Soviet Union"
+    ],
+    [
+      "Conspiracy theories",
+      "point to",
+      "photographic and video evidence"
+    ],
+    [
+      "President John F. Kennedy",
+      "assassination involved",
+      "Lee Harvey Oswald"
+    ],
+    [
+      "Lee Harvey Oswald",
+      "shot from",
+      "Texas School Book Depository"
+    ],
+    [
+      "Texas School Book Depository",
+      "located in",
+      "Dallas"
+    ],
+    [
+      "Conspiracy theories",
+      "involve",
+      "CIA"
+    ],
+    [
+      "Conspiracy theories",
+      "involve",
+      "mafia"
+    ],
+    [
+      "Illuminati",
+      "founded in",
+      "18th century"
+    ],
+    [
+      "Illuminati",
+      "control",
+      "world events"
+    ],
+    [
+      "Illuminati",
+      "manipulate",
+      "governments"
+    ],
+    [
+      "Illuminati",
+      "manipulate",
+      "institutions"
+    ],
+    [
+      "Illuminati",
+      "behind",
+      "global phenomena"
+    ],
+    [
+      "Illuminati",
+      "cause",
+      "political upheavals"
+    ],
+    [
+      "Illuminati",
+      "cause",
+      "celebrity deaths"
+    ],
+    [
+      "Illuminati",
+      "use",
+      "symbolism"
+    ],
+    [
+      "Illuminati",
+      "use",
+      "subliminal messaging"
+    ],
+    [
+      "September 11, 2001 terrorist attacks",
+      "attacked",
+      "World Trade Center"
+    ],
+    [
+      "September 11, 2001 terrorist attacks",
+      "attacked",
+      "Pentagon"
+    ],
+    [
+      "Conspiracy theories",
+      "involve",
+      "U.S. government"
+    ],
+    [
+      "Conspiracy theories",
+      "relate to",
+      "Middle East"
+    ],
+    [
+      "Conspiracy theories",
+      "involve",
+      "controlled demolitions"
+    ],
+    [
+      "controlled demolitions",
+      "at",
+      "World Trade Center towers"
+    ],
+    [
+      "internet",
+      "fueled",
+      "Conspiracy theories"
+    ],
+    [
+      "social media",
+      "fueled",
+      "Conspiracy theories"
+    ],
+    [
+      "Conspiracy theories",
+      "include",
+      "flat Earth"
+    ],
+    [
+      "Conspiracy theories",
+      "include",
+      "global pedophile ring"
+    ],
+    [
+      "global pedophile ring",
+      "involve",
+      "prominent figures"
+    ],
+    [
+      "Conspiracy theories",
+      "staple of",
+      "online discourse"
+    ],
+    [
+      "Conspiracy theories",
+      "influence",
+      "political movements"
+    ],
+    [
+      "Conspiracy theories",
+      "tap into",
+      "societal anxieties"
+    ],
+    [
+      "Conspiracy theories",
+      "tap into",
+      "distrust of authority"
+    ],
+    [
+      "Conspiracy theories",
+      "raise questions about",
+      "power"
+    ],
+    [
+      "Conspiracy theories",
+      "raise questions about",
+      "secrecy"
+    ],
+    [
+      "Conspiracy theories",
+      "raise questions about",
+      "nature of truth"
+    ],
+    [
+      "Conspiracy theories",
+      "have",
+      "cultural impact"
+    ],
+    [
+      "Conspiracy theories",
+      "relate to",
+      "human desire"
+    ],
+    [
+      "Conspiracy theories",
+      "offer",
+      "alternative explanations"
+    ],
+    [
+      "Conspiracy theories",
+      "relate to",
+      "mystery"
+    ],
+    [
+      "Conspiracy theories",
+      "relate to",
+      "intrigue"
+    ]
+  ],
+  "edges": [
+    "boost",
+    "captured",
+    "attacked",
+    "interpret",
+    "involve",
+    "use",
+    "located in",
+    "behind",
+    "staple of",
+    "staged by",
+    "at",
+    "challenge",
+    "against",
+    "cause",
+    "influence",
+    "point to",
+    "founded in",
+    "tap into",
+    "offer",
+    "include",
+    "related to",
+    "assassination involved",
+    "present",
+    "have",
+    "involved",
+    "relate to",
+    "fueled",
+    "set foot on",
+    "control",
+    "raise questions about",
+    "shot from",
+    "manipulate"
+  ]
+}

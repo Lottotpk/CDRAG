@@ -1,0 +1,207 @@
+{
+  "entities": [
+    "Space tourism",
+    "astronauts",
+    "civilians",
+    "private space companies",
+    "SpaceX",
+    "Blue Origin",
+    "Virgin Galactic",
+    "outer space",
+    "space travel",
+    "technology",
+    "private companies",
+    "space habitats",
+    "infrastructure",
+    "Mars",
+    "space hotels",
+    "Earth's orbit",
+    "recreational activities",
+    "space transportation technology",
+    "reusable rockets",
+    "spacecraft",
+    "passengers",
+    "scientific research",
+    "exploration",
+    "experiments",
+    "data",
+    "the universe",
+    "scientists",
+    "researchers",
+    "space enthusiasts",
+    "sustainability",
+    "environmental conservation",
+    "Earth",
+    "the environment",
+    "eco-friendly technologies",
+    "carbon footprint",
+    "outer space",
+    "technology",
+    "space travel",
+    "stars"
+  ],
+  "relations": [
+    [
+      "Space tourism",
+      "is becoming a reality for",
+      "civilians"
+    ],
+    [
+      "private space companies",
+      "include",
+      "SpaceX"
+    ],
+    [
+      "private space companies",
+      "include",
+      "Blue Origin"
+    ],
+    [
+      "private space companies",
+      "include",
+      "Virgin Galactic"
+    ],
+    [
+      "Space tourism",
+      "transforms",
+      "outer space"
+    ],
+    [
+      "technology",
+      "drives down prices of",
+      "Space tourism"
+    ],
+    [
+      "private companies",
+      "drive down prices of",
+      "Space tourism"
+    ],
+    [
+      "SpaceX",
+      "creating",
+      "space habitats"
+    ],
+    [
+      "SpaceX",
+      "creating",
+      "Mars"
+    ],
+    [
+      "space hotels",
+      "located in",
+      "Earth's orbit"
+    ],
+    [
+      "space habitats",
+      "facilitate",
+      "recreational activities"
+    ],
+    [
+      "Blue Origin",
+      "working on",
+      "reusable rockets"
+    ],
+    [
+      "SpaceX",
+      "working on",
+      "reusable rockets"
+    ],
+    [
+      "reusable rockets",
+      "reduce cost of",
+      "space travel"
+    ],
+    [
+      "space transportation technology",
+      "transports",
+      "passengers"
+    ],
+    [
+      "Space tourism",
+      "holds promise for",
+      "scientific research"
+    ],
+    [
+      "Space tourism",
+      "holds promise for",
+      "exploration"
+    ],
+    [
+      "civilians",
+      "conduct",
+      "experiments"
+    ],
+    [
+      "civilians",
+      "gather",
+      "data"
+    ],
+    [
+      "civilians",
+      "contribute to understanding of",
+      "the universe"
+    ],
+    [
+      "Space tourism",
+      "serves as a platform for",
+      "scientists"
+    ],
+    [
+      "Space tourism",
+      "serves as a platform for",
+      "researchers"
+    ],
+    [
+      "Space tourism",
+      "serves as a platform for",
+      "space enthusiasts"
+    ],
+    [
+      "Space tourism",
+      "presents challenges for",
+      "sustainability"
+    ],
+    [
+      "Space tourism",
+      "presents challenges for",
+      "environmental conservation"
+    ],
+    [
+      "Space tourism",
+      "impacts",
+      "the environment"
+    ],
+    [
+      "eco-friendly technologies",
+      "minimize",
+      "carbon footprint"
+    ],
+    [
+      "Space tourism",
+      "redefines relationship with",
+      "outer space"
+    ]
+  ],
+  "edges": [
+    "reduce cost of",
+    "creating",
+    "gather",
+    "conduct",
+    "transports",
+    "include",
+    "working on",
+    "contribute to understanding of",
+    "presents challenges for",
+    "impacts",
+    "drive down prices of",
+    "located in",
+    "drives down prices of",
+    "minimize",
+    "serves as a platform for",
+    "redefines relationship with",
+    "facilitate",
+    "is becoming a reality for",
+    "holds promise for",
+    "transforms"
+  ]
+}

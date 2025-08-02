@@ -1,0 +1,250 @@
+{
+  "entities": [
+    "sports",
+    "cultures",
+    "ancient civilizations",
+    "modern societies",
+    "teamwork",
+    "discipline",
+    "fair play",
+    "sporting events",
+    "local games",
+    "international tournaments",
+    "World Cup",
+    "soccer",
+    "Olympics",
+    "athletes",
+    "teams",
+    "healthy society",
+    "participation in sports",
+    "life skills",
+    "perseverance",
+    "resilience",
+    "social change",
+    "stereotypes",
+    "gender equality",
+    "social justice",
+    "women",
+    "male-dominated sports",
+    "gender norms",
+    "discrimination",
+    "injustice",
+    "economic impact",
+    "host cities",
+    "countries",
+    "tourism",
+    "local economies",
+    "sports teams",
+    "sponsors",
+    "endorsements",
+    "sports industry",
+    "global economy",
+    "competition",
+    "camaraderie of fans",
+    "positive change",
+    "inclusivity",
+    "communities"
+  ],
+  "relations": [
+    [
+      "sports",
+      "shapes",
+      "cultures"
+    ],
+    [
+      "sports",
+      "exists in",
+      "ancient civilizations"
+    ],
+    [
+      "sports",
+      "exists in",
+      "modern societies"
+    ],
+    [
+      "sports",
+      "promotes",
+      "teamwork"
+    ],
+    [
+      "sports",
+      "promotes",
+      "discipline"
+    ],
+    [
+      "sports",
+      "promotes",
+      "fair play"
+    ],
+    [
+      "sporting events",
+      "include",
+      "local games"
+    ],
+    [
+      "sporting events",
+      "include",
+      "international tournaments"
+    ],
+    [
+      "World Cup",
+      "is a",
+      "sporting events"
+    ],
+    [
+      "World Cup",
+      "is in",
+      "soccer"
+    ],
+    [
+      "Olympics",
+      "is a",
+      "sporting events"
+    ],
+    [
+      "sports",
+      "promotes",
+      "life skills"
+    ],
+    [
+      "sports",
+      "promotes",
+      "perseverance"
+    ],
+    [
+      "sports",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "sports",
+      "promotes",
+      "social change"
+    ],
+    [
+      "sports",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "sports",
+      "promotes",
+      "gender equality"
+    ],
+    [
+      "sports",
+      "advocates for",
+      "social justice"
+    ],
+    [
+      "women",
+      "participate in",
+      "male-dominated sports"
+    ],
+    [
+      "sports",
+      "challenges",
+      "gender norms"
+    ],
+    [
+      "athletes",
+      "speak out against",
+      "discrimination"
+    ],
+    [
+      "athletes",
+      "speak out against",
+      "injustice"
+    ],
+    [
+      "sports",
+      "has",
+      "economic impact"
+    ],
+    [
+      "sporting events",
+      "impacts",
+      "host cities"
+    ],
+    [
+      "sporting events",
+      "impacts",
+      "countries"
+    ],
+    [
+      "sports",
+      "boosts",
+      "tourism"
+    ],
+    [
+      "sports",
+      "stimulates",
+      "local economies"
+    ],
+    [
+      "sports teams",
+      "attract",
+      "sponsors"
+    ],
+    [
+      "sports teams",
+      "attract",
+      "endorsements"
+    ],
+    [
+      "sports industry",
+      "impacts",
+      "global economy"
+    ],
+    [
+      "sports",
+      "creates",
+      "competition"
+    ],
+    [
+      "sports",
+      "creates",
+      "camaraderie of fans"
+    ],
+    [
+      "sports",
+      "creates",
+      "positive change"
+    ],
+    [
+      "sports",
+      "creates",
+      "inclusivity"
+    ],
+    [
+      "sports",
+      "builds",
+      "communities"
+    ],
+    [
+      "participation in sports",
+      "leads to",
+      "healthy society"
+    ]
+  ],
+  "edges": [
+    "promotes",
+    "stimulates",
+    "include",
+    "is a",
+    "creates",
+    "shapes",
+    "is in",
+    "participate in",
+    "speak out against",
+    "impacts",
+    "boosts",
+    "has",
+    "advocates for",
+    "attract",
+    "exists in",
+    "builds",
+    "challenges",
+    "leads to"
+  ]
+}

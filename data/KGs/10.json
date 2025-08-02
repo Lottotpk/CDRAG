@@ -1,0 +1,277 @@
+{
+  "entities": [
+    "Black holes",
+    "scientists",
+    "general public",
+    "cosmic entities",
+    "gravitational pull",
+    "light",
+    "astronomers",
+    "physicists",
+    "massive stars",
+    "nuclear fuel",
+    "supernova explosion",
+    "star",
+    "gravity",
+    "singularity",
+    "density",
+    "volume",
+    "event horizon",
+    "spacetime",
+    "gravitational time dilation",
+    "observers",
+    "Schwarzschild radius",
+    "escape velocity",
+    "theoretical physics",
+    "holographic principle",
+    "information paradox",
+    "universe",
+    "spacetime",
+    "laws of physics",
+    "theories of gravity",
+    "general relativity",
+    "quantum mechanics",
+    "string theory",
+    "gravitational waves",
+    "LIGO observatory",
+    "merger",
+    "classical general relativity",
+    "curvature",
+    "quantum gravity",
+    "Hawking radiation",
+    "Stephen Hawking",
+    "quantum effects",
+    "mass",
+    "cosmos"
+  ],
+  "relations": [
+    [
+      "Black holes",
+      "captivated",
+      "scientists"
+    ],
+    [
+      "Black holes",
+      "captivated",
+      "general public"
+    ],
+    [
+      "Black holes",
+      "are",
+      "cosmic entities"
+    ],
+    [
+      "cosmic entities",
+      "characterized by",
+      "gravitational pull"
+    ],
+    [
+      "gravitational pull",
+      "prevents escape of",
+      "light"
+    ],
+    [
+      "Black holes",
+      "have puzzled",
+      "astronomers"
+    ],
+    [
+      "Black holes",
+      "have puzzled",
+      "physicists"
+    ],
+    [
+      "Black holes",
+      "born from",
+      "massive stars"
+    ],
+    [
+      "massive stars",
+      "exhausted",
+      "nuclear fuel"
+    ],
+    [
+      "massive stars",
+      "undergone",
+      "supernova explosion"
+    ],
+    [
+      "star",
+      "collapses under",
+      "gravity"
+    ],
+    [
+      "star",
+      "creates",
+      "singularity"
+    ],
+    [
+      "singularity",
+      "has",
+      "density"
+    ],
+    [
+      "singularity",
+      "has",
+      "volume"
+    ],
+    [
+      "singularity",
+      "surrounded by",
+      "event horizon"
+    ],
+    [
+      "event horizon",
+      "prevents escape from",
+      "gravitational pull"
+    ],
+    [
+      "gravitational pull",
+      "warps",
+      "spacetime"
+    ],
+    [
+      "spacetime",
+      "experiences",
+      "gravitational time dilation"
+    ],
+    [
+      "gravitational time dilation",
+      "affects",
+      "observers"
+    ],
+    [
+      "Black holes",
+      "measured by",
+      "Schwarzschild radius"
+    ],
+    [
+      "gravitational pull",
+      "prevents escape of",
+      "light"
+    ],
+    [
+      "theoretical physics",
+      "includes",
+      "holographic principle"
+    ],
+    [
+      "theoretical physics",
+      "includes",
+      "information paradox"
+    ],
+    [
+      "holographic principle",
+      "encodes information on",
+      "event horizon"
+    ],
+    [
+      "Black holes",
+      "testing ground for",
+      "theories of gravity"
+    ],
+    [
+      "theories of gravity",
+      "includes",
+      "general relativity"
+    ],
+    [
+      "Black holes",
+      "inspired",
+      "quantum mechanics"
+    ],
+    [
+      "Black holes",
+      "inspired",
+      "string theory"
+    ],
+    [
+      "LIGO observatory",
+      "discovered",
+      "gravitational waves"
+    ],
+    [
+      "gravitational waves",
+      "resulted from",
+      "merger"
+    ],
+    [
+      "merger",
+      "of",
+      "Black holes"
+    ],
+    [
+      "classical general relativity",
+      "predicts",
+      "curvature"
+    ],
+    [
+      "singularity",
+      "described by",
+      "classical general relativity"
+    ],
+    [
+      "quantum gravity",
+      "could describe",
+      "Black holes"
+    ],
+    [
+      "Hawking radiation",
+      "predicted by",
+      "Stephen Hawking"
+    ],
+    [
+      "Hawking radiation",
+      "caused by",
+      "quantum effects"
+    ],
+    [
+      "Hawking radiation",
+      "causes loss of",
+      "mass"
+    ],
+    [
+      "Black holes",
+      "challenge understanding of",
+      "cosmos"
+    ],
+    [
+      "Black holes",
+      "challenge understanding of",
+      "laws of physics"
+    ]
+  ],
+  "edges": [
+    "predicted by",
+    "captivated",
+    "predicts",
+    "measured by",
+    "undergone",
+    "of",
+    "collapses under",
+    "are",
+    "have puzzled",
+    "encodes information on",
+    "exhausted",
+    "resulted from",
+    "could describe",
+    "caused by",
+    "creates",
+    "has",
+    "affects",
+    "prevents escape of",
+    "characterized by",
+    "testing ground for",
+    "inspired",
+    "prevents escape from",
+    "discovered",
+    "surrounded by",
+    "includes",
+    "challenge understanding of",
+    "born from",
+    "warps",
+    "experiences",
+    "described by",
+    "causes loss of"
+  ]
+}

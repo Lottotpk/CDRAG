@@ -1,0 +1,215 @@
+{
+  "entities": [
+    "Technology",
+    "crime prevention strategies",
+    "surveillance cameras",
+    "predictive analytics",
+    "law enforcement agencies",
+    "criminal activities",
+    "video analytics",
+    "suspicious behaviors",
+    "loitering",
+    "trespassing",
+    "sudden movements",
+    "law enforcement personnel",
+    "data mining",
+    "criminal records",
+    "incident reports",
+    "social media activity",
+    "mobile devices",
+    "secure communication channels",
+    "digital platforms",
+    "real-time information sharing",
+    "community engagement",
+    "public participation",
+    "Social media platforms",
+    "mobile applications",
+    "online reporting systems",
+    "citizens",
+    "privacy rights",
+    "abuses of power"
+  ],
+  "relations": [
+    [
+      "Technology",
+      "is part of",
+      "crime prevention strategies"
+    ],
+    [
+      "Technology",
+      "detect, deter, and investigate",
+      "criminal activities"
+    ],
+    [
+      "surveillance cameras",
+      "deter",
+      "criminal activities"
+    ],
+    [
+      "video analytics",
+      "enhanced capabilities of",
+      "surveillance cameras"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "suspicious behaviors"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "loitering"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "trespassing"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "sudden movements"
+    ],
+    [
+      "video analytics",
+      "alert",
+      "law enforcement personnel"
+    ],
+    [
+      "law enforcement agencies",
+      "respond to",
+      "criminal activities"
+    ],
+    [
+      "predictive analytics",
+      "analyze",
+      "criminal records"
+    ],
+    [
+      "predictive analytics",
+      "analyze",
+      "incident reports"
+    ],
+    [
+      "predictive analytics",
+      "analyze",
+      "social media activity"
+    ],
+    [
+      "law enforcement agencies",
+      "use of",
+      "mobile devices"
+    ],
+    [
+      "law enforcement agencies",
+      "use of",
+      "secure communication channels"
+    ],
+    [
+      "law enforcement agencies",
+      "use of",
+      "digital platforms"
+    ],
+    [
+      "digital platforms",
+      "enables",
+      "real-time information sharing"
+    ],
+    [
+      "secure communication channels",
+      "enables",
+      "real-time information sharing"
+    ],
+    [
+      "mobile devices",
+      "enables",
+      "real-time information sharing"
+    ],
+    [
+      "real-time information sharing",
+      "among",
+      "law enforcement personnel"
+    ],
+    [
+      "real-time information sharing",
+      "coordination in",
+      "crime prevention strategies"
+    ],
+    [
+      "Technology",
+      "enhancing",
+      "community engagement"
+    ],
+    [
+      "Technology",
+      "enhancing",
+      "public participation"
+    ],
+    [
+      "Social media platforms",
+      "allow",
+      "citizens"
+    ],
+    [
+      "mobile applications",
+      "allow",
+      "citizens"
+    ],
+    [
+      "online reporting systems",
+      "allow",
+      "citizens"
+    ],
+    [
+      "citizens",
+      "report",
+      "criminal activities"
+    ],
+    [
+      "citizens",
+      "communicate with",
+      "law enforcement agencies"
+    ],
+    [
+      "community engagement",
+      "participants in",
+      "crime prevention strategies"
+    ],
+    [
+      "surveillance cameras",
+      "raises concerns about",
+      "privacy rights"
+    ],
+    [
+      "surveillance cameras",
+      "raises concerns about",
+      "abuses of power"
+    ],
+    [
+      "Technology",
+      "tool in",
+      "crime prevention strategies"
+    ]
+  ],
+  "edges": [
+    "analyze",
+    "respond to",
+    "raises concerns about",
+    "detect",
+    "communicate with",
+    "use of",
+    "enhancing",
+    "among",
+    "enhanced capabilities of",
+    "deter",
+    "tool in",
+    "is part of",
+    "participants in",
+    "allow",
+    "alert",
+    "coordination in",
+    "report",
+    "enables",
+    "detect, deter, and investigate"
+  ]
+}

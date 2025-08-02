@@ -1,0 +1,317 @@
+{
+  "entities": [
+    "Virtual reality",
+    "VR technology",
+    "education",
+    "educational settings",
+    "students",
+    "medical students",
+    "surgical procedures",
+    "virtual operating room",
+    "history students",
+    "historical landmarks",
+    "events",
+    "virtual tours",
+    "learning styles",
+    "preferences",
+    "Visual learners",
+    "kinesthetic learners",
+    "students with disabilities",
+    "learning difficulties",
+    "VR headsets",
+    "virtual field trips",
+    "simulations",
+    "collaborations",
+    "schools",
+    "educational institutions",
+    "VR equipment",
+    "software",
+    "hardware",
+    "infrastructure",
+    "motion sickness",
+    "eye strain",
+    "disorientation",
+    "young children",
+    "adolescents",
+    "Educators",
+    "policymakers",
+    "teachers",
+    "instructors",
+    "teaching practices",
+    "VR content",
+    "virtual experiences",
+    "student learning",
+    "virtual environments",
+    "Professional development programs",
+    "learning experiences",
+    "student learning outcomes",
+    "creativity",
+    "critical thinking",
+    "complex concepts",
+    "subjects",
+    "teaching",
+    "learning"
+  ],
+  "relations": [
+    [
+      "Virtual reality",
+      "is in",
+      "education"
+    ],
+    [
+      "VR technology",
+      "offers opportunities for",
+      "education"
+    ],
+    [
+      "Virtual reality",
+      "is integrated into",
+      "educational settings"
+    ],
+    [
+      "Virtual reality",
+      "creates",
+      "learning experiences"
+    ],
+    [
+      "Virtual reality",
+      "helps",
+      "students"
+    ],
+    [
+      "Virtual reality",
+      "helps",
+      "students"
+    ],
+    [
+      "medical students",
+      "practice",
+      "surgical procedures"
+    ],
+    [
+      "medical students",
+      "practice in",
+      "virtual operating room"
+    ],
+    [
+      "history students",
+      "explore",
+      "historical landmarks"
+    ],
+    [
+      "history students",
+      "explore",
+      "events"
+    ],
+    [
+      "history students",
+      "explore through",
+      "virtual tours"
+    ],
+    [
+      "Virtual reality",
+      "enhances",
+      "student learning"
+    ],
+    [
+      "Virtual reality",
+      "increases",
+      "student learning"
+    ],
+    [
+      "Virtual reality",
+      "caters to",
+      "learning styles"
+    ],
+    [
+      "Virtual reality",
+      "caters to",
+      "preferences"
+    ],
+    [
+      "Virtual reality",
+      "benefits",
+      "Visual learners"
+    ],
+    [
+      "Virtual reality",
+      "benefits",
+      "kinesthetic learners"
+    ],
+    [
+      "Virtual reality",
+      "benefits",
+      "students with disabilities"
+    ],
+    [
+      "Virtual reality",
+      "benefits",
+      "learning difficulties"
+    ],
+    [
+      "Virtual reality",
+      "provides",
+      "virtual field trips"
+    ],
+    [
+      "Virtual reality",
+      "provides",
+      "simulations"
+    ],
+    [
+      "Virtual reality",
+      "provides",
+      "collaborations"
+    ],
+    [
+      "schools",
+      "invest in",
+      "VR equipment"
+    ],
+    [
+      "schools",
+      "invest in",
+      "software"
+    ],
+    [
+      "schools",
+      "invest in",
+      "hardware"
+    ],
+    [
+      "schools",
+      "invest in",
+      "infrastructure"
+    ],
+    [
+      "motion sickness",
+      "arise when using",
+      "VR headsets"
+    ],
+    [
+      "eye strain",
+      "arise when using",
+      "VR headsets"
+    ],
+    [
+      "disorientation",
+      "arise when using",
+      "VR headsets"
+    ],
+    [
+      "motion sickness",
+      "affects",
+      "young children"
+    ],
+    [
+      "eye strain",
+      "affects",
+      "young children"
+    ],
+    [
+      "disorientation",
+      "affects",
+      "young children"
+    ],
+    [
+      "motion sickness",
+      "affects",
+      "adolescents"
+    ],
+    [
+      "eye strain",
+      "affects",
+      "adolescents"
+    ],
+    [
+      "disorientation",
+      "affects",
+      "adolescents"
+    ],
+    [
+      "Educators",
+      "need",
+      "Professional development programs"
+    ],
+    [
+      "teachers",
+      "need",
+      "Professional development programs"
+    ],
+    [
+      "instructors",
+      "need",
+      "Professional development programs"
+    ],
+    [
+      "teachers",
+      "integrate",
+      "VR content"
+    ],
+    [
+      "teachers",
+      "facilitate",
+      "virtual experiences"
+    ],
+    [
+      "Virtual reality",
+      "enhances",
+      "student learning outcomes"
+    ],
+    [
+      "Virtual reality",
+      "promotes",
+      "creativity"
+    ],
+    [
+      "Virtual reality",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "Virtual reality",
+      "fosters understanding of",
+      "complex concepts"
+    ],
+    [
+      "Virtual reality",
+      "fosters understanding of",
+      "subjects"
+    ],
+    [
+      "Virtual reality",
+      "revolutionize",
+      "teaching"
+    ],
+    [
+      "Virtual reality",
+      "revolutionize",
+      "learning"
+    ]
+  ],
+  "edges": [
+    "helps",
+    "fosters understanding of",
+    "provides",
+    "facilitate",
+    "practice in",
+    "explore",
+    "benefits",
+    "caters to",
+    "enhances",
+    "invest in",
+    "creates",
+    "affects",
+    "increases",
+    "arise when using",
+    "is integrated into",
+    "need",
+    "integrate",
+    "promotes",
+    "offers opportunities for",
+    "practice",
+    "is in",
+    "revolutionize",
+    "explore through"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "entities": [
+    "Genetic engineering",
+    "medicine",
+    "agriculture",
+    "industries",
+    "genes",
+    "organisms",
+    "traits",
+    "characteristics",
+    "designer babies",
+    "genetically modified crops",
+    "genetically engineered animals",
+    "genetic disorders",
+    "food production",
+    "human intervention",
+    "natural world",
+    "living organisms",
+    "ecosystems",
+    "ethical dilemmas",
+    "genetically modified organisms (GMOs)",
+    "human consumption",
+    "environment",
+    "consent",
+    "autonomy",
+    "genetic testing",
+    "privacy",
+    "discrimination",
+    "genetic traits",
+    "human life",
+    "social inequalities",
+    "social justice",
+    "equity",
+    "genetic technologies",
+    "genetic enhancements",
+    "health",
+    "education",
+    "opportunities",
+    "genetic code",
+    "genome",
+    "genetic manipulation",
+    "policymakers",
+    "research",
+    "safety",
+    "well-being",
+    "individual rights",
+    "social justice",
+    "environmental sustainability",
+    "technology",
+    "welfare",
+    "present and future generations"
+  ],
+  "relations": [
+    [
+      "Genetic engineering",
+      "revolutionize",
+      "medicine"
+    ],
+    [
+      "Genetic engineering",
+      "revolutionize",
+      "agriculture"
+    ],
+    [
+      "Genetic engineering",
+      "revolutionize",
+      "industries"
+    ],
+    [
+      "Genetic engineering",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "Genetic engineering",
+      "alters",
+      "genes"
+    ],
+    [
+      "Genetic engineering",
+      "creates",
+      "organisms"
+    ],
+    [
+      "Genetic engineering",
+      "creates",
+      "traits"
+    ],
+    [
+      "Genetic engineering",
+      "creates",
+      "characteristics"
+    ],
+    [
+      "Genetic engineering",
+      "leads to",
+      "designer babies"
+    ],
+    [
+      "Genetic engineering",
+      "leads to",
+      "genetically modified crops"
+    ],
+    [
+      "Genetic engineering",
+      "leads to",
+      "genetically engineered animals"
+    ],
+    [
+      "Genetic engineering",
+      "improves",
+      "food production"
+    ],
+    [
+      "Genetic engineering",
+      "raises questions about",
+      "human intervention"
+    ],
+    [
+      "Genetic engineering",
+      "raises questions about",
+      "natural world"
+    ],
+    [
+      "Genetic engineering",
+      "involves changes to",
+      "genetic code"
+    ],
+    [
+      "Genetic engineering",
+      "disrupting",
+      "ecosystems"
+    ],
+    [
+      "Genetic engineering",
+      "creates",
+      "ethical dilemmas"
+    ],
+    [
+      "genetically modified organisms (GMOs)",
+      "impact on",
+      "environment"
+    ],
+    [
+      "genetically modified organisms (GMOs)",
+      "impact on",
+      "human consumption"
+    ],
+    [
+      "Genetic engineering",
+      "related to",
+      "consent"
+    ],
+    [
+      "Genetic engineering",
+      "related to",
+      "autonomy"
+    ],
+    [
+      "genetic testing",
+      "raises questions about",
+      "privacy"
+    ],
+    [
+      "genetic testing",
+      "raises questions about",
+      "discrimination"
+    ],
+    [
+      "genetic testing",
+      "raises questions about",
+      "genetic traits"
+    ],
+    [
+      "Genetic engineering",
+      "raises questions about",
+      "human life"
+    ],
+    [
+      "Genetic engineering",
+      "exacerbating",
+      "social inequalities"
+    ],
+    [
+      "Genetic engineering",
+      "raises concerns about",
+      "social justice"
+    ],
+    [
+      "Genetic engineering",
+      "raises concerns about",
+      "equity"
+    ],
+    [
+      "genetic technologies",
+      "widening the gap in",
+      "health"
+    ],
+    [
+      "genetic technologies",
+      "widening the gap in",
+      "education"
+    ],
+    [
+      "genetic technologies",
+      "widening the gap in",
+      "opportunities"
+    ],
+    [
+      "Genetic engineering",
+      "altering",
+      "genetic code"
+    ],
+    [
+      "Genetic engineering",
+      "related to",
+      "genome"
+    ],
+    [
+      "Genetic engineering",
+      "related to",
+      "genetic manipulation"
+    ],
+    [
+      "policymakers",
+      "consider",
+      "ethical dilemmas"
+    ],
+    [
+      "research",
+      "consider",
+      "ethical dilemmas"
+    ],
+    [
+      "Genetic engineering",
+      "prioritize",
+      "safety"
+    ],
+    [
+      "Genetic engineering",
+      "prioritize",
+      "well-being"
+    ],
+    [
+      "Genetic engineering",
+      "prioritize",
+      "environment"
+    ],
+    [
+      "Genetic engineering",
+      "improving",
+      "health"
+    ],
+    [
+      "Genetic engineering",
+      "improving",
+      "well-being"
+    ],
+    [
+      "Genetic engineering",
+      "implications on",
+      "individual rights"
+    ],
+    [
+      "Genetic engineering",
+      "implications on",
+      "social justice"
+    ],
+    [
+      "Genetic engineering",
+      "implications on",
+      "environmental sustainability"
+    ],
+    [
+      "Genetic engineering",
+      "used responsibly",
+      "technology"
+    ],
+    [
+      "Genetic engineering",
+      "safeguarding",
+      "welfare"
+    ],
+    [
+      "Genetic engineering",
+      "safeguarding",
+      "present and future generations"
+    ]
+  ],
+  "edges": [
+    "altering",
+    "used responsibly",
+    "exacerbating",
+    "improving",
+    "alters",
+    "implications on",
+    "creates",
+    "widening the gap in",
+    "impact on",
+    "leads to",
+    "raises concerns about",
+    "disrupting",
+    "related to",
+    "prioritize",
+    "raises",
+    "consider",
+    "safeguarding",
+    "improves",
+    "revolutionize",
+    "raises questions about",
+    "involves changes to"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "entities": [
+    "English",
+    "Anglo-Saxons",
+    "Britain",
+    "Germanic tribes",
+    "Old English",
+    "England",
+    "Anglo-Saxon",
+    "Germanic languages",
+    "house",
+    "mother",
+    "earth",
+    "Norman Conquest",
+    "Normans",
+    "Old Norman",
+    "Old French",
+    "Middle English",
+    "French words",
+    "Geoffrey Chaucer",
+    "The Canterbury Tales",
+    "William Caxton",
+    "printing press",
+    "Early Modern English",
+    "Great Vowel Shift",
+    "William Shakespeare",
+    "British Empire",
+    "American English",
+    "Australian English",
+    "Indian English",
+    "global language",
+    "lingua franca",
+    "technology",
+    "science",
+    "entertainment"
+  ],
+  "relations": [
+    [
+      "English",
+      "traces back to",
+      "Anglo-Saxons"
+    ],
+    [
+      "Anglo-Saxons",
+      "arrived in",
+      "Britain"
+    ],
+    [
+      "Germanic tribes",
+      "developed into",
+      "Old English"
+    ],
+    [
+      "Old English",
+      "also known as",
+      "Anglo-Saxon"
+    ],
+    [
+      "Old English",
+      "spoken in",
+      "England"
+    ],
+    [
+      "Old English",
+      "influenced by",
+      "Germanic languages"
+    ],
+    [
+      "Anglo-Saxons",
+      "brought",
+      "house"
+    ],
+    [
+      "Anglo-Saxons",
+      "brought",
+      "mother"
+    ],
+    [
+      "Anglo-Saxons",
+      "brought",
+      "earth"
+    ],
+    [
+      "Norman Conquest",
+      "brought changes to",
+      "English"
+    ],
+    [
+      "Normans",
+      "spoke",
+      "Old Norman"
+    ],
+    [
+      "Old Norman",
+      "dialect of",
+      "Old French"
+    ],
+    [
+      "Normans",
+      "became ruling class in",
+      "England"
+    ],
+    [
+      "Old English",
+      "mixed with",
+      "Old Norman"
+    ],
+    [
+      "Old English",
+      "gave rise to",
+      "Middle English"
+    ],
+    [
+      "Middle English",
+      "introduction of",
+      "French words"
+    ],
+    [
+      "Geoffrey Chaucer",
+      "wrote",
+      "The Canterbury Tales"
+    ],
+    [
+      "printing press",
+      "invention of",
+      "William Caxton"
+    ],
+    [
+      "printing press",
+      "helped spread",
+      "English"
+    ],
+    [
+      "Early Modern English",
+      "included",
+      "Great Vowel Shift"
+    ],
+    [
+      "William Shakespeare",
+      "exemplifies",
+      "Early Modern English"
+    ],
+    [
+      "British Empire",
+      "led to spread of",
+      "English"
+    ],
+    [
+      "British Empire",
+      "contributed to",
+      "American English"
+    ],
+    [
+      "British Empire",
+      "contributed to",
+      "Australian English"
+    ],
+    [
+      "British Empire",
+      "contributed to",
+      "Indian English"
+    ],
+    [
+      "English",
+      "became",
+      "global language"
+    ],
+    [
+      "English",
+      "became",
+      "lingua franca"
+    ],
+    [
+      "English",
+      "used in",
+      "technology"
+    ],
+    [
+      "English",
+      "used in",
+      "science"
+    ],
+    [
+      "English",
+      "used in",
+      "entertainment"
+    ]
+  ],
+  "edges": [
+    "became",
+    "arrived in",
+    "included",
+    "traces back to",
+    "contributed to",
+    "helped spread",
+    "mixed with",
+    "invention of",
+    "spoke",
+    "gave rise to",
+    "became ruling class in",
+    "spoken in",
+    "led to spread of",
+    "brought changes to",
+    "introduction of",
+    "also known as",
+    "brought",
+    "wrote",
+    "exemplifies",
+    "used in",
+    "dialect of",
+    "influenced by",
+    "developed into"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "entities": [
+    "clouds",
+    "natural phenomenon",
+    "sky",
+    "temperature",
+    "humidity",
+    "air currents",
+    "Earth's surface",
+    "sun",
+    "sun's rays",
+    "ground",
+    "air",
+    "atmosphere",
+    "dew point",
+    "water vapor",
+    "water droplets",
+    "ice crystals",
+    "condensation",
+    "cumulus clouds",
+    "stratus clouds",
+    "cirrus clouds",
+    "cumulonimbus clouds",
+    "thunderstorms",
+    "heavy rain",
+    "overcast skies",
+    "light rain",
+    "mare's tails",
+    "altitudes"
+  ],
+  "relations": [
+    [
+      "clouds",
+      "are",
+      "natural phenomenon"
+    ],
+    [
+      "clouds",
+      "can be observed in",
+      "sky"
+    ],
+    [
+      "temperature",
+      "is a factor in",
+      "clouds"
+    ],
+    [
+      "humidity",
+      "is a factor in",
+      "clouds"
+    ],
+    [
+      "air currents",
+      "is a factor in",
+      "clouds"
+    ],
+    [
+      "Earth's surface",
+      "is warmed by",
+      "sun"
+    ],
+    [
+      "sun's rays",
+      "heat",
+      "ground"
+    ],
+    [
+      "air",
+      "warms up near",
+      "Earth's surface"
+    ],
+    [
+      "air",
+      "rises into",
+      "atmosphere"
+    ],
+    [
+      "air",
+      "reaches",
+      "dew point"
+    ],
+    [
+      "dew point",
+      "is related to",
+      "water vapor"
+    ],
+    [
+      "water vapor",
+      "condenses into",
+      "water droplets"
+    ],
+    [
+      "water vapor",
+      "condenses into",
+      "ice crystals"
+    ],
+    [
+      "water droplets",
+      "form",
+      "clouds"
+    ],
+    [
+      "ice crystals",
+      "form",
+      "clouds"
+    ],
+    [
+      "condensation",
+      "is crucial to",
+      "clouds"
+    ],
+    [
+      "air currents",
+      "play a role in",
+      "clouds"
+    ],
+    [
+      "cumulus clouds",
+      "are",
+      "clouds"
+    ],
+    [
+      "cumulus clouds",
+      "are associated with",
+      "sky"
+    ],
+    [
+      "cumulus clouds",
+      "develop into",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cumulonimbus clouds",
+      "bring",
+      "thunderstorms"
+    ],
+    [
+      "cumulonimbus clouds",
+      "bring",
+      "heavy rain"
+    ],
+    [
+      "stratus clouds",
+      "are",
+      "clouds"
+    ],
+    [
+      "stratus clouds",
+      "bring",
+      "overcast skies"
+    ],
+    [
+      "stratus clouds",
+      "bring",
+      "light rain"
+    ],
+    [
+      "cirrus clouds",
+      "are",
+      "clouds"
+    ],
+    [
+      "cirrus clouds",
+      "are composed of",
+      "ice crystals"
+    ],
+    [
+      "cirrus clouds",
+      "are seen in",
+      "sky"
+    ],
+    [
+      "cirrus clouds",
+      "are referred to as",
+      "mare's tails"
+    ],
+    [
+      "clouds",
+      "form through",
+      "condensation"
+    ],
+    [
+      "temperature",
+      "plays a role in",
+      "clouds"
+    ],
+    [
+      "humidity",
+      "plays a role in",
+      "clouds"
+    ],
+    [
+      "air currents",
+      "plays a role in",
+      "clouds"
+    ]
+  ],
+  "edges": [
+    "reaches",
+    "play a role in",
+    "form through",
+    "condenses into",
+    "rises into",
+    "are associated with",
+    "heat",
+    "is warmed by",
+    "bring",
+    "are seen in",
+    "are composed of",
+    "warms up near",
+    "is related to",
+    "plays a role in",
+    "form",
+    "are referred to as",
+    "is a factor in",
+    "are",
+    "can be observed in",
+    "develop into",
+    "is crucial to"
+  ]
+}

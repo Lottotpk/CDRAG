@@ -1,0 +1,266 @@
+{
+  "entities": [
+    "Rosetta Stone",
+    "archaeology",
+    "linguistics",
+    "ancient Egyptian hieroglyphs",
+    "French soldiers",
+    "Napoleon's campaign in Egypt",
+    "King Ptolemy V",
+    "196 BC",
+    "Demotic script",
+    "Greek",
+    "Egyptian civilization",
+    "scholars",
+    "archaeologists",
+    "ancient Egyptian monuments",
+    "artifacts",
+    "Jean-Fran\u00c3\u00a7ois Champollion",
+    "hieroglyphic text",
+    "Greek text",
+    "Demotic texts",
+    "ancient Egyptian culture",
+    "history",
+    "language",
+    "religious beliefs",
+    "political structures",
+    "daily life",
+    "ancient Egyptians",
+    "art",
+    "science",
+    "architecture",
+    "Egyptology",
+    "ancient languages",
+    "scripts",
+    "cuneiform",
+    "Linear B",
+    "Mayan hieroglyphs",
+    "ancient civilizations",
+    "modern scholars",
+    "written word",
+    "human quest for knowledge",
+    "ancient cultures"
+  ],
+  "relations": [
+    [
+      "Rosetta Stone",
+      "is a significant artifact in",
+      "archaeology"
+    ],
+    [
+      "Rosetta Stone",
+      "is a significant artifact in",
+      "linguistics"
+    ],
+    [
+      "Rosetta Stone",
+      "is significant due to its role in deciphering",
+      "ancient Egyptian hieroglyphs"
+    ],
+    [
+      "Rosetta Stone",
+      "discovered by",
+      "French soldiers"
+    ],
+    [
+      "French soldiers",
+      "were part of",
+      "Napoleon's campaign in Egypt"
+    ],
+    [
+      "Rosetta Stone",
+      "contains a decree issued by",
+      "King Ptolemy V"
+    ],
+    [
+      "King Ptolemy V",
+      "issued decree in",
+      "196 BC"
+    ],
+    [
+      "Rosetta Stone",
+      "written in",
+      "ancient Egyptian hieroglyphs"
+    ],
+    [
+      "Rosetta Stone",
+      "written in",
+      "Demotic script"
+    ],
+    [
+      "Rosetta Stone",
+      "written in",
+      "Greek"
+    ],
+    [
+      "Greek",
+      "helped unlock secrets of",
+      "ancient Egyptian hieroglyphs"
+    ],
+    [
+      "Egyptian civilization",
+      "used",
+      "ancient Egyptian hieroglyphs"
+    ],
+    [
+      "archaeologists",
+      "studied",
+      "ancient Egyptian monuments"
+    ],
+    [
+      "archaeologists",
+      "studied",
+      "artifacts"
+    ],
+    [
+      "Jean-Fran\u00c3\u00a7ois Champollion",
+      "deciphered",
+      "hieroglyphic text"
+    ],
+    [
+      "Jean-Fran\u00c3\u00a7ois Champollion",
+      "compared",
+      "Greek text"
+    ],
+    [
+      "Jean-Fran\u00c3\u00a7ois Champollion",
+      "compared",
+      "Demotic texts"
+    ],
+    [
+      "Rosetta Stone",
+      "opened up a new era of understanding of",
+      "ancient Egyptian culture"
+    ],
+    [
+      "Rosetta Stone",
+      "opened up a new era of understanding of",
+      "history"
+    ],
+    [
+      "Rosetta Stone",
+      "opened up a new era of understanding of",
+      "language"
+    ],
+    [
+      "ancient Egyptian culture",
+      "includes",
+      "religious beliefs"
+    ],
+    [
+      "ancient Egyptian culture",
+      "includes",
+      "political structures"
+    ],
+    [
+      "ancient Egyptian culture",
+      "includes",
+      "daily life"
+    ],
+    [
+      "ancient Egyptians",
+      "achieved in",
+      "art"
+    ],
+    [
+      "ancient Egyptians",
+      "achieved in",
+      "science"
+    ],
+    [
+      "ancient Egyptians",
+      "achieved in",
+      "architecture"
+    ],
+    [
+      "Rosetta Stone",
+      "extends beyond the field of",
+      "Egyptology"
+    ],
+    [
+      "Rosetta Stone",
+      "inspired study of",
+      "ancient languages"
+    ],
+    [
+      "Rosetta Stone",
+      "served as a model for study of",
+      "scripts"
+    ],
+    [
+      "Rosetta Stone",
+      "served as a model for study of",
+      "cuneiform"
+    ],
+    [
+      "Rosetta Stone",
+      "served as a model for study of",
+      "Linear B"
+    ],
+    [
+      "Rosetta Stone",
+      "served as a model for study of",
+      "Mayan hieroglyphs"
+    ],
+    [
+      "Rosetta Stone",
+      "is a symbol of",
+      "human quest for knowledge"
+    ],
+    [
+      "Rosetta Stone",
+      "is a testament to",
+      "ancient civilizations"
+    ],
+    [
+      "Rosetta Stone",
+      "is a testament to",
+      "modern scholars"
+    ],
+    [
+      "Rosetta Stone",
+      "bridges the gap through",
+      "written word"
+    ],
+    [
+      "Rosetta Stone",
+      "unlocking the secrets of",
+      "ancient Egyptian hieroglyphs"
+    ],
+    [
+      "Rosetta Stone",
+      "revolutionized our understanding of",
+      "ancient civilizations"
+    ],
+    [
+      "Rosetta Stone",
+      "is a symbol of",
+      "ancient cultures"
+    ]
+  ],
+  "edges": [
+    "extends beyond the field of",
+    "written in",
+    "helped unlock secrets of",
+    "is a testament to",
+    "deciphered",
+    "were part of",
+    "unlocking the secrets of",
+    "inspired study of",
+    "studied",
+    "served as a model for study of",
+    "discovered by",
+    "compared",
+    "contains a decree issued by",
+    "issued decree in",
+    "achieved in",
+    "is significant due to its role in deciphering",
+    "revolutionized our understanding of",
+    "opened up a new era of understanding of",
+    "includes",
+    "is a symbol of",
+    "bridges the gap through",
+    "used",
+    "is a significant artifact in"
+  ]
+}

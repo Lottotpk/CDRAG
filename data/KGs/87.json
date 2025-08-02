@@ -1,0 +1,220 @@
+{
+  "entities": [
+    "Fast fashion",
+    "Fashion industry",
+    "Trendy clothing",
+    "Non-renewable resources",
+    "Synthetic materials",
+    "Polyester",
+    "Nylon",
+    "Petrochemicals",
+    "Fossil fuel reserves",
+    "Cotton",
+    "Deforestation",
+    "Water scarcity",
+    "Pesticides",
+    "Fertilizers",
+    "Textile waste",
+    "Landfills",
+    "Environmental Protection Agency",
+    "Textiles",
+    "Synthetic fibers",
+    "Carbon footprint",
+    "Raw materials",
+    "Finished products",
+    "Greenhouse gas emissions",
+    "United Nations Environment Programme",
+    "Cheap labor",
+    "Developing countries",
+    "Garment production",
+    "Sustainable fashion practices",
+    "Organic materials",
+    "Recycled materials",
+    "Circular economy principles",
+    "Ethical fashion brands",
+    "Sustainable fashion brands",
+    "Mindful consumption",
+    "Eco-friendly practices",
+    "Conscious consumer behavior",
+    "Clothing ecosystem"
+  ],
+  "relations": [
+    [
+      "Fast fashion",
+      "is a dominant force in",
+      "Fashion industry"
+    ],
+    [
+      "Fast fashion",
+      "driven by",
+      "Trendy clothing"
+    ],
+    [
+      "Fast fashion",
+      "impacts",
+      "Non-renewable resources"
+    ],
+    [
+      "Fast fashion",
+      "relies on",
+      "Synthetic materials"
+    ],
+    [
+      "Synthetic materials",
+      "include",
+      "Polyester"
+    ],
+    [
+      "Synthetic materials",
+      "include",
+      "Nylon"
+    ],
+    [
+      "Polyester",
+      "derived from",
+      "Petrochemicals"
+    ],
+    [
+      "Nylon",
+      "derived from",
+      "Petrochemicals"
+    ],
+    [
+      "Petrochemicals",
+      "depletes",
+      "Fossil fuel reserves"
+    ],
+    [
+      "Cotton",
+      "linked to",
+      "Deforestation"
+    ],
+    [
+      "Cotton",
+      "linked to",
+      "Water scarcity"
+    ],
+    [
+      "Cotton",
+      "linked to",
+      "Pesticides"
+    ],
+    [
+      "Cotton",
+      "linked to",
+      "Fertilizers"
+    ],
+    [
+      "Fast fashion",
+      "creates",
+      "Textile waste"
+    ],
+    [
+      "Textile waste",
+      "ends up in",
+      "Landfills"
+    ],
+    [
+      "Textiles",
+      "regulated by",
+      "Environmental Protection Agency"
+    ],
+    [
+      "Synthetic fibers",
+      "contributes to",
+      "Textile waste"
+    ],
+    [
+      "Fast fashion",
+      "has",
+      "Carbon footprint"
+    ],
+    [
+      "Raw materials",
+      "transported with",
+      "Greenhouse gas emissions"
+    ],
+    [
+      "Finished products",
+      "transported with",
+      "Greenhouse gas emissions"
+    ],
+    [
+      "Fashion industry",
+      "monitored by",
+      "United Nations Environment Programme"
+    ],
+    [
+      "Garment production",
+      "relies on",
+      "Cheap labor"
+    ],
+    [
+      "Garment production",
+      "occurs in",
+      "Developing countries"
+    ],
+    [
+      "Sustainable fashion practices",
+      "uses",
+      "Organic materials"
+    ],
+    [
+      "Sustainable fashion practices",
+      "uses",
+      "Recycled materials"
+    ],
+    [
+      "Circular economy principles",
+      "prioritizes",
+      "Recycled materials"
+    ],
+    [
+      "Circular economy principles",
+      "prioritizes",
+      "Raw materials"
+    ],
+    [
+      "Mindful consumption",
+      "supports",
+      "Ethical fashion brands"
+    ],
+    [
+      "Mindful consumption",
+      "supports",
+      "Sustainable fashion brands"
+    ],
+    [
+      "Eco-friendly practices",
+      "promotes",
+      "Conscious consumer behavior"
+    ],
+    [
+      "Fast fashion",
+      "impacts",
+      "Clothing ecosystem"
+    ]
+  ],
+  "edges": [
+    "contributes to",
+    "ends up in",
+    "occurs in",
+    "regulated by",
+    "is a dominant force in",
+    "uses",
+    "transported with",
+    "include",
+    "linked to",
+    "creates",
+    "derived from",
+    "impacts",
+    "depletes",
+    "driven by",
+    "relies on",
+    "promotes",
+    "monitored by",
+    "supports",
+    "has",
+    "prioritizes"
+  ]
+}

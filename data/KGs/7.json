@@ -1,0 +1,303 @@
+{
+  "entities": [
+    "Music",
+    "emotions",
+    "mood",
+    "memories",
+    "associations",
+    "song",
+    "piece of music",
+    "past experiences",
+    "physiological responses",
+    "heart rate",
+    "blood pressure",
+    "cortisol levels",
+    "emotional state",
+    "Upbeat music",
+    "fast-paced music",
+    "energy levels",
+    "excitement",
+    "motivation",
+    "calming music",
+    "relaxation",
+    "lyrics",
+    "themes",
+    "messages",
+    "listeners",
+    "emotional responses",
+    "empowering lyrics",
+    "confidence",
+    "inspiration",
+    "sad lyrics",
+    "melancholic lyrics",
+    "empathy",
+    "introspection",
+    "unity",
+    "connection",
+    "concert",
+    "party",
+    "shared space",
+    "belonging",
+    "camaraderie",
+    "social bonds",
+    "positive atmosphere",
+    "genre",
+    "style of music",
+    "classical music",
+    "rock music",
+    "pop",
+    "jazz",
+    "electronic",
+    "elegance",
+    "sophistication",
+    "rebellion",
+    "intensity",
+    "personal tastes",
+    "sensitivities",
+    "emotional well-being",
+    "spirits"
+  ],
+  "relations": [
+    [
+      "Music",
+      "influences",
+      "emotions"
+    ],
+    [
+      "Music",
+      "influences",
+      "mood"
+    ],
+    [
+      "Music",
+      "evokes",
+      "memories"
+    ],
+    [
+      "Music",
+      "evokes",
+      "associations"
+    ],
+    [
+      "song",
+      "triggers",
+      "memories"
+    ],
+    [
+      "piece of music",
+      "triggers",
+      "memories"
+    ],
+    [
+      "song",
+      "associated with",
+      "past experiences"
+    ],
+    [
+      "Music",
+      "affects",
+      "physiological responses"
+    ],
+    [
+      "Music",
+      "impacts",
+      "heart rate"
+    ],
+    [
+      "Music",
+      "impacts",
+      "blood pressure"
+    ],
+    [
+      "Music",
+      "impacts",
+      "cortisol levels"
+    ],
+    [
+      "Upbeat music",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "fast-paced music",
+      "increases",
+      "heart rate"
+    ],
+    [
+      "Upbeat music",
+      "increases",
+      "energy levels"
+    ],
+    [
+      "fast-paced music",
+      "increases",
+      "energy levels"
+    ],
+    [
+      "Upbeat music",
+      "leads to",
+      "excitement"
+    ],
+    [
+      "fast-paced music",
+      "leads to",
+      "excitement"
+    ],
+    [
+      "Upbeat music",
+      "leads to",
+      "motivation"
+    ],
+    [
+      "fast-paced music",
+      "leads to",
+      "motivation"
+    ],
+    [
+      "calming music",
+      "lowers",
+      "heart rate"
+    ],
+    [
+      "calming music",
+      "induces",
+      "relaxation"
+    ],
+    [
+      "lyrics",
+      "influence",
+      "mood"
+    ],
+    [
+      "themes",
+      "influence",
+      "mood"
+    ],
+    [
+      "messages",
+      "influence",
+      "mood"
+    ],
+    [
+      "lyrics",
+      "elicit",
+      "emotional responses"
+    ],
+    [
+      "empowering lyrics",
+      "make listeners feel",
+      "confidence"
+    ],
+    [
+      "empowering lyrics",
+      "make listeners feel",
+      "inspiration"
+    ],
+    [
+      "sad lyrics",
+      "evoke",
+      "empathy"
+    ],
+    [
+      "melancholic lyrics",
+      "evoke",
+      "empathy"
+    ],
+    [
+      "sad lyrics",
+      "evoke",
+      "introspection"
+    ],
+    [
+      "melancholic lyrics",
+      "evoke",
+      "introspection"
+    ],
+    [
+      "Music",
+      "creates",
+      "unity"
+    ],
+    [
+      "Music",
+      "creates",
+      "connection"
+    ],
+    [
+      "Music",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "Music",
+      "creates",
+      "positive atmosphere"
+    ],
+    [
+      "genre",
+      "impacts",
+      "mood"
+    ],
+    [
+      "style of music",
+      "impacts",
+      "mood"
+    ],
+    [
+      "classical music",
+      "associated with",
+      "elegance"
+    ],
+    [
+      "classical music",
+      "associated with",
+      "sophistication"
+    ],
+    [
+      "classical music",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "rock music",
+      "known for",
+      "rebellion"
+    ],
+    [
+      "rock music",
+      "known for",
+      "intensity"
+    ],
+    [
+      "Music",
+      "enhances",
+      "emotional well-being"
+    ],
+    [
+      "Music",
+      "elevates",
+      "spirits"
+    ]
+  ],
+  "edges": [
+    "associated with",
+    "lowers",
+    "induces",
+    "impacts",
+    "elicit",
+    "strengthens",
+    "enhances",
+    "evokes",
+    "creates",
+    "known for",
+    "influence",
+    "affects",
+    "increases",
+    "triggers",
+    "evoke",
+    "leads to",
+    "make listeners feel",
+    "influences",
+    "elevates"
+  ]
+}

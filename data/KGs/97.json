@@ -1,0 +1,218 @@
+{
+  "entities": [
+    "Esports",
+    "electronic sports",
+    "gaming enthusiasts",
+    "gaming industry",
+    "high-speed internet",
+    "gaming technology",
+    "online gaming platforms",
+    "streaming services",
+    "Twitch",
+    "YouTube Gaming",
+    "gamers",
+    "players",
+    "fans",
+    "game developers",
+    "publishers",
+    "competitive gaming leagues",
+    "tournaments",
+    "League of Legends",
+    "Dota 2",
+    "Overwatch",
+    "prize pools",
+    "sponsorships",
+    "social media",
+    "streaming platforms",
+    "Professional esports players",
+    "skills",
+    "personalities",
+    "endorsements",
+    "content creation",
+    "Major sports networks",
+    "ESPN",
+    "TBS",
+    "esports events",
+    "general public",
+    "arenas",
+    "stadiums",
+    "teams",
+    "Fortnite",
+    "competitive modes",
+    "events",
+    "game companies",
+    "Virtual reality",
+    "augmented reality technologies"
+  ],
+  "relations": [
+    [
+      "Esports",
+      "also known as",
+      "electronic sports"
+    ],
+    [
+      "Esports",
+      "attracts",
+      "fans"
+    ],
+    [
+      "high-speed internet",
+      "drives growth of",
+      "Esports"
+    ],
+    [
+      "gaming technology",
+      "drives growth of",
+      "Esports"
+    ],
+    [
+      "online gaming platforms",
+      "facilitates",
+      "gamers"
+    ],
+    [
+      "streaming services",
+      "facilitates",
+      "gamers"
+    ],
+    [
+      "gamers",
+      "connect on",
+      "online gaming platforms"
+    ],
+    [
+      "gamers",
+      "connect on",
+      "streaming services"
+    ],
+    [
+      "game developers",
+      "invest in",
+      "competitive gaming leagues"
+    ],
+    [
+      "publishers",
+      "invest in",
+      "competitive gaming leagues"
+    ],
+    [
+      "competitive gaming leagues",
+      "offer",
+      "prize pools"
+    ],
+    [
+      "competitive gaming leagues",
+      "offer",
+      "sponsorships"
+    ],
+    [
+      "competitive gaming leagues",
+      "offer",
+      "endorsements"
+    ],
+    [
+      "social media",
+      "fuels rise of",
+      "Esports"
+    ],
+    [
+      "streaming platforms",
+      "fuels rise of",
+      "Esports"
+    ],
+    [
+      "Professional esports players",
+      "monetize",
+      "skills"
+    ],
+    [
+      "Professional esports players",
+      "monetize",
+      "personalities"
+    ],
+    [
+      "Professional esports players",
+      "gain",
+      "sponsorships"
+    ],
+    [
+      "Professional esports players",
+      "gain",
+      "endorsements"
+    ],
+    [
+      "Professional esports players",
+      "create",
+      "content creation"
+    ],
+    [
+      "Major sports networks",
+      "broadcast",
+      "esports events"
+    ],
+    [
+      "ESPN",
+      "broadcasts",
+      "esports events"
+    ],
+    [
+      "TBS",
+      "broadcasts",
+      "esports events"
+    ],
+    [
+      "esports events",
+      "attract",
+      "general public"
+    ],
+    [
+      "esports events",
+      "sell out",
+      "arenas"
+    ],
+    [
+      "esports events",
+      "sell out",
+      "stadiums"
+    ],
+    [
+      "Fortnite",
+      "integrated",
+      "competitive modes"
+    ],
+    [
+      "Fortnite",
+      "integrated",
+      "events"
+    ],
+    [
+      "Virtual reality",
+      "explored for",
+      "competitive gaming leagues"
+    ],
+    [
+      "augmented reality technologies",
+      "explored for",
+      "competitive gaming leagues"
+    ]
+  ],
+  "edges": [
+    "offer",
+    "also known as",
+    "fuels rise of",
+    "facilitates",
+    "broadcast",
+    "attracts",
+    "sell out",
+    "connect on",
+    "integrated",
+    "drives growth of",
+    "create",
+    "attract",
+    "monetize",
+    "explored for",
+    "invest in",
+    "gain",
+    "broadcasts"
+  ]
+}

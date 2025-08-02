@@ -1,0 +1,421 @@
+{
+  "entities": [
+    "transportation",
+    "human civilization",
+    "people",
+    "goods",
+    "ideas",
+    "walking",
+    "animal-drawn carts",
+    "high-speed trains",
+    "airplanes",
+    "early humans",
+    "food",
+    "shelter",
+    "communities",
+    "horses",
+    "camels",
+    "oxen",
+    "wheel",
+    "wheeled carts",
+    "chariots",
+    "sailing ships",
+    "oceans",
+    "Phoenicians",
+    "Greeks",
+    "Romans",
+    "maritime trade",
+    "navigation",
+    "trade routes",
+    "goods",
+    "ideas",
+    "culture",
+    "steam engine",
+    "steam-powered locomotives",
+    "steamships",
+    "railway networks",
+    "canals",
+    "industries",
+    "urban centers",
+    "automobiles",
+    "airplanes",
+    "Ford",
+    "General Motors",
+    "personal transportation",
+    "commercial aviation",
+    "cities",
+    "countries",
+    "internet",
+    "mobile technology",
+    "ride-sharing services",
+    "navigation apps",
+    "electric vehicles",
+    "smart cities",
+    "autonomous vehicles",
+    "digital infrastructure",
+    "hyperloop trains",
+    "drones",
+    "space travel",
+    "Elon Musk",
+    "high-speed pods",
+    "vacuum tubes",
+    "delivery services",
+    "aerial surveys",
+    "SpaceX",
+    "Blue Origin",
+    "commercial spaceflight",
+    "space tourism",
+    "interplanetary travel",
+    "human exploration",
+    "colonization",
+    "Earth",
+    "societies",
+    "economies",
+    "cultures",
+    "technologies",
+    "sustainable practices",
+    "globalized world"
+  ],
+  "relations": [
+    [
+      "transportation",
+      "played a crucial role in",
+      "human civilization"
+    ],
+    [
+      "transportation",
+      "connects",
+      "people"
+    ],
+    [
+      "transportation",
+      "connects",
+      "goods"
+    ],
+    [
+      "transportation",
+      "connects",
+      "ideas"
+    ],
+    [
+      "walking",
+      "allowed",
+      "early humans"
+    ],
+    [
+      "walking",
+      "used for",
+      "food"
+    ],
+    [
+      "walking",
+      "used for",
+      "shelter"
+    ],
+    [
+      "walking",
+      "used for",
+      "communities"
+    ],
+    [
+      "animal-drawn carts",
+      "uses",
+      "horses"
+    ],
+    [
+      "animal-drawn carts",
+      "uses",
+      "camels"
+    ],
+    [
+      "animal-drawn carts",
+      "uses",
+      "oxen"
+    ],
+    [
+      "wheel",
+      "led to",
+      "wheeled carts"
+    ],
+    [
+      "wheel",
+      "led to",
+      "chariots"
+    ],
+    [
+      "sailing ships",
+      "allowed travel across",
+      "oceans"
+    ],
+    [
+      "Phoenicians",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "Phoenicians",
+      "excelled in",
+      "navigation"
+    ],
+    [
+      "Greeks",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "Greeks",
+      "excelled in",
+      "navigation"
+    ],
+    [
+      "Romans",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "Romans",
+      "excelled in",
+      "navigation"
+    ],
+    [
+      "maritime trade",
+      "established",
+      "trade routes"
+    ],
+    [
+      "trade routes",
+      "facilitated exchange of",
+      "goods"
+    ],
+    [
+      "trade routes",
+      "facilitated exchange of",
+      "ideas"
+    ],
+    [
+      "trade routes",
+      "facilitated exchange of",
+      "culture"
+    ],
+    [
+      "steam engine",
+      "led to",
+      "steam-powered locomotives"
+    ],
+    [
+      "steam engine",
+      "led to",
+      "steamships"
+    ],
+    [
+      "railway networks",
+      "enabled transport of",
+      "goods"
+    ],
+    [
+      "railway networks",
+      "led to growth of",
+      "industries"
+    ],
+    [
+      "railway networks",
+      "led to growth of",
+      "urban centers"
+    ],
+    [
+      "canals",
+      "enabled transport of",
+      "goods"
+    ],
+    [
+      "canals",
+      "led to growth of",
+      "industries"
+    ],
+    [
+      "canals",
+      "led to growth of",
+      "urban centers"
+    ],
+    [
+      "automobiles",
+      "produced by",
+      "Ford"
+    ],
+    [
+      "automobiles",
+      "produced by",
+      "General Motors"
+    ],
+    [
+      "automobiles",
+      "made",
+      "personal transportation"
+    ],
+    [
+      "commercial aviation",
+      "connects",
+      "cities"
+    ],
+    [
+      "commercial aviation",
+      "connects",
+      "countries"
+    ],
+    [
+      "internet",
+      "led to",
+      "ride-sharing services"
+    ],
+    [
+      "internet",
+      "led to",
+      "navigation apps"
+    ],
+    [
+      "mobile technology",
+      "led to",
+      "ride-sharing services"
+    ],
+    [
+      "mobile technology",
+      "led to",
+      "navigation apps"
+    ],
+    [
+      "transportation",
+      "includes",
+      "electric vehicles"
+    ],
+    [
+      "transportation",
+      "includes",
+      "smart cities"
+    ],
+    [
+      "transportation",
+      "includes",
+      "autonomous vehicles"
+    ],
+    [
+      "smart cities",
+      "integrated with",
+      "digital infrastructure"
+    ],
+    [
+      "Elon Musk",
+      "proposed",
+      "hyperloop trains"
+    ],
+    [
+      "hyperloop trains",
+      "uses",
+      "high-speed pods"
+    ],
+    [
+      "hyperloop trains",
+      "uses",
+      "vacuum tubes"
+    ],
+    [
+      "drones",
+      "used for",
+      "delivery services"
+    ],
+    [
+      "drones",
+      "used for",
+      "aerial surveys"
+    ],
+    [
+      "SpaceX",
+      "pioneering",
+      "commercial spaceflight"
+    ],
+    [
+      "Blue Origin",
+      "pioneering",
+      "commercial spaceflight"
+    ],
+    [
+      "space travel",
+      "leads to",
+      "space tourism"
+    ],
+    [
+      "space travel",
+      "leads to",
+      "interplanetary travel"
+    ],
+    [
+      "space travel",
+      "leads to",
+      "human exploration"
+    ],
+    [
+      "space travel",
+      "leads to",
+      "colonization"
+    ],
+    [
+      "colonization",
+      "beyond",
+      "Earth"
+    ],
+    [
+      "transportation",
+      "transformed",
+      "societies"
+    ],
+    [
+      "transportation",
+      "transformed",
+      "economies"
+    ],
+    [
+      "transportation",
+      "transformed",
+      "cultures"
+    ],
+    [
+      "transportation",
+      "adapts to",
+      "globalized world"
+    ],
+    [
+      "transportation",
+      "embraces",
+      "technologies"
+    ],
+    [
+      "transportation",
+      "embraces",
+      "sustainable practices"
+    ]
+  ],
+  "edges": [
+    "produced by",
+    "proposed",
+    "excelled in",
+    "adapts to",
+    "allowed travel across",
+    "embraces",
+    "uses",
+    "facilitated exchange of",
+    "leads to",
+    "includes",
+    "used for",
+    "led to growth of",
+    "allowed",
+    "transformed",
+    "made",
+    "played a crucial role in",
+    "led to",
+    "integrated with",
+    "pioneering",
+    "enabled transport of",
+    "connects",
+    "beyond",
+    "established"
+  ]
+}

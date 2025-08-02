@@ -1,0 +1,135 @@
+{
+  "entities": [
+    "Ants",
+    "colonies",
+    "types of ants",
+    "queen ant",
+    "male ants",
+    "worker ants",
+    "soldier ants",
+    "nest structures",
+    "soil",
+    "leaves",
+    "twigs",
+    "pebbles",
+    "tunnels",
+    "chambers",
+    "pheromones",
+    "mounds",
+    "towers",
+    "leafcutter ants",
+    "fungus gardens",
+    "fungi",
+    "eggs",
+    "larvae"
+  ],
+  "relations": [
+    [
+      "Ants",
+      "build",
+      "colonies"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "queen ant"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "male ants"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "worker ants"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "soldier ants"
+    ],
+    [
+      "queen ant",
+      "responsible for",
+      "eggs"
+    ],
+    [
+      "worker ants",
+      "maintain",
+      "nest structures"
+    ],
+    [
+      "Ants",
+      "use",
+      "soil"
+    ],
+    [
+      "Ants",
+      "use",
+      "leaves"
+    ],
+    [
+      "Ants",
+      "use",
+      "twigs"
+    ],
+    [
+      "Ants",
+      "use",
+      "pebbles"
+    ],
+    [
+      "worker ants",
+      "create",
+      "tunnels"
+    ],
+    [
+      "worker ants",
+      "create",
+      "chambers"
+    ],
+    [
+      "leafcutter ants",
+      "create",
+      "fungus gardens"
+    ],
+    [
+      "leafcutter ants",
+      "carry",
+      "leaves"
+    ],
+    [
+      "leaves",
+      "used as",
+      "fungi"
+    ],
+    [
+      "Ants",
+      "relocate",
+      "eggs"
+    ],
+    [
+      "Ants",
+      "relocate",
+      "larvae"
+    ],
+    [
+      "Ants",
+      "communicate with",
+      "pheromones"
+    ]
+  ],
+  "edges": [
+    "use",
+    "used as",
+    "maintain",
+    "create",
+    "communicate with",
+    "build",
+    "consist of",
+    "responsible for",
+    "relocate",
+    "carry"
+  ]
+}

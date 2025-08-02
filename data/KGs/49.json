@@ -1,0 +1,408 @@
+{
+  "entities": [
+    "Storytelling",
+    "communication",
+    "humans",
+    "experiences",
+    "emotions",
+    "knowledge",
+    "generation",
+    "human culture",
+    "world",
+    "art",
+    "words",
+    "images",
+    "sounds",
+    "narrative",
+    "audience",
+    "emotional response",
+    "spoken word",
+    "written text",
+    "visual art",
+    "music",
+    "dance",
+    "connection",
+    "storyteller",
+    "listeners",
+    "readers",
+    "characters",
+    "events",
+    "empathy",
+    "emotional resonance",
+    "message",
+    "structure",
+    "pacing",
+    "tension",
+    "suspense",
+    "story",
+    "beginning",
+    "middle",
+    "end",
+    "narrative arc",
+    "information",
+    "plot points",
+    "imagery",
+    "descriptive language",
+    "setting",
+    "symbolism",
+    "metaphor",
+    "allegorical elements",
+    "ideas",
+    "emotions",
+    "truths",
+    "insights",
+    "people",
+    "backgrounds",
+    "experiences",
+    "stories",
+    "perspectives",
+    "voices",
+    "cultural divides",
+    "stereotypes",
+    "tolerance",
+    "acceptance",
+    "human experience",
+    "craft",
+    "perspectives",
+    "tapestry",
+    "campfire",
+    "painting",
+    "song",
+    "time",
+    "space",
+    "lives",
+    "world",
+    "courage",
+    "creativity",
+    "compassion"
+  ],
+  "relations": [
+    [
+      "Storytelling",
+      "is",
+      "communication"
+    ],
+    [
+      "Storytelling",
+      "is",
+      "art"
+    ],
+    [
+      "Storytelling",
+      "used by",
+      "humans"
+    ],
+    [
+      "Storytelling",
+      "shares",
+      "experiences"
+    ],
+    [
+      "Storytelling",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "Storytelling",
+      "passes down",
+      "knowledge"
+    ],
+    [
+      "Storytelling",
+      "occurs across",
+      "generation"
+    ],
+    [
+      "Storytelling",
+      "is aspect of",
+      "human culture"
+    ],
+    [
+      "Storytelling",
+      "shapes understanding of",
+      "world"
+    ],
+    [
+      "Storytelling",
+      "creates",
+      "narrative"
+    ],
+    [
+      "Storytelling",
+      "engages",
+      "audience"
+    ],
+    [
+      "Storytelling",
+      "evokes",
+      "emotional response"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "spoken word"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "written text"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "visual art"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "music"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "dance"
+    ],
+    [
+      "Storytelling",
+      "creates",
+      "connection"
+    ],
+    [
+      "Storytelling",
+      "engages",
+      "listeners"
+    ],
+    [
+      "Storytelling",
+      "engages",
+      "readers"
+    ],
+    [
+      "Storytelling",
+      "creates",
+      "empathy"
+    ],
+    [
+      "Storytelling",
+      "creates",
+      "emotional resonance"
+    ],
+    [
+      "Storytelling",
+      "conveys",
+      "message"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "structure"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "pacing"
+    ],
+    [
+      "Storytelling",
+      "builds",
+      "tension"
+    ],
+    [
+      "Storytelling",
+      "builds",
+      "suspense"
+    ],
+    [
+      "Storytelling",
+      "has",
+      "beginning"
+    ],
+    [
+      "Storytelling",
+      "has",
+      "middle"
+    ],
+    [
+      "Storytelling",
+      "has",
+      "end"
+    ],
+    [
+      "Storytelling",
+      "has",
+      "narrative arc"
+    ],
+    [
+      "Storytelling",
+      "reveals",
+      "information"
+    ],
+    [
+      "Storytelling",
+      "reveals",
+      "plot points"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "imagery"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "descriptive language"
+    ],
+    [
+      "Storytelling",
+      "creates",
+      "setting"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "symbolism"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "metaphor"
+    ],
+    [
+      "Storytelling",
+      "uses",
+      "allegorical elements"
+    ],
+    [
+      "Storytelling",
+      "explores",
+      "ideas"
+    ],
+    [
+      "Storytelling",
+      "explores",
+      "truths"
+    ],
+    [
+      "Storytelling",
+      "explores",
+      "insights"
+    ],
+    [
+      "Storytelling",
+      "reflects",
+      "perspectives"
+    ],
+    [
+      "Storytelling",
+      "reflects",
+      "voices"
+    ],
+    [
+      "Storytelling",
+      "bridges",
+      "cultural divides"
+    ],
+    [
+      "Storytelling",
+      "challenges",
+      "stereotypes"
+    ],
+    [
+      "Storytelling",
+      "promotes",
+      "tolerance"
+    ],
+    [
+      "Storytelling",
+      "promotes",
+      "acceptance"
+    ],
+    [
+      "Storytelling",
+      "reflects",
+      "human experience"
+    ],
+    [
+      "Storytelling",
+      "is",
+      "craft"
+    ],
+    [
+      "Storytelling",
+      "is",
+      "tapestry"
+    ],
+    [
+      "Storytelling",
+      "occurs around",
+      "campfire"
+    ],
+    [
+      "Storytelling",
+      "occurs in",
+      "painting"
+    ],
+    [
+      "Storytelling",
+      "occurs in",
+      "song"
+    ],
+    [
+      "Storytelling",
+      "transcends",
+      "time"
+    ],
+    [
+      "Storytelling",
+      "transcends",
+      "space"
+    ],
+    [
+      "Storytelling",
+      "enriches",
+      "lives"
+    ],
+    [
+      "Storytelling",
+      "requires",
+      "courage"
+    ],
+    [
+      "Storytelling",
+      "requires",
+      "creativity"
+    ],
+    [
+      "Storytelling",
+      "requires",
+      "compassion"
+    ]
+  ],
+  "edges": [
+    "shares",
+    "is",
+    "transcends",
+    "builds",
+    "conveys",
+    "used by",
+    "engages",
+    "uses",
+    "reflects",
+    "is aspect of",
+    "evokes",
+    "occurs around",
+    "occurs across",
+    "creates",
+    "explores",
+    "shapes understanding of",
+    "has",
+    "reveals",
+    "promotes",
+    "challenges",
+    "passes down",
+    "bridges",
+    "occurs in",
+    "enriches",
+    "requires"
+  ]
+}

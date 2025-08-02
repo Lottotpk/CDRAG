@@ -1,0 +1,211 @@
+{
+  "entities": [
+    "Bread",
+    "cultures",
+    "flour",
+    "water",
+    "yeast",
+    "salt",
+    "fermentation",
+    "flavor",
+    "texture",
+    "fungus",
+    "sugars",
+    "carbon dioxide gas",
+    "alcohol",
+    "artisanal breads",
+    "proteins",
+    "gluten",
+    "elasticity",
+    "kneading process",
+    "gluten strands",
+    "crumb structure",
+    "loaves",
+    "oven",
+    "starches",
+    "Maillard reaction",
+    "flavor compounds",
+    "temperature",
+    "humidity",
+    "crust",
+    "interior"
+  ],
+  "relations": [
+    [
+      "Bread",
+      "is a staple food in",
+      "cultures"
+    ],
+    [
+      "flour",
+      "is an ingredient of",
+      "Bread"
+    ],
+    [
+      "water",
+      "is an ingredient of",
+      "Bread"
+    ],
+    [
+      "yeast",
+      "is an ingredient of",
+      "Bread"
+    ],
+    [
+      "salt",
+      "is an ingredient of",
+      "Bread"
+    ],
+    [
+      "fermentation",
+      "develops",
+      "flavor"
+    ],
+    [
+      "fermentation",
+      "develops",
+      "texture"
+    ],
+    [
+      "yeast",
+      "is a type of",
+      "fungus"
+    ],
+    [
+      "yeast",
+      "feeds on",
+      "sugars"
+    ],
+    [
+      "yeast",
+      "produces",
+      "carbon dioxide gas"
+    ],
+    [
+      "carbon dioxide gas",
+      "creates",
+      "texture"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "alcohol"
+    ],
+    [
+      "alcohol",
+      "contributes to",
+      "flavor"
+    ],
+    [
+      "artisanal breads",
+      "require",
+      "fermentation"
+    ],
+    [
+      "flour",
+      "is made up of",
+      "proteins"
+    ],
+    [
+      "gluten",
+      "gives",
+      "elasticity"
+    ],
+    [
+      "gluten",
+      "gives",
+      "Bread"
+    ],
+    [
+      "gluten",
+      "traps",
+      "carbon dioxide gas"
+    ],
+    [
+      "kneading process",
+      "develops",
+      "gluten"
+    ],
+    [
+      "kneading process",
+      "strengthens",
+      "gluten strands"
+    ],
+    [
+      "kneading process",
+      "gives",
+      "texture"
+    ],
+    [
+      "kneading process",
+      "ensures",
+      "crumb structure"
+    ],
+    [
+      "loaves",
+      "are baked in",
+      "oven"
+    ],
+    [
+      "oven",
+      "causes",
+      "yeast"
+    ],
+    [
+      "oven",
+      "causes",
+      "starches"
+    ],
+    [
+      "Maillard reaction",
+      "occurs during",
+      "Bread"
+    ],
+    [
+      "Maillard reaction",
+      "is responsible for",
+      "flavor compounds"
+    ],
+    [
+      "temperature",
+      "is a factor in",
+      "Bread"
+    ],
+    [
+      "humidity",
+      "is a factor in",
+      "Bread"
+    ],
+    [
+      "humidity",
+      "creates",
+      "crust"
+    ],
+    [
+      "humidity",
+      "creates",
+      "interior"
+    ]
+  ],
+  "edges": [
+    "is a staple food in",
+    "traps",
+    "gives",
+    "produces",
+    "require",
+    "is a factor in",
+    "occurs during",
+    "strengthens",
+    "is responsible for",
+    "develops",
+    "causes",
+    "creates",
+    "is an ingredient of",
+    "are baked in",
+    "contributes to",
+    "ensures",
+    "is made up of",
+    "feeds on",
+    "is a type of"
+  ]
+}

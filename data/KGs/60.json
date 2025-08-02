@@ -1,0 +1,495 @@
+{
+  "entities": [
+    "Film editing",
+    "filmmaking process",
+    "shots",
+    "film",
+    "narrative",
+    "audience",
+    "story",
+    "screen",
+    "footage",
+    "cinematic experience",
+    "film editor",
+    "story",
+    "timing",
+    "pace",
+    "rhythm",
+    "emotions",
+    "tension",
+    "suspense",
+    "scene",
+    "editing process",
+    "raw footage",
+    "rough cut",
+    "takes",
+    "sequence",
+    "script",
+    "director's vision",
+    "final film",
+    "pacing",
+    "visual effects",
+    "sound effects",
+    "storytelling",
+    "narrative structure",
+    "editing techniques",
+    "continuity editing techniques",
+    "spatial coherence",
+    "temporal coherence",
+    "action",
+    "spatial relationships",
+    "characters",
+    "objects",
+    "match cuts",
+    "eyeline matches",
+    "shot-reverse-shot sequences",
+    "visual coherence",
+    "creative editing techniques",
+    "meaning",
+    "emotions",
+    "visual storytelling",
+    "jump cuts",
+    "cross-cutting",
+    "montages",
+    "parallel editing",
+    "suspense",
+    "tension",
+    "visual juxtaposition",
+    "time",
+    "space",
+    "flashbacks",
+    "flash-forwards",
+    "non-linear editing",
+    "chronological order",
+    "events",
+    "mystery",
+    "disorientation",
+    "psychological depth",
+    "temporal structure",
+    "audience's curiosity",
+    "expectations",
+    "viewing experience",
+    "Sound design",
+    "music",
+    "sound effects",
+    "dialogue",
+    "mood",
+    "atmosphere",
+    "tension",
+    "sound editing",
+    "visual elements",
+    "audio",
+    "visual cues",
+    "senses",
+    "imagination",
+    "viewers",
+    "worlds"
+  ],
+  "relations": [
+    [
+      "Film editing",
+      "is an aspect of",
+      "filmmaking process"
+    ],
+    [
+      "Film editing",
+      "involves",
+      "shots"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "narrative"
+    ],
+    [
+      "Film editing",
+      "affects",
+      "audience"
+    ],
+    [
+      "Film editing",
+      "shapes",
+      "story"
+    ],
+    [
+      "Film editing",
+      "transforms",
+      "footage"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "cinematic experience"
+    ],
+    [
+      "film editor",
+      "shapes",
+      "story"
+    ],
+    [
+      "film editor",
+      "manipulates",
+      "timing"
+    ],
+    [
+      "film editor",
+      "manipulates",
+      "pace"
+    ],
+    [
+      "film editor",
+      "manipulates",
+      "rhythm"
+    ],
+    [
+      "film editor",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "film editor",
+      "builds",
+      "tension"
+    ],
+    [
+      "film editor",
+      "creates",
+      "suspense"
+    ],
+    [
+      "film editor",
+      "enhances",
+      "scene"
+    ],
+    [
+      "editing process",
+      "begins with",
+      "raw footage"
+    ],
+    [
+      "editing process",
+      "creates",
+      "rough cut"
+    ],
+    [
+      "editing process",
+      "organizes",
+      "takes"
+    ],
+    [
+      "editing process",
+      "follows",
+      "script"
+    ],
+    [
+      "editing process",
+      "follows",
+      "director's vision"
+    ],
+    [
+      "rough cut",
+      "is the foundation for",
+      "final film"
+    ],
+    [
+      "film editor",
+      "refines",
+      "pacing"
+    ],
+    [
+      "film editor",
+      "adds",
+      "visual effects"
+    ],
+    [
+      "film editor",
+      "adds",
+      "sound effects"
+    ],
+    [
+      "film editor",
+      "enhances",
+      "storytelling"
+    ],
+    [
+      "film editor",
+      "understands",
+      "narrative structure"
+    ],
+    [
+      "film editor",
+      "uses",
+      "editing techniques"
+    ],
+    [
+      "Film editing",
+      "uses",
+      "continuity editing techniques"
+    ],
+    [
+      "continuity editing techniques",
+      "maintains",
+      "spatial coherence"
+    ],
+    [
+      "continuity editing techniques",
+      "maintains",
+      "temporal coherence"
+    ],
+    [
+      "continuity editing techniques",
+      "follows",
+      "action"
+    ],
+    [
+      "continuity editing techniques",
+      "establishes",
+      "spatial relationships"
+    ],
+    [
+      "continuity editing techniques",
+      "connects",
+      "characters"
+    ],
+    [
+      "continuity editing techniques",
+      "connects",
+      "objects"
+    ],
+    [
+      "continuity editing techniques",
+      "uses",
+      "match cuts"
+    ],
+    [
+      "continuity editing techniques",
+      "uses",
+      "eyeline matches"
+    ],
+    [
+      "continuity editing techniques",
+      "uses",
+      "shot-reverse-shot sequences"
+    ],
+    [
+      "continuity editing techniques",
+      "creates",
+      "visual coherence"
+    ],
+    [
+      "film editor",
+      "employs",
+      "creative editing techniques"
+    ],
+    [
+      "creative editing techniques",
+      "conveys",
+      "meaning"
+    ],
+    [
+      "creative editing techniques",
+      "evokes",
+      "emotions"
+    ],
+    [
+      "creative editing techniques",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "creative editing techniques",
+      "includes",
+      "jump cuts"
+    ],
+    [
+      "creative editing techniques",
+      "includes",
+      "cross-cutting"
+    ],
+    [
+      "creative editing techniques",
+      "includes",
+      "montages"
+    ],
+    [
+      "creative editing techniques",
+      "includes",
+      "parallel editing"
+    ],
+    [
+      "creative editing techniques",
+      "creates",
+      "suspense"
+    ],
+    [
+      "creative editing techniques",
+      "builds",
+      "tension"
+    ],
+    [
+      "creative editing techniques",
+      "uses",
+      "visual juxtaposition"
+    ],
+    [
+      "Film editing",
+      "manipulates",
+      "time"
+    ],
+    [
+      "Film editing",
+      "manipulates",
+      "space"
+    ],
+    [
+      "Film editing",
+      "uses",
+      "flashbacks"
+    ],
+    [
+      "Film editing",
+      "uses",
+      "flash-forwards"
+    ],
+    [
+      "Film editing",
+      "uses",
+      "non-linear editing"
+    ],
+    [
+      "Film editing",
+      "distorts",
+      "chronological order"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "mystery"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "disorientation"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "Film editing",
+      "plays with",
+      "temporal structure"
+    ],
+    [
+      "Film editing",
+      "engages",
+      "audience's curiosity"
+    ],
+    [
+      "Film editing",
+      "challenges",
+      "expectations"
+    ],
+    [
+      "Film editing",
+      "creates",
+      "viewing experience"
+    ],
+    [
+      "Sound design",
+      "impacts",
+      "emotions"
+    ],
+    [
+      "Sound design",
+      "enhances",
+      "mood"
+    ],
+    [
+      "Sound design",
+      "enhances",
+      "atmosphere"
+    ],
+    [
+      "Sound design",
+      "enhances",
+      "tension"
+    ],
+    [
+      "Sound design",
+      "adds",
+      "visual storytelling"
+    ],
+    [
+      "sound editing",
+      "synchronizes with",
+      "visual elements"
+    ],
+    [
+      "sound editing",
+      "creates",
+      "audio"
+    ],
+    [
+      "sound editing",
+      "creates",
+      "visual cues"
+    ],
+    [
+      "sound editing",
+      "engages",
+      "senses"
+    ],
+    [
+      "Film editing",
+      "transports",
+      "worlds"
+    ],
+    [
+      "Film editing",
+      "requires",
+      "imagination"
+    ],
+    [
+      "Film editing",
+      "resonates with",
+      "viewers"
+    ]
+  ],
+  "edges": [
+    "enhances",
+    "begins with",
+    "engages",
+    "adds",
+    "shapes",
+    "synchronizes with",
+    "conveys",
+    "uses",
+    "understands",
+    "transports",
+    "builds",
+    "involves",
+    "includes",
+    "resonates with",
+    "evokes",
+    "is an aspect of",
+    "creates",
+    "organizes",
+    "distorts",
+    "impacts",
+    "plays with",
+    "follows",
+    "establishes",
+    "refines",
+    "is the foundation for",
+    "maintains",
+    "connects",
+    "employs",
+    "affects",
+    "requires",
+    "transforms",
+    "manipulates",
+    "challenges"
+  ]
+}

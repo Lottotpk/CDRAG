@@ -1,0 +1,279 @@
+{
+  "entities": [
+    "music",
+    "human culture",
+    "entertainment",
+    "communication",
+    "expression",
+    "researchers",
+    "cognitive development",
+    "children",
+    "essay",
+    "cognitive abilities",
+    "memory",
+    "language skills",
+    "problem-solving skills",
+    "memory retention",
+    "recall",
+    "adults",
+    "brain",
+    "memory formation",
+    "retrieval",
+    "music therapy",
+    "individuals",
+    "memory-related disorders",
+    "Alzheimer's disease",
+    "sound patterns",
+    "rhythms",
+    "speech",
+    "instrument",
+    "critical thinking",
+    "analytical skills",
+    "sounds",
+    "musical patterns",
+    "cognitive functions",
+    "pattern recognition",
+    "spatial reasoning",
+    "emotional development",
+    "emotional responses",
+    "joy",
+    "excitement",
+    "sadness",
+    "nostalgia",
+    "emotional intelligence",
+    "empathy",
+    "passive listening",
+    "active engagement",
+    "singing",
+    "coordination",
+    "concentration",
+    "discipline",
+    "cognition",
+    "cognitive functioning",
+    "ages"
+  ],
+  "relations": [
+    [
+      "music",
+      "is part of",
+      "human culture"
+    ],
+    [
+      "music",
+      "serves as",
+      "entertainment"
+    ],
+    [
+      "music",
+      "serves as",
+      "communication"
+    ],
+    [
+      "music",
+      "serves as",
+      "expression"
+    ],
+    [
+      "researchers",
+      "explore",
+      "cognitive development"
+    ],
+    [
+      "music",
+      "influences",
+      "cognitive abilities"
+    ],
+    [
+      "music",
+      "enhances",
+      "memory"
+    ],
+    [
+      "music",
+      "influences",
+      "language skills"
+    ],
+    [
+      "music",
+      "influences",
+      "problem-solving skills"
+    ],
+    [
+      "music",
+      "improves",
+      "memory retention"
+    ],
+    [
+      "music",
+      "improves",
+      "recall"
+    ],
+    [
+      "music",
+      "stimulates",
+      "brain"
+    ],
+    [
+      "brain",
+      "involved in",
+      "memory formation"
+    ],
+    [
+      "brain",
+      "involved in",
+      "retrieval"
+    ],
+    [
+      "music therapy",
+      "used for",
+      "individuals"
+    ],
+    [
+      "music therapy",
+      "used for",
+      "memory-related disorders"
+    ],
+    [
+      "music therapy",
+      "used for",
+      "Alzheimer's disease"
+    ],
+    [
+      "music",
+      "involves",
+      "sound patterns"
+    ],
+    [
+      "music",
+      "involves",
+      "rhythms"
+    ],
+    [
+      "music",
+      "strengthens",
+      "language skills"
+    ],
+    [
+      "music",
+      "improves",
+      "speech"
+    ],
+    [
+      "music",
+      "enhances",
+      "problem-solving skills"
+    ],
+    [
+      "music",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "music",
+      "requires",
+      "analytical skills"
+    ],
+    [
+      "music",
+      "improves",
+      "cognitive functions"
+    ],
+    [
+      "music",
+      "improves",
+      "pattern recognition"
+    ],
+    [
+      "music",
+      "improves",
+      "spatial reasoning"
+    ],
+    [
+      "music",
+      "impacts",
+      "emotional development"
+    ],
+    [
+      "music",
+      "evokes",
+      "emotional responses"
+    ],
+    [
+      "music",
+      "evokes",
+      "joy"
+    ],
+    [
+      "music",
+      "evokes",
+      "excitement"
+    ],
+    [
+      "music",
+      "evokes",
+      "sadness"
+    ],
+    [
+      "music",
+      "evokes",
+      "nostalgia"
+    ],
+    [
+      "music",
+      "develops",
+      "emotional intelligence"
+    ],
+    [
+      "music",
+      "develops",
+      "empathy"
+    ],
+    [
+      "active engagement",
+      "requires",
+      "coordination"
+    ],
+    [
+      "active engagement",
+      "requires",
+      "concentration"
+    ],
+    [
+      "active engagement",
+      "requires",
+      "discipline"
+    ],
+    [
+      "music",
+      "influences",
+      "cognition"
+    ],
+    [
+      "music",
+      "enhances",
+      "cognitive abilities"
+    ],
+    [
+      "music",
+      "improves",
+      "cognitive functioning"
+    ]
+  ],
+  "edges": [
+    "enhances",
+    "used for",
+    "stimulates",
+    "is part of",
+    "serves as",
+    "evokes",
+    "improves",
+    "impacts",
+    "influences",
+    "requires",
+    "strengthens",
+    "develops",
+    "involved in",
+    "explore",
+    "involves"
+  ]
+}

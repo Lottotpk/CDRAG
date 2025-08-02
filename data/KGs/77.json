@@ -1,0 +1,190 @@
+{
+  "entities": [
+    "Art",
+    "artists",
+    "masterpieces",
+    "Renaissance",
+    "modern art",
+    "Leonardo da Vinci",
+    "Mona Lisa",
+    "16th century",
+    "Renaissance man",
+    "Michelangelo",
+    "Sistine Chapel",
+    "Bible",
+    "Creation of Adam",
+    "Last Judgment",
+    "Vatican",
+    "Baroque period",
+    "Caravaggio",
+    "The Calling of Saint Matthew",
+    "Jesus",
+    "Matthew",
+    "19th century",
+    "Impressionists",
+    "Claude Monet",
+    "water lilies",
+    "gardens",
+    "Giverny",
+    "20th century",
+    "Pablo Picasso",
+    "Cubism",
+    "Les Demoiselles d'Avignon",
+    "abstract art",
+    "Vincent van Gogh",
+    "Frida Kahlo"
+  ],
+  "relations": [
+    [
+      "artists",
+      "creating",
+      "masterpieces"
+    ],
+    [
+      "Leonardo da Vinci",
+      "known for",
+      "Mona Lisa"
+    ],
+    [
+      "Mona Lisa",
+      "painted in",
+      "16th century"
+    ],
+    [
+      "Mona Lisa",
+      "is a",
+      "masterpieces"
+    ],
+    [
+      "Mona Lisa",
+      "is a",
+      "Renaissance"
+    ],
+    [
+      "Leonardo da Vinci",
+      "embodying",
+      "Renaissance man"
+    ],
+    [
+      "Michelangelo",
+      "painted",
+      "Sistine Chapel"
+    ],
+    [
+      "Sistine Chapel",
+      "features",
+      "Bible"
+    ],
+    [
+      "Sistine Chapel",
+      "features",
+      "Creation of Adam"
+    ],
+    [
+      "Sistine Chapel",
+      "features",
+      "Last Judgment"
+    ],
+    [
+      "Michelangelo",
+      "inspired",
+      "Vatican"
+    ],
+    [
+      "Caravaggio",
+      "belong to",
+      "Baroque period"
+    ],
+    [
+      "Caravaggio",
+      "known for",
+      "The Calling of Saint Matthew"
+    ],
+    [
+      "The Calling of Saint Matthew",
+      "depicts",
+      "Jesus"
+    ],
+    [
+      "The Calling of Saint Matthew",
+      "depicts",
+      "Matthew"
+    ],
+    [
+      "Impressionists",
+      "belong to",
+      "19th century"
+    ],
+    [
+      "Claude Monet",
+      "is a",
+      "Impressionists"
+    ],
+    [
+      "Claude Monet",
+      "known for",
+      "water lilies"
+    ],
+    [
+      "Claude Monet",
+      "known for",
+      "gardens"
+    ],
+    [
+      "gardens",
+      "located at",
+      "Giverny"
+    ],
+    [
+      "Pablo Picasso",
+      "belong to",
+      "20th century"
+    ],
+    [
+      "Pablo Picasso",
+      "is a",
+      "modern art"
+    ],
+    [
+      "Pablo Picasso",
+      "pioneer of",
+      "Cubism"
+    ],
+    [
+      "Pablo Picasso",
+      "painted",
+      "Les Demoiselles d'Avignon"
+    ],
+    [
+      "Pablo Picasso",
+      "paved the way for",
+      "abstract art"
+    ],
+    [
+      "Vincent van Gogh",
+      "created",
+      "masterpieces"
+    ],
+    [
+      "Frida Kahlo",
+      "created",
+      "masterpieces"
+    ]
+  ],
+  "edges": [
+    "known for",
+    "pioneer of",
+    "depicts",
+    "created",
+    "is a",
+    "painted in",
+    "creating",
+    "painted",
+    "embodying",
+    "features",
+    "belong to",
+    "located at",
+    "paved the way for",
+    "inspired"
+  ]
+}

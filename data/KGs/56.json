@@ -1,0 +1,329 @@
+{
+  "entities": [
+    "bicycle",
+    "two-wheeled vehicle",
+    "human power",
+    "wooden contraption",
+    "carbon fiber machines",
+    "design",
+    "function",
+    "society",
+    "prototype",
+    "German inventor",
+    "Baron Karl von Drais",
+    "draisine",
+    "scooter",
+    "transportation",
+    "velocipede",
+    "boneshaker",
+    "pedals",
+    "front wheel",
+    "high-wheel bicycle",
+    "penny-farthing",
+    "rear wheel",
+    "wealthy gentlemen",
+    "safety bicycle",
+    "wheels",
+    "chain drive system",
+    "pneumatic tires",
+    "cycling",
+    "steel",
+    "bicycle frames",
+    "aluminum",
+    "titanium",
+    "carbon fiber",
+    "racing",
+    "high-performance cycling",
+    "racing bikes",
+    "handlebars",
+    "cruisers",
+    "seating positions",
+    "electric bikes",
+    "cyclists",
+    "transportation",
+    "recreation",
+    "culture",
+    "commuting",
+    "exercise",
+    "leisure",
+    "cars",
+    "public transportation",
+    "sport",
+    "Tour de France",
+    "elite cyclists",
+    "human ingenuity",
+    "creativity",
+    "perseverance",
+    "racing machine",
+    "innovation",
+    "improvement",
+    "two-wheeled vehicle"
+  ],
+  "relations": [
+    [
+      "bicycle",
+      "is",
+      "two-wheeled vehicle"
+    ],
+    [
+      "bicycle",
+      "propelled by",
+      "human power"
+    ],
+    [
+      "bicycle",
+      "evolved from",
+      "wooden contraption"
+    ],
+    [
+      "bicycle",
+      "evolved into",
+      "carbon fiber machines"
+    ],
+    [
+      "bicycle",
+      "impacts",
+      "society"
+    ],
+    [
+      "bicycle",
+      "has",
+      "design"
+    ],
+    [
+      "bicycle",
+      "has",
+      "function"
+    ],
+    [
+      "prototype",
+      "of",
+      "bicycle"
+    ],
+    [
+      "German inventor",
+      "is",
+      "Baron Karl von Drais"
+    ],
+    [
+      "Baron Karl von Drais",
+      "created",
+      "draisine"
+    ],
+    [
+      "draisine",
+      "is",
+      "prototype"
+    ],
+    [
+      "draisine",
+      "is like",
+      "scooter"
+    ],
+    [
+      "draisine",
+      "is",
+      "transportation"
+    ],
+    [
+      "velocipede",
+      "is also known as",
+      "boneshaker"
+    ],
+    [
+      "velocipede",
+      "has",
+      "pedals"
+    ],
+    [
+      "velocipede",
+      "attached to",
+      "front wheel"
+    ],
+    [
+      "high-wheel bicycle",
+      "is also known as",
+      "penny-farthing"
+    ],
+    [
+      "high-wheel bicycle",
+      "has",
+      "front wheel"
+    ],
+    [
+      "high-wheel bicycle",
+      "has",
+      "rear wheel"
+    ],
+    [
+      "penny-farthing",
+      "ridden by",
+      "wealthy gentlemen"
+    ],
+    [
+      "safety bicycle",
+      "has",
+      "wheels"
+    ],
+    [
+      "safety bicycle",
+      "has",
+      "chain drive system"
+    ],
+    [
+      "safety bicycle",
+      "has",
+      "pneumatic tires"
+    ],
+    [
+      "safety bicycle",
+      "revolutionized",
+      "cycling"
+    ],
+    [
+      "bicycle frames",
+      "made of",
+      "steel"
+    ],
+    [
+      "bicycle frames",
+      "made of",
+      "aluminum"
+    ],
+    [
+      "bicycle frames",
+      "made of",
+      "titanium"
+    ],
+    [
+      "carbon fiber",
+      "used in",
+      "bicycle frames"
+    ],
+    [
+      "carbon fiber machines",
+      "used for",
+      "racing"
+    ],
+    [
+      "carbon fiber machines",
+      "used for",
+      "high-performance cycling"
+    ],
+    [
+      "racing bikes",
+      "have",
+      "handlebars"
+    ],
+    [
+      "cruisers",
+      "have",
+      "seating positions"
+    ],
+    [
+      "electric bikes",
+      "used by",
+      "cyclists"
+    ],
+    [
+      "bicycle",
+      "used for",
+      "recreation"
+    ],
+    [
+      "bicycle",
+      "impacts",
+      "culture"
+    ],
+    [
+      "bicycle",
+      "used for",
+      "commuting"
+    ],
+    [
+      "bicycle",
+      "used for",
+      "exercise"
+    ],
+    [
+      "bicycle",
+      "used for",
+      "leisure"
+    ],
+    [
+      "bicycle",
+      "alternative to",
+      "cars"
+    ],
+    [
+      "bicycle",
+      "alternative to",
+      "public transportation"
+    ],
+    [
+      "cycling",
+      "is a",
+      "sport"
+    ],
+    [
+      "Tour de France",
+      "for",
+      "elite cyclists"
+    ],
+    [
+      "bicycle",
+      "is a testament to",
+      "human ingenuity"
+    ],
+    [
+      "bicycle",
+      "is a testament to",
+      "creativity"
+    ],
+    [
+      "bicycle",
+      "is a testament to",
+      "perseverance"
+    ],
+    [
+      "bicycle",
+      "is a",
+      "racing machine"
+    ],
+    [
+      "bicycle",
+      "underwent",
+      "innovation"
+    ],
+    [
+      "bicycle",
+      "underwent",
+      "improvement"
+    ]
+  ],
+  "edges": [
+    "underwent",
+    "is like",
+    "of",
+    "is a testament to",
+    "attached to",
+    "used for",
+    "created",
+    "for",
+    "impacts",
+    "is also known as",
+    "used by",
+    "made of",
+    "is",
+    "revolutionized",
+    "evolved from",
+    "alternative to",
+    "propelled by",
+    "ridden by",
+    "have",
+    "used in",
+    "is a",
+    "has",
+    "evolved into"
+  ]
+}

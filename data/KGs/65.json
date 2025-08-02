@@ -1,0 +1,334 @@
+{
+  "entities": [
+    "Sharks",
+    "creatures",
+    "predators",
+    "marine ecosystem",
+    "hunters",
+    "prey",
+    "sensory adaptations",
+    "food",
+    "ocean",
+    "sense of smell",
+    "olfactory system",
+    "blood",
+    "chemicals",
+    "water",
+    "species of sharks",
+    "drop of blood",
+    "Olympic-sized swimming pool",
+    "olfactory bulbs",
+    "brain",
+    "scents",
+    "sense of hearing",
+    "sensory organs",
+    "lateral line system",
+    "vibrations",
+    "movements",
+    "fish",
+    "marine animals",
+    "potential prey",
+    "low visibility conditions",
+    "electrical signals",
+    "organisms",
+    "ampullae of Lorenzini",
+    "cells",
+    "heads",
+    "snouts",
+    "electrical fields",
+    "muscles",
+    "nerves",
+    "animals",
+    "prey",
+    "eyesight",
+    "eyes",
+    "low light conditions",
+    "murky waters",
+    "great white shark",
+    "tapetum lucidum",
+    "retinas",
+    "sense of touch",
+    "receptors",
+    "lateral line",
+    "water pressure",
+    "movement",
+    "sensory system",
+    "prey",
+    "aquatic environment",
+    "vision",
+    "top predators",
+    "marine food chain"
+  ],
+  "relations": [
+    [
+      "Sharks",
+      "are",
+      "creatures"
+    ],
+    [
+      "Sharks",
+      "are",
+      "predators"
+    ],
+    [
+      "Sharks",
+      "live in",
+      "marine ecosystem"
+    ],
+    [
+      "Sharks",
+      "detect",
+      "prey"
+    ],
+    [
+      "Sharks",
+      "have",
+      "sensory adaptations"
+    ],
+    [
+      "Sharks",
+      "locate",
+      "food"
+    ],
+    [
+      "Sharks",
+      "live in",
+      "ocean"
+    ],
+    [
+      "Sharks",
+      "detect prey through",
+      "sense of smell"
+    ],
+    [
+      "Sharks",
+      "have",
+      "olfactory system"
+    ],
+    [
+      "olfactory system",
+      "detects",
+      "blood"
+    ],
+    [
+      "olfactory system",
+      "detects",
+      "chemicals"
+    ],
+    [
+      "Sharks",
+      "detect",
+      "drop of blood"
+    ],
+    [
+      "drop of blood",
+      "is in",
+      "Olympic-sized swimming pool"
+    ],
+    [
+      "olfactory bulbs",
+      "are in",
+      "brain"
+    ],
+    [
+      "Sharks",
+      "process",
+      "scents"
+    ],
+    [
+      "Sharks",
+      "detect prey through",
+      "sense of hearing"
+    ],
+    [
+      "Sharks",
+      "have",
+      "sensory organs"
+    ],
+    [
+      "Sharks",
+      "have",
+      "lateral line system"
+    ],
+    [
+      "lateral line system",
+      "detects",
+      "vibrations"
+    ],
+    [
+      "lateral line system",
+      "detects",
+      "movements"
+    ],
+    [
+      "Sharks",
+      "sense",
+      "movements"
+    ],
+    [
+      "Sharks",
+      "sense",
+      "fish"
+    ],
+    [
+      "Sharks",
+      "sense",
+      "marine animals"
+    ],
+    [
+      "Sharks",
+      "locate",
+      "potential prey"
+    ],
+    [
+      "Sharks",
+      "locate prey in",
+      "low visibility conditions"
+    ],
+    [
+      "Sharks",
+      "detect",
+      "electrical signals"
+    ],
+    [
+      "Sharks",
+      "have",
+      "ampullae of Lorenzini"
+    ],
+    [
+      "ampullae of Lorenzini",
+      "are",
+      "cells"
+    ],
+    [
+      "ampullae of Lorenzini",
+      "are in",
+      "heads"
+    ],
+    [
+      "ampullae of Lorenzini",
+      "are in",
+      "snouts"
+    ],
+    [
+      "ampullae of Lorenzini",
+      "detect",
+      "electrical fields"
+    ],
+    [
+      "electrical fields",
+      "produced by",
+      "muscles"
+    ],
+    [
+      "electrical fields",
+      "produced by",
+      "nerves"
+    ],
+    [
+      "Sharks",
+      "detect",
+      "animals"
+    ],
+    [
+      "Sharks",
+      "rely on",
+      "eyesight"
+    ],
+    [
+      "Sharks",
+      "have",
+      "eyes"
+    ],
+    [
+      "eyes",
+      "adapted to",
+      "low light conditions"
+    ],
+    [
+      "Sharks",
+      "see in",
+      "murky waters"
+    ],
+    [
+      "great white shark",
+      "have",
+      "tapetum lucidum"
+    ],
+    [
+      "tapetum lucidum",
+      "is behind",
+      "retinas"
+    ],
+    [
+      "Sharks",
+      "use",
+      "sense of touch"
+    ],
+    [
+      "Sharks",
+      "have",
+      "receptors"
+    ],
+    [
+      "Sharks",
+      "have",
+      "lateral line"
+    ],
+    [
+      "lateral line",
+      "detects",
+      "water pressure"
+    ],
+    [
+      "lateral line",
+      "detects",
+      "movement"
+    ],
+    [
+      "Sharks",
+      "have",
+      "sensory system"
+    ],
+    [
+      "Sharks",
+      "live in",
+      "aquatic environment"
+    ],
+    [
+      "Sharks",
+      "use",
+      "vision"
+    ],
+    [
+      "Sharks",
+      "are",
+      "top predators"
+    ],
+    [
+      "Sharks",
+      "are in",
+      "marine food chain"
+    ]
+  ],
+  "edges": [
+    "use",
+    "produced by",
+    "live in",
+    "is behind",
+    "have",
+    "see in",
+    "adapted to",
+    "detect",
+    "is in",
+    "rely on",
+    "detect prey through",
+    "process",
+    "locate",
+    "detects",
+    "are in",
+    "sense",
+    "locate prey in",
+    "are"
+  ]
+}

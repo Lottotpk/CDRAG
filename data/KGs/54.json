@@ -1,0 +1,361 @@
+{
+  "entities": [
+    "Tornadoes",
+    "natural phenomena",
+    "air",
+    "buildings",
+    "trees",
+    "human lives",
+    "property",
+    "severe thunderstorms",
+    "atmospheric conditions",
+    "wind shear",
+    "wind speed",
+    "wind direction",
+    "height",
+    "mesocyclone",
+    "instability",
+    "warm, moist air",
+    "cooler, drier air",
+    "air parcels",
+    "cumulonimbus clouds",
+    "trigger mechanism",
+    "cold front",
+    "dry line",
+    "outflow boundary",
+    "lifting air",
+    "dust whirl stage",
+    "condensation funnel",
+    "mature stage",
+    "rotating column of air",
+    "cloud base",
+    "ground",
+    "dissipating stage",
+    "inflow",
+    "Enhanced Fujita (EF) scale",
+    "EF0",
+    "EF5",
+    "wind speeds",
+    "damage",
+    "EF0 tornadoes",
+    "EF5 tornadoes",
+    "Meteorologists",
+    "weather radar",
+    "satellite imagery",
+    "ground observations",
+    "Doppler radar",
+    "rotation",
+    "thunderstorms",
+    "tornado warnings",
+    "communities",
+    "United States",
+    "natural disasters",
+    "scientists",
+    "emergency responders",
+    "tornado-prone regions"
+  ],
+  "relations": [
+    [
+      "Tornadoes",
+      "are",
+      "natural phenomena"
+    ],
+    [
+      "Tornadoes",
+      "cause damage to",
+      "buildings"
+    ],
+    [
+      "Tornadoes",
+      "cause damage to",
+      "trees"
+    ],
+    [
+      "Tornadoes",
+      "impact",
+      "human lives"
+    ],
+    [
+      "Tornadoes",
+      "impact",
+      "property"
+    ],
+    [
+      "Tornadoes",
+      "form in",
+      "severe thunderstorms"
+    ],
+    [
+      "Tornadoes",
+      "require",
+      "atmospheric conditions"
+    ],
+    [
+      "wind shear",
+      "is",
+      "wind speed"
+    ],
+    [
+      "wind shear",
+      "is",
+      "wind direction"
+    ],
+    [
+      "wind speed",
+      "changes with",
+      "height"
+    ],
+    [
+      "wind direction",
+      "changes with",
+      "height"
+    ],
+    [
+      "wind shear",
+      "creates",
+      "mesocyclone"
+    ],
+    [
+      "mesocyclone",
+      "is within",
+      "thunderstorms"
+    ],
+    [
+      "mesocyclone",
+      "can produce",
+      "Tornadoes"
+    ],
+    [
+      "instability",
+      "is in",
+      "atmospheric conditions"
+    ],
+    [
+      "warm, moist air",
+      "is overlaid by",
+      "cooler, drier air"
+    ],
+    [
+      "air parcels",
+      "rise and form",
+      "cumulonimbus clouds"
+    ],
+    [
+      "cumulonimbus clouds",
+      "are breeding grounds for",
+      "Tornadoes"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "cold front"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "dry line"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "outflow boundary"
+    ],
+    [
+      "trigger mechanism",
+      "leads to",
+      "severe thunderstorms"
+    ],
+    [
+      "trigger mechanism",
+      "leads to",
+      "Tornadoes"
+    ],
+    [
+      "lifting air",
+      "leads to",
+      "severe thunderstorms"
+    ],
+    [
+      "lifting air",
+      "leads to",
+      "Tornadoes"
+    ],
+    [
+      "dust whirl stage",
+      "is initial stage of",
+      "Tornadoes"
+    ],
+    [
+      "condensation funnel",
+      "descends from",
+      "cloud base"
+    ],
+    [
+      "mature stage",
+      "is characterized by",
+      "rotating column of air"
+    ],
+    [
+      "rotating column of air",
+      "extends from",
+      "cloud base"
+    ],
+    [
+      "rotating column of air",
+      "extends to",
+      "ground"
+    ],
+    [
+      "dissipating stage",
+      "is when",
+      "Tornadoes"
+    ],
+    [
+      "inflow",
+      "is cut off in",
+      "dissipating stage"
+    ],
+    [
+      "Enhanced Fujita (EF) scale",
+      "ranges from",
+      "EF0"
+    ],
+    [
+      "Enhanced Fujita (EF) scale",
+      "ranges to",
+      "EF5"
+    ],
+    [
+      "EF0",
+      "is weakest on",
+      "Enhanced Fujita (EF) scale"
+    ],
+    [
+      "EF5",
+      "is strongest on",
+      "Enhanced Fujita (EF) scale"
+    ],
+    [
+      "Enhanced Fujita (EF) scale",
+      "takes into account",
+      "wind speeds"
+    ],
+    [
+      "Enhanced Fujita (EF) scale",
+      "takes into account",
+      "damage"
+    ],
+    [
+      "EF0 tornadoes",
+      "have",
+      "wind speeds"
+    ],
+    [
+      "EF5 tornadoes",
+      "have",
+      "wind speeds"
+    ],
+    [
+      "EF0 tornadoes",
+      "cause",
+      "damage"
+    ],
+    [
+      "EF5 tornadoes",
+      "cause",
+      "damage"
+    ],
+    [
+      "Meteorologists",
+      "use",
+      "weather radar"
+    ],
+    [
+      "Meteorologists",
+      "use",
+      "satellite imagery"
+    ],
+    [
+      "Meteorologists",
+      "use",
+      "ground observations"
+    ],
+    [
+      "Doppler radar",
+      "detects",
+      "rotation"
+    ],
+    [
+      "Doppler radar",
+      "issues",
+      "tornado warnings"
+    ],
+    [
+      "Tornadoes",
+      "threaten",
+      "communities"
+    ],
+    [
+      "Tornadoes",
+      "threaten",
+      "United States"
+    ],
+    [
+      "Tornadoes",
+      "are",
+      "natural disasters"
+    ],
+    [
+      "scientists",
+      "respond to",
+      "Tornadoes"
+    ],
+    [
+      "emergency responders",
+      "respond to",
+      "Tornadoes"
+    ],
+    [
+      "Tornadoes",
+      "occur in",
+      "tornado-prone regions"
+    ]
+  ],
+  "edges": [
+    "use",
+    "ranges to",
+    "rise and form",
+    "respond to",
+    "cause damage to",
+    "is cut off in",
+    "is in",
+    "occur in",
+    "extends to",
+    "descends from",
+    "is overlaid by",
+    "is when",
+    "is within",
+    "leads to",
+    "creates",
+    "threaten",
+    "is weakest on",
+    "impact",
+    "ranges from",
+    "takes into account",
+    "form in",
+    "is strongest on",
+    "require",
+    "can produce",
+    "cause",
+    "is",
+    "changes with",
+    "extends from",
+    "have",
+    "are",
+    "is characterized by",
+    "issues",
+    "is initial stage of",
+    "are breeding grounds for",
+    "detects"
+  ]
+}

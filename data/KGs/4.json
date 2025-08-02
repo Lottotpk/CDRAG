@@ -1,0 +1,115 @@
+{
+  "entities": [
+    "Dinosaurs",
+    "human imagination",
+    "creatures",
+    "Earth",
+    "Tyrannosaurus rex",
+    "Brachiosaurus",
+    "humans",
+    "carnivorous dinosaurs",
+    "ceratopsians",
+    "Paleontologists",
+    "scientists",
+    "Mesozoic era",
+    "Age of Dinosaurs",
+    "forests",
+    "oceans",
+    "volcanoes",
+    "asteroid impact",
+    "climate change",
+    "Jurassic Park",
+    "children",
+    "adults",
+    "evolution"
+  ],
+  "relations": [
+    [
+      "Dinosaurs",
+      "captivated",
+      "human imagination"
+    ],
+    [
+      "creatures",
+      "roamed",
+      "Earth"
+    ],
+    [
+      "Tyrannosaurus rex",
+      "is a",
+      "Dinosaurs"
+    ],
+    [
+      "Brachiosaurus",
+      "is a",
+      "Dinosaurs"
+    ],
+    [
+      "creatures",
+      "ruled",
+      "Earth"
+    ],
+    [
+      "Paleontologists",
+      "study",
+      "Dinosaurs"
+    ],
+    [
+      "scientists",
+      "study",
+      "Dinosaurs"
+    ],
+    [
+      "Mesozoic era",
+      "is known as",
+      "Age of Dinosaurs"
+    ],
+    [
+      "forests",
+      "were in",
+      "Earth"
+    ],
+    [
+      "oceans",
+      "were in",
+      "Earth"
+    ],
+    [
+      "volcanoes",
+      "were in",
+      "Earth"
+    ],
+    [
+      "Jurassic Park",
+      "features",
+      "Dinosaurs"
+    ],
+    [
+      "Dinosaurs",
+      "inspire",
+      "children"
+    ],
+    [
+      "Dinosaurs",
+      "inspire",
+      "adults"
+    ],
+    [
+      "Dinosaurs",
+      "remind us of",
+      "evolution"
+    ]
+  ],
+  "edges": [
+    "were in",
+    "is a",
+    "study",
+    "features",
+    "captivated",
+    "inspire",
+    "ruled",
+    "is known as",
+    "remind us of",
+    "roamed"
+  ]
+}

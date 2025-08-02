@@ -1,0 +1,227 @@
+{
+  "entities": [
+    "Pop culture",
+    "Global trends",
+    "Mass media",
+    "Entertainment",
+    "Fashion",
+    "Music",
+    "Technology",
+    "Social media",
+    "Celebrity endorsements",
+    "Magazine covers",
+    "Social media influencers",
+    "Fast fashion",
+    "Online shopping",
+    "Music artists",
+    "Songs",
+    "Music videos",
+    "Public personas",
+    "K-pop",
+    "Korean culture",
+    "Viral challenges",
+    "Trending hashtags",
+    "Tech companies",
+    "Products",
+    "Services",
+    "Societal norms",
+    "Values",
+    "Gender",
+    "Race",
+    "Sexuality",
+    "LGBTQ+ characters",
+    "Movies",
+    "TV shows",
+    "Consumerism",
+    "Material possessions",
+    "Celebrity worship",
+    "Cultural appropriation",
+    "Representations"
+  ],
+  "relations": [
+    [
+      "Pop culture",
+      "is driven by",
+      "Mass media"
+    ],
+    [
+      "Pop culture",
+      "is driven by",
+      "Entertainment"
+    ],
+    [
+      "Pop culture",
+      "shapes",
+      "Global trends"
+    ],
+    [
+      "Fashion",
+      "is influenced by",
+      "Pop culture"
+    ],
+    [
+      "Music",
+      "is influenced by",
+      "Pop culture"
+    ],
+    [
+      "Technology",
+      "is influenced by",
+      "Pop culture"
+    ],
+    [
+      "Social media",
+      "is influenced by",
+      "Pop culture"
+    ],
+    [
+      "Fashion",
+      "is dictated by",
+      "Celebrity endorsements"
+    ],
+    [
+      "Fashion",
+      "is dictated by",
+      "Magazine covers"
+    ],
+    [
+      "Fashion",
+      "is dictated by",
+      "Social media influencers"
+    ],
+    [
+      "Fast fashion",
+      "spreads",
+      "Global trends"
+    ],
+    [
+      "Online shopping",
+      "spreads",
+      "Global trends"
+    ],
+    [
+      "Music artists",
+      "shape",
+      "Pop culture"
+    ],
+    [
+      "Songs",
+      "shape",
+      "Pop culture"
+    ],
+    [
+      "Music videos",
+      "shape",
+      "Pop culture"
+    ],
+    [
+      "Public personas",
+      "shape",
+      "Pop culture"
+    ],
+    [
+      "K-pop",
+      "influences",
+      "Korean culture"
+    ],
+    [
+      "K-pop",
+      "influences",
+      "Fashion"
+    ],
+    [
+      "Social media",
+      "spreads",
+      "Viral challenges"
+    ],
+    [
+      "Social media",
+      "spreads",
+      "Trending hashtags"
+    ],
+    [
+      "Tech companies",
+      "leverage",
+      "Pop culture"
+    ],
+    [
+      "Tech companies",
+      "market",
+      "Products"
+    ],
+    [
+      "Tech companies",
+      "market",
+      "Services"
+    ],
+    [
+      "Pop culture",
+      "influences",
+      "Societal norms"
+    ],
+    [
+      "Pop culture",
+      "influences",
+      "Values"
+    ],
+    [
+      "Representations",
+      "influence",
+      "Gender"
+    ],
+    [
+      "Representations",
+      "influence",
+      "Race"
+    ],
+    [
+      "Representations",
+      "influence",
+      "Sexuality"
+    ],
+    [
+      "Pop culture",
+      "promotes",
+      "Consumerism"
+    ],
+    [
+      "Pop culture",
+      "promotes",
+      "Material possessions"
+    ],
+    [
+      "Pop culture",
+      "promotes",
+      "Celebrity worship"
+    ],
+    [
+      "Pop culture",
+      "includes",
+      "Cultural appropriation"
+    ],
+    [
+      "Pop culture",
+      "includes",
+      "Representations"
+    ],
+    [
+      "Pop culture",
+      "shapes",
+      "Global trends"
+    ]
+  ],
+  "edges": [
+    "includes",
+    "promotes",
+    "is influenced by",
+    "spreads",
+    "shapes",
+    "influence",
+    "shape",
+    "leverage",
+    "influences",
+    "market",
+    "is driven by",
+    "is dictated by"
+  ]
+}

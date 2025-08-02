@@ -1,0 +1,321 @@
+{
+  "entities": [
+    "Renewable energy sources",
+    "climate change",
+    "air pollution",
+    "fossil fuels",
+    "solar power",
+    "solar panels",
+    "sun",
+    "electricity",
+    "homeowners",
+    "businesses",
+    "thin-film solar cells",
+    "solar tracking systems",
+    "solar power generation",
+    "Wind power",
+    "Wind turbines",
+    "kinetic energy",
+    "wind",
+    "onshore locations",
+    "offshore locations",
+    "wind farms",
+    "Hydropower",
+    "moving water",
+    "hydropower plants",
+    "dams",
+    "reservoirs",
+    "ecosystems",
+    "flowing water",
+    "Bioenergy",
+    "organic materials",
+    "plants",
+    "waste",
+    "Biofuels",
+    "ethanol",
+    "biodiesel",
+    "vehicles",
+    "buildings",
+    "biomass power plants",
+    "biogas",
+    "anaerobic digestion",
+    "Geothermal energy",
+    "Earth's interior",
+    "Geothermal power plants",
+    "underground reservoirs",
+    "hot water",
+    "steam",
+    "baseload electricity",
+    "energy storage",
+    "batteries",
+    "pumped hydro storage",
+    "Smart grid technologies",
+    "renewable energy resources",
+    "Policy support",
+    "incentives",
+    "Governments",
+    "renewable energy targets",
+    "subsidies",
+    "carbon pricing mechanisms",
+    "low-carbon economy",
+    "Paris Agreement",
+    "greenhouse gas emissions",
+    "carbon emissions",
+    "environmental impact"
+  ],
+  "relations": [
+    [
+      "Renewable energy sources",
+      "gaining momentum due to concerns over",
+      "climate change"
+    ],
+    [
+      "Renewable energy sources",
+      "gaining momentum due to concerns over",
+      "air pollution"
+    ],
+    [
+      "Renewable energy sources",
+      "gaining momentum due to concerns over",
+      "fossil fuels"
+    ],
+    [
+      "solar power",
+      "harnesses energy from",
+      "sun"
+    ],
+    [
+      "solar power",
+      "convert it into",
+      "electricity"
+    ],
+    [
+      "solar panels",
+      "becoming more accessible to",
+      "homeowners"
+    ],
+    [
+      "solar panels",
+      "becoming more accessible to",
+      "businesses"
+    ],
+    [
+      "thin-film solar cells",
+      "improve",
+      "solar power generation"
+    ],
+    [
+      "solar tracking systems",
+      "improve",
+      "solar power generation"
+    ],
+    [
+      "Wind power",
+      "captures",
+      "kinetic energy"
+    ],
+    [
+      "Wind power",
+      "captures energy of",
+      "wind"
+    ],
+    [
+      "Wind turbines",
+      "convert it into",
+      "electricity"
+    ],
+    [
+      "Wind power",
+      "can be harnessed in",
+      "onshore locations"
+    ],
+    [
+      "Wind power",
+      "can be harnessed in",
+      "offshore locations"
+    ],
+    [
+      "wind farms",
+      "becoming more efficient",
+      "fossil fuels"
+    ],
+    [
+      "Hydropower",
+      "derived from",
+      "moving water"
+    ],
+    [
+      "hydropower plants",
+      "generating",
+      "electricity"
+    ],
+    [
+      "dams",
+      "impact",
+      "ecosystems"
+    ],
+    [
+      "reservoirs",
+      "impact",
+      "ecosystems"
+    ],
+    [
+      "Hydropower",
+      "harnessing the power of",
+      "flowing water"
+    ],
+    [
+      "Bioenergy",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "Bioenergy",
+      "derived from",
+      "plants"
+    ],
+    [
+      "Bioenergy",
+      "derived from",
+      "waste"
+    ],
+    [
+      "Biofuels",
+      "include",
+      "ethanol"
+    ],
+    [
+      "Biofuels",
+      "include",
+      "biodiesel"
+    ],
+    [
+      "Biofuels",
+      "can be used to power",
+      "vehicles"
+    ],
+    [
+      "Biofuels",
+      "can be used to heat",
+      "buildings"
+    ],
+    [
+      "biomass power plants",
+      "generate",
+      "electricity"
+    ],
+    [
+      "organic materials",
+      "converting them into",
+      "biogas"
+    ],
+    [
+      "biogas",
+      "through",
+      "anaerobic digestion"
+    ],
+    [
+      "Geothermal energy",
+      "derived from",
+      "Earth's interior"
+    ],
+    [
+      "Geothermal power plants",
+      "extract heat from",
+      "underground reservoirs"
+    ],
+    [
+      "Geothermal power plants",
+      "extract heat from",
+      "hot water"
+    ],
+    [
+      "Geothermal power plants",
+      "extract heat from",
+      "steam"
+    ],
+    [
+      "Geothermal energy",
+      "provide",
+      "baseload electricity"
+    ],
+    [
+      "energy storage",
+      "include",
+      "batteries"
+    ],
+    [
+      "energy storage",
+      "include",
+      "pumped hydro storage"
+    ],
+    [
+      "Smart grid technologies",
+      "optimizing the use of",
+      "renewable energy resources"
+    ],
+    [
+      "Governments",
+      "implementing",
+      "renewable energy targets"
+    ],
+    [
+      "Governments",
+      "implementing",
+      "subsidies"
+    ],
+    [
+      "Governments",
+      "implementing",
+      "carbon pricing mechanisms"
+    ],
+    [
+      "Policy support",
+      "accelerate the transition to",
+      "low-carbon economy"
+    ],
+    [
+      "Paris Agreement",
+      "driving global efforts to reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "Renewable energy sources",
+      "reducing",
+      "carbon emissions"
+    ],
+    [
+      "Renewable energy sources",
+      "reducing",
+      "environmental impact"
+    ]
+  ],
+  "edges": [
+    "extract heat from",
+    "through",
+    "improve",
+    "captures",
+    "accelerate the transition to",
+    "implementing",
+    "derived from",
+    "optimizing the use of",
+    "harnesses energy from",
+    "generate",
+    "becoming more accessible to",
+    "gaining momentum due to concerns over",
+    "provide",
+    "can be used to heat",
+    "becoming more efficient",
+    "driving global efforts to reduce",
+    "impact",
+    "converting them into",
+    "captures energy of",
+    "include",
+    "harnessing the power of",
+    "convert it into",
+    "can be used to power",
+    "can be harnessed in",
+    "generating",
+    "reducing"
+  ]
+}

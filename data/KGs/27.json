@@ -1,0 +1,280 @@
+{
+  "entities": [
+    "Piltdown Man",
+    "humans",
+    "apes",
+    "England",
+    "fossilized hominid skull",
+    "human cranium",
+    "orangutan jawbone",
+    "evolutionary theory",
+    "Cardiff Giant",
+    "Cardiff, New York",
+    "George Hull",
+    "archaeology",
+    "giant mythologies",
+    "War of the Worlds",
+    "Orson Welles",
+    "H.G. Wells",
+    "Martian invasion",
+    "Vermeer paintings",
+    "Han van Meegeren",
+    "Hermann G\u00c3\u00b6ring",
+    "Sokal Affair",
+    "Alan Sokal",
+    "Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity",
+    "Social Text",
+    "postmodernist scholarship",
+    "hoaxes",
+    "fake news",
+    "society",
+    "scientific community",
+    "mass media",
+    "art experts",
+    "collectors",
+    "modern technology",
+    "postmodernist academic discourse",
+    "academic research",
+    "historical narratives",
+    "established beliefs",
+    "truth",
+    "fiction",
+    "information",
+    "motives",
+    "deception",
+    "manipulation",
+    "critical thinking",
+    "misinformation"
+  ],
+  "relations": [
+    [
+      "Piltdown Man",
+      "is a",
+      "hoaxes"
+    ],
+    [
+      "humans",
+      "related to",
+      "apes"
+    ],
+    [
+      "Piltdown Man",
+      "discovered in",
+      "England"
+    ],
+    [
+      "Piltdown Man",
+      "is a",
+      "fossilized hominid skull"
+    ],
+    [
+      "Piltdown Man",
+      "composed of",
+      "human cranium"
+    ],
+    [
+      "Piltdown Man",
+      "composed of",
+      "orangutan jawbone"
+    ],
+    [
+      "Piltdown Man",
+      "challenged",
+      "evolutionary theory"
+    ],
+    [
+      "Piltdown Man",
+      "misled",
+      "scientific community"
+    ],
+    [
+      "Cardiff Giant",
+      "is a",
+      "hoaxes"
+    ],
+    [
+      "Cardiff Giant",
+      "discovered in",
+      "Cardiff, New York"
+    ],
+    [
+      "Cardiff Giant",
+      "created by",
+      "George Hull"
+    ],
+    [
+      "George Hull",
+      "profited from",
+      "archaeology"
+    ],
+    [
+      "George Hull",
+      "profited from",
+      "giant mythologies"
+    ],
+    [
+      "War of the Worlds",
+      "is a",
+      "hoaxes"
+    ],
+    [
+      "War of the Worlds",
+      "broadcast by",
+      "Orson Welles"
+    ],
+    [
+      "War of the Worlds",
+      "adapted from",
+      "H.G. Wells"
+    ],
+    [
+      "War of the Worlds",
+      "about",
+      "Martian invasion"
+    ],
+    [
+      "War of the Worlds",
+      "manipulated",
+      "mass media"
+    ],
+    [
+      "Han van Meegeren",
+      "created",
+      "Vermeer paintings"
+    ],
+    [
+      "Han van Meegeren",
+      "fooled",
+      "art experts"
+    ],
+    [
+      "Han van Meegeren",
+      "fooled",
+      "collectors"
+    ],
+    [
+      "Sokal Affair",
+      "is a",
+      "hoaxes"
+    ],
+    [
+      "Sokal Affair",
+      "by",
+      "Alan Sokal"
+    ],
+    [
+      "Alan Sokal",
+      "submitted",
+      "Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity"
+    ],
+    [
+      "Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity",
+      "published in",
+      "Social Text"
+    ],
+    [
+      "Sokal Affair",
+      "exposed",
+      "postmodernist scholarship"
+    ],
+    [
+      "Sokal Affair",
+      "exposed",
+      "postmodernist academic discourse"
+    ],
+    [
+      "hoaxes",
+      "challenge",
+      "established beliefs"
+    ],
+    [
+      "hoaxes",
+      "test",
+      "truth"
+    ],
+    [
+      "hoaxes",
+      "test",
+      "fiction"
+    ],
+    [
+      "hoaxes",
+      "question",
+      "information"
+    ],
+    [
+      "hoaxes",
+      "question",
+      "motives"
+    ],
+    [
+      "hoaxes",
+      "involve",
+      "deception"
+    ],
+    [
+      "hoaxes",
+      "involve",
+      "manipulation"
+    ],
+    [
+      "society",
+      "needs",
+      "critical thinking"
+    ],
+    [
+      "society",
+      "faces",
+      "misinformation"
+    ],
+    [
+      "modern technology",
+      "enables",
+      "hoaxes"
+    ],
+    [
+      "academic research",
+      "requires",
+      "critical thinking"
+    ],
+    [
+      "historical narratives",
+      "shaped by",
+      "hoaxes"
+    ],
+    [
+      "hoaxes",
+      "related to",
+      "fake news"
+    ]
+  ],
+  "edges": [
+    "created by",
+    "broadcast by",
+    "exposed",
+    "published in",
+    "composed of",
+    "adapted from",
+    "manipulated",
+    "involve",
+    "shaped by",
+    "test",
+    "discovered in",
+    "misled",
+    "submitted",
+    "fooled",
+    "challenge",
+    "by",
+    "faces",
+    "question",
+    "about",
+    "related to",
+    "challenged",
+    "needs",
+    "created",
+    "profited from",
+    "is a",
+    "enables",
+    "requires"
+  ]
+}

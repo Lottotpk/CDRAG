@@ -1,0 +1,476 @@
+{
+  "entities": [
+    "Board games",
+    "entertainment",
+    "social interaction",
+    "cultures",
+    "civilizations",
+    "leisure",
+    "education",
+    "strategic thinking",
+    "Senet",
+    "ancient Egyptian game",
+    "game of chance",
+    "strategy",
+    "grid of 30 squares",
+    "pieces",
+    "throwing sticks",
+    "casting lots",
+    "religious significance",
+    "journey of the soul",
+    "afterlife",
+    "ancient Mesopotamia",
+    "Royal Game of Ur",
+    "Sumerians",
+    "board",
+    "squares",
+    "royal tombs",
+    "ancient China",
+    "Go",
+    "Xiangqi (Chinese Chess)",
+    "Zhou Dynasty",
+    "strategy",
+    "skill",
+    "grid",
+    "black and white stones",
+    "territory",
+    "India",
+    "Chaturanga",
+    "precursor to modern-day chess",
+    "8x8 grid",
+    "pieces",
+    "chess pieces",
+    "Persia",
+    "Europe",
+    "chess",
+    "medieval period",
+    "Backgammon",
+    "Middle East",
+    "skill",
+    "luck",
+    "board with 24 points",
+    "opponent",
+    "Renaissance period",
+    "Checkers",
+    "Tric-Trac",
+    "nobility",
+    "commoners",
+    "social dynamics",
+    "values",
+    "opposing forces",
+    "strategic thinking",
+    "calculation",
+    "19th and 20th centuries",
+    "Industrial Revolution",
+    "printing technology",
+    "mass production of board games",
+    "Monopoly",
+    "Scrabble",
+    "Clue",
+    "gameplay mechanics",
+    "themes",
+    "digital age",
+    "designers",
+    "enthusiasts",
+    "tabletop gaming cafes",
+    "board game conventions",
+    "online platforms",
+    "community of players",
+    "social interaction",
+    "strategic depth",
+    "timeless forms of entertainment",
+    "ancient civilizations",
+    "modern-day enthusiasts",
+    "players",
+    "ages",
+    "backgrounds",
+    "mind"
+  ],
+  "relations": [
+    [
+      "Board games",
+      "is a form of",
+      "entertainment"
+    ],
+    [
+      "Board games",
+      "is a form of",
+      "social interaction"
+    ],
+    [
+      "Board games",
+      "span",
+      "cultures"
+    ],
+    [
+      "Board games",
+      "span",
+      "civilizations"
+    ],
+    [
+      "Board games",
+      "served as a means of",
+      "leisure"
+    ],
+    [
+      "Board games",
+      "served as a means of",
+      "education"
+    ],
+    [
+      "Board games",
+      "served as a means of",
+      "strategic thinking"
+    ],
+    [
+      "Senet",
+      "is",
+      "ancient Egyptian game"
+    ],
+    [
+      "Senet",
+      "is a",
+      "game of chance"
+    ],
+    [
+      "Senet",
+      "is a",
+      "strategy"
+    ],
+    [
+      "Senet",
+      "played on",
+      "grid of 30 squares"
+    ],
+    [
+      "Senet",
+      "used",
+      "pieces"
+    ],
+    [
+      "Senet",
+      "used",
+      "throwing sticks"
+    ],
+    [
+      "Senet",
+      "used",
+      "casting lots"
+    ],
+    [
+      "Senet",
+      "had",
+      "religious significance"
+    ],
+    [
+      "Senet",
+      "believed to represent",
+      "journey of the soul"
+    ],
+    [
+      "Senet",
+      "believed to represent",
+      "afterlife"
+    ],
+    [
+      "Royal Game of Ur",
+      "played in",
+      "ancient Mesopotamia"
+    ],
+    [
+      "Royal Game of Ur",
+      "played by",
+      "Sumerians"
+    ],
+    [
+      "Royal Game of Ur",
+      "played on a",
+      "board"
+    ],
+    [
+      "Royal Game of Ur",
+      "has",
+      "squares"
+    ],
+    [
+      "Royal Game of Ur",
+      "found in",
+      "royal tombs"
+    ],
+    [
+      "Go",
+      "played in",
+      "ancient China"
+    ],
+    [
+      "Xiangqi (Chinese Chess)",
+      "played in",
+      "ancient China"
+    ],
+    [
+      "Go",
+      "dates back to",
+      "Zhou Dynasty"
+    ],
+    [
+      "Go",
+      "is a game of",
+      "strategy"
+    ],
+    [
+      "Go",
+      "is a game of",
+      "skill"
+    ],
+    [
+      "Go",
+      "played on a",
+      "grid"
+    ],
+    [
+      "Go",
+      "uses",
+      "black and white stones"
+    ],
+    [
+      "Go",
+      "controls",
+      "territory"
+    ],
+    [
+      "Chaturanga",
+      "played in",
+      "India"
+    ],
+    [
+      "Chaturanga",
+      "is a",
+      "precursor to modern-day chess"
+    ],
+    [
+      "Chaturanga",
+      "played on an",
+      "8x8 grid"
+    ],
+    [
+      "Chaturanga",
+      "used",
+      "chess pieces"
+    ],
+    [
+      "chess",
+      "evolved in",
+      "Europe"
+    ],
+    [
+      "Backgammon",
+      "rose in",
+      "medieval period"
+    ],
+    [
+      "Backgammon",
+      "originated in",
+      "Persia"
+    ],
+    [
+      "Backgammon",
+      "spread to",
+      "Middle East"
+    ],
+    [
+      "Backgammon",
+      "spread to",
+      "Europe"
+    ],
+    [
+      "Backgammon",
+      "is a game of",
+      "skill"
+    ],
+    [
+      "Backgammon",
+      "is a game of",
+      "luck"
+    ],
+    [
+      "Backgammon",
+      "played on a",
+      "board with 24 points"
+    ],
+    [
+      "Backgammon",
+      "played against",
+      "opponent"
+    ],
+    [
+      "Checkers",
+      "emerged in",
+      "Renaissance period"
+    ],
+    [
+      "Tric-Trac",
+      "emerged in",
+      "Renaissance period"
+    ],
+    [
+      "Checkers",
+      "played by",
+      "nobility"
+    ],
+    [
+      "Checkers",
+      "played by",
+      "commoners"
+    ],
+    [
+      "Tric-Trac",
+      "played by",
+      "nobility"
+    ],
+    [
+      "Tric-Trac",
+      "played by",
+      "commoners"
+    ],
+    [
+      "Checkers",
+      "reflects",
+      "social dynamics"
+    ],
+    [
+      "Checkers",
+      "reflects",
+      "values"
+    ],
+    [
+      "Checkers",
+      "symbolizes",
+      "opposing forces"
+    ],
+    [
+      "Tric-Trac",
+      "emphasizes",
+      "strategic thinking"
+    ],
+    [
+      "Tric-Trac",
+      "emphasizes",
+      "calculation"
+    ],
+    [
+      "Monopoly",
+      "has",
+      "gameplay mechanics"
+    ],
+    [
+      "Monopoly",
+      "has",
+      "themes"
+    ],
+    [
+      "Scrabble",
+      "has",
+      "gameplay mechanics"
+    ],
+    [
+      "Scrabble",
+      "has",
+      "themes"
+    ],
+    [
+      "Clue",
+      "has",
+      "gameplay mechanics"
+    ],
+    [
+      "Clue",
+      "has",
+      "themes"
+    ],
+    [
+      "Board games",
+      "thrive in",
+      "digital age"
+    ],
+    [
+      "Board games",
+      "offer",
+      "social interaction"
+    ],
+    [
+      "Board games",
+      "offer",
+      "strategic depth"
+    ],
+    [
+      "Board games",
+      "are",
+      "timeless forms of entertainment"
+    ],
+    [
+      "Board games",
+      "captivate",
+      "ancient civilizations"
+    ],
+    [
+      "Board games",
+      "captivate",
+      "modern-day enthusiasts"
+    ],
+    [
+      "Board games",
+      "captivate",
+      "players"
+    ],
+    [
+      "Board games",
+      "captivate",
+      "ages"
+    ],
+    [
+      "Board games",
+      "captivate",
+      "backgrounds"
+    ],
+    [
+      "Board games",
+      "exercise",
+      "mind"
+    ]
+  ],
+  "edges": [
+    "believed to represent",
+    "found in",
+    "spread to",
+    "is",
+    "played on an",
+    "uses",
+    "symbolizes",
+    "are",
+    "reflects",
+    "evolved in",
+    "span",
+    "served as a means of",
+    "played in",
+    "played by",
+    "rose in",
+    "exercise",
+    "thrive in",
+    "emerged in",
+    "dates back to",
+    "has",
+    "offer",
+    "had",
+    "played against",
+    "controls",
+    "emphasizes",
+    "captivate",
+    "is a game of",
+    "is a form of",
+    "played on a",
+    "is a",
+    "used",
+    "originated in",
+    "played on"
+  ]
+}

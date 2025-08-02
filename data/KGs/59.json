@@ -1,0 +1,349 @@
+{
+  "entities": [
+    "Satellites",
+    "technology",
+    "communication",
+    "navigation",
+    "data",
+    "planet",
+    "artificial objects",
+    "Earth",
+    "telecommunications",
+    "weather forecasting",
+    "scientific research",
+    "national security",
+    "Earth-orbiting satellite",
+    "communication satellite",
+    "television",
+    "internet",
+    "phone calls",
+    "Weather satellites",
+    "sensors",
+    "cameras",
+    "weather patterns",
+    "meteorologists",
+    "physics",
+    "laws of motion",
+    "gravity",
+    "low Earth orbit (LEO)",
+    "geostationary orbit (GEO)",
+    "polar orbit",
+    "payload",
+    "bus",
+    "solar panels",
+    "sunlight",
+    "electricity",
+    "radio signals",
+    "ground stations",
+    "Earth stations",
+    "Geostationary satellites",
+    "Earth's rotation",
+    "equator",
+    "telecommunications",
+    "broadcasting",
+    "Low Earth orbit satellites",
+    "Earth observation",
+    "remote sensing",
+    "satellite internet",
+    "global connectivity",
+    "remote areas",
+    "rural areas",
+    "traditional infrastructure",
+    "storms",
+    "climate patterns",
+    "natural disasters",
+    "hurricanes",
+    "tsunamis",
+    "Earth's climate",
+    "oceans",
+    "atmosphere",
+    "land cover",
+    "environmental monitoring",
+    "conservation efforts",
+    "miniaturization",
+    "propulsion",
+    "communication systems",
+    "CubeSats",
+    "satellite industry",
+    "educational institutions",
+    "startups",
+    "developing countries",
+    "Electric propulsion systems",
+    "Laser communication technology",
+    "data transmission rates"
+  ],
+  "relations": [
+    [
+      "Satellites",
+      "are",
+      "technology"
+    ],
+    [
+      "Satellites",
+      "transform",
+      "communication"
+    ],
+    [
+      "Satellites",
+      "transform",
+      "navigation"
+    ],
+    [
+      "Satellites",
+      "transform",
+      "data"
+    ],
+    [
+      "Satellites",
+      "monitor",
+      "planet"
+    ],
+    [
+      "Satellites",
+      "are",
+      "artificial objects"
+    ],
+    [
+      "artificial objects",
+      "orbit",
+      "Earth"
+    ],
+    [
+      "Satellites",
+      "are tools for",
+      "telecommunications"
+    ],
+    [
+      "Satellites",
+      "are tools for",
+      "weather forecasting"
+    ],
+    [
+      "Satellites",
+      "are tools for",
+      "scientific research"
+    ],
+    [
+      "Satellites",
+      "are tools for",
+      "national security"
+    ],
+    [
+      "Earth-orbiting satellite",
+      "is",
+      "communication satellite"
+    ],
+    [
+      "communication satellite",
+      "relays",
+      "television"
+    ],
+    [
+      "communication satellite",
+      "relays",
+      "internet"
+    ],
+    [
+      "communication satellite",
+      "relays",
+      "phone calls"
+    ],
+    [
+      "Weather satellites",
+      "equipped with",
+      "sensors"
+    ],
+    [
+      "Weather satellites",
+      "equipped with",
+      "cameras"
+    ],
+    [
+      "Weather satellites",
+      "monitor",
+      "weather patterns"
+    ],
+    [
+      "Satellites",
+      "operate based on",
+      "physics"
+    ],
+    [
+      "Satellites",
+      "operate based on",
+      "laws of motion"
+    ],
+    [
+      "Satellites",
+      "operate based on",
+      "gravity"
+    ],
+    [
+      "Satellites",
+      "launched into",
+      "low Earth orbit (LEO)"
+    ],
+    [
+      "Satellites",
+      "launched into",
+      "geostationary orbit (GEO)"
+    ],
+    [
+      "Satellites",
+      "launched into",
+      "polar orbit"
+    ],
+    [
+      "bus",
+      "houses",
+      "payload"
+    ],
+    [
+      "bus",
+      "provides",
+      "communication"
+    ],
+    [
+      "Satellites",
+      "powered by",
+      "solar panels"
+    ],
+    [
+      "solar panels",
+      "convert",
+      "sunlight"
+    ],
+    [
+      "solar panels",
+      "convert",
+      "electricity"
+    ],
+    [
+      "Satellites",
+      "communicate via",
+      "radio signals"
+    ],
+    [
+      "radio signals",
+      "transmitted to",
+      "ground stations"
+    ],
+    [
+      "radio signals",
+      "transmitted to",
+      "Earth stations"
+    ],
+    [
+      "Geostationary satellites",
+      "orbit at same speed as",
+      "Earth's rotation"
+    ],
+    [
+      "Geostationary satellites",
+      "fixed over",
+      "equator"
+    ],
+    [
+      "Geostationary satellites",
+      "used for",
+      "telecommunications"
+    ],
+    [
+      "Geostationary satellites",
+      "used for",
+      "broadcasting"
+    ],
+    [
+      "Low Earth orbit satellites",
+      "used for",
+      "Earth observation"
+    ],
+    [
+      "Low Earth orbit satellites",
+      "used for",
+      "remote sensing"
+    ],
+    [
+      "Low Earth orbit satellites",
+      "used for",
+      "satellite internet"
+    ],
+    [
+      "Satellites",
+      "provide",
+      "global connectivity"
+    ],
+    [
+      "Satellites",
+      "provide connectivity in",
+      "remote areas"
+    ],
+    [
+      "Satellites",
+      "provide connectivity in",
+      "rural areas"
+    ],
+    [
+      "Weather satellites",
+      "track",
+      "storms"
+    ],
+    [
+      "Weather satellites",
+      "monitor",
+      "climate patterns"
+    ],
+    [
+      "Weather satellites",
+      "issue warnings for",
+      "natural disasters"
+    ],
+    [
+      "Weather satellites",
+      "issue warnings for",
+      "hurricanes"
+    ],
+    [
+      "Weather satellites",
+      "issue warnings for",
+      "tsunamis"
+    ],
+    [
+      "CubeSats",
+      "revolutionizing",
+      "satellite industry"
+    ],
+    [
+      "Laser communication technology",
+      "increase",
+      "data transmission rates"
+    ]
+  ],
+  "edges": [
+    "track",
+    "launched into",
+    "relays",
+    "provide connectivity in",
+    "communicate via",
+    "are tools for",
+    "orbit",
+    "used for",
+    "operate based on",
+    "provide",
+    "equipped with",
+    "provides",
+    "transform",
+    "increase",
+    "revolutionizing",
+    "is",
+    "convert",
+    "orbit at same speed as",
+    "are",
+    "transmitted to",
+    "powered by",
+    "monitor",
+    "issue warnings for",
+    "houses",
+    "fixed over"
+  ]
+}

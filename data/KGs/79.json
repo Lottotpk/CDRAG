@@ -1,0 +1,319 @@
+{
+  "entities": [
+    "Comedy",
+    "Society",
+    "Entertainment",
+    "Social commentary",
+    "Human culture",
+    "Laughter",
+    "Audiences",
+    "Health benefits",
+    "Stress",
+    "Immune system",
+    "Well-being",
+    "Stand-up comedy",
+    "Sitcoms",
+    "Movies",
+    "Spirits",
+    "Joy",
+    "Humor",
+    "Social issues",
+    "Societal norms",
+    "Satire",
+    "Parody",
+    "Wit",
+    "Absurdities",
+    "Injustices",
+    "Alternative perspectives",
+    "Controversial topics",
+    "Critical thinking",
+    "Community",
+    "Comedy shows",
+    "Events",
+    "Shared experience",
+    "Unity",
+    "Age",
+    "Background",
+    "Beliefs",
+    "Camaraderie",
+    "Change",
+    "Status quo",
+    "Discussion",
+    "Comedians",
+    "Taboo subjects",
+    "Stereotypes",
+    "New ideas",
+    "Awareness",
+    "Humor",
+    "Sensitivities",
+    "Words",
+    "Actions",
+    "Perspective"
+  ],
+  "relations": [
+    [
+      "Comedy",
+      "plays a role in",
+      "Society"
+    ],
+    [
+      "Comedy",
+      "serves as",
+      "Entertainment"
+    ],
+    [
+      "Comedy",
+      "serves as",
+      "Social commentary"
+    ],
+    [
+      "Comedy",
+      "is a tool for",
+      "Unity"
+    ],
+    [
+      "Comedy",
+      "is a part of",
+      "Human culture"
+    ],
+    [
+      "Comedy",
+      "offers",
+      "Stress"
+    ],
+    [
+      "Comedy",
+      "provides",
+      "Entertainment"
+    ],
+    [
+      "Comedy",
+      "provides",
+      "Laughter"
+    ],
+    [
+      "Laughter",
+      "has",
+      "Health benefits"
+    ],
+    [
+      "Laughter",
+      "reduces",
+      "Stress"
+    ],
+    [
+      "Laughter",
+      "boosts",
+      "Immune system"
+    ],
+    [
+      "Laughter",
+      "improves",
+      "Well-being"
+    ],
+    [
+      "Comedy",
+      "allows",
+      "Audiences"
+    ],
+    [
+      "Comedy",
+      "has the power to uplift",
+      "Spirits"
+    ],
+    [
+      "Comedy",
+      "has the power to bring",
+      "Joy"
+    ],
+    [
+      "Comedy",
+      "serves as",
+      "Social commentary"
+    ],
+    [
+      "Comedy",
+      "serves as",
+      "Social issues"
+    ],
+    [
+      "Comedy",
+      "challenges",
+      "Societal norms"
+    ],
+    [
+      "Comedy",
+      "provokes",
+      "Critical thinking"
+    ],
+    [
+      "Comedy",
+      "highlights",
+      "Absurdities"
+    ],
+    [
+      "Comedy",
+      "highlights",
+      "Injustices"
+    ],
+    [
+      "Comedy",
+      "prompts",
+      "Alternative perspectives"
+    ],
+    [
+      "Comedy",
+      "addresses",
+      "Controversial topics"
+    ],
+    [
+      "Comedy",
+      "sparks",
+      "Discussion"
+    ],
+    [
+      "Comedy",
+      "encourages",
+      "Critical thinking"
+    ],
+    [
+      "Comedy",
+      "fosters",
+      "Community"
+    ],
+    [
+      "Laughter",
+      "creates",
+      "Camaraderie"
+    ],
+    [
+      "Laughter",
+      "promotes",
+      "Unity"
+    ],
+    [
+      "Comedy shows",
+      "serve as",
+      "Events"
+    ],
+    [
+      "Comedy shows",
+      "serve as",
+      "Shared experience"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "Age"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "Background"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "Beliefs"
+    ],
+    [
+      "Comedy",
+      "promotes",
+      "Change"
+    ],
+    [
+      "Comedy",
+      "challenges",
+      "Status quo"
+    ],
+    [
+      "Comedy",
+      "inspires",
+      "Change"
+    ],
+    [
+      "Comedy",
+      "introduces",
+      "New ideas"
+    ],
+    [
+      "Comedy",
+      "raises",
+      "Awareness"
+    ],
+    [
+      "Comedy",
+      "effects",
+      "Change"
+    ],
+    [
+      "Comedy",
+      "addresses",
+      "Social issues"
+    ],
+    [
+      "Comedy",
+      "provokes",
+      "Discussion"
+    ],
+    [
+      "Comedy",
+      "broaches",
+      "Taboo subjects"
+    ],
+    [
+      "Comedy",
+      "challenges",
+      "Stereotypes"
+    ],
+    [
+      "Humor",
+      "is",
+      "Perspective"
+    ],
+    [
+      "Comedy",
+      "uplifts",
+      "Spirits"
+    ],
+    [
+      "Comedy",
+      "challenges",
+      "Societal norms"
+    ]
+  ],
+  "edges": [
+    "transcends",
+    "highlights",
+    "improves",
+    "boosts",
+    "has the power to uplift",
+    "serve as",
+    "encourages",
+    "fosters",
+    "offers",
+    "has the power to bring",
+    "creates",
+    "is a part of",
+    "raises",
+    "is a tool for",
+    "provides",
+    "uplifts",
+    "sparks",
+    "prompts",
+    "promotes",
+    "plays a role in",
+    "serves as",
+    "inspires",
+    "is",
+    "broaches",
+    "effects",
+    "reduces",
+    "addresses",
+    "provokes",
+    "introduces",
+    "has",
+    "allows",
+    "challenges"
+  ]
+}

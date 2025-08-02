@@ -1,0 +1,375 @@
+{
+  "entities": [
+    "Autonomous vehicles",
+    "self-driving cars",
+    "transportation",
+    "safety",
+    "efficiency",
+    "convenience",
+    "technology",
+    "World Health Organization",
+    "people",
+    "road traffic accidents",
+    "human error",
+    "driving equation",
+    "sensors",
+    "cameras",
+    "artificial intelligence algorithms",
+    "surroundings",
+    "hazards",
+    "human driver",
+    "transportation systems",
+    "traffic flow",
+    "congestion",
+    "travel times",
+    "environment",
+    "emissions",
+    "idling vehicles",
+    "shared autonomous fleets",
+    "individual car ownership",
+    "parking",
+    "roads",
+    "highways",
+    "daily commute",
+    "mobility options",
+    "age",
+    "disability",
+    "society",
+    "autonomous vehicle technology",
+    "high-profile incidents",
+    "public trust",
+    "acceptance",
+    "regulatory and legal framework",
+    "laws",
+    "regulations",
+    "liability",
+    "insurance",
+    "licensing",
+    "Governments",
+    "regulatory bodies",
+    "industry stakeholders",
+    "road users",
+    "infrastructure",
+    "dedicated lanes",
+    "communication systems",
+    "public entities",
+    "private entities",
+    "automakers",
+    "technology companies",
+    "research and development",
+    "pilot programs",
+    "cities"
+  ],
+  "relations": [
+    [
+      "Autonomous vehicles",
+      "also known as",
+      "self-driving cars"
+    ],
+    [
+      "Autonomous vehicles",
+      "have potential to revolutionize",
+      "transportation"
+    ],
+    [
+      "Autonomous vehicles",
+      "promise",
+      "safety"
+    ],
+    [
+      "Autonomous vehicles",
+      "promise",
+      "efficiency"
+    ],
+    [
+      "Autonomous vehicles",
+      "promise",
+      "convenience"
+    ],
+    [
+      "Autonomous vehicles",
+      "will play a significant role in",
+      "transportation"
+    ],
+    [
+      "World Health Organization",
+      "states deaths in",
+      "road traffic accidents"
+    ],
+    [
+      "road traffic accidents",
+      "cause",
+      "people"
+    ],
+    [
+      "human error",
+      "is a major contributing factor in",
+      "road traffic accidents"
+    ],
+    [
+      "Autonomous vehicles",
+      "can eliminate",
+      "human error"
+    ],
+    [
+      "Autonomous vehicles",
+      "use",
+      "sensors"
+    ],
+    [
+      "Autonomous vehicles",
+      "use",
+      "cameras"
+    ],
+    [
+      "Autonomous vehicles",
+      "use",
+      "artificial intelligence algorithms"
+    ],
+    [
+      "Autonomous vehicles",
+      "monitor",
+      "surroundings"
+    ],
+    [
+      "Autonomous vehicles",
+      "react to",
+      "hazards"
+    ],
+    [
+      "human driver",
+      "compared to",
+      "Autonomous vehicles"
+    ],
+    [
+      "Autonomous vehicles",
+      "increase",
+      "efficiency"
+    ],
+    [
+      "Autonomous vehicles",
+      "communicate with",
+      "transportation systems"
+    ],
+    [
+      "Autonomous vehicles",
+      "optimize",
+      "traffic flow"
+    ],
+    [
+      "Autonomous vehicles",
+      "reduce",
+      "congestion"
+    ],
+    [
+      "Autonomous vehicles",
+      "cut down on",
+      "travel times"
+    ],
+    [
+      "Autonomous vehicles",
+      "impact",
+      "environment"
+    ],
+    [
+      "Autonomous vehicles",
+      "reduce",
+      "emissions"
+    ],
+    [
+      "Autonomous vehicles",
+      "reduce emissions from",
+      "idling vehicles"
+    ],
+    [
+      "shared autonomous fleets",
+      "replace",
+      "individual car ownership"
+    ],
+    [
+      "Autonomous vehicles",
+      "free up",
+      "parking"
+    ],
+    [
+      "Autonomous vehicles",
+      "reduce the need for",
+      "roads"
+    ],
+    [
+      "Autonomous vehicles",
+      "reduce the need for",
+      "highways"
+    ],
+    [
+      "Autonomous vehicles",
+      "provide mobility options for",
+      "age"
+    ],
+    [
+      "Autonomous vehicles",
+      "provide mobility options for",
+      "disability"
+    ],
+    [
+      "Autonomous vehicles",
+      "increase access to",
+      "transportation"
+    ],
+    [
+      "Autonomous vehicles",
+      "ensure",
+      "safety"
+    ],
+    [
+      "high-profile incidents",
+      "involving",
+      "Autonomous vehicles"
+    ],
+    [
+      "Autonomous vehicles",
+      "gain",
+      "public trust"
+    ],
+    [
+      "Autonomous vehicles",
+      "gain",
+      "acceptance"
+    ],
+    [
+      "laws",
+      "related to",
+      "Autonomous vehicles"
+    ],
+    [
+      "regulations",
+      "related to",
+      "Autonomous vehicles"
+    ],
+    [
+      "liability",
+      "related to",
+      "Autonomous vehicles"
+    ],
+    [
+      "insurance",
+      "related to",
+      "Autonomous vehicles"
+    ],
+    [
+      "licensing",
+      "related to",
+      "Autonomous vehicles"
+    ],
+    [
+      "Governments",
+      "work with",
+      "industry stakeholders"
+    ],
+    [
+      "regulatory bodies",
+      "work with",
+      "industry stakeholders"
+    ],
+    [
+      "regulations",
+      "ensure",
+      "safety"
+    ],
+    [
+      "infrastructure",
+      "support",
+      "Autonomous vehicles"
+    ],
+    [
+      "dedicated lanes",
+      "support",
+      "Autonomous vehicles"
+    ],
+    [
+      "communication systems",
+      "support",
+      "Autonomous vehicles"
+    ],
+    [
+      "public entities",
+      "invest in",
+      "infrastructure"
+    ],
+    [
+      "private entities",
+      "invest in",
+      "infrastructure"
+    ],
+    [
+      "automakers",
+      "invest in",
+      "research and development"
+    ],
+    [
+      "technology companies",
+      "invest in",
+      "research and development"
+    ],
+    [
+      "pilot programs",
+      "underway in",
+      "cities"
+    ],
+    [
+      "Autonomous vehicles",
+      "increase",
+      "safety"
+    ],
+    [
+      "Autonomous vehicles",
+      "increase",
+      "efficiency"
+    ],
+    [
+      "Autonomous vehicles",
+      "increase",
+      "convenience"
+    ],
+    [
+      "Autonomous vehicles",
+      "play a significant role in",
+      "transportation"
+    ]
+  ],
+  "edges": [
+    "free up",
+    "react to",
+    "promise",
+    "increase access to",
+    "ensure",
+    "play a significant role in",
+    "use",
+    "states deaths in",
+    "reduce the need for",
+    "is a major contributing factor in",
+    "will play a significant role in",
+    "optimize",
+    "gain",
+    "invest in",
+    "reduce",
+    "cut down on",
+    "reduce emissions from",
+    "monitor",
+    "cause",
+    "support",
+    "replace",
+    "impact",
+    "involving",
+    "also known as",
+    "underway in",
+    "related to",
+    "compared to",
+    "can eliminate",
+    "increase",
+    "provide mobility options for",
+    "work with",
+    "have potential to revolutionize",
+    "communicate with"
+  ]
+}

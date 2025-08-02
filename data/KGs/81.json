@@ -1,0 +1,238 @@
+{
+  "entities": [
+    "architecture",
+    "society",
+    "public spaces",
+    "public buildings",
+    "government offices",
+    "libraries",
+    "museums",
+    "schools",
+    "government building",
+    "modernist library",
+    "city layout",
+    "streets",
+    "sidewalks",
+    "parks",
+    "public squares",
+    "residential areas",
+    "homes",
+    "neighborhoods",
+    "houses",
+    "economic development",
+    "buildings",
+    "infrastructure",
+    "investment",
+    "tourism",
+    "Sydney Opera House",
+    "Burj Khalifa",
+    "environment",
+    "sustainability",
+    "energy-efficient buildings",
+    "sustainable materials",
+    "technologies",
+    "carbon footprint",
+    "climate change",
+    "green spaces",
+    "urban forests",
+    "air quality",
+    "urban heat islands",
+    "wildlife",
+    "built environments",
+    "cities",
+    "communities"
+  ],
+  "relations": [
+    [
+      "architecture",
+      "shapes",
+      "society"
+    ],
+    [
+      "architecture",
+      "influences",
+      "society"
+    ],
+    [
+      "public spaces",
+      "influence",
+      "society"
+    ],
+    [
+      "public buildings",
+      "are",
+      "government offices"
+    ],
+    [
+      "public buildings",
+      "are",
+      "libraries"
+    ],
+    [
+      "public buildings",
+      "are",
+      "museums"
+    ],
+    [
+      "public buildings",
+      "are",
+      "schools"
+    ],
+    [
+      "city layout",
+      "influences",
+      "public spaces"
+    ],
+    [
+      "streets",
+      "influences",
+      "public spaces"
+    ],
+    [
+      "sidewalks",
+      "influences",
+      "public spaces"
+    ],
+    [
+      "parks",
+      "influence",
+      "public spaces"
+    ],
+    [
+      "public squares",
+      "influence",
+      "public spaces"
+    ],
+    [
+      "parks",
+      "encourage",
+      "communities"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "residential areas"
+    ],
+    [
+      "houses",
+      "lead to",
+      "communities"
+    ],
+    [
+      "architecture",
+      "influences",
+      "economic development"
+    ],
+    [
+      "buildings",
+      "attract",
+      "investment"
+    ],
+    [
+      "buildings",
+      "attract",
+      "tourism"
+    ],
+    [
+      "infrastructure",
+      "attract",
+      "investment"
+    ],
+    [
+      "infrastructure",
+      "attract",
+      "tourism"
+    ],
+    [
+      "Sydney Opera House",
+      "is",
+      "tourism"
+    ],
+    [
+      "Burj Khalifa",
+      "is",
+      "tourism"
+    ],
+    [
+      "buildings",
+      "deter",
+      "investment"
+    ],
+    [
+      "architecture",
+      "impact",
+      "environment"
+    ],
+    [
+      "architecture",
+      "impact",
+      "sustainability"
+    ],
+    [
+      "energy-efficient buildings",
+      "reduce",
+      "carbon footprint"
+    ],
+    [
+      "energy-efficient buildings",
+      "mitigate",
+      "climate change"
+    ],
+    [
+      "green spaces",
+      "improve",
+      "air quality"
+    ],
+    [
+      "urban forests",
+      "improve",
+      "air quality"
+    ],
+    [
+      "green spaces",
+      "reduce",
+      "urban heat islands"
+    ],
+    [
+      "urban forests",
+      "reduce",
+      "urban heat islands"
+    ],
+    [
+      "green spaces",
+      "provide habitat",
+      "wildlife"
+    ],
+    [
+      "urban forests",
+      "provide habitat",
+      "wildlife"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "communities"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "cities"
+    ]
+  ],
+  "edges": [
+    "lead to",
+    "provide habitat",
+    "is",
+    "shapes",
+    "influence",
+    "impact",
+    "attract",
+    "influences",
+    "encourage",
+    "mitigate",
+    "reduce",
+    "improve",
+    "deter",
+    "are"
+  ]
+}

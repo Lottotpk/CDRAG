@@ -1,0 +1,350 @@
+{
+  "entities": [
+    "Education",
+    "culture",
+    "values",
+    "beliefs",
+    "behaviors",
+    "society",
+    "shared beliefs",
+    "customs",
+    "traditions",
+    "group of people",
+    "generations",
+    "cultural knowledge",
+    "Schools",
+    "institutions",
+    "cultural values",
+    "norms",
+    "young individuals",
+    "adult lives",
+    "history classes",
+    "cultural achievements",
+    "events",
+    "sense of pride",
+    "identity",
+    "students",
+    "cultural heritage",
+    "roots",
+    "traditional customs",
+    "practices",
+    "cultural diversity",
+    "globalized world",
+    "human experiences",
+    "perspectives",
+    "empathy",
+    "tolerance",
+    "cultural backgrounds",
+    "inclusive society",
+    "harmonious society",
+    "cultural differences",
+    "cultural change",
+    "innovation",
+    "societies",
+    "cultural practices",
+    "critical thinking skills",
+    "existing norms",
+    "progress",
+    "gender equality",
+    "traditional gender roles",
+    "social change",
+    "equitable culture",
+    "cultural hegemony",
+    "dominant cultural values",
+    "marginalized groups",
+    "educational systems",
+    "cultural narratives",
+    "minority voices",
+    "perspectives",
+    "inequalities",
+    "power dynamics",
+    "cultural groups",
+    "social change",
+    "human diversity",
+    "just"
+  ],
+  "relations": [
+    [
+      "Education",
+      "shapes",
+      "culture"
+    ],
+    [
+      "Education",
+      "influences",
+      "values"
+    ],
+    [
+      "Education",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "Education",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "culture",
+      "defined as",
+      "shared beliefs"
+    ],
+    [
+      "culture",
+      "defined as",
+      "customs"
+    ],
+    [
+      "culture",
+      "defined as",
+      "traditions"
+    ],
+    [
+      "culture",
+      "of",
+      "group of people"
+    ],
+    [
+      "culture",
+      "passed down through",
+      "generations"
+    ],
+    [
+      "Education",
+      "provides",
+      "cultural knowledge"
+    ],
+    [
+      "Schools",
+      "are",
+      "institutions"
+    ],
+    [
+      "Schools",
+      "teach",
+      "cultural values"
+    ],
+    [
+      "Schools",
+      "teach",
+      "norms"
+    ],
+    [
+      "cultural values",
+      "taught to",
+      "young individuals"
+    ],
+    [
+      "young individuals",
+      "carry teachings into",
+      "adult lives"
+    ],
+    [
+      "history classes",
+      "cover",
+      "cultural achievements"
+    ],
+    [
+      "history classes",
+      "cover",
+      "events"
+    ],
+    [
+      "history classes",
+      "instill",
+      "sense of pride"
+    ],
+    [
+      "history classes",
+      "instill",
+      "identity"
+    ],
+    [
+      "students",
+      "learn about",
+      "cultural heritage"
+    ],
+    [
+      "students",
+      "develop connection to",
+      "roots"
+    ],
+    [
+      "students",
+      "uphold",
+      "traditional customs"
+    ],
+    [
+      "students",
+      "uphold",
+      "practices"
+    ],
+    [
+      "Education",
+      "promotes",
+      "cultural diversity"
+    ],
+    [
+      "globalized world",
+      "exposes to",
+      "human experiences"
+    ],
+    [
+      "Education",
+      "teaches about",
+      "human experiences"
+    ],
+    [
+      "Education",
+      "encourages",
+      "empathy"
+    ],
+    [
+      "Education",
+      "encourages",
+      "tolerance"
+    ],
+    [
+      "Education",
+      "encourages towards",
+      "cultural backgrounds"
+    ],
+    [
+      "Education",
+      "contributes to",
+      "inclusive society"
+    ],
+    [
+      "Education",
+      "contributes to",
+      "harmonious society"
+    ],
+    [
+      "inclusive society",
+      "celebrates",
+      "cultural differences"
+    ],
+    [
+      "Education",
+      "catalyst for",
+      "cultural change"
+    ],
+    [
+      "Education",
+      "catalyst for",
+      "innovation"
+    ],
+    [
+      "Education",
+      "equips with",
+      "critical thinking skills"
+    ],
+    [
+      "Education",
+      "challenges",
+      "existing norms"
+    ],
+    [
+      "Education",
+      "pushes for",
+      "progress"
+    ],
+    [
+      "Education",
+      "advances",
+      "gender equality"
+    ],
+    [
+      "Education",
+      "challenges",
+      "traditional gender roles"
+    ],
+    [
+      "Education",
+      "drives",
+      "social change"
+    ],
+    [
+      "Education",
+      "paves way for",
+      "equitable culture"
+    ],
+    [
+      "Education",
+      "can be",
+      "cultural hegemony"
+    ],
+    [
+      "cultural hegemony",
+      "imposes",
+      "dominant cultural values"
+    ],
+    [
+      "dominant cultural values",
+      "imposed on",
+      "marginalized groups"
+    ],
+    [
+      "educational systems",
+      "prioritize",
+      "cultural narratives"
+    ],
+    [
+      "Education",
+      "representative of",
+      "cultural groups"
+    ],
+    [
+      "Education",
+      "fosters",
+      "just"
+    ],
+    [
+      "Education",
+      "fosters",
+      "human diversity"
+    ],
+    [
+      "Education",
+      "drives",
+      "social change"
+    ]
+  ],
+  "edges": [
+    "contributes to",
+    "imposes",
+    "shapes",
+    "instill",
+    "uphold",
+    "prioritize",
+    "encourages",
+    "pushes for",
+    "fosters",
+    "of",
+    "carry teachings into",
+    "passed down through",
+    "defined as",
+    "can be",
+    "provides",
+    "develop connection to",
+    "paves way for",
+    "promotes",
+    "cover",
+    "exposes to",
+    "teach",
+    "teaches about",
+    "influences",
+    "encourages towards",
+    "drives",
+    "catalyst for",
+    "equips with",
+    "are",
+    "learn about",
+    "celebrates",
+    "taught to",
+    "representative of",
+    "imposed on",
+    "advances",
+    "challenges"
+  ]
+}

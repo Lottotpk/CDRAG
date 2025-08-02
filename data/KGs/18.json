@@ -1,0 +1,313 @@
+{
+  "entities": [
+    "Sleep",
+    "human health",
+    "well-being",
+    "physiological mechanisms",
+    "neurological mechanisms",
+    "sleep cycle",
+    "rapid eye movement (REM) sleep",
+    "non-REM sleep",
+    "N1 stage",
+    "consciousness",
+    "N2 stage",
+    "body temperature",
+    "heart rate",
+    "sleep spindles",
+    "K-complexes",
+    "N3 stage",
+    "slow-wave sleep",
+    "dreaming",
+    "brain activity",
+    "muscle paralysis",
+    "memory consolidation",
+    "emotional processing",
+    "physiological processes",
+    "neurotransmitters",
+    "circadian rhythm",
+    "body's internal clock",
+    "timing of sleep",
+    "wakefulness",
+    "suprachiasmatic nucleus",
+    "brain",
+    "master clock",
+    "melatonin",
+    "adenosine",
+    "serotonin",
+    "dopamine",
+    "sleep disorders",
+    "insomnia",
+    "narcolepsy",
+    "sleep apnea",
+    "light exposure",
+    "noise",
+    "temperature",
+    "lifestyle choices",
+    "blue light",
+    "electronic devices",
+    "sleep-wake cycle",
+    "immune function",
+    "metabolism",
+    "cognitive function",
+    "sleep deprivation",
+    "obesity",
+    "diabetes",
+    "cardiovascular disease",
+    "mental health disorders",
+    "overall health",
+    "quality of life"
+  ],
+  "relations": [
+    [
+      "Sleep",
+      "is essential for",
+      "human health"
+    ],
+    [
+      "Sleep",
+      "is essential for",
+      "well-being"
+    ],
+    [
+      "Sleep",
+      "involves",
+      "physiological mechanisms"
+    ],
+    [
+      "Sleep",
+      "involves",
+      "neurological mechanisms"
+    ],
+    [
+      "Sleep",
+      "is divided into",
+      "rapid eye movement (REM) sleep"
+    ],
+    [
+      "Sleep",
+      "is divided into",
+      "non-REM sleep"
+    ],
+    [
+      "N1 stage",
+      "may experience",
+      "consciousness"
+    ],
+    [
+      "N2 stage",
+      "is characterized by",
+      "body temperature"
+    ],
+    [
+      "N2 stage",
+      "is characterized by",
+      "heart rate"
+    ],
+    [
+      "N2 stage",
+      "is characterized by",
+      "sleep spindles"
+    ],
+    [
+      "N2 stage",
+      "is characterized by",
+      "K-complexes"
+    ],
+    [
+      "N3 stage",
+      "is",
+      "slow-wave sleep"
+    ],
+    [
+      "N3 stage",
+      "undergoes",
+      "physiological processes"
+    ],
+    [
+      "rapid eye movement (REM) sleep",
+      "is the stage of sleep in which",
+      "dreaming"
+    ],
+    [
+      "rapid eye movement (REM) sleep",
+      "is characterized by",
+      "brain activity"
+    ],
+    [
+      "rapid eye movement (REM) sleep",
+      "is characterized by",
+      "muscle paralysis"
+    ],
+    [
+      "rapid eye movement (REM) sleep",
+      "plays a crucial role in",
+      "memory consolidation"
+    ],
+    [
+      "rapid eye movement (REM) sleep",
+      "plays a crucial role in",
+      "emotional processing"
+    ],
+    [
+      "sleep cycle",
+      "progresses through",
+      "non-REM sleep"
+    ],
+    [
+      "sleep cycle",
+      "progresses through",
+      "rapid eye movement (REM) sleep"
+    ],
+    [
+      "circadian rhythm",
+      "plays a significant role in",
+      "timing of sleep"
+    ],
+    [
+      "circadian rhythm",
+      "plays a significant role in",
+      "wakefulness"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "acts as",
+      "master clock"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "is in the",
+      "brain"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "regulates the release of",
+      "melatonin"
+    ],
+    [
+      "melatonin",
+      "helps promote",
+      "Sleep"
+    ],
+    [
+      "adenosine",
+      "promotes",
+      "Sleep"
+    ],
+    [
+      "serotonin",
+      "play a role in the regulation of",
+      "Sleep"
+    ],
+    [
+      "dopamine",
+      "play a role in the regulation of",
+      "Sleep"
+    ],
+    [
+      "sleep disorders",
+      "can lead to",
+      "sleep disorders"
+    ],
+    [
+      "insomnia",
+      "is a",
+      "sleep disorders"
+    ],
+    [
+      "narcolepsy",
+      "is a",
+      "sleep disorders"
+    ],
+    [
+      "sleep apnea",
+      "is a",
+      "sleep disorders"
+    ],
+    [
+      "blue light",
+      "can interfere with",
+      "melatonin"
+    ],
+    [
+      "blue light",
+      "can disrupt",
+      "sleep-wake cycle"
+    ],
+    [
+      "Sleep",
+      "plays a crucial role in",
+      "immune function"
+    ],
+    [
+      "Sleep",
+      "plays a crucial role in",
+      "metabolism"
+    ],
+    [
+      "Sleep",
+      "plays a crucial role in",
+      "cognitive function"
+    ],
+    [
+      "sleep deprivation",
+      "has been linked to",
+      "obesity"
+    ],
+    [
+      "sleep deprivation",
+      "has been linked to",
+      "diabetes"
+    ],
+    [
+      "sleep deprivation",
+      "has been linked to",
+      "cardiovascular disease"
+    ],
+    [
+      "sleep deprivation",
+      "has been linked to",
+      "mental health disorders"
+    ],
+    [
+      "Sleep",
+      "can improve",
+      "overall health"
+    ],
+    [
+      "Sleep",
+      "can enhance",
+      "quality of life"
+    ],
+    [
+      "Sleep",
+      "can enhance",
+      "well-being"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "undergoes",
+    "is in the",
+    "helps promote",
+    "is",
+    "can lead to",
+    "may experience",
+    "can enhance",
+    "is essential for",
+    "is characterized by",
+    "regulates the release of",
+    "plays a significant role in",
+    "plays a crucial role in",
+    "can improve",
+    "can disrupt",
+    "promotes",
+    "can interfere with",
+    "is divided into",
+    "has been linked to",
+    "progresses through",
+    "is a",
+    "acts as",
+    "is the stage of sleep in which",
+    "play a role in the regulation of"
+  ]
+}

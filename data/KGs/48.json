@@ -1,0 +1,299 @@
+{
+  "entities": [
+    "Spiders",
+    "creatures",
+    "webs",
+    "homes",
+    "hunting grounds",
+    "prey",
+    "skill",
+    "precision",
+    "instinct",
+    "location",
+    "areas",
+    "food",
+    "silk",
+    "spinnerets",
+    "glands",
+    "abdomen",
+    "material",
+    "protein molecules",
+    "egg sacs",
+    "mating rituals",
+    "branch",
+    "wall",
+    "anchor line",
+    "radial lines",
+    "framework",
+    "structure",
+    "spiral lines",
+    "circular pattern",
+    "adhesive substance",
+    "tension",
+    "strength",
+    "silk strands",
+    "trap line",
+    "signal line",
+    "vibrations",
+    "food",
+    "bite",
+    "consumption"
+  ],
+  "relations": [
+    [
+      "Spiders",
+      "are",
+      "creatures"
+    ],
+    [
+      "Spiders",
+      "are known for",
+      "skill"
+    ],
+    [
+      "Spiders",
+      "are known for",
+      "precision"
+    ],
+    [
+      "Spiders",
+      "are known for",
+      "instinct"
+    ],
+    [
+      "webs",
+      "serve as",
+      "homes"
+    ],
+    [
+      "webs",
+      "serve as",
+      "hunting grounds"
+    ],
+    [
+      "webs",
+      "allow to catch",
+      "prey"
+    ],
+    [
+      "Spiders",
+      "select",
+      "location"
+    ],
+    [
+      "Spiders",
+      "choose",
+      "areas"
+    ],
+    [
+      "Spiders",
+      "choose",
+      "food"
+    ],
+    [
+      "Spiders",
+      "produce",
+      "silk"
+    ],
+    [
+      "silk",
+      "from",
+      "spinnerets"
+    ],
+    [
+      "spinnerets",
+      "are",
+      "glands"
+    ],
+    [
+      "glands",
+      "located at",
+      "abdomen"
+    ],
+    [
+      "silk",
+      "is",
+      "material"
+    ],
+    [
+      "silk",
+      "composed of",
+      "protein molecules"
+    ],
+    [
+      "Spiders",
+      "produce",
+      "silk"
+    ],
+    [
+      "Spiders",
+      "produce",
+      "egg sacs"
+    ],
+    [
+      "Spiders",
+      "produce",
+      "mating rituals"
+    ],
+    [
+      "Spiders",
+      "anchor",
+      "silk"
+    ],
+    [
+      "silk",
+      "to",
+      "branch"
+    ],
+    [
+      "silk",
+      "to",
+      "wall"
+    ],
+    [
+      "Spiders",
+      "build",
+      "anchor line"
+    ],
+    [
+      "Spiders",
+      "construct",
+      "radial lines"
+    ],
+    [
+      "radial lines",
+      "serve as",
+      "framework"
+    ],
+    [
+      "radial lines",
+      "form",
+      "structure"
+    ],
+    [
+      "Spiders",
+      "lay down",
+      "spiral lines"
+    ],
+    [
+      "Spiders",
+      "moving in",
+      "circular pattern"
+    ],
+    [
+      "spiral lines",
+      "are",
+      "adhesive substance"
+    ],
+    [
+      "adhesive substance",
+      "helps to trap",
+      "prey"
+    ],
+    [
+      "Spiders",
+      "test",
+      "tension"
+    ],
+    [
+      "Spiders",
+      "test",
+      "strength"
+    ],
+    [
+      "Spiders",
+      "test",
+      "silk strands"
+    ],
+    [
+      "Spiders",
+      "build",
+      "webs"
+    ],
+    [
+      "Spiders",
+      "using",
+      "instinct"
+    ],
+    [
+      "Spiders",
+      "placement of",
+      "trap line"
+    ],
+    [
+      "trap line",
+      "serves as",
+      "signal line"
+    ],
+    [
+      "Spiders",
+      "feel",
+      "vibrations"
+    ],
+    [
+      "Spiders",
+      "immobilize with",
+      "bite"
+    ],
+    [
+      "Spiders",
+      "wrap",
+      "prey"
+    ],
+    [
+      "Spiders",
+      "for",
+      "consumption"
+    ],
+    [
+      "Spiders",
+      "demonstrate",
+      "skill"
+    ],
+    [
+      "Spiders",
+      "demonstrate",
+      "precision"
+    ],
+    [
+      "webs",
+      "serve as",
+      "homes"
+    ],
+    [
+      "webs",
+      "serve as",
+      "hunting grounds"
+    ]
+  ],
+  "edges": [
+    "produce",
+    "is",
+    "composed of",
+    "located at",
+    "to",
+    "immobilize with",
+    "feel",
+    "helps to trap",
+    "build",
+    "test",
+    "anchor",
+    "are",
+    "placement of",
+    "select",
+    "choose",
+    "for",
+    "using",
+    "serves as",
+    "serve as",
+    "allow to catch",
+    "wrap",
+    "are known for",
+    "construct",
+    "demonstrate",
+    "lay down",
+    "form",
+    "from",
+    "moving in"
+  ]
+}

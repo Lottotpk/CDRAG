@@ -1,0 +1,507 @@
+{
+  "entities": [
+    "Libraries",
+    "society",
+    "knowledge",
+    "culture",
+    "information",
+    "books",
+    "resources",
+    "educational programs",
+    "community services",
+    "individuals",
+    "community",
+    "magazines",
+    "newspapers",
+    "electronic databases",
+    "patrons",
+    "ideas",
+    "horizons",
+    "digital collections",
+    "online resources",
+    "educational institutions",
+    "lifelong learning",
+    "literacy initiatives",
+    "children",
+    "adult education classes",
+    "workshops",
+    "digital divide",
+    "technology",
+    "internet",
+    "digital world",
+    "academic growth",
+    "professional growth",
+    "personal growth",
+    "computers",
+    "internet services",
+    "digital resources",
+    "digital literacy skills",
+    "digital economy",
+    "gathering spaces",
+    "discussions",
+    "events",
+    "cultural activities",
+    "community events",
+    "book clubs",
+    "cultural institutions",
+    "manuscripts",
+    "archives",
+    "cultural artifacts",
+    "collective memory",
+    "heritage",
+    "exhibitions",
+    "lectures",
+    "cultural programs",
+    "cultural identity",
+    "intellectual freedom",
+    "democracy",
+    "viewpoints",
+    "bastions of intellectual freedom",
+    "censorship",
+    "privacy",
+    "critical thinking",
+    "information literacy",
+    "informed citizenship",
+    "democratic discourse",
+    "advancement of society",
+    "beacons of knowledge"
+  ],
+  "relations": [
+    [
+      "Libraries",
+      "are",
+      "society"
+    ],
+    [
+      "Libraries",
+      "are",
+      "knowledge"
+    ],
+    [
+      "Libraries",
+      "are",
+      "culture"
+    ],
+    [
+      "Libraries",
+      "are",
+      "information"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "books"
+    ],
+    [
+      "Libraries",
+      "offer",
+      "educational programs"
+    ],
+    [
+      "Libraries",
+      "offer",
+      "community services"
+    ],
+    [
+      "Libraries",
+      "enrich",
+      "individuals"
+    ],
+    [
+      "Libraries",
+      "foster",
+      "community"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "resources"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "books"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "magazines"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "newspapers"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "electronic databases"
+    ],
+    [
+      "Libraries",
+      "cater to",
+      "patrons"
+    ],
+    [
+      "Libraries",
+      "allow to",
+      "ideas"
+    ],
+    [
+      "Libraries",
+      "allow to",
+      "horizons"
+    ],
+    [
+      "Libraries",
+      "allow to",
+      "knowledge"
+    ],
+    [
+      "Libraries",
+      "offer",
+      "digital collections"
+    ],
+    [
+      "Libraries",
+      "offer",
+      "online resources"
+    ],
+    [
+      "Libraries",
+      "are",
+      "educational institutions"
+    ],
+    [
+      "Libraries",
+      "support",
+      "lifelong learning"
+    ],
+    [
+      "Libraries",
+      "support",
+      "literacy initiatives"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "resources"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "lifelong learning"
+    ],
+    [
+      "Libraries",
+      "empower",
+      "individuals"
+    ],
+    [
+      "Libraries",
+      "contribute to",
+      "society"
+    ],
+    [
+      "Libraries",
+      "bridge",
+      "digital divide"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "technology"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "internet"
+    ],
+    [
+      "Libraries",
+      "enable to",
+      "digital literacy skills"
+    ],
+    [
+      "Libraries",
+      "enable to",
+      "digital economy"
+    ],
+    [
+      "Libraries",
+      "are",
+      "community"
+    ],
+    [
+      "Libraries",
+      "provide access to",
+      "computers"
+    ],
+    [
+      "Libraries",
+      "provide access to",
+      "internet services"
+    ],
+    [
+      "Libraries",
+      "provide access to",
+      "digital resources"
+    ],
+    [
+      "Libraries",
+      "foster",
+      "community"
+    ],
+    [
+      "Libraries",
+      "foster",
+      "community"
+    ],
+    [
+      "Libraries",
+      "are",
+      "gathering spaces"
+    ],
+    [
+      "Libraries",
+      "engage in",
+      "discussions"
+    ],
+    [
+      "Libraries",
+      "attend",
+      "events"
+    ],
+    [
+      "Libraries",
+      "participate in",
+      "cultural activities"
+    ],
+    [
+      "Libraries",
+      "host",
+      "community events"
+    ],
+    [
+      "Libraries",
+      "host",
+      "book clubs"
+    ],
+    [
+      "Libraries",
+      "host",
+      "workshops"
+    ],
+    [
+      "Libraries",
+      "create",
+      "individuals"
+    ],
+    [
+      "Libraries",
+      "are",
+      "cultural institutions"
+    ],
+    [
+      "Libraries",
+      "collect",
+      "books"
+    ],
+    [
+      "Libraries",
+      "collect",
+      "manuscripts"
+    ],
+    [
+      "Libraries",
+      "collect",
+      "archives"
+    ],
+    [
+      "Libraries",
+      "collect",
+      "cultural artifacts"
+    ],
+    [
+      "Libraries",
+      "safeguard",
+      "collective memory"
+    ],
+    [
+      "Libraries",
+      "safeguard",
+      "heritage"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "exhibitions"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "lectures"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "cultural programs"
+    ],
+    [
+      "Libraries",
+      "explore",
+      "cultural identity"
+    ],
+    [
+      "Libraries",
+      "celebrate",
+      "cultural identity"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "intellectual freedom"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "democracy"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "viewpoints"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "ideas"
+    ],
+    [
+      "Libraries",
+      "uphold",
+      "intellectual freedom"
+    ],
+    [
+      "Libraries",
+      "uphold",
+      "censorship"
+    ],
+    [
+      "Libraries",
+      "uphold",
+      "privacy"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "critical thinking"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "information literacy"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "informed citizenship"
+    ],
+    [
+      "Libraries",
+      "empower",
+      "individuals"
+    ],
+    [
+      "Libraries",
+      "engage in",
+      "democratic discourse"
+    ],
+    [
+      "Libraries",
+      "contribute to",
+      "advancement of society"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "knowledge"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "community"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "culture"
+    ],
+    [
+      "Libraries",
+      "promote",
+      "democracy"
+    ],
+    [
+      "Libraries",
+      "provide",
+      "technology"
+    ],
+    [
+      "Libraries",
+      "create",
+      "community"
+    ],
+    [
+      "Libraries",
+      "enrich",
+      "individuals"
+    ],
+    [
+      "Libraries",
+      "contribute to",
+      "society"
+    ],
+    [
+      "Libraries",
+      "are",
+      "beacons of knowledge"
+    ],
+    [
+      "Libraries",
+      "are",
+      "culture"
+    ],
+    [
+      "Libraries",
+      "are",
+      "community"
+    ]
+  ],
+  "edges": [
+    "contribute to",
+    "uphold",
+    "host",
+    "participate in",
+    "bridge",
+    "provide access to",
+    "cater to",
+    "attend",
+    "support",
+    "provide",
+    "foster",
+    "enrich",
+    "offer",
+    "allow to",
+    "create",
+    "engage in",
+    "celebrate",
+    "promote",
+    "enable to",
+    "are",
+    "empower",
+    "safeguard",
+    "collect",
+    "explore"
+  ]
+}

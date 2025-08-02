@@ -1,0 +1,328 @@
+{
+  "entities": [
+    "Origami",
+    "Japanese art",
+    "paper folding",
+    "mathematical principles",
+    "theories",
+    "mathematics",
+    "geometric concepts",
+    "theorems",
+    "applications",
+    "engineering",
+    "computer science",
+    "flat sheet of paper",
+    "three-dimensional structures",
+    "folds",
+    "paper's edges",
+    "angles",
+    "vertices",
+    "symmetry",
+    "proportion",
+    "geometry",
+    "origami artists",
+    "enthusiasts",
+    "designs",
+    "geometry",
+    "shapes",
+    "dimensions",
+    "Euclidean geometry",
+    "symmetrical designs",
+    "symmetry",
+    "balance",
+    "harmony",
+    "patterns",
+    "symmetrical folds",
+    "repetitions",
+    "structurally sound models",
+    "final creation",
+    "stability",
+    "folded structure",
+    "ratio",
+    "dimensions",
+    "folds",
+    "creases",
+    "paper",
+    "precise shapes",
+    "architecture",
+    "material science",
+    "engineers",
+    "designers",
+    "origami-inspired principles",
+    "deployable solar panels",
+    "medical devices",
+    "researchers",
+    "efficient designs",
+    "adaptable designs",
+    "computational origami",
+    "algorithms",
+    "software programs",
+    "folding patterns",
+    "graph theory",
+    "computational geometry",
+    "advanced origami models",
+    "robotics",
+    "artificial intelligence",
+    "art",
+    "science",
+    "technology",
+    "innovative advancements"
+  ],
+  "relations": [
+    [
+      "Origami",
+      "is",
+      "Japanese art"
+    ],
+    [
+      "Origami",
+      "is",
+      "paper folding"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "mathematical principles"
+    ],
+    [
+      "paper folding",
+      "involves",
+      "theories"
+    ],
+    [
+      "mathematics",
+      "intersection with",
+      "Origami"
+    ],
+    [
+      "mathematics",
+      "led to development of",
+      "geometric concepts"
+    ],
+    [
+      "mathematics",
+      "led to development of",
+      "theorems"
+    ],
+    [
+      "mathematics",
+      "led to development of",
+      "applications"
+    ],
+    [
+      "applications",
+      "in",
+      "engineering"
+    ],
+    [
+      "applications",
+      "in",
+      "computer science"
+    ],
+    [
+      "Origami",
+      "involves",
+      "flat sheet of paper"
+    ],
+    [
+      "Origami",
+      "transforms into",
+      "three-dimensional structures"
+    ],
+    [
+      "folds",
+      "manipulates",
+      "paper's edges"
+    ],
+    [
+      "folds",
+      "manipulates",
+      "angles"
+    ],
+    [
+      "folds",
+      "manipulates",
+      "vertices"
+    ],
+    [
+      "folds",
+      "guided by",
+      "mathematical principles"
+    ],
+    [
+      "mathematical principles",
+      "include",
+      "symmetry"
+    ],
+    [
+      "mathematical principles",
+      "include",
+      "proportion"
+    ],
+    [
+      "mathematical principles",
+      "include",
+      "geometry"
+    ],
+    [
+      "origami artists",
+      "create",
+      "designs"
+    ],
+    [
+      "geometry",
+      "is",
+      "shapes"
+    ],
+    [
+      "geometry",
+      "plays role in",
+      "paper folding"
+    ],
+    [
+      "Euclidean geometry",
+      "is a type of",
+      "geometry"
+    ],
+    [
+      "symmetry",
+      "refers to",
+      "balance"
+    ],
+    [
+      "symmetry",
+      "refers to",
+      "harmony"
+    ],
+    [
+      "symmetry",
+      "enhances",
+      "final creation"
+    ],
+    [
+      "symmetry",
+      "ensures",
+      "stability"
+    ],
+    [
+      "symmetry",
+      "ensures",
+      "balance"
+    ],
+    [
+      "Origami",
+      "involves",
+      "proportion"
+    ],
+    [
+      "Origami",
+      "involves",
+      "ratio"
+    ],
+    [
+      "mathematical principles",
+      "have applications in",
+      "engineering"
+    ],
+    [
+      "mathematical principles",
+      "have applications in",
+      "architecture"
+    ],
+    [
+      "mathematical principles",
+      "have applications in",
+      "material science"
+    ],
+    [
+      "origami-inspired principles",
+      "develop",
+      "deployable solar panels"
+    ],
+    [
+      "origami-inspired principles",
+      "develop",
+      "medical devices"
+    ],
+    [
+      "computer science",
+      "involves",
+      "computational origami"
+    ],
+    [
+      "computational origami",
+      "develops",
+      "algorithms"
+    ],
+    [
+      "computational origami",
+      "develops",
+      "software programs"
+    ],
+    [
+      "algorithms",
+      "simulate",
+      "folding patterns"
+    ],
+    [
+      "software programs",
+      "analyze",
+      "folding patterns"
+    ],
+    [
+      "advanced origami models",
+      "explore",
+      "robotics"
+    ],
+    [
+      "advanced origami models",
+      "explore",
+      "artificial intelligence"
+    ],
+    [
+      "mathematics",
+      "combines",
+      "art"
+    ],
+    [
+      "mathematics",
+      "combines",
+      "science"
+    ],
+    [
+      "mathematics",
+      "combines",
+      "technology"
+    ],
+    [
+      "mathematics",
+      "paves way for",
+      "innovative advancements"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "is",
+    "plays role in",
+    "have applications in",
+    "create",
+    "transforms into",
+    "explore",
+    "guided by",
+    "simulate",
+    "enhances",
+    "develops",
+    "analyze",
+    "intersection with",
+    "paves way for",
+    "led to development of",
+    "include",
+    "manipulates",
+    "combines",
+    "ensures",
+    "refers to",
+    "develop",
+    "in",
+    "is a type of"
+  ]
+}

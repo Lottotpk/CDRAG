@@ -1,0 +1,230 @@
+{
+  "entities": [
+    "Penicillin",
+    "bacterial infections",
+    "Sir Alexander Fleming",
+    "Scottish bacteriologist",
+    "St. Mary's Hospital",
+    "London",
+    "Staphylococcus bacteria",
+    "petri dish",
+    "mold",
+    "Penicillium genus",
+    "antibacterial properties",
+    "antibiotic drug",
+    "Howard Florey",
+    "Ernst Chain",
+    "University of Oxford",
+    "World War II",
+    "soldiers",
+    "civilians",
+    "bacterial pathogens",
+    "infectious diseases",
+    "pneumonia",
+    "sepsis",
+    "streptococcal infections",
+    "mortality",
+    "antibiotics",
+    "antibiotic-resistant bacteria",
+    "global public health",
+    "antimicrobial agents",
+    "resistant strains of bacteria",
+    "healthcare"
+  ],
+  "relations": [
+    [
+      "Penicillin",
+      "revolutionizing the treatment of",
+      "bacterial infections"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "is",
+      "Scottish bacteriologist"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "credited with the discovery of",
+      "Penicillin"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "working at",
+      "St. Mary's Hospital"
+    ],
+    [
+      "St. Mary's Hospital",
+      "in",
+      "London"
+    ],
+    [
+      "Sir Alexander Fleming",
+      "researching the properties of",
+      "Staphylococcus bacteria"
+    ],
+    [
+      "Staphylococcus bacteria",
+      "contained in",
+      "petri dish"
+    ],
+    [
+      "petri dish",
+      "contaminated with",
+      "mold"
+    ],
+    [
+      "mold",
+      "belonging to",
+      "Penicillium genus"
+    ],
+    [
+      "mold",
+      "producing",
+      "antibacterial properties"
+    ],
+    [
+      "Penicillin",
+      "has",
+      "antibacterial properties"
+    ],
+    [
+      "Penicillin",
+      "laid the foundation for",
+      "antibiotic drug"
+    ],
+    [
+      "Howard Florey",
+      "led team at",
+      "University of Oxford"
+    ],
+    [
+      "Ernst Chain",
+      "led team at",
+      "University of Oxford"
+    ],
+    [
+      "Howard Florey",
+      "led team with",
+      "Ernst Chain"
+    ],
+    [
+      "Penicillin",
+      "discovery coincided with",
+      "World War II"
+    ],
+    [
+      "Penicillin",
+      "used during",
+      "World War II"
+    ],
+    [
+      "Penicillin",
+      "saved lives of",
+      "soldiers"
+    ],
+    [
+      "Penicillin",
+      "saved lives of",
+      "civilians"
+    ],
+    [
+      "Penicillin",
+      "combats",
+      "bacterial pathogens"
+    ],
+    [
+      "Penicillin",
+      "treatment of",
+      "infectious diseases"
+    ],
+    [
+      "pneumonia",
+      "was a major cause of",
+      "mortality"
+    ],
+    [
+      "sepsis",
+      "was a major cause of",
+      "mortality"
+    ],
+    [
+      "streptococcal infections",
+      "was a major cause of",
+      "mortality"
+    ],
+    [
+      "Penicillin",
+      "revolutionized the treatment of",
+      "pneumonia"
+    ],
+    [
+      "Penicillin",
+      "revolutionized the treatment of",
+      "sepsis"
+    ],
+    [
+      "Penicillin",
+      "revolutionized the treatment of",
+      "streptococcal infections"
+    ],
+    [
+      "Penicillin",
+      "paved the way for",
+      "antibiotics"
+    ],
+    [
+      "antibiotics",
+      "led to",
+      "antibiotic-resistant bacteria"
+    ],
+    [
+      "antibiotic-resistant bacteria",
+      "posing a challenge to",
+      "global public health"
+    ],
+    [
+      "antimicrobial agents",
+      "combat",
+      "resistant strains of bacteria"
+    ],
+    [
+      "Penicillin",
+      "continues to shape",
+      "healthcare"
+    ],
+    [
+      "antibiotics",
+      "used in",
+      "healthcare"
+    ]
+  ],
+  "edges": [
+    "is",
+    "credited with the discovery of",
+    "led to",
+    "continues to shape",
+    "revolutionizing the treatment of",
+    "researching the properties of",
+    "working at",
+    "laid the foundation for",
+    "revolutionized the treatment of",
+    "has",
+    "used during",
+    "was a major cause of",
+    "producing",
+    "treatment of",
+    "used in",
+    "posing a challenge to",
+    "belonging to",
+    "in",
+    "led team with",
+    "combats",
+    "contained in",
+    "saved lives of",
+    "combat",
+    "paved the way for",
+    "discovery coincided with",
+    "contaminated with",
+    "led team at"
+  ]
+}

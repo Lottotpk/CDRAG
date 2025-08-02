@@ -1,0 +1,202 @@
+{
+  "entities": [
+    "Roller coasters",
+    "amusement park rides",
+    "riders",
+    "twists",
+    "turns",
+    "drops",
+    "loops",
+    "physics",
+    "forces",
+    "energy conservation",
+    "acceleration",
+    "velocity",
+    "gravitational force",
+    "center of the Earth",
+    "roller coaster car",
+    "hill",
+    "gravity",
+    "weightlessness",
+    "airtime",
+    "centripetal force",
+    "track",
+    "circular path",
+    "friction",
+    "wheels",
+    "traction",
+    "stability",
+    "sharp turns",
+    "roller coaster designers",
+    "mechanical energy",
+    "kinetic energy",
+    "energy of motion",
+    "potential energy",
+    "energy of position",
+    "system",
+    "rate of change of velocity",
+    "direction",
+    "engineering"
+  ],
+  "relations": [
+    [
+      "Roller coasters",
+      "are",
+      "amusement park rides"
+    ],
+    [
+      "Roller coasters",
+      "provide",
+      "twists"
+    ],
+    [
+      "Roller coasters",
+      "provide",
+      "turns"
+    ],
+    [
+      "Roller coasters",
+      "provide",
+      "drops"
+    ],
+    [
+      "Roller coasters",
+      "provide",
+      "loops"
+    ],
+    [
+      "physics",
+      "includes",
+      "forces"
+    ],
+    [
+      "physics",
+      "includes",
+      "energy conservation"
+    ],
+    [
+      "physics",
+      "includes",
+      "acceleration"
+    ],
+    [
+      "physics",
+      "includes",
+      "velocity"
+    ],
+    [
+      "gravitational force",
+      "pulls objects toward",
+      "center of the Earth"
+    ],
+    [
+      "gravity",
+      "pulls",
+      "roller coaster car"
+    ],
+    [
+      "acceleration",
+      "creates",
+      "weightlessness"
+    ],
+    [
+      "acceleration",
+      "creates",
+      "airtime"
+    ],
+    [
+      "centripetal force",
+      "keeps",
+      "roller coaster car"
+    ],
+    [
+      "centripetal force",
+      "directed toward",
+      "circular path"
+    ],
+    [
+      "centripetal force",
+      "created by",
+      "track"
+    ],
+    [
+      "friction",
+      "provides",
+      "traction"
+    ],
+    [
+      "friction",
+      "provides",
+      "stability"
+    ],
+    [
+      "roller coaster designers",
+      "consider",
+      "friction"
+    ],
+    [
+      "Roller coasters",
+      "rely on",
+      "energy conservation"
+    ],
+    [
+      "mechanical energy",
+      "is",
+      "kinetic energy"
+    ],
+    [
+      "mechanical energy",
+      "is",
+      "potential energy"
+    ],
+    [
+      "potential energy",
+      "converted into",
+      "kinetic energy"
+    ],
+    [
+      "acceleration",
+      "is",
+      "rate of change of velocity"
+    ],
+    [
+      "forces",
+      "contribute to",
+      "acceleration"
+    ],
+    [
+      "velocity",
+      "is",
+      "direction"
+    ],
+    [
+      "Roller coasters",
+      "reach",
+      "velocity"
+    ],
+    [
+      "Roller coasters",
+      "showcases",
+      "physics"
+    ]
+  ],
+  "edges": [
+    "created by",
+    "consider",
+    "converted into",
+    "are",
+    "keeps",
+    "reach",
+    "provide",
+    "is",
+    "pulls objects toward",
+    "pulls",
+    "provides",
+    "contribute to",
+    "showcases",
+    "rely on",
+    "directed toward",
+    "creates",
+    "includes"
+  ]
+}

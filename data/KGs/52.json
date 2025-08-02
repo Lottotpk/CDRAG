@@ -1,0 +1,284 @@
+{
+  "entities": [
+    "Body language",
+    "communication",
+    "individuals",
+    "facial expressions",
+    "gestures",
+    "posture",
+    "emotions",
+    "intentions",
+    "people",
+    "social interactions",
+    "relationships",
+    "smiles",
+    "frowns",
+    "eyebrows",
+    "happiness",
+    "friendliness",
+    "brow",
+    "confusion",
+    "concern",
+    "cues",
+    "behavior",
+    "thumbs up",
+    "messages",
+    "words",
+    "arms",
+    "defensiveness",
+    "discomfort",
+    "agreement",
+    "understanding",
+    "thoughts",
+    "feelings",
+    "shoulders",
+    "confidence",
+    "assertiveness",
+    "insecurity",
+    "disinterest",
+    "person's posture",
+    "rapport",
+    "connection",
+    "dynamics",
+    "nonverbal communication",
+    "eye contact",
+    "conversation",
+    "attentiveness",
+    "engagement",
+    "dishonesty",
+    "distance",
+    "proxemics",
+    "cultural cues",
+    "personal cues",
+    "contexts",
+    "professional settings",
+    "authority",
+    "social settings",
+    "romantic body language",
+    "touching",
+    "gazing",
+    "mirroring gestures",
+    "attraction",
+    "intimacy",
+    "nonverbal cues",
+    "conflicts",
+    "communication skills",
+    "art"
+  ],
+  "relations": [
+    [
+      "Body language",
+      "is a form of",
+      "communication"
+    ],
+    [
+      "Body language",
+      "conveys",
+      "emotions"
+    ],
+    [
+      "Body language",
+      "conveys",
+      "intentions"
+    ],
+    [
+      "Body language",
+      "impacts",
+      "social interactions"
+    ],
+    [
+      "Body language",
+      "impacts",
+      "relationships"
+    ],
+    [
+      "facial expressions",
+      "signal",
+      "emotions"
+    ],
+    [
+      "smiles",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "smiles",
+      "associated with",
+      "friendliness"
+    ],
+    [
+      "brow",
+      "indicate",
+      "confusion"
+    ],
+    [
+      "brow",
+      "indicate",
+      "concern"
+    ],
+    [
+      "gestures",
+      "convey",
+      "messages"
+    ],
+    [
+      "arms",
+      "signal",
+      "defensiveness"
+    ],
+    [
+      "arms",
+      "signal",
+      "discomfort"
+    ],
+    [
+      "agreement",
+      "indicate",
+      "understanding"
+    ],
+    [
+      "posture",
+      "reveal",
+      "thoughts"
+    ],
+    [
+      "posture",
+      "reveal",
+      "feelings"
+    ],
+    [
+      "shoulders",
+      "associated with",
+      "confidence"
+    ],
+    [
+      "shoulders",
+      "associated with",
+      "assertiveness"
+    ],
+    [
+      "person's posture",
+      "suggest",
+      "insecurity"
+    ],
+    [
+      "person's posture",
+      "suggest",
+      "disinterest"
+    ],
+    [
+      "person's posture",
+      "establish",
+      "rapport"
+    ],
+    [
+      "person's posture",
+      "create",
+      "connection"
+    ],
+    [
+      "eye contact",
+      "signal",
+      "attentiveness"
+    ],
+    [
+      "eye contact",
+      "signal",
+      "engagement"
+    ],
+    [
+      "eye contact",
+      "suggest",
+      "dishonesty"
+    ],
+    [
+      "proxemics",
+      "convey",
+      "cultural cues"
+    ],
+    [
+      "proxemics",
+      "convey",
+      "personal cues"
+    ],
+    [
+      "Body language",
+      "project",
+      "authority"
+    ],
+    [
+      "Body language",
+      "project",
+      "confidence"
+    ],
+    [
+      "Body language",
+      "establish",
+      "rapport"
+    ],
+    [
+      "Body language",
+      "build",
+      "connection"
+    ],
+    [
+      "romantic body language",
+      "signal",
+      "attraction"
+    ],
+    [
+      "romantic body language",
+      "signal",
+      "intimacy"
+    ],
+    [
+      "nonverbal cues",
+      "make up",
+      "communication"
+    ],
+    [
+      "Body language",
+      "improve",
+      "communication skills"
+    ],
+    [
+      "Body language",
+      "resolve",
+      "conflicts"
+    ],
+    [
+      "Body language",
+      "build",
+      "relationships"
+    ],
+    [
+      "Body language",
+      "lead to",
+      "social interactions"
+    ],
+    [
+      "Body language",
+      "lead to",
+      "relationships"
+    ]
+  ],
+  "edges": [
+    "lead to",
+    "convey",
+    "establish",
+    "create",
+    "signal",
+    "make up",
+    "impacts",
+    "is a form of",
+    "suggest",
+    "build",
+    "resolve",
+    "conveys",
+    "indicate",
+    "reveal",
+    "project",
+    "improve",
+    "associated with"
+  ]
+}

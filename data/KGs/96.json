@@ -1,0 +1,290 @@
+{
+  "entities": [
+    "Human cloning",
+    "human identity",
+    "genetic material",
+    "scientists",
+    "policymakers",
+    "general public",
+    "individuality",
+    "personal identity",
+    "genetic replica",
+    "clone",
+    "original person",
+    "human beings",
+    "commodities",
+    "objects",
+    "identical twins",
+    "genetic makeup",
+    "exploitation",
+    "abuse",
+    "designer babies",
+    "specific traits",
+    "characteristics",
+    "unethical experiments",
+    "organ harvesting",
+    "armies",
+    "genetically identical soldiers",
+    "deceased individuals",
+    "consent",
+    "moral and religious questions",
+    "sanctity of life",
+    "creator",
+    "religious traditions",
+    "natural order",
+    "divine",
+    "higher power",
+    "morality",
+    "spirituality",
+    "ethicists",
+    "medicine",
+    "healthcare",
+    "patient-specific stem cells",
+    "regenerative therapies",
+    "organs",
+    "transplantation",
+    "genetic diseases",
+    "targeted treatments",
+    "medical research",
+    "treatment",
+    "ethical dilemmas",
+    "scientific inquiry",
+    "moral obligations",
+    "knowledge",
+    "innovation"
+  ],
+  "relations": [
+    [
+      "Human cloning",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "moral and religious questions"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "human identity"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "sanctity of life"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "genetic material"
+    ],
+    [
+      "scientists",
+      "concerned about",
+      "Human cloning"
+    ],
+    [
+      "policymakers",
+      "concerned about",
+      "Human cloning"
+    ],
+    [
+      "general public",
+      "concerned about",
+      "Human cloning"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "individuality"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "personal identity"
+    ],
+    [
+      "clone",
+      "is",
+      "genetic replica"
+    ],
+    [
+      "Human cloning",
+      "undermines",
+      "individuality"
+    ],
+    [
+      "Human cloning",
+      "undermines",
+      "personal identity"
+    ],
+    [
+      "human beings",
+      "reduced to",
+      "commodities"
+    ],
+    [
+      "human beings",
+      "reduced to",
+      "objects"
+    ],
+    [
+      "identical twins",
+      "share",
+      "genetic makeup"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "exploitation"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "abuse"
+    ],
+    [
+      "Human cloning",
+      "could be misused for",
+      "designer babies"
+    ],
+    [
+      "Human cloning",
+      "could be misused for",
+      "unethical experiments"
+    ],
+    [
+      "Human cloning",
+      "could be misused for",
+      "organ harvesting"
+    ],
+    [
+      "Human cloning",
+      "could be used for",
+      "armies"
+    ],
+    [
+      "Human cloning",
+      "could be used for",
+      "deceased individuals"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "moral and religious questions"
+    ],
+    [
+      "religious traditions",
+      "view",
+      "Human cloning"
+    ],
+    [
+      "Human cloning",
+      "is a violation of",
+      "natural order"
+    ],
+    [
+      "Human cloning",
+      "is an affront to",
+      "divine"
+    ],
+    [
+      "Human cloning",
+      "challenges",
+      "morality"
+    ],
+    [
+      "Human cloning",
+      "challenges",
+      "spirituality"
+    ],
+    [
+      "Human cloning",
+      "has",
+      "medicine"
+    ],
+    [
+      "Human cloning",
+      "has",
+      "healthcare"
+    ],
+    [
+      "Human cloning",
+      "could be used to create",
+      "patient-specific stem cells"
+    ],
+    [
+      "Human cloning",
+      "could be used to produce",
+      "organs"
+    ],
+    [
+      "Human cloning",
+      "could be used to study",
+      "genetic diseases"
+    ],
+    [
+      "Human cloning",
+      "could be used to develop",
+      "targeted treatments"
+    ],
+    [
+      "Human cloning",
+      "has",
+      "medical research"
+    ],
+    [
+      "Human cloning",
+      "has",
+      "treatment"
+    ],
+    [
+      "Human cloning",
+      "forces us to confront",
+      "moral obligations"
+    ],
+    [
+      "Human cloning",
+      "holds promise for",
+      "scientific inquiry"
+    ],
+    [
+      "Human cloning",
+      "raises",
+      "ethical dilemmas"
+    ],
+    [
+      "Human cloning",
+      "demands",
+      "knowledge"
+    ],
+    [
+      "Human cloning",
+      "demands",
+      "innovation"
+    ]
+  ],
+  "edges": [
+    "could be used to study",
+    "demands",
+    "is a violation of",
+    "could be misused for",
+    "could be used to develop",
+    "raises",
+    "share",
+    "concerned about",
+    "is",
+    "forces us to confront",
+    "is an affront to",
+    "could be used to create",
+    "view",
+    "could be used to produce",
+    "undermines",
+    "reduced to",
+    "holds promise for",
+    "has",
+    "could be used for",
+    "challenges"
+  ]
+}

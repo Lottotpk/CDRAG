@@ -1,0 +1,133 @@
+{
+  "entities": [
+    "collectors",
+    "items",
+    "stamps",
+    "coins",
+    "vintage memorabilia",
+    "antique furniture",
+    "craftsmanship",
+    "history",
+    "vinyl records",
+    "concert memorabilia",
+    "music",
+    "artists",
+    "rare coins",
+    "artwork",
+    "rare books",
+    "vintage cars",
+    "market trends",
+    "authenticity",
+    "preservation methods",
+    "psychologists",
+    "collections"
+  ],
+  "relations": [
+    [
+      "collectors",
+      "amassing",
+      "items"
+    ],
+    [
+      "collectors",
+      "collect",
+      "items"
+    ],
+    [
+      "collectors",
+      "collect",
+      "stamps"
+    ],
+    [
+      "collectors",
+      "collect",
+      "coins"
+    ],
+    [
+      "collectors",
+      "collect",
+      "vintage memorabilia"
+    ],
+    [
+      "collectors",
+      "collect",
+      "antique furniture"
+    ],
+    [
+      "antique furniture",
+      "related to",
+      "craftsmanship"
+    ],
+    [
+      "antique furniture",
+      "related to",
+      "history"
+    ],
+    [
+      "collectors",
+      "collect",
+      "vinyl records"
+    ],
+    [
+      "collectors",
+      "collect",
+      "concert memorabilia"
+    ],
+    [
+      "vinyl records",
+      "related to",
+      "music"
+    ],
+    [
+      "concert memorabilia",
+      "related to",
+      "artists"
+    ],
+    [
+      "collectors",
+      "collect",
+      "rare coins"
+    ],
+    [
+      "collectors",
+      "collect",
+      "artwork"
+    ],
+    [
+      "collectors",
+      "collect",
+      "rare books"
+    ],
+    [
+      "collectors",
+      "collect",
+      "vintage cars"
+    ],
+    [
+      "collections",
+      "related to",
+      "market trends"
+    ],
+    [
+      "collections",
+      "related to",
+      "authenticity"
+    ],
+    [
+      "collections",
+      "related to",
+      "preservation methods"
+    ],
+    [
+      "psychologists",
+      "study",
+      "collections"
+    ]
+  ],
+  "edges": [
+    "collect",
+    "study",
+    "amassing",
+    "related to"
+  ]
+}

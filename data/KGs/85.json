@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "human space travel",
+    "Sputnik 1",
+    "Soviet Union",
+    "United States",
+    "Yuri Gagarin",
+    "Vostok 1",
+    "NASA",
+    "Apollo 11",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "moon",
+    "Russia",
+    "space shuttle program",
+    "International Space Station (ISS)",
+    "SpaceX",
+    "Blue Origin",
+    "Elon Musk",
+    "Mars",
+    "space shuttle Challenger disaster",
+    "Columbia disaster",
+    "lunar bases",
+    "space tourism",
+    "planets",
+    "interplanetary exploration"
+  ],
+  "relations": [
+    [
+      "Sputnik 1",
+      "launched by",
+      "Soviet Union"
+    ],
+    [
+      "Soviet Union",
+      "competing with",
+      "United States"
+    ],
+    [
+      "Yuri Gagarin",
+      "flew aboard",
+      "Vostok 1"
+    ],
+    [
+      "NASA",
+      "launched",
+      "Apollo 11"
+    ],
+    [
+      "Apollo 11",
+      "landed on",
+      "moon"
+    ],
+    [
+      "Neil Armstrong",
+      "landed on",
+      "moon"
+    ],
+    [
+      "Buzz Aldrin",
+      "landed on",
+      "moon"
+    ],
+    [
+      "Russia",
+      "successor to",
+      "Soviet Union"
+    ],
+    [
+      "space shuttle program",
+      "initiated by",
+      "NASA"
+    ],
+    [
+      "International Space Station (ISS)",
+      "enabled by",
+      "space shuttle program"
+    ],
+    [
+      "SpaceX",
+      "plans to send humans to",
+      "Mars"
+    ],
+    [
+      "SpaceX",
+      "founded by",
+      "Elon Musk"
+    ],
+    [
+      "space shuttle Challenger disaster",
+      "related to",
+      "human space travel"
+    ],
+    [
+      "Columbia disaster",
+      "related to",
+      "human space travel"
+    ],
+    [
+      "human space travel",
+      "includes",
+      "lunar bases"
+    ],
+    [
+      "human space travel",
+      "includes",
+      "space tourism"
+    ],
+    [
+      "human space travel",
+      "includes",
+      "interplanetary exploration"
+    ]
+  ],
+  "edges": [
+    "enabled by",
+    "includes",
+    "initiated by",
+    "launched",
+    "successor to",
+    "competing with",
+    "landed on",
+    "plans to send humans to",
+    "founded by",
+    "flew aboard",
+    "launched by",
+    "related to"
+  ]
+}

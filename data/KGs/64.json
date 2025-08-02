@@ -1,0 +1,537 @@
+{
+  "entities": [
+    "Protests",
+    "Revolutions",
+    "societies",
+    "ancient Egypt",
+    "workers",
+    "construction of the pyramids",
+    "strike",
+    "working conditions",
+    "wages",
+    "peaceful demonstrations",
+    "violent uprisings",
+    "authority",
+    "American Revolution of 1776",
+    "freedom",
+    "independence",
+    "colonial rule",
+    "Declaration of Independence",
+    "men",
+    "unalienable rights",
+    "principles",
+    "political landscape",
+    "French Revolution of 1789",
+    "monarchy",
+    "republic",
+    "liberty",
+    "equality",
+    "fraternity",
+    "revolutionary movements",
+    "Europe",
+    "Russian Revolution of 1917",
+    "Bolsheviks",
+    "Vladimir Lenin",
+    "Romanov dynasty",
+    "communist state",
+    "socialist movements",
+    "oppressive regimes",
+    "equitable society",
+    "civil rights movement",
+    "United States",
+    "Martin Luther King Jr.",
+    "Rosa Parks",
+    "racial segregation",
+    "discrimination",
+    "civil rights legislation",
+    "injustice",
+    "equality",
+    "human rights",
+    "Arab Spring",
+    "Tunisia",
+    "Middle East",
+    "North Africa",
+    "dictators",
+    "democratic change",
+    "Black Lives Matter movement",
+    "police brutality",
+    "systemic racism",
+    "racial justice",
+    "national conversation",
+    "race",
+    "inequality",
+    "reform",
+    "repression",
+    "violence",
+    "authorities",
+    "Tiananmen Square massacre",
+    "China",
+    "pro-democracy protesters",
+    "Belarus",
+    "governments",
+    "dissent",
+    "opposition",
+    "social change",
+    "political change",
+    "ordinary people",
+    "injustice",
+    "accountability",
+    "rights",
+    "freedoms",
+    "democracy",
+    "justice",
+    "human spirit",
+    "oppression",
+    "world"
+  ],
+  "relations": [
+    [
+      "Protests",
+      "have played a significant role in",
+      "societies"
+    ],
+    [
+      "Revolutions",
+      "have played a significant role in",
+      "societies"
+    ],
+    [
+      "workers",
+      "staged",
+      "strike"
+    ],
+    [
+      "ancient Egypt",
+      "involved",
+      "construction of the pyramids"
+    ],
+    [
+      "strike",
+      "demanded",
+      "working conditions"
+    ],
+    [
+      "strike",
+      "demanded",
+      "wages"
+    ],
+    [
+      "Protests",
+      "include",
+      "peaceful demonstrations"
+    ],
+    [
+      "Protests",
+      "include",
+      "violent uprisings"
+    ],
+    [
+      "Protests",
+      "challenge",
+      "authority"
+    ],
+    [
+      "American Revolution of 1776",
+      "inspired",
+      "freedom"
+    ],
+    [
+      "American Revolution of 1776",
+      "inspired",
+      "independence"
+    ],
+    [
+      "American Revolution of 1776",
+      "opposed",
+      "colonial rule"
+    ],
+    [
+      "Declaration of Independence",
+      "asserted",
+      "men"
+    ],
+    [
+      "Declaration of Independence",
+      "asserted",
+      "unalienable rights"
+    ],
+    [
+      "Declaration of Independence",
+      "served as a statement of",
+      "principles"
+    ],
+    [
+      "French Revolution of 1789",
+      "transformed",
+      "political landscape"
+    ],
+    [
+      "French Revolution of 1789",
+      "overthrew",
+      "monarchy"
+    ],
+    [
+      "French Revolution of 1789",
+      "established",
+      "republic"
+    ],
+    [
+      "French Revolution of 1789",
+      "based on",
+      "liberty"
+    ],
+    [
+      "French Revolution of 1789",
+      "based on",
+      "equality"
+    ],
+    [
+      "French Revolution of 1789",
+      "based on",
+      "fraternity"
+    ],
+    [
+      "French Revolution of 1789",
+      "served as a model for",
+      "revolutionary movements"
+    ],
+    [
+      "revolutionary movements",
+      "occurred in",
+      "Europe"
+    ],
+    [
+      "Russian Revolution of 1917",
+      "led by",
+      "Bolsheviks"
+    ],
+    [
+      "Bolsheviks",
+      "led by",
+      "Vladimir Lenin"
+    ],
+    [
+      "Russian Revolution of 1917",
+      "ended",
+      "Romanov dynasty"
+    ],
+    [
+      "Russian Revolution of 1917",
+      "established",
+      "communist state"
+    ],
+    [
+      "Russian Revolution of 1917",
+      "sparked",
+      "socialist movements"
+    ],
+    [
+      "socialist movements",
+      "sought to overthrow",
+      "oppressive regimes"
+    ],
+    [
+      "socialist movements",
+      "sought to create",
+      "equitable society"
+    ],
+    [
+      "civil rights movement",
+      "occurred in",
+      "United States"
+    ],
+    [
+      "civil rights movement",
+      "led by",
+      "Martin Luther King Jr."
+    ],
+    [
+      "civil rights movement",
+      "led by",
+      "Rosa Parks"
+    ],
+    [
+      "civil rights movement",
+      "challenged",
+      "racial segregation"
+    ],
+    [
+      "civil rights movement",
+      "challenged",
+      "discrimination"
+    ],
+    [
+      "civil rights movement",
+      "paved the way for",
+      "civil rights legislation"
+    ],
+    [
+      "civil rights movement",
+      "stood up against",
+      "injustice"
+    ],
+    [
+      "civil rights movement",
+      "fought for",
+      "equality"
+    ],
+    [
+      "civil rights movement",
+      "fought for",
+      "human rights"
+    ],
+    [
+      "Arab Spring",
+      "began in",
+      "Tunisia"
+    ],
+    [
+      "Arab Spring",
+      "spread across",
+      "Middle East"
+    ],
+    [
+      "Arab Spring",
+      "spread across",
+      "North Africa"
+    ],
+    [
+      "Arab Spring",
+      "led to the overthrow of",
+      "dictators"
+    ],
+    [
+      "Arab Spring",
+      "sparked hopes for",
+      "democratic change"
+    ],
+    [
+      "Black Lives Matter movement",
+      "emerged in response to",
+      "police brutality"
+    ],
+    [
+      "Black Lives Matter movement",
+      "emerged in response to",
+      "systemic racism"
+    ],
+    [
+      "Black Lives Matter movement",
+      "demanded",
+      "racial justice"
+    ],
+    [
+      "Black Lives Matter movement",
+      "demanded",
+      "equality"
+    ],
+    [
+      "Black Lives Matter movement",
+      "sparked",
+      "national conversation"
+    ],
+    [
+      "Black Lives Matter movement",
+      "sparked",
+      "race"
+    ],
+    [
+      "Black Lives Matter movement",
+      "sparked",
+      "inequality"
+    ],
+    [
+      "Black Lives Matter movement",
+      "led to",
+      "reform"
+    ],
+    [
+      "Protests",
+      "met with",
+      "repression"
+    ],
+    [
+      "Protests",
+      "met with",
+      "violence"
+    ],
+    [
+      "authorities",
+      "used",
+      "violence"
+    ],
+    [
+      "governments",
+      "used force to suppress",
+      "dissent"
+    ],
+    [
+      "governments",
+      "used force to silence",
+      "opposition"
+    ],
+    [
+      "Tiananmen Square massacre",
+      "occurred in",
+      "China"
+    ],
+    [
+      "Belarus",
+      "suppressed",
+      "pro-democracy protesters"
+    ],
+    [
+      "Protests",
+      "are a tool for",
+      "social change"
+    ],
+    [
+      "Protests",
+      "are a tool for",
+      "political change"
+    ],
+    [
+      "Protests",
+      "demand",
+      "accountability"
+    ],
+    [
+      "Protests",
+      "challenge",
+      "injustice"
+    ],
+    [
+      "Protests",
+      "demand",
+      "rights"
+    ],
+    [
+      "Protests",
+      "demand",
+      "freedoms"
+    ],
+    [
+      "Protests",
+      "inspire",
+      "democracy"
+    ],
+    [
+      "Protests",
+      "inspire",
+      "justice"
+    ],
+    [
+      "Protests",
+      "inspire",
+      "human spirit"
+    ],
+    [
+      "Protests",
+      "overcome",
+      "oppression"
+    ],
+    [
+      "Protests",
+      "create",
+      "world"
+    ],
+    [
+      "Revolutions",
+      "are a tool for",
+      "social change"
+    ],
+    [
+      "Revolutions",
+      "are a tool for",
+      "political change"
+    ],
+    [
+      "Revolutions",
+      "demand",
+      "accountability"
+    ],
+    [
+      "Revolutions",
+      "challenge",
+      "injustice"
+    ],
+    [
+      "Revolutions",
+      "demand",
+      "rights"
+    ],
+    [
+      "Revolutions",
+      "demand",
+      "freedoms"
+    ],
+    [
+      "Revolutions",
+      "inspire",
+      "democracy"
+    ],
+    [
+      "Revolutions",
+      "inspire",
+      "justice"
+    ],
+    [
+      "Revolutions",
+      "inspire",
+      "human spirit"
+    ],
+    [
+      "Revolutions",
+      "overcome",
+      "oppression"
+    ],
+    [
+      "Revolutions",
+      "create",
+      "world"
+    ]
+  ],
+  "edges": [
+    "overthrew",
+    "challenged",
+    "ended",
+    "demanded",
+    "staged",
+    "spread across",
+    "fought for",
+    "sought to overthrow",
+    "inspire",
+    "include",
+    "stood up against",
+    "led to the overthrow of",
+    "transformed",
+    "sparked",
+    "suppressed",
+    "have played a significant role in",
+    "overcome",
+    "sparked hopes for",
+    "are a tool for",
+    "served as a model for",
+    "led to",
+    "used force to silence",
+    "create",
+    "served as a statement of",
+    "led by",
+    "began in",
+    "asserted",
+    "paved the way for",
+    "emerged in response to",
+    "occurred in",
+    "challenge",
+    "based on",
+    "demand",
+    "involved",
+    "established",
+    "used force to suppress",
+    "sought to create",
+    "used",
+    "met with",
+    "opposed",
+    "inspired"
+  ]
+}

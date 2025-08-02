@@ -1,0 +1,464 @@
+{
+  "entities": [
+    "home",
+    "societal norms",
+    "technological advancements",
+    "cultural influences",
+    "caves",
+    "primitive shelters",
+    "smart homes",
+    "ancient times",
+    "early humans",
+    "tents",
+    "rudimentary structures",
+    "wood",
+    "stone",
+    "mud",
+    "dwellings",
+    "societies",
+    "Mesopotamia",
+    "Egypt",
+    "Greece",
+    "ancient civilizations",
+    "social hierarchy",
+    "cultural values",
+    "Middle Ages",
+    "manor house",
+    "noble families",
+    "lands",
+    "grand homes",
+    "architecture",
+    "design elements",
+    "owners",
+    "power",
+    "authority",
+    "Industrial Revolution",
+    "urbanization",
+    "mass production",
+    "housing",
+    "middle class",
+    "steel",
+    "concrete",
+    "apartment buildings",
+    "suburban communities",
+    "20th century",
+    "home design",
+    "architecture",
+    "technology",
+    "lifestyle",
+    "modernist movement",
+    "simplicity",
+    "functionality",
+    "efficiency",
+    "Le Corbusier",
+    "Frank Lloyd Wright",
+    "Ludwig Mies van der Rohe",
+    "open floor plans",
+    "natural light",
+    "indoor spaces",
+    "outdoor spaces",
+    "post-World War II period",
+    "suburban home",
+    "American Dream",
+    "Levittown",
+    "planned suburban community",
+    "mass-produced housing",
+    "cookie-cutter design",
+    "affordable prices",
+    "modern amenities",
+    "central heating",
+    "indoor plumbing",
+    "electrical appliances",
+    "homeowners",
+    "smart technology",
+    "sustainable design practices",
+    "Smart homes",
+    "interconnected devices",
+    "systems",
+    "thermostats",
+    "lighting",
+    "security cameras",
+    "appliances",
+    "living spaces",
+    "Energy-efficient materials",
+    "renewable energy sources",
+    "green building techniques",
+    "environmental impact",
+    "occupants",
+    "passive solar design",
+    "rainwater harvesting",
+    "green roofs",
+    "sustainability",
+    "resilience",
+    "society",
+    "shelters"
+  ],
+  "relations": [
+    [
+      "home",
+      "reflects",
+      "societal norms"
+    ],
+    [
+      "home",
+      "reflects",
+      "technological advancements"
+    ],
+    [
+      "home",
+      "reflects",
+      "cultural influences"
+    ],
+    [
+      "caves",
+      "is a",
+      "shelters"
+    ],
+    [
+      "primitive shelters",
+      "is a",
+      "home"
+    ],
+    [
+      "smart homes",
+      "is a",
+      "home"
+    ],
+    [
+      "early humans",
+      "lived in",
+      "caves"
+    ],
+    [
+      "early humans",
+      "lived in",
+      "tents"
+    ],
+    [
+      "early humans",
+      "lived in",
+      "rudimentary structures"
+    ],
+    [
+      "rudimentary structures",
+      "made from",
+      "wood"
+    ],
+    [
+      "rudimentary structures",
+      "made from",
+      "stone"
+    ],
+    [
+      "rudimentary structures",
+      "made from",
+      "mud"
+    ],
+    [
+      "dwellings",
+      "are",
+      "shelters"
+    ],
+    [
+      "societies",
+      "in",
+      "Mesopotamia"
+    ],
+    [
+      "societies",
+      "in",
+      "Egypt"
+    ],
+    [
+      "societies",
+      "in",
+      "Greece"
+    ],
+    [
+      "ancient civilizations",
+      "have",
+      "social hierarchy"
+    ],
+    [
+      "ancient civilizations",
+      "have",
+      "cultural values"
+    ],
+    [
+      "manor house",
+      "emerged in",
+      "Middle Ages"
+    ],
+    [
+      "manor house",
+      "owned by",
+      "noble families"
+    ],
+    [
+      "grand homes",
+      "are",
+      "manor house"
+    ],
+    [
+      "manor house",
+      "featured",
+      "architecture"
+    ],
+    [
+      "manor house",
+      "featured",
+      "design elements"
+    ],
+    [
+      "housing",
+      "became",
+      "affordable prices"
+    ],
+    [
+      "middle class",
+      "related to",
+      "housing"
+    ],
+    [
+      "steel",
+      "used for",
+      "apartment buildings"
+    ],
+    [
+      "concrete",
+      "used for",
+      "apartment buildings"
+    ],
+    [
+      "steel",
+      "used for",
+      "suburban communities"
+    ],
+    [
+      "concrete",
+      "used for",
+      "suburban communities"
+    ],
+    [
+      "home design",
+      "in",
+      "20th century"
+    ],
+    [
+      "architecture",
+      "in",
+      "20th century"
+    ],
+    [
+      "modernist movement",
+      "emphasized",
+      "simplicity"
+    ],
+    [
+      "modernist movement",
+      "emphasized",
+      "functionality"
+    ],
+    [
+      "modernist movement",
+      "emphasized",
+      "efficiency"
+    ],
+    [
+      "Le Corbusier",
+      "championed",
+      "open floor plans"
+    ],
+    [
+      "Frank Lloyd Wright",
+      "championed",
+      "open floor plans"
+    ],
+    [
+      "Ludwig Mies van der Rohe",
+      "championed",
+      "open floor plans"
+    ],
+    [
+      "suburban home",
+      "rose in",
+      "post-World War II period"
+    ],
+    [
+      "suburban home",
+      "epitome of",
+      "American Dream"
+    ],
+    [
+      "Levittown",
+      "is a",
+      "planned suburban community"
+    ],
+    [
+      "Levittown",
+      "set standard for",
+      "mass-produced housing"
+    ],
+    [
+      "mass-produced housing",
+      "has",
+      "cookie-cutter design"
+    ],
+    [
+      "mass-produced housing",
+      "has",
+      "affordable prices"
+    ],
+    [
+      "suburban home",
+      "featured",
+      "modern amenities"
+    ],
+    [
+      "suburban home",
+      "featured",
+      "central heating"
+    ],
+    [
+      "suburban home",
+      "featured",
+      "indoor plumbing"
+    ],
+    [
+      "suburban home",
+      "featured",
+      "electrical appliances"
+    ],
+    [
+      "smart technology",
+      "used in",
+      "Smart homes"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "interconnected devices"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "systems"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "thermostats"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "lighting"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "security cameras"
+    ],
+    [
+      "Smart homes",
+      "equipped with",
+      "appliances"
+    ],
+    [
+      "smart technology",
+      "transformed",
+      "living spaces"
+    ],
+    [
+      "Energy-efficient materials",
+      "used for",
+      "sustainable design practices"
+    ],
+    [
+      "renewable energy sources",
+      "used for",
+      "sustainable design practices"
+    ],
+    [
+      "green building techniques",
+      "used for",
+      "sustainable design practices"
+    ],
+    [
+      "Energy-efficient materials",
+      "reduce",
+      "environmental impact"
+    ],
+    [
+      "renewable energy sources",
+      "reduce",
+      "environmental impact"
+    ],
+    [
+      "green building techniques",
+      "reduce",
+      "environmental impact"
+    ],
+    [
+      "passive solar design",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "rainwater harvesting",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "green roofs",
+      "promotes",
+      "sustainability"
+    ],
+    [
+      "passive solar design",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "rainwater harvesting",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "green roofs",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "home",
+      "reflects",
+      "society"
+    ]
+  ],
+  "edges": [
+    "in",
+    "owned by",
+    "emphasized",
+    "set standard for",
+    "reduce",
+    "rose in",
+    "related to",
+    "used for",
+    "featured",
+    "equipped with",
+    "lived in",
+    "transformed",
+    "made from",
+    "promotes",
+    "championed",
+    "emerged in",
+    "reflects",
+    "have",
+    "are",
+    "used in",
+    "is a",
+    "epitome of",
+    "has",
+    "became"
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "entities": [
+    "rocket",
+    "planning",
+    "engineering",
+    "physics",
+    "materials science",
+    "space",
+    "design",
+    "launch",
+    "model rocket",
+    "science project",
+    "payload",
+    "orbit",
+    "size",
+    "power",
+    "design specifications",
+    "drawings",
+    "plans",
+    "rocket's structure",
+    "propulsion system",
+    "payload capacity",
+    "components",
+    "aerodynamics",
+    "stability",
+    "weight distribution",
+    "materials",
+    "components",
+    "metal",
+    "composite materials",
+    "body",
+    "fuel system",
+    "electronics",
+    "guidance",
+    "control",
+    "fins",
+    "nose cones",
+    "parachutes",
+    "rocket body",
+    "aluminum",
+    "carbon fiber",
+    "fiberglass",
+    "propulsion system",
+    "thrust",
+    "ground",
+    "solid fuel engines",
+    "liquid fuel engines",
+    "hybrid engines",
+    "electric propulsion",
+    "electronics",
+    "guidance systems",
+    "flight path",
+    "sensors",
+    "actuators",
+    "onboard computers",
+    "ground tests",
+    "test flights",
+    "rocket's stability",
+    "performance",
+    "science",
+    "engineering principles",
+    "student",
+    "hobbyist",
+    "aerospace engineer",
+    "regulations",
+    "guidelines"
+  ],
+  "relations": [
+    [
+      "rocket",
+      "requires",
+      "planning"
+    ],
+    [
+      "rocket",
+      "requires",
+      "engineering"
+    ],
+    [
+      "rocket",
+      "requires",
+      "physics"
+    ],
+    [
+      "rocket",
+      "requires",
+      "materials science"
+    ],
+    [
+      "rocket",
+      "advances",
+      "space"
+    ],
+    [
+      "rocket",
+      "starts with",
+      "design"
+    ],
+    [
+      "rocket",
+      "ends with",
+      "launch"
+    ],
+    [
+      "rocket",
+      "can be",
+      "model rocket"
+    ],
+    [
+      "model rocket",
+      "is for",
+      "science project"
+    ],
+    [
+      "rocket",
+      "can launch",
+      "payload"
+    ],
+    [
+      "rocket",
+      "can reach",
+      "orbit"
+    ],
+    [
+      "rocket",
+      "determines",
+      "size"
+    ],
+    [
+      "rocket",
+      "determines",
+      "power"
+    ],
+    [
+      "rocket",
+      "determines",
+      "design specifications"
+    ],
+    [
+      "rocket",
+      "requires",
+      "drawings"
+    ],
+    [
+      "rocket",
+      "requires",
+      "plans"
+    ],
+    [
+      "rocket",
+      "outlines",
+      "rocket's structure"
+    ],
+    [
+      "rocket",
+      "outlines",
+      "propulsion system"
+    ],
+    [
+      "rocket",
+      "outlines",
+      "payload capacity"
+    ],
+    [
+      "rocket",
+      "outlines",
+      "components"
+    ],
+    [
+      "rocket",
+      "considers",
+      "aerodynamics"
+    ],
+    [
+      "rocket",
+      "considers",
+      "stability"
+    ],
+    [
+      "rocket",
+      "considers",
+      "weight distribution"
+    ],
+    [
+      "rocket",
+      "requires",
+      "materials"
+    ],
+    [
+      "rocket",
+      "uses",
+      "metal"
+    ],
+    [
+      "rocket",
+      "uses",
+      "composite materials"
+    ],
+    [
+      "rocket",
+      "has",
+      "body"
+    ],
+    [
+      "rocket",
+      "has",
+      "fuel system"
+    ],
+    [
+      "rocket",
+      "has",
+      "electronics"
+    ],
+    [
+      "rocket",
+      "has",
+      "guidance"
+    ],
+    [
+      "rocket",
+      "has",
+      "control"
+    ],
+    [
+      "rocket",
+      "has",
+      "fins"
+    ],
+    [
+      "rocket",
+      "has",
+      "nose cones"
+    ],
+    [
+      "rocket",
+      "has",
+      "parachutes"
+    ],
+    [
+      "rocket",
+      "has",
+      "rocket body"
+    ],
+    [
+      "rocket body",
+      "made of",
+      "aluminum"
+    ],
+    [
+      "rocket body",
+      "made of",
+      "carbon fiber"
+    ],
+    [
+      "rocket body",
+      "made of",
+      "fiberglass"
+    ],
+    [
+      "propulsion system",
+      "provides",
+      "thrust"
+    ],
+    [
+      "rocket",
+      "uses",
+      "solid fuel engines"
+    ],
+    [
+      "rocket",
+      "uses",
+      "liquid fuel engines"
+    ],
+    [
+      "rocket",
+      "uses",
+      "hybrid engines"
+    ],
+    [
+      "rocket",
+      "uses",
+      "electric propulsion"
+    ],
+    [
+      "rocket",
+      "uses",
+      "electronics"
+    ],
+    [
+      "rocket",
+      "uses",
+      "guidance systems"
+    ],
+    [
+      "rocket",
+      "controls",
+      "flight path"
+    ],
+    [
+      "rocket",
+      "uses",
+      "sensors"
+    ],
+    [
+      "rocket",
+      "uses",
+      "actuators"
+    ],
+    [
+      "rocket",
+      "uses",
+      "onboard computers"
+    ],
+    [
+      "rocket",
+      "requires",
+      "ground tests"
+    ],
+    [
+      "rocket",
+      "requires",
+      "test flights"
+    ],
+    [
+      "test flights",
+      "verifies",
+      "rocket's stability"
+    ],
+    [
+      "test flights",
+      "verifies",
+      "performance"
+    ],
+    [
+      "rocket",
+      "requires",
+      "science"
+    ],
+    [
+      "rocket",
+      "requires",
+      "engineering principles"
+    ],
+    [
+      "student",
+      "builds",
+      "rocket"
+    ],
+    [
+      "hobbyist",
+      "builds",
+      "rocket"
+    ],
+    [
+      "aerospace engineer",
+      "builds",
+      "rocket"
+    ],
+    [
+      "rocket",
+      "follows",
+      "regulations"
+    ],
+    [
+      "rocket",
+      "follows",
+      "guidelines"
+    ]
+  ],
+  "edges": [
+    "made of",
+    "determines",
+    "provides",
+    "starts with",
+    "builds",
+    "follows",
+    "uses",
+    "can be",
+    "can launch",
+    "can reach",
+    "has",
+    "verifies",
+    "advances",
+    "outlines",
+    "is for",
+    "controls",
+    "ends with",
+    "considers",
+    "requires"
+  ]
+}

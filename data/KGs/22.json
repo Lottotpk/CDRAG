@@ -1,0 +1,344 @@
+{
+  "entities": [
+    "Cryptocurrencies",
+    "financial world",
+    "money",
+    "transactions",
+    "Bitcoin",
+    "2009",
+    "Satoshi Nakamoto",
+    "altcoins",
+    "global economy",
+    "digital assets",
+    "fiat currencies",
+    "governments",
+    "central banks",
+    "peer-to-peer network",
+    "users",
+    "intermediaries",
+    "funds",
+    "security",
+    "privacy",
+    "blockchain",
+    "distributed ledger technology",
+    "transparency",
+    "immutability",
+    "network",
+    "block",
+    "chain of blocks",
+    "third party",
+    "digital currencies",
+    "Smart contracts",
+    "agreement",
+    "code",
+    "industries",
+    "financial inclusion",
+    "banking services",
+    "population",
+    "financial services",
+    "bank account",
+    "individuals",
+    "underserved communities",
+    "economic growth",
+    "investors",
+    "speculators",
+    "price fluctuations",
+    "retail",
+    "institutional investors",
+    "volatility",
+    "profit",
+    "regulation",
+    "cryptocurrency space",
+    "regulatory bodies",
+    "asset class",
+    "countries",
+    "money laundering",
+    "tax evasion",
+    "consumer protection",
+    "businesses",
+    "digital currencies",
+    "investments",
+    "finance"
+  ],
+  "relations": [
+    [
+      "Cryptocurrencies",
+      "have taken by storm",
+      "financial world"
+    ],
+    [
+      "Cryptocurrencies",
+      "revolutionizing the way we think about",
+      "money"
+    ],
+    [
+      "Cryptocurrencies",
+      "revolutionizing the way we think about",
+      "transactions"
+    ],
+    [
+      "Bitcoin",
+      "creation in",
+      "2009"
+    ],
+    [
+      "Bitcoin",
+      "created by",
+      "Satoshi Nakamoto"
+    ],
+    [
+      "altcoins",
+      "emerged after",
+      "Bitcoin"
+    ],
+    [
+      "Cryptocurrencies",
+      "become a significant player in",
+      "global economy"
+    ],
+    [
+      "digital assets",
+      "operate on",
+      "peer-to-peer network"
+    ],
+    [
+      "fiat currencies",
+      "controlled by",
+      "governments"
+    ],
+    [
+      "fiat currencies",
+      "controlled by",
+      "central banks"
+    ],
+    [
+      "peer-to-peer network",
+      "allows transactions between",
+      "users"
+    ],
+    [
+      "Cryptocurrencies",
+      "enhance",
+      "security"
+    ],
+    [
+      "Cryptocurrencies",
+      "enhance",
+      "privacy"
+    ],
+    [
+      "blockchain",
+      "underpins",
+      "Cryptocurrencies"
+    ],
+    [
+      "blockchain",
+      "is",
+      "distributed ledger technology"
+    ],
+    [
+      "blockchain",
+      "ensures",
+      "transparency"
+    ],
+    [
+      "blockchain",
+      "ensures",
+      "immutability"
+    ],
+    [
+      "transactions",
+      "recorded in",
+      "block"
+    ],
+    [
+      "block",
+      "linked to",
+      "chain of blocks"
+    ],
+    [
+      "chain of blocks",
+      "cannot be altered once validated by",
+      "network"
+    ],
+    [
+      "blockchain",
+      "eliminates the need for",
+      "third party"
+    ],
+    [
+      "Smart contracts",
+      "are",
+      "agreement"
+    ],
+    [
+      "agreement",
+      "written into",
+      "code"
+    ],
+    [
+      "Smart contracts",
+      "streamlining processes in",
+      "industries"
+    ],
+    [
+      "Cryptocurrencies",
+      "potential for",
+      "financial inclusion"
+    ],
+    [
+      "Cryptocurrencies",
+      "offer a way for",
+      "individuals"
+    ],
+    [
+      "individuals",
+      "access",
+      "financial services"
+    ],
+    [
+      "Cryptocurrencies",
+      "empower",
+      "underserved communities"
+    ],
+    [
+      "Cryptocurrencies",
+      "drive",
+      "economic growth"
+    ],
+    [
+      "Cryptocurrencies",
+      "attract",
+      "investors"
+    ],
+    [
+      "Cryptocurrencies",
+      "attract",
+      "speculators"
+    ],
+    [
+      "Cryptocurrencies",
+      "led to a surge in interest from",
+      "retail"
+    ],
+    [
+      "Cryptocurrencies",
+      "led to a surge in interest from",
+      "institutional investors"
+    ],
+    [
+      "Cryptocurrencies",
+      "presents opportunities for",
+      "profit"
+    ],
+    [
+      "Cryptocurrencies",
+      "poses",
+      "volatility"
+    ],
+    [
+      "regulation",
+      "contentious issue in",
+      "cryptocurrency space"
+    ],
+    [
+      "regulatory bodies",
+      "grappling with",
+      "regulation"
+    ],
+    [
+      "regulation",
+      "oversee",
+      "asset class"
+    ],
+    [
+      "countries",
+      "embraced",
+      "Cryptocurrencies"
+    ],
+    [
+      "countries",
+      "embraced",
+      "blockchain"
+    ],
+    [
+      "countries",
+      "citing concerns about",
+      "money laundering"
+    ],
+    [
+      "countries",
+      "citing concerns about",
+      "tax evasion"
+    ],
+    [
+      "countries",
+      "citing concerns about",
+      "consumer protection"
+    ],
+    [
+      "businesses",
+      "adopt",
+      "digital currencies"
+    ],
+    [
+      "individuals",
+      "adopt",
+      "digital currencies"
+    ],
+    [
+      "Cryptocurrencies",
+      "impact on",
+      "financial world"
+    ],
+    [
+      "Cryptocurrencies",
+      "reshaping the way we think about",
+      "money"
+    ],
+    [
+      "Cryptocurrencies",
+      "reshaping the way we think about",
+      "finance"
+    ]
+  ],
+  "edges": [
+    "created by",
+    "linked to",
+    "emerged after",
+    "is",
+    "underpins",
+    "offer a way for",
+    "revolutionizing the way we think about",
+    "embraced",
+    "eliminates the need for",
+    "are",
+    "contentious issue in",
+    "reshaping the way we think about",
+    "written into",
+    "cannot be altered once validated by",
+    "poses",
+    "grappling with",
+    "drive",
+    "access",
+    "impact on",
+    "have taken by storm",
+    "streamlining processes in",
+    "led to a surge in interest from",
+    "oversee",
+    "operate on",
+    "enhance",
+    "ensures",
+    "controlled by",
+    "citing concerns about",
+    "empower",
+    "creation in",
+    "potential for",
+    "presents opportunities for",
+    "attract",
+    "adopt",
+    "recorded in",
+    "allows transactions between",
+    "become a significant player in"
+  ]
+}

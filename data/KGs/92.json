@@ -1,0 +1,549 @@
+{
+  "entities": [
+    "renewable energy sources",
+    "climate change",
+    "fossil fuels",
+    "sustainable energy system",
+    "sunlight",
+    "wind",
+    "rain",
+    "tides",
+    "waves",
+    "geothermal heat",
+    "greenhouse gas emissions",
+    "energy security",
+    "solar energy",
+    "solar power",
+    "photovoltaic cells",
+    "electricity",
+    "solar panels",
+    "rooftops",
+    "utility-scale solar farms",
+    "building designs",
+    "global electricity demand",
+    "energy sector",
+    "wind power",
+    "wind turbines",
+    "kinetic energy",
+    "wind farms",
+    "rotor diameters",
+    "taller towers",
+    "offshore wind farms",
+    "onshore wind farms",
+    "hydropower",
+    "hydropower plants",
+    "flowing water",
+    "dams",
+    "reservoirs",
+    "grid stability",
+    "habitat disruption",
+    "water scarcity",
+    "smaller-scale hydropower installations",
+    "run-of-river projects",
+    "geothermal energy",
+    "Earth's core",
+    "geothermal power plants",
+    "underground reservoirs",
+    "hot water",
+    "steam",
+    "turbines",
+    "enhanced geothermal systems (EGS)",
+    "geothermal heat pumps",
+    "bioenergy",
+    "organic materials",
+    "crops",
+    "agricultural residues",
+    "waste biomass",
+    "biofuels",
+    "biogas",
+    "heat",
+    "ethanol",
+    "biodiesel",
+    "transportation",
+    "biomass power plants",
+    "coal-fired power plants",
+    "technological advancements",
+    "policy support",
+    "market forces",
+    "government incentives",
+    "feed-in tariffs",
+    "tax credits",
+    "renewable portfolio standards",
+    "renewable energy technologies",
+    "conventional energy sources",
+    "intermittency",
+    "variability",
+    "grid integration",
+    "grid stability",
+    "energy storage technologies",
+    "batteries",
+    "pumped hydro storage",
+    "thermal energy storage",
+    "grid modernization",
+    "smart grid technologies",
+    "electricity grid",
+    "upfront costs",
+    "levelized cost of electricity (LCOE)",
+    "financial barriers",
+    "access to capital",
+    "investment risks",
+    "developing countries",
+    "land use impacts",
+    "wildlife displacement",
+    "water consumption",
+    "sustainable siting",
+    "planning practices",
+    "environmental impact assessments",
+    "stakeholder engagement",
+    "ecosystems",
+    "local communities",
+    "environmental protection",
+    "energy systems",
+    "grid infrastructure",
+    "demand-side management",
+    "digitalization",
+    "climate goals",
+    "air pollution",
+    "economic opportunities",
+    "low-carbon energy future"
+  ],
+  "relations": [
+    [
+      "renewable energy sources",
+      "are solution to",
+      "climate change"
+    ],
+    [
+      "renewable energy sources",
+      "reduce dependence on",
+      "fossil fuels"
+    ],
+    [
+      "renewable energy sources",
+      "are part of",
+      "sustainable energy system"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "sunlight"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "wind"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "rain"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "tides"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "waves"
+    ],
+    [
+      "renewable energy sources",
+      "derived from",
+      "geothermal heat"
+    ],
+    [
+      "renewable energy sources",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "renewable energy sources",
+      "enhance",
+      "energy security"
+    ],
+    [
+      "solar power",
+      "harnesses",
+      "sunlight"
+    ],
+    [
+      "solar power",
+      "generates",
+      "electricity"
+    ],
+    [
+      "solar energy",
+      "uses",
+      "photovoltaic cells"
+    ],
+    [
+      "solar panels",
+      "installed on",
+      "rooftops"
+    ],
+    [
+      "solar panels",
+      "installed in",
+      "utility-scale solar farms"
+    ],
+    [
+      "solar panels",
+      "integrated into",
+      "building designs"
+    ],
+    [
+      "solar energy",
+      "provides",
+      "global electricity demand"
+    ],
+    [
+      "solar energy",
+      "decarbonizing",
+      "energy sector"
+    ],
+    [
+      "wind turbines",
+      "convert",
+      "kinetic energy"
+    ],
+    [
+      "wind turbines",
+      "convert to",
+      "electricity"
+    ],
+    [
+      "wind power",
+      "located in",
+      "wind farms"
+    ],
+    [
+      "wind turbines",
+      "have",
+      "rotor diameters"
+    ],
+    [
+      "wind turbines",
+      "have",
+      "taller towers"
+    ],
+    [
+      "offshore wind farms",
+      "are a source of",
+      "renewable energy sources"
+    ],
+    [
+      "hydropower plants",
+      "harness",
+      "flowing water"
+    ],
+    [
+      "hydropower plants",
+      "generate",
+      "electricity"
+    ],
+    [
+      "hydropower",
+      "uses",
+      "dams"
+    ],
+    [
+      "hydropower",
+      "uses",
+      "reservoirs"
+    ],
+    [
+      "hydropower",
+      "provides",
+      "grid stability"
+    ],
+    [
+      "hydropower",
+      "causes",
+      "habitat disruption"
+    ],
+    [
+      "hydropower",
+      "causes",
+      "water scarcity"
+    ],
+    [
+      "geothermal power plants",
+      "tap into",
+      "underground reservoirs"
+    ],
+    [
+      "geothermal power plants",
+      "use",
+      "hot water"
+    ],
+    [
+      "geothermal power plants",
+      "use",
+      "steam"
+    ],
+    [
+      "geothermal power plants",
+      "drive",
+      "turbines"
+    ],
+    [
+      "geothermal power plants",
+      "produce",
+      "electricity"
+    ],
+    [
+      "geothermal energy",
+      "uses",
+      "Earth's core"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "crops"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "agricultural residues"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "waste biomass"
+    ],
+    [
+      "bioenergy",
+      "converted into",
+      "biofuels"
+    ],
+    [
+      "bioenergy",
+      "converted into",
+      "biogas"
+    ],
+    [
+      "bioenergy",
+      "used for",
+      "heat"
+    ],
+    [
+      "bioenergy",
+      "used for",
+      "electricity"
+    ],
+    [
+      "biofuels",
+      "include",
+      "ethanol"
+    ],
+    [
+      "biofuels",
+      "include",
+      "biodiesel"
+    ],
+    [
+      "biofuels",
+      "used in",
+      "transportation"
+    ],
+    [
+      "biofuels",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "biofuels",
+      "reduce dependence on",
+      "fossil fuels"
+    ],
+    [
+      "biomass power plants",
+      "burn",
+      "organic materials"
+    ],
+    [
+      "biomass power plants",
+      "produce",
+      "heat"
+    ],
+    [
+      "biomass power plants",
+      "produce",
+      "electricity"
+    ],
+    [
+      "government incentives",
+      "include",
+      "feed-in tariffs"
+    ],
+    [
+      "government incentives",
+      "include",
+      "tax credits"
+    ],
+    [
+      "government incentives",
+      "include",
+      "renewable portfolio standards"
+    ],
+    [
+      "energy storage technologies",
+      "include",
+      "batteries"
+    ],
+    [
+      "energy storage technologies",
+      "include",
+      "pumped hydro storage"
+    ],
+    [
+      "energy storage technologies",
+      "include",
+      "thermal energy storage"
+    ],
+    [
+      "grid modernization",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "smart grid technologies",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "renewable energy technologies",
+      "have",
+      "upfront costs"
+    ],
+    [
+      "levelized cost of electricity (LCOE)",
+      "is for",
+      "solar power"
+    ],
+    [
+      "levelized cost of electricity (LCOE)",
+      "is for",
+      "wind power"
+    ],
+    [
+      "renewable energy sources",
+      "face",
+      "financial barriers"
+    ],
+    [
+      "renewable energy sources",
+      "face",
+      "access to capital"
+    ],
+    [
+      "renewable energy sources",
+      "face",
+      "investment risks"
+    ],
+    [
+      "renewable energy sources",
+      "affects",
+      "ecosystems"
+    ],
+    [
+      "renewable energy sources",
+      "affects",
+      "local communities"
+    ],
+    [
+      "environmental protection",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "grid infrastructure",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "demand-side management",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "digitalization",
+      "is required for",
+      "renewable energy sources"
+    ],
+    [
+      "renewable energy sources",
+      "achieves",
+      "climate goals"
+    ],
+    [
+      "renewable energy sources",
+      "reduces",
+      "air pollution"
+    ],
+    [
+      "renewable energy sources",
+      "enhances",
+      "energy security"
+    ],
+    [
+      "renewable energy sources",
+      "creates",
+      "economic opportunities"
+    ],
+    [
+      "renewable energy sources",
+      "lead to",
+      "low-carbon energy future"
+    ]
+  ],
+  "edges": [
+    "use",
+    "enhances",
+    "decarbonizing",
+    "convert to",
+    "uses",
+    "reduce",
+    "achieves",
+    "used for",
+    "include",
+    "produce",
+    "creates",
+    "burn",
+    "derived from",
+    "provides",
+    "located in",
+    "harness",
+    "tap into",
+    "generate",
+    "are part of",
+    "lead to",
+    "are a source of",
+    "harnesses",
+    "are solution to",
+    "integrated into",
+    "installed in",
+    "convert",
+    "generates",
+    "reduces",
+    "is for",
+    "converted into",
+    "have",
+    "drive",
+    "used in",
+    "face",
+    "causes",
+    "affects",
+    "reduce dependence on",
+    "installed on",
+    "is required for",
+    "enhance"
+  ]
+}

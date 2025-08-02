@@ -1,0 +1,245 @@
+{
+  "entities": [
+    "plants",
+    "organisms",
+    "volatile organic compounds",
+    "VOCs",
+    "herbivores",
+    "defensive chemicals",
+    "plant-to-plant signaling",
+    "roots",
+    "mycorrhizal networks",
+    "nutrients",
+    "water",
+    "chemical signals",
+    "insects",
+    "microbes",
+    "pollinators",
+    "nectar",
+    "pollen",
+    "rhizosphere",
+    "root exudates",
+    "nitrogen-fixing bacteria",
+    "mycorrhizal fungi",
+    "pathogens",
+    "sugars",
+    "touch",
+    "vibrations",
+    "herbivore",
+    "wind"
+  ],
+  "relations": [
+    [
+      "plants",
+      "release",
+      "volatile organic compounds"
+    ],
+    [
+      "VOCs",
+      "are",
+      "chemical signals"
+    ],
+    [
+      "plants",
+      "warn",
+      "plants"
+    ],
+    [
+      "plants",
+      "increase",
+      "defensive chemicals"
+    ],
+    [
+      "plants",
+      "defend",
+      "herbivores"
+    ],
+    [
+      "plant-to-plant signaling",
+      "helps",
+      "plants"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "roots"
+    ],
+    [
+      "plants",
+      "use",
+      "mycorrhizal networks"
+    ],
+    [
+      "mycorrhizal networks",
+      "enable",
+      "plants"
+    ],
+    [
+      "plants",
+      "exchange",
+      "nutrients"
+    ],
+    [
+      "plants",
+      "exchange",
+      "water"
+    ],
+    [
+      "plants",
+      "exchange",
+      "chemical signals"
+    ],
+    [
+      "plants",
+      "transfer",
+      "nutrients"
+    ],
+    [
+      "plants",
+      "transfer",
+      "water"
+    ],
+    [
+      "plants",
+      "transfer",
+      "chemical signals"
+    ],
+    [
+      "plants",
+      "share",
+      "nutrients"
+    ],
+    [
+      "plants",
+      "share",
+      "water"
+    ],
+    [
+      "plants",
+      "share",
+      "chemical signals"
+    ],
+    [
+      "plants",
+      "communicate with",
+      "insects"
+    ],
+    [
+      "plants",
+      "communicate with",
+      "microbes"
+    ],
+    [
+      "plants",
+      "attract",
+      "pollinators"
+    ],
+    [
+      "pollinators",
+      "receive",
+      "nectar"
+    ],
+    [
+      "pollinators",
+      "receive",
+      "pollen"
+    ],
+    [
+      "plants",
+      "interact with",
+      "microbes"
+    ],
+    [
+      "plants",
+      "release",
+      "root exudates"
+    ],
+    [
+      "root exudates",
+      "attract",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "root exudates",
+      "attract",
+      "mycorrhizal fungi"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "improve",
+      "nutrients"
+    ],
+    [
+      "mycorrhizal fungi",
+      "improve",
+      "nutrients"
+    ],
+    [
+      "nitrogen-fixing bacteria",
+      "protect",
+      "plants"
+    ],
+    [
+      "mycorrhizal fungi",
+      "protect",
+      "plants"
+    ],
+    [
+      "microbes",
+      "receive",
+      "sugars"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "touch"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "vibrations"
+    ],
+    [
+      "plants",
+      "detect",
+      "touch"
+    ],
+    [
+      "plants",
+      "detect",
+      "vibrations"
+    ],
+    [
+      "plants",
+      "release",
+      "defensive chemicals"
+    ],
+    [
+      "plants",
+      "sense",
+      "vibrations"
+    ]
+  ],
+  "edges": [
+    "share",
+    "helps",
+    "defend",
+    "protect",
+    "improve",
+    "use",
+    "interact with",
+    "are",
+    "release",
+    "warn",
+    "receive",
+    "detect",
+    "enable",
+    "increase",
+    "transfer",
+    "attract",
+    "exchange",
+    "sense",
+    "communicate through",
+    "communicate with"
+  ]
+}

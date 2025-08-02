@@ -1,0 +1,434 @@
+{
+  "entities": [
+    "Fire",
+    "Human history",
+    "Civilization",
+    "Warmth",
+    "Protection",
+    "Cooking",
+    "Tool-making",
+    "Human societies",
+    "Human development",
+    "Ancient times",
+    "Caves",
+    "Rudimentary shelters",
+    "Early humans",
+    "Waking hours",
+    "Skills",
+    "Activities",
+    "Foundation for civilization",
+    "Evolution of human diet",
+    "Nutrition",
+    "Open flame",
+    "Tough fibers",
+    "Harmful bacteria",
+    "Human health",
+    "Diversification of diets",
+    "Overall well-being",
+    "Culinary arts",
+    "Food culture",
+    "Cooking methods",
+    "Roasting",
+    "Boiling",
+    "Baking",
+    "Cultural diversity",
+    "Social aspect",
+    "Meals",
+    "Community",
+    "Cooperation",
+    "Complex social structures",
+    "Advancement of technology",
+    "Innovation",
+    "Metals",
+    "Tools",
+    "Weapons",
+    "Essential technologies",
+    "Pottery",
+    "Ceramics",
+    "Crafts",
+    "Human culture",
+    "Spirituality",
+    "Destruction",
+    "Renewal",
+    "Ancient civilizations",
+    "Deity",
+    "Sacred element",
+    "Mystical powers",
+    "Transformative properties",
+    "Fire rituals",
+    "Ceremonies",
+    "Communication with the divine",
+    "Protection",
+    "Guidance",
+    "Modern times",
+    "Industries",
+    "Sectors of society",
+    "Engines",
+    "Electricity",
+    "Heat in homes",
+    "Restaurants",
+    "Economic growth",
+    "Technological advancement",
+    "Environmental challenges",
+    "Air pollution",
+    "Deforestation",
+    "Sustainable practices",
+    "Alternative energy sources",
+    "Humanity",
+    "Evolution",
+    "Cultural expressions",
+    "Human civilization",
+    "Sustainable future",
+    "Generations"
+  ],
+  "relations": [
+    [
+      "Fire",
+      "played a crucial role in",
+      "Human history"
+    ],
+    [
+      "Fire",
+      "providing",
+      "Warmth"
+    ],
+    [
+      "Fire",
+      "providing",
+      "Protection"
+    ],
+    [
+      "Fire",
+      "enabling",
+      "Cooking"
+    ],
+    [
+      "Fire",
+      "enabling",
+      "Tool-making"
+    ],
+    [
+      "Fire",
+      "was an essential element in",
+      "Human societies"
+    ],
+    [
+      "Fire",
+      "was essential for",
+      "Warmth"
+    ],
+    [
+      "Fire",
+      "was essential for",
+      "Protection"
+    ],
+    [
+      "Fire",
+      "providing",
+      "Warmth"
+    ],
+    [
+      "Fire",
+      "providing",
+      "Protection"
+    ],
+    [
+      "Fire",
+      "allowed",
+      "Early humans"
+    ],
+    [
+      "Early humans",
+      "extend",
+      "Waking hours"
+    ],
+    [
+      "Early humans",
+      "be more",
+      "Activities"
+    ],
+    [
+      "Fire",
+      "laid",
+      "Foundation for civilization"
+    ],
+    [
+      "Fire",
+      "played a crucial role in",
+      "Evolution of human diet"
+    ],
+    [
+      "Fire",
+      "played a crucial role in",
+      "Nutrition"
+    ],
+    [
+      "Fire",
+      "helped to break down",
+      "Tough fibers"
+    ],
+    [
+      "Fire",
+      "kill",
+      "Harmful bacteria"
+    ],
+    [
+      "Fire",
+      "had significant implications for",
+      "Human health"
+    ],
+    [
+      "Fire",
+      "allowed for",
+      "Diversification of diets"
+    ],
+    [
+      "Fire",
+      "leading to",
+      "Overall well-being"
+    ],
+    [
+      "Fire",
+      "paved the way for",
+      "Culinary arts"
+    ],
+    [
+      "Fire",
+      "paved the way for",
+      "Food culture"
+    ],
+    [
+      "Fire",
+      "allowing for the creation of",
+      "Cultural diversity"
+    ],
+    [
+      "Fire",
+      "fostered",
+      "Community"
+    ],
+    [
+      "Fire",
+      "fostered",
+      "Cooperation"
+    ],
+    [
+      "Fire",
+      "laying the groundwork for",
+      "Complex social structures"
+    ],
+    [
+      "Fire",
+      "has been instrumental in",
+      "Advancement of technology"
+    ],
+    [
+      "Fire",
+      "has been instrumental in",
+      "Innovation"
+    ],
+    [
+      "Fire",
+      "allowed",
+      "Metals"
+    ],
+    [
+      "Fire",
+      "enabling the development of",
+      "Tools"
+    ],
+    [
+      "Fire",
+      "enabling the development of",
+      "Weapons"
+    ],
+    [
+      "Fire",
+      "enabling the development of",
+      "Essential technologies"
+    ],
+    [
+      "Fire",
+      "led to the invention of",
+      "Pottery"
+    ],
+    [
+      "Fire",
+      "led to the invention of",
+      "Ceramics"
+    ],
+    [
+      "Fire",
+      "led to the invention of",
+      "Crafts"
+    ],
+    [
+      "Fire",
+      "has been a powerful symbol in",
+      "Human culture"
+    ],
+    [
+      "Fire",
+      "has been a powerful symbol in",
+      "Spirituality"
+    ],
+    [
+      "Fire",
+      "representing",
+      "Destruction"
+    ],
+    [
+      "Fire",
+      "representing",
+      "Renewal"
+    ],
+    [
+      "Fire",
+      "worshipped",
+      "Deity"
+    ],
+    [
+      "Fire",
+      "worshipped",
+      "Sacred element"
+    ],
+    [
+      "Fire",
+      "attributing",
+      "Mystical powers"
+    ],
+    [
+      "Fire",
+      "attributing",
+      "Transformative properties"
+    ],
+    [
+      "Fire rituals",
+      "serving as a means of",
+      "Communication with the divine"
+    ],
+    [
+      "Fire rituals",
+      "serving as a means of",
+      "Guidance"
+    ],
+    [
+      "Fire",
+      "continues to play a crucial role in",
+      "Industries"
+    ],
+    [
+      "Fire",
+      "continues to play a crucial role in",
+      "Sectors of society"
+    ],
+    [
+      "Fire",
+      "powering",
+      "Engines"
+    ],
+    [
+      "Fire",
+      "generating",
+      "Electricity"
+    ],
+    [
+      "Fire",
+      "providing",
+      "Heat in homes"
+    ],
+    [
+      "Fire",
+      "cooking in",
+      "Restaurants"
+    ],
+    [
+      "Fire",
+      "drives",
+      "Economic growth"
+    ],
+    [
+      "Fire",
+      "drives",
+      "Technological advancement"
+    ],
+    [
+      "Fire",
+      "has led to",
+      "Environmental challenges"
+    ],
+    [
+      "Fire",
+      "has led to",
+      "Air pollution"
+    ],
+    [
+      "Fire",
+      "has led to",
+      "Deforestation"
+    ],
+    [
+      "Fire",
+      "shaping",
+      "Evolution"
+    ],
+    [
+      "Fire",
+      "influencing",
+      "Cultural expressions"
+    ],
+    [
+      "Fire",
+      "left an indelible mark on",
+      "Human civilization"
+    ],
+    [
+      "Fire",
+      "ensure",
+      "Sustainable future"
+    ],
+    [
+      "Fire",
+      "ensure",
+      "Generations"
+    ]
+  ],
+  "edges": [
+    "has been instrumental in",
+    "generating",
+    "shaping",
+    "serving as a means of",
+    "enabling",
+    "allowing for the creation of",
+    "fostered",
+    "led to the invention of",
+    "powering",
+    "cooking in",
+    "has led to",
+    "attributing",
+    "laying the groundwork for",
+    "allowed",
+    "extend",
+    "be more",
+    "providing",
+    "influencing",
+    "kill",
+    "played a crucial role in",
+    "helped to break down",
+    "had significant implications for",
+    "continues to play a crucial role in",
+    "enabling the development of",
+    "has been a powerful symbol in",
+    "was an essential element in",
+    "left an indelible mark on",
+    "drives",
+    "paved the way for",
+    "ensure",
+    "allowed for",
+    "representing",
+    "was essential for",
+    "worshipped",
+    "laid",
+    "leading to"
+  ]
+}

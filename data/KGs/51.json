@@ -1,0 +1,440 @@
+{
+  "entities": [
+    "Coral reefs",
+    "rainforests of the sea",
+    "marine ecosystems",
+    "coral polyps",
+    "calcium carbonate",
+    "marine life",
+    "oceans",
+    "marine biodiversity",
+    "ocean floor",
+    "marine species",
+    "ecosystems",
+    "fish",
+    "invertebrates",
+    "plants",
+    "ocean ecosystems",
+    "ecosystem services",
+    "human well-being",
+    "coastal protection",
+    "wave energy",
+    "coastal communities",
+    "erosion",
+    "flooding",
+    "hurricanes",
+    "tsunamis",
+    "natural barriers",
+    "fisheries",
+    "food security",
+    "fish species",
+    "local fisheries",
+    "coastal communities",
+    "developing countries",
+    "tourism",
+    "recreation",
+    "divers",
+    "snorkelers",
+    "tourists",
+    "tourism industry",
+    "marine conservation",
+    "habitats",
+    "Climate change",
+    "ocean acidification",
+    "pollution",
+    "overfishing",
+    "fishing practices",
+    "sea temperatures",
+    "coral bleaching",
+    "algae",
+    "coral colonies",
+    "land-based sources",
+    "agricultural runoff",
+    "plastic waste",
+    "chemicals",
+    "greenhouse gas emissions",
+    "sustainable fishing practices",
+    "water quality",
+    "Marine protected areas",
+    "marine resources",
+    "ecosystems",
+    "human activities",
+    "environmental stressors",
+    "conservation",
+    "sustainable management efforts",
+    "oceans"
+  ],
+  "relations": [
+    [
+      "Coral reefs",
+      "referred to as",
+      "rainforests of the sea"
+    ],
+    [
+      "Coral reefs",
+      "have",
+      "marine biodiversity"
+    ],
+    [
+      "Coral reefs",
+      "are important to",
+      "marine ecosystems"
+    ],
+    [
+      "marine ecosystems",
+      "are made up of",
+      "coral polyps"
+    ],
+    [
+      "coral polyps",
+      "secrete",
+      "calcium carbonate"
+    ],
+    [
+      "Coral reefs",
+      "provide shelter and food for",
+      "marine life"
+    ],
+    [
+      "Coral reefs",
+      "are vital to",
+      "oceans"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "marine life"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "human well-being"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "marine biodiversity"
+    ],
+    [
+      "Coral reefs",
+      "cover",
+      "ocean floor"
+    ],
+    [
+      "Coral reefs",
+      "are home to",
+      "marine species"
+    ],
+    [
+      "Coral reefs",
+      "provide a habitat for",
+      "fish"
+    ],
+    [
+      "Coral reefs",
+      "provide a habitat for",
+      "invertebrates"
+    ],
+    [
+      "Coral reefs",
+      "provide a habitat for",
+      "plants"
+    ],
+    [
+      "Coral reefs",
+      "contribute to",
+      "ocean ecosystems"
+    ],
+    [
+      "Coral reefs",
+      "provide",
+      "ecosystem services"
+    ],
+    [
+      "Coral reefs",
+      "provide",
+      "coastal protection"
+    ],
+    [
+      "Coral reefs",
+      "dissipate",
+      "wave energy"
+    ],
+    [
+      "Coral reefs",
+      "protect",
+      "coastal communities"
+    ],
+    [
+      "Coral reefs",
+      "protect from",
+      "erosion"
+    ],
+    [
+      "Coral reefs",
+      "protect from",
+      "flooding"
+    ],
+    [
+      "Coral reefs",
+      "act as",
+      "natural barriers"
+    ],
+    [
+      "Coral reefs",
+      "mitigate",
+      "hurricanes"
+    ],
+    [
+      "Coral reefs",
+      "mitigate",
+      "tsunamis"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "fisheries"
+    ],
+    [
+      "Coral reefs",
+      "provide",
+      "food security"
+    ],
+    [
+      "fish",
+      "rely on",
+      "Coral reefs"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "local fisheries"
+    ],
+    [
+      "Coral reefs",
+      "provide income for",
+      "coastal communities"
+    ],
+    [
+      "Coral reefs",
+      "contribute to",
+      "food security"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "sustainable fishing practices"
+    ],
+    [
+      "Coral reefs",
+      "provide food for",
+      "developing countries"
+    ],
+    [
+      "Coral reefs",
+      "promote",
+      "tourism"
+    ],
+    [
+      "Coral reefs",
+      "promote",
+      "recreation"
+    ],
+    [
+      "Coral reefs",
+      "are destinations for",
+      "divers"
+    ],
+    [
+      "Coral reefs",
+      "are destinations for",
+      "snorkelers"
+    ],
+    [
+      "Coral reefs",
+      "attract",
+      "tourists"
+    ],
+    [
+      "Coral reefs",
+      "are assets for",
+      "tourism industry"
+    ],
+    [
+      "Coral reefs",
+      "raise awareness about",
+      "marine conservation"
+    ],
+    [
+      "Coral reefs",
+      "protect",
+      "habitats"
+    ],
+    [
+      "Coral reefs",
+      "face",
+      "Climate change"
+    ],
+    [
+      "Coral reefs",
+      "face",
+      "ocean acidification"
+    ],
+    [
+      "Coral reefs",
+      "face",
+      "pollution"
+    ],
+    [
+      "Coral reefs",
+      "face",
+      "overfishing"
+    ],
+    [
+      "Coral reefs",
+      "face",
+      "fishing practices"
+    ],
+    [
+      "sea temperatures",
+      "cause",
+      "coral bleaching"
+    ],
+    [
+      "ocean acidification",
+      "cause",
+      "coral bleaching"
+    ],
+    [
+      "coral bleaching",
+      "expel",
+      "algae"
+    ],
+    [
+      "coral bleaching",
+      "lead to",
+      "coral colonies"
+    ],
+    [
+      "pollution",
+      "comes from",
+      "land-based sources"
+    ],
+    [
+      "land-based sources",
+      "include",
+      "agricultural runoff"
+    ],
+    [
+      "land-based sources",
+      "include",
+      "plastic waste"
+    ],
+    [
+      "pollution",
+      "introduces",
+      "chemicals"
+    ],
+    [
+      "greenhouse gas emissions",
+      "impact",
+      "Coral reefs"
+    ],
+    [
+      "sustainable fishing practices",
+      "ensure",
+      "fisheries"
+    ],
+    [
+      "pollution",
+      "impacts",
+      "water quality"
+    ],
+    [
+      "Marine protected areas",
+      "safeguard",
+      "Coral reefs"
+    ],
+    [
+      "Marine protected areas",
+      "promote",
+      "marine resources"
+    ],
+    [
+      "human activities",
+      "threaten",
+      "Coral reefs"
+    ],
+    [
+      "environmental stressors",
+      "threaten",
+      "Coral reefs"
+    ],
+    [
+      "conservation",
+      "needed for",
+      "Coral reefs"
+    ],
+    [
+      "sustainable management efforts",
+      "needed for",
+      "Coral reefs"
+    ],
+    [
+      "Coral reefs",
+      "support",
+      "marine biodiversity"
+    ],
+    [
+      "Coral reefs",
+      "provide",
+      "ecosystem services"
+    ],
+    [
+      "Coral reefs",
+      "contribute to",
+      "human well-being"
+    ]
+  ],
+  "edges": [
+    "raise awareness about",
+    "secrete",
+    "contribute to",
+    "provide a habitat for",
+    "are made up of",
+    "are destinations for",
+    "attract",
+    "needed for",
+    "protect",
+    "support",
+    "include",
+    "provide",
+    "provide shelter and food for",
+    "threaten",
+    "provide income for",
+    "impact",
+    "provide food for",
+    "impacts",
+    "are vital to",
+    "referred to as",
+    "protect from",
+    "cause",
+    "lead to",
+    "cover",
+    "comes from",
+    "are home to",
+    "are assets for",
+    "expel",
+    "act as",
+    "promote",
+    "ensure",
+    "have",
+    "face",
+    "safeguard",
+    "are important to",
+    "rely on",
+    "introduces",
+    "dissipate",
+    "mitigate"
+  ]
+}

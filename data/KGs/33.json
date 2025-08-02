@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "Atlantis",
+    "Plato",
+    "Timaeus",
+    "Critias",
+    "Atlantic Ocean",
+    "Pillars of Hercules",
+    "Strait of Gibraltar",
+    "Atlanteans",
+    "Mediterranean Sea",
+    "Antarctica"
+  ],
+  "relations": [
+    [
+      "Atlantis",
+      "mentioned by",
+      "Plato"
+    ],
+    [
+      "Plato",
+      "wrote",
+      "Timaeus"
+    ],
+    [
+      "Plato",
+      "wrote",
+      "Critias"
+    ],
+    [
+      "Atlantis",
+      "located beyond",
+      "Pillars of Hercules"
+    ],
+    [
+      "Pillars of Hercules",
+      "believed to be",
+      "Strait of Gibraltar"
+    ],
+    [
+      "Atlantis",
+      "destroyed in",
+      "Atlantic Ocean"
+    ],
+    [
+      "Atlantis",
+      "location speculation",
+      "Atlantic Ocean"
+    ],
+    [
+      "Atlantis",
+      "location speculation",
+      "Mediterranean Sea"
+    ],
+    [
+      "Atlantis",
+      "location speculation",
+      "Antarctica"
+    ]
+  ],
+  "edges": [
+    "mentioned by",
+    "believed to be",
+    "destroyed in",
+    "location speculation",
+    "located beyond",
+    "wrote"
+  ]
+}

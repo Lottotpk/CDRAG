@@ -1,0 +1,372 @@
+{
+  "entities": [
+    "Magic tricks",
+    "audiences",
+    "logic",
+    "perceptions of reality",
+    "history of magic tricks",
+    "ancient times",
+    "illusions",
+    "sleight of hand",
+    "people",
+    "essay",
+    "evolution of magic tricks",
+    "humble beginnings",
+    "elaborate performances",
+    "ancient Egypt",
+    "magicians",
+    "misdirection",
+    "religious ceremonies",
+    "supernatural powers",
+    "ancient Egyptians",
+    "art of illusion",
+    "props",
+    "cups",
+    "balls",
+    "audiences",
+    "ancient Greece",
+    "Rome",
+    "storytelling",
+    "theatrics",
+    "public squares",
+    "marketplaces",
+    "crowds",
+    "Middle Ages",
+    "witchcraft",
+    "occult",
+    "wands",
+    "cloaks",
+    "crystal balls",
+    "magic performances",
+    "Renaissance period",
+    "John Dee",
+    "Girolamo Cardano",
+    "science",
+    "mathematics",
+    "optics",
+    "geometry",
+    "illusions",
+    "audiences",
+    "19th century",
+    "professional magicians",
+    "Jean Eug\u00c3\u00a8ne Robert-Houdin",
+    "Harry Houdini",
+    "art of magic",
+    "daring escapes",
+    "death-defying stunts",
+    "elaborate props",
+    "stage effects",
+    "modern era",
+    "magic performances",
+    "20th century",
+    "David Copperfield",
+    "Penn & Teller",
+    "realm of illusion",
+    "cutting-edge technology",
+    "innovative techniques",
+    "illusions",
+    "audiences",
+    "comedy",
+    "drama",
+    "suspense",
+    "ancient Egypt",
+    "imagination",
+    "the unknown"
+  ],
+  "relations": [
+    [
+      "Magic tricks",
+      "captivating",
+      "audiences"
+    ],
+    [
+      "Magic tricks",
+      "defy",
+      "logic"
+    ],
+    [
+      "Magic tricks",
+      "challenge",
+      "perceptions of reality"
+    ],
+    [
+      "history of magic tricks",
+      "dates back to",
+      "ancient times"
+    ],
+    [
+      "essay",
+      "explore",
+      "evolution of magic tricks"
+    ],
+    [
+      "evolution of magic tricks",
+      "from",
+      "humble beginnings"
+    ],
+    [
+      "evolution of magic tricks",
+      "to",
+      "elaborate performances"
+    ],
+    [
+      "Magic tricks",
+      "traced back to",
+      "ancient Egypt"
+    ],
+    [
+      "magicians",
+      "perform",
+      "illusions"
+    ],
+    [
+      "illusions",
+      "using",
+      "sleight of hand"
+    ],
+    [
+      "illusions",
+      "using",
+      "misdirection"
+    ],
+    [
+      "Magic tricks",
+      "used in",
+      "religious ceremonies"
+    ],
+    [
+      "Magic tricks",
+      "believed to have",
+      "supernatural powers"
+    ],
+    [
+      "ancient Egyptians",
+      "skilled in",
+      "art of illusion"
+    ],
+    [
+      "ancient Egyptians",
+      "using",
+      "props"
+    ],
+    [
+      "Magic tricks",
+      "evolve throughout",
+      "ancient Greece"
+    ],
+    [
+      "Magic tricks",
+      "evolve throughout",
+      "Rome"
+    ],
+    [
+      "magicians",
+      "incorporating",
+      "storytelling"
+    ],
+    [
+      "magicians",
+      "incorporating",
+      "theatrics"
+    ],
+    [
+      "magicians",
+      "perform in",
+      "public squares"
+    ],
+    [
+      "magicians",
+      "perform in",
+      "marketplaces"
+    ],
+    [
+      "magicians",
+      "entertain",
+      "crowds"
+    ],
+    [
+      "magicians",
+      "associated with",
+      "witchcraft"
+    ],
+    [
+      "magicians",
+      "associated with",
+      "occult"
+    ],
+    [
+      "props",
+      "use of",
+      "wands"
+    ],
+    [
+      "props",
+      "use of",
+      "cloaks"
+    ],
+    [
+      "props",
+      "use of",
+      "crystal balls"
+    ],
+    [
+      "magicians",
+      "incorporating",
+      "science"
+    ],
+    [
+      "magicians",
+      "incorporating",
+      "mathematics"
+    ],
+    [
+      "magicians",
+      "used",
+      "optics"
+    ],
+    [
+      "magicians",
+      "used",
+      "geometry"
+    ],
+    [
+      "illusions",
+      "baffled",
+      "audiences"
+    ],
+    [
+      "illusions",
+      "astounded",
+      "audiences"
+    ],
+    [
+      "professional magicians",
+      "revolutionized",
+      "art of magic"
+    ],
+    [
+      "professional magicians",
+      "with",
+      "daring escapes"
+    ],
+    [
+      "professional magicians",
+      "with",
+      "death-defying stunts"
+    ],
+    [
+      "magicians",
+      "popularized",
+      "elaborate props"
+    ],
+    [
+      "magicians",
+      "popularized",
+      "stage effects"
+    ],
+    [
+      "stage effects",
+      "setting the stage for",
+      "modern era"
+    ],
+    [
+      "magic performances",
+      "modern era of",
+      "magic performances"
+    ],
+    [
+      "magicians",
+      "pushing",
+      "realm of illusion"
+    ],
+    [
+      "magicians",
+      "used",
+      "cutting-edge technology"
+    ],
+    [
+      "magicians",
+      "used",
+      "innovative techniques"
+    ],
+    [
+      "illusions",
+      "amazed",
+      "audiences"
+    ],
+    [
+      "Magic tricks",
+      "incorporating",
+      "comedy"
+    ],
+    [
+      "Magic tricks",
+      "incorporating",
+      "drama"
+    ],
+    [
+      "Magic tricks",
+      "incorporating",
+      "suspense"
+    ],
+    [
+      "art of magic",
+      "come a long way since",
+      "ancient Egypt"
+    ],
+    [
+      "Magic tricks",
+      "captivate",
+      "audiences"
+    ],
+    [
+      "Magic tricks",
+      "defy",
+      "logic"
+    ],
+    [
+      "Magic tricks",
+      "challenge",
+      "perceptions of reality"
+    ],
+    [
+      "Magic tricks",
+      "testament to",
+      "the unknown"
+    ]
+  ],
+  "edges": [
+    "setting the stage for",
+    "perform in",
+    "baffled",
+    "entertain",
+    "testament to",
+    "associated with",
+    "to",
+    "with",
+    "explore",
+    "perform",
+    "defy",
+    "use of",
+    "challenge",
+    "believed to have",
+    "pushing",
+    "using",
+    "astounded",
+    "dates back to",
+    "evolve throughout",
+    "popularized",
+    "come a long way since",
+    "revolutionized",
+    "incorporating",
+    "captivate",
+    "used in",
+    "captivating",
+    "used",
+    "skilled in",
+    "modern era of",
+    "from",
+    "amazed",
+    "traced back to"
+  ]
+}

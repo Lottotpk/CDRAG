@@ -1,0 +1,410 @@
+{
+  "entities": [
+    "Fairytales",
+    "audiences",
+    "magical elements",
+    "timeless themes",
+    "fantastical creatures",
+    "heroic protagonists",
+    "moral lessons",
+    "Brothers Grimm",
+    "Grimm's Fairy Tales",
+    "Cinderella",
+    "Snow White",
+    "Hansel and Gretel",
+    "Jacob Grimm",
+    "Wilhelm Grimm",
+    "German brothers",
+    "scholars",
+    "peasants",
+    "villagers",
+    "oral traditions",
+    "culture",
+    "Rhodopis",
+    "king",
+    "slipper",
+    "Charles Perrault",
+    "fairy godmother",
+    "glass slipper",
+    "stroke of midnight",
+    "German traditions",
+    "Italian traditions",
+    "Slavic traditions",
+    "princess",
+    "wicked stepmother",
+    "evil queen",
+    "forest",
+    "seven dwarfs",
+    "handsome prince",
+    "siblings",
+    "woods",
+    "parents",
+    "house",
+    "sweets",
+    "cannibalistic witch",
+    "wit",
+    "bravery",
+    "witches",
+    "Beauty and the Beast",
+    "ancient myths",
+    "Roman poet Ovid",
+    "Pygmalion",
+    "Galatea",
+    "sculptor",
+    "statue",
+    "love",
+    "transformation",
+    "young woman",
+    "beastly exterior",
+    "cursed prince",
+    "true nature",
+    "oral traditions",
+    "folklore",
+    "cultural myths",
+    "heroic characters",
+    "readers",
+    "listeners",
+    "human experience",
+    "power of storytelling",
+    "time",
+    "cultures"
+  ],
+  "relations": [
+    [
+      "Fairytales",
+      "captivate",
+      "audiences"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "magical elements"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "timeless themes"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "fantastical creatures"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "heroic protagonists"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "moral lessons"
+    ],
+    [
+      "Brothers Grimm",
+      "authored",
+      "Grimm's Fairy Tales"
+    ],
+    [
+      "Grimm's Fairy Tales",
+      "includes",
+      "Cinderella"
+    ],
+    [
+      "Grimm's Fairy Tales",
+      "includes",
+      "Snow White"
+    ],
+    [
+      "Grimm's Fairy Tales",
+      "includes",
+      "Hansel and Gretel"
+    ],
+    [
+      "Jacob Grimm",
+      "is a",
+      "German brothers"
+    ],
+    [
+      "Wilhelm Grimm",
+      "is a",
+      "German brothers"
+    ],
+    [
+      "German brothers",
+      "are",
+      "scholars"
+    ],
+    [
+      "Jacob Grimm",
+      "collected stories from",
+      "peasants"
+    ],
+    [
+      "Jacob Grimm",
+      "collected stories from",
+      "villagers"
+    ],
+    [
+      "Wilhelm Grimm",
+      "collected stories from",
+      "peasants"
+    ],
+    [
+      "Wilhelm Grimm",
+      "collected stories from",
+      "villagers"
+    ],
+    [
+      "Brothers Grimm",
+      "preserve",
+      "oral traditions"
+    ],
+    [
+      "Brothers Grimm",
+      "preserve",
+      "culture"
+    ],
+    [
+      "Rhodopis",
+      "marries",
+      "king"
+    ],
+    [
+      "king",
+      "finds",
+      "slipper"
+    ],
+    [
+      "Charles Perrault",
+      "introduced",
+      "fairy godmother"
+    ],
+    [
+      "Charles Perrault",
+      "introduced",
+      "glass slipper"
+    ],
+    [
+      "Charles Perrault",
+      "introduced",
+      "stroke of midnight"
+    ],
+    [
+      "Snow White",
+      "found in",
+      "German traditions"
+    ],
+    [
+      "Snow White",
+      "found in",
+      "Italian traditions"
+    ],
+    [
+      "Snow White",
+      "found in",
+      "Slavic traditions"
+    ],
+    [
+      "Snow White",
+      "is a",
+      "princess"
+    ],
+    [
+      "Snow White",
+      "flees into",
+      "forest"
+    ],
+    [
+      "Snow White",
+      "helped by",
+      "seven dwarfs"
+    ],
+    [
+      "Snow White",
+      "finds",
+      "handsome prince"
+    ],
+    [
+      "Hansel and Gretel",
+      "are",
+      "siblings"
+    ],
+    [
+      "Hansel and Gretel",
+      "abandoned in",
+      "woods"
+    ],
+    [
+      "Hansel and Gretel",
+      "abandoned by",
+      "parents"
+    ],
+    [
+      "Hansel and Gretel",
+      "find",
+      "house"
+    ],
+    [
+      "house",
+      "made of",
+      "sweets"
+    ],
+    [
+      "house",
+      "belongs to",
+      "cannibalistic witch"
+    ],
+    [
+      "Hansel and Gretel",
+      "use",
+      "wit"
+    ],
+    [
+      "Hansel and Gretel",
+      "use",
+      "bravery"
+    ],
+    [
+      "Hansel and Gretel",
+      "outsmart",
+      "witches"
+    ],
+    [
+      "Beauty and the Beast",
+      "traced back to",
+      "ancient myths"
+    ],
+    [
+      "Roman poet Ovid",
+      "wrote about",
+      "Pygmalion"
+    ],
+    [
+      "Roman poet Ovid",
+      "wrote about",
+      "Galatea"
+    ],
+    [
+      "Pygmalion",
+      "is a",
+      "sculptor"
+    ],
+    [
+      "Galatea",
+      "is a",
+      "statue"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "love"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "transformation"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "young woman"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "beastly exterior"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "cursed prince"
+    ],
+    [
+      "Beauty and the Beast",
+      "features",
+      "true nature"
+    ],
+    [
+      "Fairytales",
+      "rooted in",
+      "oral traditions"
+    ],
+    [
+      "Fairytales",
+      "rooted in",
+      "folklore"
+    ],
+    [
+      "Fairytales",
+      "rooted in",
+      "cultural myths"
+    ],
+    [
+      "Fairytales",
+      "feature",
+      "heroic characters"
+    ],
+    [
+      "Fairytales",
+      "enchant",
+      "readers"
+    ],
+    [
+      "Fairytales",
+      "enchant",
+      "listeners"
+    ],
+    [
+      "Fairytales",
+      "offer insights into",
+      "human experience"
+    ],
+    [
+      "Fairytales",
+      "demonstrate",
+      "power of storytelling"
+    ],
+    [
+      "Fairytales",
+      "connect across",
+      "time"
+    ],
+    [
+      "Fairytales",
+      "connect across",
+      "cultures"
+    ]
+  ],
+  "edges": [
+    "finds",
+    "use",
+    "enchant",
+    "introduced",
+    "captivate",
+    "helped by",
+    "collected stories from",
+    "includes",
+    "connect across",
+    "abandoned by",
+    "find",
+    "offer insights into",
+    "features",
+    "made of",
+    "outsmart",
+    "traced back to",
+    "feature",
+    "rooted in",
+    "authored",
+    "abandoned in",
+    "are",
+    "is a",
+    "flees into",
+    "demonstrate",
+    "marries",
+    "found in",
+    "wrote about",
+    "preserve",
+    "belongs to"
+  ]
+}

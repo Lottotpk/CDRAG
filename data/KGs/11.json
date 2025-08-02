@@ -1,0 +1,339 @@
+{
+  "entities": [
+    "Language processing",
+    "human brain",
+    "neural pathways",
+    "communication",
+    "cognition",
+    "brain regions",
+    "perception",
+    "comprehension",
+    "production",
+    "acquisition",
+    "neural networks",
+    "linguistic input",
+    "meaningful output",
+    "speech sounds",
+    "written symbols",
+    "auditory cortex",
+    "visual cortex",
+    "phonemes",
+    "graphemes",
+    "Wernicke's area",
+    "phonological information",
+    "syntactic information",
+    "semantic information",
+    "sentence",
+    "left hemisphere",
+    "Broca's area",
+    "angular gyrus",
+    "grammatical rules",
+    "words",
+    "motor areas",
+    "frontal lobe",
+    "premotor cortex",
+    "speech muscles",
+    "mental lexicon",
+    "motor commands",
+    "articulatory muscles",
+    "new words",
+    "grammatical rules",
+    "language structures",
+    "brain's plasticity",
+    "Children",
+    "developing brains",
+    "expressive aphasia",
+    "receptive aphasia",
+    "visual information",
+    "auditory information",
+    "reading",
+    "writing",
+    "arcuate fasciculus",
+    "communication disorders",
+    "neurorehabilitation",
+    "human cognition",
+    "language development"
+  ],
+  "relations": [
+    [
+      "Language processing",
+      "is function of",
+      "human brain"
+    ],
+    [
+      "Language processing",
+      "involves",
+      "brain regions"
+    ],
+    [
+      "Language processing",
+      "involves",
+      "neural pathways"
+    ],
+    [
+      "comprehension",
+      "is stage of",
+      "Language processing"
+    ],
+    [
+      "perception",
+      "is stage of",
+      "Language processing"
+    ],
+    [
+      "production",
+      "is stage of",
+      "Language processing"
+    ],
+    [
+      "acquisition",
+      "is stage of",
+      "Language processing"
+    ],
+    [
+      "perception",
+      "involves",
+      "speech sounds"
+    ],
+    [
+      "perception",
+      "involves",
+      "written symbols"
+    ],
+    [
+      "speech sounds",
+      "processed in",
+      "auditory cortex"
+    ],
+    [
+      "written symbols",
+      "processed in",
+      "visual cortex"
+    ],
+    [
+      "phonemes",
+      "processed in",
+      "Wernicke's area"
+    ],
+    [
+      "graphemes",
+      "processed in",
+      "Wernicke's area"
+    ],
+    [
+      "Wernicke's area",
+      "involved in",
+      "comprehension"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "phonological information"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "syntactic information"
+    ],
+    [
+      "comprehension",
+      "involves",
+      "semantic information"
+    ],
+    [
+      "left hemisphere",
+      "plays role in",
+      "comprehension"
+    ],
+    [
+      "Broca's area",
+      "plays role in",
+      "comprehension"
+    ],
+    [
+      "angular gyrus",
+      "plays role in",
+      "comprehension"
+    ],
+    [
+      "Broca's area",
+      "processes",
+      "grammatical rules"
+    ],
+    [
+      "Broca's area",
+      "links",
+      "words"
+    ],
+    [
+      "production",
+      "involves",
+      "motor areas"
+    ],
+    [
+      "production",
+      "involves",
+      "frontal lobe"
+    ],
+    [
+      "Broca's area",
+      "controls",
+      "speech muscles"
+    ],
+    [
+      "premotor cortex",
+      "controls",
+      "speech muscles"
+    ],
+    [
+      "production",
+      "retrieves",
+      "words"
+    ],
+    [
+      "production",
+      "sends",
+      "motor commands"
+    ],
+    [
+      "motor commands",
+      "sent to",
+      "articulatory muscles"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "new words"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "grammatical rules"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "language structures"
+    ],
+    [
+      "acquisition",
+      "supported by",
+      "brain's plasticity"
+    ],
+    [
+      "Children",
+      "have",
+      "developing brains"
+    ],
+    [
+      "Broca's area",
+      "crucial for",
+      "production"
+    ],
+    [
+      "Broca's area",
+      "crucial for",
+      "grammatical rules"
+    ],
+    [
+      "Broca's area",
+      "damage results in",
+      "expressive aphasia"
+    ],
+    [
+      "Wernicke's area",
+      "responsible for",
+      "comprehension"
+    ],
+    [
+      "Wernicke's area",
+      "responsible for",
+      "semantic information"
+    ],
+    [
+      "Wernicke's area",
+      "damage results in",
+      "receptive aphasia"
+    ],
+    [
+      "angular gyrus",
+      "integrates",
+      "visual information"
+    ],
+    [
+      "angular gyrus",
+      "integrates",
+      "auditory information"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "reading"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "writing"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "Broca's area"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "Wernicke's area"
+    ],
+    [
+      "arcuate fasciculus",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "Language processing",
+      "has implications for",
+      "language development"
+    ],
+    [
+      "Language processing",
+      "has implications for",
+      "communication disorders"
+    ],
+    [
+      "Language processing",
+      "has implications for",
+      "neurorehabilitation"
+    ],
+    [
+      "Language processing",
+      "sheds light on",
+      "human cognition"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "is function of",
+    "plays role in",
+    "crucial for",
+    "is stage of",
+    "links",
+    "sent to",
+    "integrates",
+    "has implications for",
+    "facilitates",
+    "processed in",
+    "sheds light on",
+    "involved in",
+    "sends",
+    "retrieves",
+    "supported by",
+    "controls",
+    "have",
+    "responsible for",
+    "damage results in",
+    "connects",
+    "supports",
+    "processes"
+  ]
+}

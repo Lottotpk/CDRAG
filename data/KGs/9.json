@@ -1,0 +1,395 @@
+{
+  "entities": [
+    "colors",
+    "psychological well-being",
+    "emotions",
+    "feelings",
+    "color psychology",
+    "human behavior",
+    "mood",
+    "behavior",
+    "physical reactions",
+    "calming blues",
+    "energizing yellows",
+    "warm colors",
+    "red",
+    "orange",
+    "yellow",
+    "energy",
+    "warmth",
+    "passion",
+    "excitement",
+    "appetite",
+    "urgency",
+    "cool colors",
+    "blue",
+    "green",
+    "purple",
+    "calmness",
+    "tranquility",
+    "relaxation",
+    "bedrooms",
+    "meditation rooms",
+    "heart rate",
+    "blood pressure",
+    "advertising",
+    "mind",
+    "body",
+    "offices",
+    "focus",
+    "concentration",
+    "serotonin levels",
+    "brain",
+    "joy",
+    "optimism",
+    "kitchen",
+    "happiness",
+    "positivity",
+    "power",
+    "authority",
+    "sophistication",
+    "sadness",
+    "mystery",
+    "individual experiences",
+    "cultural backgrounds",
+    "danger",
+    "nature",
+    "personal experiences",
+    "cultural contexts",
+    "white",
+    "purity",
+    "innocence",
+    "Western cultures",
+    "Eastern cultures",
+    "death",
+    "mourning",
+    "environments",
+    "well-being",
+    "creativity",
+    "productivity",
+    "workout space",
+    "mindset"
+  ],
+  "relations": [
+    [
+      "colors",
+      "have impact on",
+      "psychological well-being"
+    ],
+    [
+      "colors",
+      "evoke",
+      "emotions"
+    ],
+    [
+      "colors",
+      "evoke",
+      "feelings"
+    ],
+    [
+      "color psychology",
+      "is the study of",
+      "human behavior"
+    ],
+    [
+      "color psychology",
+      "is the study of",
+      "emotions"
+    ],
+    [
+      "colors",
+      "affect",
+      "mood"
+    ],
+    [
+      "colors",
+      "affect",
+      "behavior"
+    ],
+    [
+      "colors",
+      "affect",
+      "physical reactions"
+    ],
+    [
+      "calming blues",
+      "are",
+      "colors"
+    ],
+    [
+      "energizing yellows",
+      "are",
+      "colors"
+    ],
+    [
+      "warm colors",
+      "are",
+      "red"
+    ],
+    [
+      "warm colors",
+      "are",
+      "orange"
+    ],
+    [
+      "warm colors",
+      "are",
+      "yellow"
+    ],
+    [
+      "warm colors",
+      "are associated with",
+      "energy"
+    ],
+    [
+      "warm colors",
+      "are associated with",
+      "warmth"
+    ],
+    [
+      "warm colors",
+      "are associated with",
+      "passion"
+    ],
+    [
+      "warm colors",
+      "evoke",
+      "excitement"
+    ],
+    [
+      "warm colors",
+      "stimulate",
+      "appetite"
+    ],
+    [
+      "warm colors",
+      "create",
+      "urgency"
+    ],
+    [
+      "cool colors",
+      "are",
+      "blue"
+    ],
+    [
+      "cool colors",
+      "are",
+      "green"
+    ],
+    [
+      "cool colors",
+      "are",
+      "purple"
+    ],
+    [
+      "cool colors",
+      "are associated with",
+      "calmness"
+    ],
+    [
+      "cool colors",
+      "are associated with",
+      "tranquility"
+    ],
+    [
+      "cool colors",
+      "are associated with",
+      "relaxation"
+    ],
+    [
+      "cool colors",
+      "are used in",
+      "bedrooms"
+    ],
+    [
+      "cool colors",
+      "are used in",
+      "meditation rooms"
+    ],
+    [
+      "red",
+      "increase",
+      "heart rate"
+    ],
+    [
+      "red",
+      "increase",
+      "blood pressure"
+    ],
+    [
+      "red",
+      "lead to",
+      "excitement"
+    ],
+    [
+      "red",
+      "is used in",
+      "advertising"
+    ],
+    [
+      "blue",
+      "has effect on",
+      "mind"
+    ],
+    [
+      "blue",
+      "has effect on",
+      "body"
+    ],
+    [
+      "blue",
+      "is used in",
+      "bedrooms"
+    ],
+    [
+      "blue",
+      "is used in",
+      "offices"
+    ],
+    [
+      "blue",
+      "is used for",
+      "focus"
+    ],
+    [
+      "blue",
+      "is used for",
+      "concentration"
+    ],
+    [
+      "yellow",
+      "is associated with",
+      "happiness"
+    ],
+    [
+      "yellow",
+      "is associated with",
+      "positivity"
+    ],
+    [
+      "yellow",
+      "increase",
+      "serotonin levels"
+    ],
+    [
+      "yellow",
+      "lead to",
+      "joy"
+    ],
+    [
+      "yellow",
+      "lead to",
+      "optimism"
+    ],
+    [
+      "individual experiences",
+      "influence",
+      "colors"
+    ],
+    [
+      "cultural backgrounds",
+      "influence",
+      "colors"
+    ],
+    [
+      "red",
+      "is associated with",
+      "danger"
+    ],
+    [
+      "green",
+      "is associated with",
+      "nature"
+    ],
+    [
+      "personal experiences",
+      "affect",
+      "colors"
+    ],
+    [
+      "cultural contexts",
+      "affect",
+      "colors"
+    ],
+    [
+      "white",
+      "is associated with",
+      "purity"
+    ],
+    [
+      "white",
+      "is associated with",
+      "innocence"
+    ],
+    [
+      "white",
+      "is associated with",
+      "death"
+    ],
+    [
+      "white",
+      "is associated with",
+      "mourning"
+    ],
+    [
+      "colors",
+      "influence",
+      "emotions"
+    ],
+    [
+      "colors",
+      "influence",
+      "behavior"
+    ],
+    [
+      "colors",
+      "create",
+      "environments"
+    ],
+    [
+      "environments",
+      "promote",
+      "well-being"
+    ],
+    [
+      "environments",
+      "promote",
+      "creativity"
+    ],
+    [
+      "environments",
+      "promote",
+      "productivity"
+    ],
+    [
+      "colors",
+      "have",
+      "mood"
+    ],
+    [
+      "colors",
+      "have",
+      "mindset"
+    ]
+  ],
+  "edges": [
+    "affect",
+    "is associated with",
+    "promote",
+    "influence",
+    "have",
+    "are",
+    "increase",
+    "lead to",
+    "have impact on",
+    "has effect on",
+    "is the study of",
+    "is used for",
+    "stimulate",
+    "evoke",
+    "are associated with",
+    "create",
+    "are used in",
+    "is used in"
+  ]
+}

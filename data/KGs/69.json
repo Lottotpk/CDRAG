@@ -1,0 +1,359 @@
+{
+  "entities": [
+    "Smell",
+    "Olfaction",
+    "Human body",
+    "Emotions",
+    "Memories",
+    "Behavior",
+    "Odor molecules",
+    "Nasal cavity",
+    "Nostrils",
+    "Olfactory receptors",
+    "Olfactory epithelium",
+    "Tissue",
+    "Brain",
+    "Humans",
+    "Animals",
+    "Predators",
+    "Food",
+    "Mates",
+    "Smoke",
+    "Spoiled food",
+    "Aroma",
+    "Fresh fruits",
+    "Cooked meals",
+    "Sight",
+    "Hearing",
+    "Proustian effect",
+    "Marcel Proust",
+    "Madeleine cookie",
+    "Olfactory system",
+    "Limbic system",
+    "Nostalgia",
+    "Psychology",
+    "Therapy",
+    "Aromatherapy",
+    "Alternative medicine",
+    "Plant-derived essential oils",
+    "Lavender",
+    "Peppermint",
+    "Alzheimer's disease",
+    "Post-traumatic stress disorder (PTSD)",
+    "Culture",
+    "Social interactions",
+    "Scents",
+    "Geographical location",
+    "Historical traditions",
+    "Personal preferences",
+    "Incense",
+    "Spices",
+    "Floral fragrances",
+    "Citrus fragrances",
+    "Fragrance industry",
+    "Perfumes",
+    "Colognes",
+    "Researchers",
+    "Enthusiasts",
+    "Society",
+    "Well-being",
+    "Connections"
+  ],
+  "relations": [
+    [
+      "Smell",
+      "also known as",
+      "Olfaction"
+    ],
+    [
+      "Olfaction",
+      "is in",
+      "Human body"
+    ],
+    [
+      "Smell",
+      "influences",
+      "Emotions"
+    ],
+    [
+      "Smell",
+      "influences",
+      "Memories"
+    ],
+    [
+      "Smell",
+      "influences",
+      "Behavior"
+    ],
+    [
+      "Odor molecules",
+      "enter",
+      "Nasal cavity"
+    ],
+    [
+      "Nostrils",
+      "lead to",
+      "Nasal cavity"
+    ],
+    [
+      "Odor molecules",
+      "bind to",
+      "Olfactory receptors"
+    ],
+    [
+      "Olfactory receptors",
+      "located in",
+      "Olfactory epithelium"
+    ],
+    [
+      "Olfactory epithelium",
+      "is a",
+      "Tissue"
+    ],
+    [
+      "Olfactory epithelium",
+      "is in",
+      "Nasal cavity"
+    ],
+    [
+      "Olfactory receptors",
+      "send signals to",
+      "Brain"
+    ],
+    [
+      "Brain",
+      "processes",
+      "Smell"
+    ],
+    [
+      "Smell",
+      "detects",
+      "Predators"
+    ],
+    [
+      "Smell",
+      "finds",
+      "Food"
+    ],
+    [
+      "Smell",
+      "identifies",
+      "Mates"
+    ],
+    [
+      "Smell",
+      "warns of",
+      "Smoke"
+    ],
+    [
+      "Smell",
+      "warns of",
+      "Spoiled food"
+    ],
+    [
+      "Smell",
+      "guides",
+      "Food"
+    ],
+    [
+      "Aroma",
+      "of",
+      "Fresh fruits"
+    ],
+    [
+      "Aroma",
+      "of",
+      "Cooked meals"
+    ],
+    [
+      "Smell",
+      "evokes",
+      "Emotions"
+    ],
+    [
+      "Smell",
+      "evokes",
+      "Memories"
+    ],
+    [
+      "Proustian effect",
+      "named after",
+      "Marcel Proust"
+    ],
+    [
+      "Madeleine cookie",
+      "triggers",
+      "Memories"
+    ],
+    [
+      "Smell",
+      "triggers",
+      "Memories"
+    ],
+    [
+      "Olfactory system",
+      "connected to",
+      "Limbic system"
+    ],
+    [
+      "Limbic system",
+      "responsible for",
+      "Emotions"
+    ],
+    [
+      "Limbic system",
+      "responsible for",
+      "Memories"
+    ],
+    [
+      "Scents",
+      "evoke",
+      "Nostalgia"
+    ],
+    [
+      "Smell",
+      "used in",
+      "Psychology"
+    ],
+    [
+      "Smell",
+      "used in",
+      "Therapy"
+    ],
+    [
+      "Aromatherapy",
+      "is a form of",
+      "Alternative medicine"
+    ],
+    [
+      "Aromatherapy",
+      "uses",
+      "Plant-derived essential oils"
+    ],
+    [
+      "Scents",
+      "help with",
+      "Alzheimer's disease"
+    ],
+    [
+      "Scents",
+      "help with",
+      "Post-traumatic stress disorder (PTSD)"
+    ],
+    [
+      "Smell",
+      "plays a role in",
+      "Culture"
+    ],
+    [
+      "Smell",
+      "plays a role in",
+      "Social interactions"
+    ],
+    [
+      "Scents",
+      "vary based on",
+      "Geographical location"
+    ],
+    [
+      "Scents",
+      "vary based on",
+      "Historical traditions"
+    ],
+    [
+      "Scents",
+      "vary based on",
+      "Personal preferences"
+    ],
+    [
+      "Culture",
+      "values",
+      "Incense"
+    ],
+    [
+      "Culture",
+      "values",
+      "Spices"
+    ],
+    [
+      "Culture",
+      "prefers",
+      "Floral fragrances"
+    ],
+    [
+      "Culture",
+      "prefers",
+      "Citrus fragrances"
+    ],
+    [
+      "Fragrance industry",
+      "produces",
+      "Perfumes"
+    ],
+    [
+      "Fragrance industry",
+      "produces",
+      "Colognes"
+    ],
+    [
+      "Smell",
+      "intrigues",
+      "Researchers"
+    ],
+    [
+      "Smell",
+      "intrigues",
+      "Enthusiasts"
+    ],
+    [
+      "Smell",
+      "plays a role in",
+      "Society"
+    ],
+    [
+      "Smell",
+      "enhances",
+      "Well-being"
+    ],
+    [
+      "Smell",
+      "enhances",
+      "Connections"
+    ]
+  ],
+  "edges": [
+    "finds",
+    "also known as",
+    "identifies",
+    "enhances",
+    "enter",
+    "values",
+    "is in",
+    "guides",
+    "triggers",
+    "uses",
+    "of",
+    "intrigues",
+    "bind to",
+    "evoke",
+    "evokes",
+    "warns of",
+    "responsible for",
+    "processes",
+    "located in",
+    "lead to",
+    "plays a role in",
+    "connected to",
+    "help with",
+    "vary based on",
+    "send signals to",
+    "is a form of",
+    "influences",
+    "produces",
+    "used in",
+    "is a",
+    "named after",
+    "detects",
+    "prefers"
+  ]
+}

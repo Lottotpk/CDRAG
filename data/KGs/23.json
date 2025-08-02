@@ -1,0 +1,247 @@
+{
+  "entities": [
+    "astronaut",
+    "space exploration",
+    "universe",
+    "space station",
+    "crew",
+    "mission control",
+    "mission objectives",
+    "scientific research",
+    "station's systems",
+    "equipment",
+    "microgravity",
+    "human body",
+    "muscle",
+    "bone loss",
+    "exercise regimen",
+    "treadmills",
+    "resistance machines",
+    "living quarters",
+    "meals",
+    "station's systems",
+    "crewmates",
+    "books",
+    "movies",
+    "Earth",
+    "sleeping quarters",
+    "sleeping bags",
+    "scientific discovery",
+    "physical exertion",
+    "personal reflection",
+    "skills",
+    "knowledge",
+    "resilience",
+    "profession",
+    "universe"
+  ],
+  "relations": [
+    [
+      "astronaut",
+      "fascinated by",
+      "space exploration"
+    ],
+    [
+      "astronaut",
+      "fascinated by",
+      "universe"
+    ],
+    [
+      "astronaut",
+      "requires",
+      "knowledge"
+    ],
+    [
+      "astronaut",
+      "requires",
+      "physical exertion"
+    ],
+    [
+      "astronaut",
+      "performs",
+      "scientific research"
+    ],
+    [
+      "astronaut",
+      "adheres to",
+      "mission objectives"
+    ],
+    [
+      "crew",
+      "discusses",
+      "mission objectives"
+    ],
+    [
+      "crew",
+      "reviews",
+      "mission objectives"
+    ],
+    [
+      "mission control",
+      "sends",
+      "mission objectives"
+    ],
+    [
+      "astronaut",
+      "has",
+      "meals"
+    ],
+    [
+      "astronaut",
+      "conducts",
+      "scientific research"
+    ],
+    [
+      "astronaut",
+      "works on",
+      "station's systems"
+    ],
+    [
+      "astronaut",
+      "works on",
+      "equipment"
+    ],
+    [
+      "microgravity",
+      "causes",
+      "muscle"
+    ],
+    [
+      "microgravity",
+      "causes",
+      "bone loss"
+    ],
+    [
+      "astronaut",
+      "maintains",
+      "exercise regimen"
+    ],
+    [
+      "astronaut",
+      "uses",
+      "treadmills"
+    ],
+    [
+      "astronaut",
+      "uses",
+      "resistance machines"
+    ],
+    [
+      "astronaut",
+      "attends to",
+      "living quarters"
+    ],
+    [
+      "astronaut",
+      "cleans",
+      "living quarters"
+    ],
+    [
+      "astronaut",
+      "prepares",
+      "meals"
+    ],
+    [
+      "astronaut",
+      "performs",
+      "station's systems"
+    ],
+    [
+      "astronaut",
+      "socialize with",
+      "crewmates"
+    ],
+    [
+      "astronaut",
+      "read",
+      "books"
+    ],
+    [
+      "astronaut",
+      "watch",
+      "movies"
+    ],
+    [
+      "astronaut",
+      "gaze at",
+      "Earth"
+    ],
+    [
+      "astronaut",
+      "check-in with",
+      "mission control"
+    ],
+    [
+      "astronaut",
+      "retire to",
+      "sleeping quarters"
+    ],
+    [
+      "sleeping quarters",
+      "equipped with",
+      "sleeping bags"
+    ],
+    [
+      "astronaut",
+      "tests",
+      "skills"
+    ],
+    [
+      "astronaut",
+      "tests",
+      "knowledge"
+    ],
+    [
+      "astronaut",
+      "tests",
+      "resilience"
+    ],
+    [
+      "astronaut",
+      "engaged in",
+      "scientific discovery"
+    ],
+    [
+      "astronaut",
+      "engaged in",
+      "physical exertion"
+    ],
+    [
+      "astronaut",
+      "engaged in",
+      "personal reflection"
+    ],
+    [
+      "astronaut",
+      "has",
+      "profession"
+    ]
+  ],
+  "edges": [
+    "engaged in",
+    "tests",
+    "discusses",
+    "socialize with",
+    "prepares",
+    "equipped with",
+    "uses",
+    "works on",
+    "watch",
+    "sends",
+    "causes",
+    "has",
+    "conducts",
+    "reviews",
+    "performs",
+    "fascinated by",
+    "read",
+    "cleans",
+    "attends to",
+    "adheres to",
+    "gaze at",
+    "maintains",
+    "requires",
+    "check-in with",
+    "retire to"
+  ]
+}

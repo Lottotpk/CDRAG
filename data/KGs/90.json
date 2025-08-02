@@ -1,0 +1,404 @@
+{
+  "entities": [
+    "Memory formation",
+    "daily functioning",
+    "overall well-being",
+    "past events",
+    "experiences",
+    "information",
+    "learning",
+    "decision-making",
+    "the world",
+    "neural processes",
+    "encoding",
+    "storage",
+    "retrieval",
+    "sensory information",
+    "the brain",
+    "external stimuli",
+    "senses",
+    "sight",
+    "sound",
+    "touch",
+    "taste",
+    "smell",
+    "hippocampus",
+    "amygdala",
+    "prefrontal cortex",
+    "memory processing",
+    "consolidation",
+    "neurons",
+    "building blocks of the brain",
+    "connections",
+    "synapses",
+    "long-term potentiation",
+    "long-lasting memories",
+    "regions of the brain",
+    "type of memory",
+    "episodic memories",
+    "specific events",
+    "procedural memories",
+    "skills",
+    "habits",
+    "cerebellum",
+    "motor cortex",
+    "memory traces",
+    "physical changes in the brain",
+    "stored information",
+    "synaptic plasticity",
+    "synaptic connections",
+    "experience",
+    "learning",
+    "neural networks",
+    "memory consolidation",
+    "neocortex",
+    "researchers",
+    "neural mechanisms",
+    "neuroimaging techniques",
+    "functional magnetic resonance imaging (fMRI)",
+    "electroencephalography (EEG)",
+    "brain activity",
+    "memory tasks",
+    "emotion",
+    "attention",
+    "sleep",
+    "emotionally charged events",
+    "neutral events",
+    "limbic structures",
+    "memory encoding",
+    "focused attention",
+    "stages of sleep",
+    "cognitive processes",
+    "memory disorders",
+    "cognitive performance"
+  ],
+  "relations": [
+    [
+      "Memory formation",
+      "is essential for",
+      "daily functioning"
+    ],
+    [
+      "Memory formation",
+      "is essential for",
+      "overall well-being"
+    ],
+    [
+      "past events",
+      "is crucial for",
+      "learning"
+    ],
+    [
+      "past events",
+      "is crucial for",
+      "decision-making"
+    ],
+    [
+      "past events",
+      "is crucial for",
+      "the world"
+    ],
+    [
+      "experiences",
+      "is crucial for",
+      "learning"
+    ],
+    [
+      "experiences",
+      "is crucial for",
+      "decision-making"
+    ],
+    [
+      "experiences",
+      "is crucial for",
+      "the world"
+    ],
+    [
+      "information",
+      "is crucial for",
+      "learning"
+    ],
+    [
+      "information",
+      "is crucial for",
+      "decision-making"
+    ],
+    [
+      "information",
+      "is crucial for",
+      "the world"
+    ],
+    [
+      "Memory formation",
+      "involves",
+      "neural processes"
+    ],
+    [
+      "neural processes",
+      "work together to",
+      "encoding"
+    ],
+    [
+      "neural processes",
+      "work together to",
+      "storage"
+    ],
+    [
+      "neural processes",
+      "work together to",
+      "retrieval"
+    ],
+    [
+      "encoding",
+      "involves converting",
+      "sensory information"
+    ],
+    [
+      "sensory information",
+      "is perceived through",
+      "senses"
+    ],
+    [
+      "senses",
+      "include",
+      "sight"
+    ],
+    [
+      "senses",
+      "include",
+      "sound"
+    ],
+    [
+      "senses",
+      "include",
+      "touch"
+    ],
+    [
+      "senses",
+      "include",
+      "taste"
+    ],
+    [
+      "senses",
+      "include",
+      "smell"
+    ],
+    [
+      "the brain",
+      "includes",
+      "hippocampus"
+    ],
+    [
+      "the brain",
+      "includes",
+      "amygdala"
+    ],
+    [
+      "the brain",
+      "includes",
+      "prefrontal cortex"
+    ],
+    [
+      "hippocampus",
+      "is a hub for",
+      "memory processing"
+    ],
+    [
+      "hippocampus",
+      "is a hub for",
+      "consolidation"
+    ],
+    [
+      "hippocampus",
+      "forms",
+      "connections"
+    ],
+    [
+      "neurons",
+      "are",
+      "building blocks of the brain"
+    ],
+    [
+      "connections",
+      "are",
+      "synapses"
+    ],
+    [
+      "synapses",
+      "are strengthened by",
+      "long-term potentiation"
+    ],
+    [
+      "long-term potentiation",
+      "is essential for",
+      "long-lasting memories"
+    ],
+    [
+      "episodic memories",
+      "are a",
+      "type of memory"
+    ],
+    [
+      "episodic memories",
+      "are related to",
+      "specific events"
+    ],
+    [
+      "episodic memories",
+      "are related to",
+      "experiences"
+    ],
+    [
+      "episodic memories",
+      "are stored in",
+      "hippocampus"
+    ],
+    [
+      "procedural memories",
+      "are a",
+      "type of memory"
+    ],
+    [
+      "procedural memories",
+      "involve",
+      "skills"
+    ],
+    [
+      "procedural memories",
+      "involve",
+      "habits"
+    ],
+    [
+      "procedural memories",
+      "are stored in",
+      "cerebellum"
+    ],
+    [
+      "procedural memories",
+      "are stored in",
+      "motor cortex"
+    ],
+    [
+      "memory traces",
+      "are",
+      "physical changes in the brain"
+    ],
+    [
+      "memory traces",
+      "represent",
+      "stored information"
+    ],
+    [
+      "synaptic connections",
+      "are modified by",
+      "synaptic plasticity"
+    ],
+    [
+      "synaptic plasticity",
+      "responds to",
+      "experience"
+    ],
+    [
+      "synaptic plasticity",
+      "responds to",
+      "learning"
+    ],
+    [
+      "retrieval",
+      "activates",
+      "neural networks"
+    ],
+    [
+      "memory consolidation",
+      "transfers memories to",
+      "neocortex"
+    ],
+    [
+      "researchers",
+      "study",
+      "neural mechanisms"
+    ],
+    [
+      "researchers",
+      "use",
+      "neuroimaging techniques"
+    ],
+    [
+      "functional magnetic resonance imaging (fMRI)",
+      "observes",
+      "brain activity"
+    ],
+    [
+      "electroencephalography (EEG)",
+      "observes",
+      "brain activity"
+    ],
+    [
+      "neuroimaging techniques",
+      "observe",
+      "brain activity"
+    ],
+    [
+      "emotionally charged events",
+      "are better remembered than",
+      "neutral events"
+    ],
+    [
+      "emotionally charged events",
+      "activate",
+      "amygdala"
+    ],
+    [
+      "emotionally charged events",
+      "activate",
+      "limbic structures"
+    ],
+    [
+      "attention",
+      "is critical for",
+      "memory encoding"
+    ],
+    [
+      "sleep",
+      "plays a role in",
+      "memory consolidation"
+    ],
+    [
+      "researchers",
+      "unlocks possibilities for",
+      "cognitive performance"
+    ]
+  ],
+  "edges": [
+    "involve",
+    "use",
+    "represent",
+    "is crucial for",
+    "work together to",
+    "observe",
+    "transfers memories to",
+    "involves",
+    "includes",
+    "activates",
+    "include",
+    "is essential for",
+    "are better remembered than",
+    "observes",
+    "are a",
+    "are related to",
+    "is critical for",
+    "are stored in",
+    "plays a role in",
+    "unlocks possibilities for",
+    "forms",
+    "involves converting",
+    "is perceived through",
+    "are",
+    "study",
+    "is a hub for",
+    "are strengthened by",
+    "responds to",
+    "are modified by",
+    "activate"
+  ]
+}

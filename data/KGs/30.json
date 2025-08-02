@@ -1,0 +1,249 @@
+{
+  "entities": [
+    "bonsai tree cultivation",
+    "China",
+    "Japan",
+    "Bonsai",
+    "miniature trees",
+    "pots",
+    "full-sized trees",
+    "horticulture",
+    "aesthetics",
+    "miniaturization",
+    "bonsai artists",
+    "tree's branches",
+    "roots",
+    "growth of the tree",
+    "nature",
+    "shaping",
+    "styling",
+    "wiring",
+    "pruning",
+    "grafting",
+    "tree's trunk",
+    "foliage",
+    "proportion",
+    "balance",
+    "asymmetry",
+    "branches",
+    "angle of the trunk",
+    "design of the tree",
+    "artistic expression",
+    "traditional Japanese aesthetics",
+    "personal creativity",
+    "bonsai tree",
+    "natural world",
+    "mindfulness",
+    "elegant and refined styles",
+    "naturalistic and informal styles",
+    "miniature masterpieces",
+    "beauty",
+    "essence"
+  ],
+  "relations": [
+    [
+      "bonsai tree cultivation",
+      "originated in",
+      "China"
+    ],
+    [
+      "bonsai tree cultivation",
+      "originated in",
+      "Japan"
+    ],
+    [
+      "Bonsai",
+      "involves",
+      "shaping"
+    ],
+    [
+      "Bonsai",
+      "involves",
+      "miniature trees"
+    ],
+    [
+      "Bonsai",
+      "grown in",
+      "pots"
+    ],
+    [
+      "Bonsai",
+      "mimic",
+      "full-sized trees"
+    ],
+    [
+      "bonsai tree cultivation",
+      "requires",
+      "horticulture"
+    ],
+    [
+      "bonsai tree cultivation",
+      "requires",
+      "aesthetics"
+    ],
+    [
+      "bonsai tree cultivation",
+      "involves",
+      "miniaturization"
+    ],
+    [
+      "bonsai artists",
+      "prune",
+      "tree's branches"
+    ],
+    [
+      "bonsai artists",
+      "trim",
+      "roots"
+    ],
+    [
+      "bonsai artists",
+      "control",
+      "growth of the tree"
+    ],
+    [
+      "bonsai artists",
+      "use",
+      "wiring"
+    ],
+    [
+      "bonsai artists",
+      "use",
+      "pruning"
+    ],
+    [
+      "bonsai artists",
+      "use",
+      "grafting"
+    ],
+    [
+      "shaping",
+      "create",
+      "balance"
+    ],
+    [
+      "shaping",
+      "create",
+      "tree's trunk"
+    ],
+    [
+      "shaping",
+      "create",
+      "branches"
+    ],
+    [
+      "shaping",
+      "create",
+      "foliage"
+    ],
+    [
+      "shaping",
+      "capture",
+      "essence"
+    ],
+    [
+      "aesthetics",
+      "consider",
+      "proportion"
+    ],
+    [
+      "aesthetics",
+      "consider",
+      "balance"
+    ],
+    [
+      "aesthetics",
+      "consider",
+      "asymmetry"
+    ],
+    [
+      "design of the tree",
+      "contribute to",
+      "aesthetics"
+    ],
+    [
+      "bonsai tree cultivation",
+      "is",
+      "artistic expression"
+    ],
+    [
+      "bonsai artists",
+      "draw inspiration from",
+      "nature"
+    ],
+    [
+      "bonsai artists",
+      "draw inspiration from",
+      "traditional Japanese aesthetics"
+    ],
+    [
+      "bonsai artists",
+      "draw inspiration from",
+      "personal creativity"
+    ],
+    [
+      "bonsai tree cultivation",
+      "offers",
+      "mindfulness"
+    ],
+    [
+      "bonsai tree cultivation",
+      "offers",
+      "nature"
+    ],
+    [
+      "bonsai tree cultivation",
+      "encompasses",
+      "elegant and refined styles"
+    ],
+    [
+      "bonsai tree cultivation",
+      "encompasses",
+      "naturalistic and informal styles"
+    ],
+    [
+      "bonsai artists",
+      "create",
+      "miniature masterpieces"
+    ],
+    [
+      "bonsai artists",
+      "capture",
+      "beauty"
+    ],
+    [
+      "bonsai artists",
+      "capture",
+      "essence"
+    ],
+    [
+      "bonsai tree cultivation",
+      "is",
+      "nature"
+    ],
+    [
+      "bonsai tree cultivation",
+      "is",
+      "artistic expression"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "consider",
+    "draw inspiration from",
+    "is",
+    "grown in",
+    "trim",
+    "contribute to",
+    "offers",
+    "originated in",
+    "capture",
+    "use",
+    "create",
+    "prune",
+    "control",
+    "encompasses",
+    "requires",
+    "mimic"
+  ]
+}

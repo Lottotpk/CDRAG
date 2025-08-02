@@ -1,0 +1,376 @@
+{
+  "entities": [
+    "Tattoos",
+    "self-expression",
+    "body art",
+    "societies",
+    "time periods",
+    "cultural traditions",
+    "personal meanings",
+    "symbols of identity",
+    "belonging",
+    "ritual",
+    "cultures",
+    "ancient Polynesian cultures",
+    "social status",
+    "rank",
+    "achievements",
+    "tattoo design",
+    "Maori culture",
+    "moko",
+    "lineage",
+    "tribal affiliations",
+    "life story",
+    "sacred form of self-expression",
+    "group identities",
+    "Western societies",
+    "personal identity",
+    "self-expression",
+    "values",
+    "interests",
+    "experiences",
+    "unique personalities",
+    "beliefs",
+    "nature",
+    "mythology",
+    "quotes",
+    "symbols",
+    "art",
+    "communities",
+    "indigenous cultures",
+    "cultural heritage",
+    "community traditions",
+    "Ainu people of Japan",
+    "spiritual connection to nature",
+    "ancestors",
+    "protection",
+    "empowerment",
+    "natural world",
+    "Samoan culture",
+    "pe'a",
+    "rite of passage",
+    "young men",
+    "adulthood",
+    "family lineage",
+    "personal values",
+    "cultural roots",
+    "ancient Egypt",
+    "magical properties",
+    "religious ceremonies",
+    "evil spirits",
+    "traditional Japanese culture",
+    "yakuza",
+    "loyalty",
+    "courage",
+    "strength",
+    "criminal organization",
+    "code of honor",
+    "rituals",
+    "ceremonies",
+    "life events",
+    "milestones",
+    "memorial tattoos",
+    "loved ones",
+    "life changes",
+    "body art forms",
+    "experiences",
+    "moments",
+    "emotions",
+    "cultural significance",
+    "ancient traditions",
+    "indigenous practices",
+    "modern forms of self-expression",
+    "communal identities",
+    "human experiences",
+    "cultural traditions"
+  ],
+  "relations": [
+    [
+      "Tattoos",
+      "have been",
+      "self-expression"
+    ],
+    [
+      "Tattoos",
+      "have been",
+      "body art"
+    ],
+    [
+      "Tattoos",
+      "used as",
+      "symbols of identity"
+    ],
+    [
+      "Tattoos",
+      "used as",
+      "belonging"
+    ],
+    [
+      "Tattoos",
+      "used as",
+      "ritual"
+    ],
+    [
+      "Tattoos",
+      "serve as",
+      "symbols of identity"
+    ],
+    [
+      "Tattoos",
+      "express",
+      "beliefs"
+    ],
+    [
+      "Tattoos",
+      "express",
+      "experiences"
+    ],
+    [
+      "Tattoos",
+      "signify",
+      "social status"
+    ],
+    [
+      "Tattoos",
+      "signify",
+      "rank"
+    ],
+    [
+      "Tattoos",
+      "signify",
+      "achievements"
+    ],
+    [
+      "moko",
+      "denote",
+      "lineage"
+    ],
+    [
+      "moko",
+      "denote",
+      "tribal affiliations"
+    ],
+    [
+      "moko",
+      "denote",
+      "life story"
+    ],
+    [
+      "moko",
+      "considered",
+      "sacred form of self-expression"
+    ],
+    [
+      "Tattoos",
+      "serve as",
+      "personal identity"
+    ],
+    [
+      "Tattoos",
+      "serve as",
+      "self-expression"
+    ],
+    [
+      "Tattoos",
+      "represent",
+      "values"
+    ],
+    [
+      "Tattoos",
+      "represent",
+      "interests"
+    ],
+    [
+      "Tattoos",
+      "represent",
+      "experiences"
+    ],
+    [
+      "Tattoos",
+      "express",
+      "unique personalities"
+    ],
+    [
+      "Tattoos",
+      "express",
+      "beliefs"
+    ],
+    [
+      "Tattoos",
+      "inspired by",
+      "nature"
+    ],
+    [
+      "Tattoos",
+      "inspired by",
+      "mythology"
+    ],
+    [
+      "Tattoos",
+      "include",
+      "symbols"
+    ],
+    [
+      "Tattoos",
+      "connect to",
+      "cultural heritage"
+    ],
+    [
+      "Tattoos",
+      "connect to",
+      "community traditions"
+    ],
+    [
+      "Tattoos",
+      "symbolize",
+      "spiritual connection to nature"
+    ],
+    [
+      "Tattoos",
+      "symbolize",
+      "ancestors"
+    ],
+    [
+      "Tattoos",
+      "serve as",
+      "protection"
+    ],
+    [
+      "Tattoos",
+      "serve as",
+      "empowerment"
+    ],
+    [
+      "pe'a",
+      "considered",
+      "rite of passage"
+    ],
+    [
+      "pe'a",
+      "symbolizing",
+      "adulthood"
+    ],
+    [
+      "pe'a",
+      "reflecting",
+      "family lineage"
+    ],
+    [
+      "pe'a",
+      "reflecting",
+      "personal values"
+    ],
+    [
+      "Tattoos",
+      "have",
+      "magical properties"
+    ],
+    [
+      "Tattoos",
+      "used in",
+      "religious ceremonies"
+    ],
+    [
+      "Tattoos",
+      "ward off",
+      "evil spirits"
+    ],
+    [
+      "Tattoos",
+      "associated with",
+      "yakuza"
+    ],
+    [
+      "Tattoos",
+      "symbols of",
+      "loyalty"
+    ],
+    [
+      "Tattoos",
+      "symbols of",
+      "courage"
+    ],
+    [
+      "Tattoos",
+      "symbols of",
+      "strength"
+    ],
+    [
+      "Tattoos",
+      "signifying",
+      "code of honor"
+    ],
+    [
+      "Tattoos",
+      "mark",
+      "life events"
+    ],
+    [
+      "Tattoos",
+      "mark",
+      "milestones"
+    ],
+    [
+      "memorial tattoos",
+      "honoring",
+      "loved ones"
+    ],
+    [
+      "Tattoos",
+      "celebrating",
+      "life changes"
+    ],
+    [
+      "body art forms",
+      "serve as",
+      "experiences"
+    ],
+    [
+      "body art forms",
+      "serve as",
+      "emotions"
+    ],
+    [
+      "Tattoos",
+      "shaping",
+      "communal identities"
+    ],
+    [
+      "Tattoos",
+      "expressions of",
+      "human experiences"
+    ],
+    [
+      "Tattoos",
+      "expressions of",
+      "cultural traditions"
+    ]
+  ],
+  "edges": [
+    "symbolize",
+    "reflecting",
+    "associated with",
+    "inspired by",
+    "shaping",
+    "have been",
+    "considered",
+    "denote",
+    "symbolizing",
+    "used as",
+    "signifying",
+    "express",
+    "serve as",
+    "connect to",
+    "symbols of",
+    "include",
+    "mark",
+    "used in",
+    "have",
+    "expressions of",
+    "represent",
+    "honoring",
+    "celebrating",
+    "signify",
+    "ward off"
+  ]
+}

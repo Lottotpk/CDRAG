@@ -1,0 +1,359 @@
+{
+  "entities": [
+    "Urban legends",
+    "modern folklore",
+    "tales",
+    "haunted houses",
+    "mysterious creatures",
+    "communities",
+    "origins of urban legends",
+    "impact on society",
+    "ancient times",
+    "stories",
+    "the unknown",
+    "the supernatural",
+    "societies",
+    "trade",
+    "travel",
+    "regions",
+    "continents",
+    "Hook Man",
+    "young couple",
+    "news report",
+    "escaped criminal",
+    "hook",
+    "car door",
+    "bloody hook",
+    "handle",
+    "fear of the unknown",
+    "threat of danger",
+    "supernatural",
+    "paranormal",
+    "ghostly apparitions",
+    "audiences",
+    "fact",
+    "fiction",
+    "allure of the unknown",
+    "cautionary tales",
+    "fears",
+    "anxieties of society",
+    "strangers",
+    "children",
+    "candy",
+    "haunted houses",
+    "dark pasts",
+    "cursed objects",
+    "dangers",
+    "communities",
+    "loved ones",
+    "perceived threats",
+    "advancements in technology",
+    "communication",
+    "internet",
+    "social media",
+    "information",
+    "popular culture",
+    "mediums",
+    "authenticity",
+    "real events",
+    "historical figures",
+    "collective imagination",
+    "creativity",
+    "mysteries"
+  ],
+  "relations": [
+    [
+      "Urban legends",
+      "are a fascinating aspect of",
+      "modern folklore"
+    ],
+    [
+      "Urban legends",
+      "are",
+      "tales"
+    ],
+    [
+      "Urban legends",
+      "include",
+      "haunted houses"
+    ],
+    [
+      "Urban legends",
+      "include",
+      "mysterious creatures"
+    ],
+    [
+      "Urban legends",
+      "are shared in",
+      "communities"
+    ],
+    [
+      "origins of urban legends",
+      "can be traced back to",
+      "ancient times"
+    ],
+    [
+      "stories",
+      "explain",
+      "the unknown"
+    ],
+    [
+      "stories",
+      "explain",
+      "the supernatural"
+    ],
+    [
+      "societies",
+      "became more interconnected through",
+      "trade"
+    ],
+    [
+      "societies",
+      "became more interconnected through",
+      "travel"
+    ],
+    [
+      "Urban legends",
+      "spread across",
+      "regions"
+    ],
+    [
+      "Urban legends",
+      "spread across",
+      "continents"
+    ],
+    [
+      "Hook Man",
+      "is",
+      "Urban legends"
+    ],
+    [
+      "Hook Man",
+      "involves",
+      "young couple"
+    ],
+    [
+      "young couple",
+      "hear",
+      "news report"
+    ],
+    [
+      "news report",
+      "is about",
+      "escaped criminal"
+    ],
+    [
+      "escaped criminal",
+      "has",
+      "hook"
+    ],
+    [
+      "hook",
+      "is",
+      "bloody hook"
+    ],
+    [
+      "Hook Man",
+      "represents",
+      "fear of the unknown"
+    ],
+    [
+      "Hook Man",
+      "represents",
+      "threat of danger"
+    ],
+    [
+      "Urban legends",
+      "include",
+      "supernatural"
+    ],
+    [
+      "Urban legends",
+      "include",
+      "paranormal"
+    ],
+    [
+      "stories",
+      "include",
+      "haunted houses"
+    ],
+    [
+      "stories",
+      "include",
+      "ghostly apparitions"
+    ],
+    [
+      "stories",
+      "include",
+      "mysterious creatures"
+    ],
+    [
+      "tales",
+      "captivate",
+      "audiences"
+    ],
+    [
+      "tales",
+      "blur the line between",
+      "fact"
+    ],
+    [
+      "tales",
+      "blur the line between",
+      "fiction"
+    ],
+    [
+      "Urban legends",
+      "serve as",
+      "cautionary tales"
+    ],
+    [
+      "cautionary tales",
+      "reflect",
+      "fears"
+    ],
+    [
+      "cautionary tales",
+      "reflect",
+      "anxieties of society"
+    ],
+    [
+      "stories",
+      "include",
+      "strangers"
+    ],
+    [
+      "strangers",
+      "lure",
+      "children"
+    ],
+    [
+      "children",
+      "are lured with",
+      "candy"
+    ],
+    [
+      "stories",
+      "include",
+      "haunted houses"
+    ],
+    [
+      "haunted houses",
+      "have",
+      "dark pasts"
+    ],
+    [
+      "stories",
+      "include",
+      "cursed objects"
+    ],
+    [
+      "tales",
+      "warn about",
+      "dangers"
+    ],
+    [
+      "communities",
+      "protect",
+      "loved ones"
+    ],
+    [
+      "communities",
+      "protect from",
+      "perceived threats"
+    ],
+    [
+      "Urban legends",
+      "are in",
+      "popular culture"
+    ],
+    [
+      "Urban legends",
+      "are shared across",
+      "mediums"
+    ],
+    [
+      "stories",
+      "are based on",
+      "real events"
+    ],
+    [
+      "stories",
+      "are based on",
+      "historical figures"
+    ],
+    [
+      "Urban legends",
+      "are product of",
+      "collective imagination"
+    ],
+    [
+      "Urban legends",
+      "are product of",
+      "creativity"
+    ],
+    [
+      "Urban legends",
+      "captivate with",
+      "tales"
+    ],
+    [
+      "Urban legends",
+      "reflect",
+      "fears"
+    ],
+    [
+      "Urban legends",
+      "reflect",
+      "anxieties of society"
+    ],
+    [
+      "Urban legends",
+      "have",
+      "impact on society"
+    ],
+    [
+      "Urban legends",
+      "thrive in",
+      "collective imagination"
+    ],
+    [
+      "Urban legends",
+      "involve",
+      "mysteries"
+    ]
+  ],
+  "edges": [
+    "became more interconnected through",
+    "involves",
+    "are lured with",
+    "is",
+    "represents",
+    "are shared across",
+    "warn about",
+    "protect",
+    "involve",
+    "are",
+    "explain",
+    "are product of",
+    "protect from",
+    "thrive in",
+    "is about",
+    "has",
+    "are shared in",
+    "serve as",
+    "captivate with",
+    "spread across",
+    "can be traced back to",
+    "include",
+    "are based on",
+    "reflect",
+    "captivate",
+    "are a fascinating aspect of",
+    "hear",
+    "have",
+    "are in",
+    "lure",
+    "blur the line between"
+  ]
+}

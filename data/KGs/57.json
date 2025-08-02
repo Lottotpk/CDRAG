@@ -1,0 +1,233 @@
+{
+  "entities": [
+    "supernatural",
+    "ghosts",
+    "fiction",
+    "superstition",
+    "ghost stories",
+    "legends",
+    "cultures",
+    "movies",
+    "TV shows",
+    "books",
+    "mysterious occurrences",
+    "inexplicable phenomena",
+    "spirits",
+    "paranormal entities",
+    "apparitions",
+    "unexplained noises",
+    "physical realm",
+    "tricks of the mind",
+    "environmental factors",
+    "fear of the unknown",
+    "immortality",
+    "spiritual realm",
+    "afterlife",
+    "physical body",
+    "mortality",
+    "cultural beliefs",
+    "ancestors",
+    "supernatural occurrences",
+    "ghostly presence",
+    "paranormal",
+    "religious teachings",
+    "spirits",
+    "angels",
+    "demons",
+    "illusions",
+    "superstitions",
+    "ghostly encounters",
+    "cultural traditions",
+    "psychological needs",
+    "human imagination",
+    "mysteries",
+    "supernatural world"
+  ],
+  "relations": [
+    [
+      "supernatural",
+      "is related to",
+      "ghosts"
+    ],
+    [
+      "ghosts",
+      "are considered",
+      "fiction"
+    ],
+    [
+      "ghosts",
+      "are considered",
+      "superstition"
+    ],
+    [
+      "ghost stories",
+      "are prevalent in",
+      "cultures"
+    ],
+    [
+      "ghosts",
+      "are portrayed in",
+      "movies"
+    ],
+    [
+      "ghosts",
+      "are portrayed in",
+      "TV shows"
+    ],
+    [
+      "ghosts",
+      "are portrayed in",
+      "books"
+    ],
+    [
+      "mysterious occurrences",
+      "are",
+      "inexplicable phenomena"
+    ],
+    [
+      "supernatural",
+      "explains",
+      "mysterious occurrences"
+    ],
+    [
+      "supernatural",
+      "explains",
+      "inexplicable phenomena"
+    ],
+    [
+      "spirits",
+      "are",
+      "paranormal entities"
+    ],
+    [
+      "spirits",
+      "cause",
+      "apparitions"
+    ],
+    [
+      "spirits",
+      "cause",
+      "unexplained noises"
+    ],
+    [
+      "paranormal entities",
+      "exist beyond",
+      "physical realm"
+    ],
+    [
+      "ghostly encounters",
+      "are attributed to",
+      "tricks of the mind"
+    ],
+    [
+      "ghostly encounters",
+      "are attributed to",
+      "environmental factors"
+    ],
+    [
+      "fear of the unknown",
+      "motivates belief in",
+      "ghosts"
+    ],
+    [
+      "immortality",
+      "motivates belief in",
+      "ghosts"
+    ],
+    [
+      "spiritual realm",
+      "motivates belief in",
+      "ghosts"
+    ],
+    [
+      "afterlife",
+      "is related to",
+      "spiritual realm"
+    ],
+    [
+      "ghosts",
+      "offer possibility of",
+      "afterlife"
+    ],
+    [
+      "cultural beliefs",
+      "shape beliefs in",
+      "ghosts"
+    ],
+    [
+      "ancestors",
+      "are related to",
+      "spirits"
+    ],
+    [
+      "supernatural occurrences",
+      "are evidence of",
+      "ghostly presence"
+    ],
+    [
+      "religious teachings",
+      "influence perceptions of",
+      "supernatural"
+    ],
+    [
+      "spirits",
+      "are",
+      "angels"
+    ],
+    [
+      "spirits",
+      "are",
+      "demons"
+    ],
+    [
+      "ghostly encounters",
+      "are",
+      "illusions"
+    ],
+    [
+      "ghostly encounters",
+      "are",
+      "superstitions"
+    ],
+    [
+      "cultural traditions",
+      "influence belief in",
+      "ghosts"
+    ],
+    [
+      "psychological needs",
+      "influence belief in",
+      "ghosts"
+    ],
+    [
+      "ghosts",
+      "captivate",
+      "human imagination"
+    ],
+    [
+      "supernatural world",
+      "contains",
+      "mysteries"
+    ]
+  ],
+  "edges": [
+    "shape beliefs in",
+    "cause",
+    "is related to",
+    "influence perceptions of",
+    "offer possibility of",
+    "exist beyond",
+    "captivate",
+    "are evidence of",
+    "are attributed to",
+    "influence belief in",
+    "are",
+    "motivates belief in",
+    "are portrayed in",
+    "are related to",
+    "explains",
+    "are prevalent in",
+    "contains",
+    "are considered"
+  ]
+}

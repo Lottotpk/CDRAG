@@ -1,0 +1,226 @@
+{
+  "entities": [
+    "wheel",
+    "Mesopotamia",
+    "wheeled vehicles",
+    "transportation systems",
+    "printing press",
+    "Johannes Gutenberg",
+    "books",
+    "printed materials",
+    "information",
+    "literacy",
+    "steam engine",
+    "James Watt",
+    "Thomas Newcomen",
+    "machinery",
+    "manufacturing processes",
+    "industries",
+    "mass production",
+    "industrial society",
+    "global economy",
+    "telephone",
+    "Alexander Graham Bell",
+    "telecommunications",
+    "internet",
+    "mobile communication technologies",
+    "light bulb",
+    "Thomas Edison",
+    "gas lamps",
+    "candles",
+    "electric lighting",
+    "urban landscapes",
+    "computer",
+    "ENIAC",
+    "computing technologies",
+    "business",
+    "education",
+    "entertainment",
+    "internet",
+    "Tim Berners-Lee",
+    "social media",
+    "e-commerce",
+    "digital technologies"
+  ],
+  "relations": [
+    [
+      "wheel",
+      "invented in",
+      "Mesopotamia"
+    ],
+    [
+      "wheel",
+      "enabled development of",
+      "wheeled vehicles"
+    ],
+    [
+      "wheel",
+      "component of",
+      "transportation systems"
+    ],
+    [
+      "printing press",
+      "invented by",
+      "Johannes Gutenberg"
+    ],
+    [
+      "printing press",
+      "made accessible",
+      "books"
+    ],
+    [
+      "printing press",
+      "made accessible",
+      "printed materials"
+    ],
+    [
+      "printing press",
+      "led to rise of",
+      "literacy"
+    ],
+    [
+      "steam engine",
+      "developed by",
+      "James Watt"
+    ],
+    [
+      "steam engine",
+      "developed by",
+      "Thomas Newcomen"
+    ],
+    [
+      "steam engine",
+      "powered",
+      "machinery"
+    ],
+    [
+      "steam engine",
+      "revolutionized",
+      "manufacturing processes"
+    ],
+    [
+      "steam engine",
+      "led to",
+      "mass production"
+    ],
+    [
+      "steam engine",
+      "laid foundation for",
+      "industrial society"
+    ],
+    [
+      "steam engine",
+      "transformed",
+      "global economy"
+    ],
+    [
+      "telephone",
+      "invented by",
+      "Alexander Graham Bell"
+    ],
+    [
+      "telephone",
+      "paved way for",
+      "telecommunications"
+    ],
+    [
+      "telephone",
+      "laid groundwork for",
+      "internet"
+    ],
+    [
+      "telephone",
+      "laid groundwork for",
+      "mobile communication technologies"
+    ],
+    [
+      "light bulb",
+      "invented by",
+      "Thomas Edison"
+    ],
+    [
+      "light bulb",
+      "replaced",
+      "gas lamps"
+    ],
+    [
+      "light bulb",
+      "replaced",
+      "candles"
+    ],
+    [
+      "light bulb",
+      "primary source of",
+      "electric lighting"
+    ],
+    [
+      "electric lighting",
+      "transformed",
+      "urban landscapes"
+    ],
+    [
+      "computer",
+      "first was",
+      "ENIAC"
+    ],
+    [
+      "computer",
+      "paved way for",
+      "computing technologies"
+    ],
+    [
+      "computer",
+      "revolutionized",
+      "business"
+    ],
+    [
+      "computer",
+      "revolutionized",
+      "education"
+    ],
+    [
+      "computer",
+      "revolutionized",
+      "entertainment"
+    ],
+    [
+      "internet",
+      "developed by",
+      "Tim Berners-Lee"
+    ],
+    [
+      "internet",
+      "paved way for",
+      "social media"
+    ],
+    [
+      "internet",
+      "paved way for",
+      "e-commerce"
+    ],
+    [
+      "internet",
+      "paved way for",
+      "digital technologies"
+    ]
+  ],
+  "edges": [
+    "revolutionized",
+    "replaced",
+    "enabled development of",
+    "led to",
+    "component of",
+    "primary source of",
+    "paved way for",
+    "laid groundwork for",
+    "invented in",
+    "led to rise of",
+    "developed by",
+    "transformed",
+    "made accessible",
+    "laid foundation for",
+    "powered",
+    "invented by",
+    "first was"
+  ]
+}

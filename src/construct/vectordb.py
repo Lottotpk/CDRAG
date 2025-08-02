@@ -105,7 +105,7 @@ class VectorDB:
         torch.save(self.vec_data, data_path)
         torch.save(self.vec_metadata, metadata_path)
     
-    def get_topk_similar(self, query_vector: torch.Tensor, k: int = 5, doc_id: int = None) -> list:
+    def get_topk_similar(self, query_vector: torch.Tensor, k: int = 5, doc_id: str = None) -> list:
         """The function to find the top k most similar context.
         
         Parameters
@@ -124,7 +124,7 @@ class VectorDB:
         """
         similarity = []
         for id, vector in self.vec_data.items():
-            if doc_id is not None and self.get_metadata(id)[0] != doc_id:
+            if doc_id is not None and self.get_metadata(id)[1] != doc_id:
                 continue
             else:
                 dot_result = torch.dot(query_vector, vector) / \

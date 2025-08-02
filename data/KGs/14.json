@@ -1,0 +1,324 @@
+{
+  "entities": [
+    "Tattooing",
+    "art",
+    "cultures",
+    "ink",
+    "skin",
+    "designs",
+    "images",
+    "body decorations",
+    "mummies",
+    "ancient Egypt",
+    "Asia",
+    "Europe",
+    "indigenous cultures",
+    "symbols",
+    "status",
+    "spirituality",
+    "protection",
+    "Polynesian cultures",
+    "rite of passage",
+    "ancestors",
+    "Japan",
+    "criminal underworld",
+    "strength",
+    "courage",
+    "tradition",
+    "self-expression",
+    "artistry",
+    "Tattoo artists",
+    "professionals",
+    "technical expertise",
+    "creative vision",
+    "clients",
+    "tribal designs",
+    "portraits",
+    "styles",
+    "techniques",
+    "artist",
+    "client",
+    "design",
+    "placement",
+    "outcome",
+    "commitment",
+    "trust",
+    "individual's body",
+    "event",
+    "person",
+    "self-empowerment",
+    "society",
+    "workplaces",
+    "tattoos",
+    "celebrities",
+    "influencers",
+    "ink",
+    "aesthetic appeal",
+    "memorial tattoo",
+    "loved one",
+    "resilience",
+    "strength",
+    "values",
+    "beliefs",
+    "rituals",
+    "works of art",
+    "bodies",
+    "people"
+  ],
+  "relations": [
+    [
+      "Tattooing",
+      "is a form of",
+      "art"
+    ],
+    [
+      "Tattooing",
+      "involves inserting",
+      "ink"
+    ],
+    [
+      "ink",
+      "inserted into",
+      "skin"
+    ],
+    [
+      "Tattooing",
+      "creates",
+      "designs"
+    ],
+    [
+      "Tattooing",
+      "creates",
+      "images"
+    ],
+    [
+      "tattoos",
+      "are",
+      "body decorations"
+    ],
+    [
+      "mummies",
+      "found in",
+      "ancient Egypt"
+    ],
+    [
+      "mummies",
+      "found in",
+      "Asia"
+    ],
+    [
+      "mummies",
+      "found in",
+      "Europe"
+    ],
+    [
+      "tattoos",
+      "used in",
+      "indigenous cultures"
+    ],
+    [
+      "tattoos",
+      "as",
+      "symbols"
+    ],
+    [
+      "tattoos",
+      "as",
+      "status"
+    ],
+    [
+      "tattoos",
+      "as",
+      "spirituality"
+    ],
+    [
+      "tattoos",
+      "as",
+      "protection"
+    ],
+    [
+      "tattoos",
+      "seen in",
+      "Polynesian cultures"
+    ],
+    [
+      "tattoos",
+      "seen as",
+      "rite of passage"
+    ],
+    [
+      "tattoos",
+      "connect with",
+      "ancestors"
+    ],
+    [
+      "tattoos",
+      "associated with",
+      "criminal underworld"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "strength"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "courage"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "tradition"
+    ],
+    [
+      "Tattooing",
+      "became",
+      "self-expression"
+    ],
+    [
+      "Tattooing",
+      "became",
+      "artistry"
+    ],
+    [
+      "Tattoo artists",
+      "are",
+      "professionals"
+    ],
+    [
+      "Tattoo artists",
+      "use",
+      "technical expertise"
+    ],
+    [
+      "Tattoo artists",
+      "use",
+      "creative vision"
+    ],
+    [
+      "Tattoo artists",
+      "bring to",
+      "clients"
+    ],
+    [
+      "designs",
+      "are",
+      "tribal designs"
+    ],
+    [
+      "designs",
+      "are",
+      "portraits"
+    ],
+    [
+      "styles",
+      "used to create",
+      "tattoos"
+    ],
+    [
+      "techniques",
+      "used to create",
+      "tattoos"
+    ],
+    [
+      "artist",
+      "relationship with",
+      "client"
+    ],
+    [
+      "artist",
+      "create",
+      "design"
+    ],
+    [
+      "design",
+      "regarding",
+      "placement"
+    ],
+    [
+      "design",
+      "regarding",
+      "outcome"
+    ],
+    [
+      "tattoos",
+      "acceptance in",
+      "society"
+    ],
+    [
+      "tattoos",
+      "allowed in",
+      "workplaces"
+    ],
+    [
+      "celebrities",
+      "display",
+      "tattoos"
+    ],
+    [
+      "influencers",
+      "display",
+      "tattoos"
+    ],
+    [
+      "tattoos",
+      "appreciated for",
+      "aesthetic appeal"
+    ],
+    [
+      "tattoos",
+      "adorn",
+      "bodies"
+    ],
+    [
+      "tattoos",
+      "adorn",
+      "people"
+    ],
+    [
+      "Tattooing",
+      "combines",
+      "artistry"
+    ],
+    [
+      "tattoos",
+      "played role in",
+      "cultures"
+    ],
+    [
+      "tattoos",
+      "are",
+      "works of art"
+    ]
+  ],
+  "edges": [
+    "became",
+    "found in",
+    "appreciated for",
+    "associated with",
+    "relationship with",
+    "create",
+    "use",
+    "inserted into",
+    "display",
+    "played role in",
+    "are",
+    "as",
+    "used to create",
+    "creates",
+    "bring to",
+    "symbolized",
+    "allowed in",
+    "combines",
+    "acceptance in",
+    "used in",
+    "adorn",
+    "is a form of",
+    "involves inserting",
+    "seen in",
+    "regarding",
+    "connect with",
+    "seen as"
+  ]
+}

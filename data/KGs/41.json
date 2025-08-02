@@ -1,0 +1,386 @@
+{
+  "entities": [
+    "Dreams",
+    "Psychology",
+    "Humans",
+    "Cultures",
+    "Messages from the divine",
+    "Windows into the subconscious mind",
+    "Random firings of the brain",
+    "Field of psychology",
+    "Subject of interest",
+    "Study",
+    "Human mind",
+    "Emotions",
+    "Memories",
+    "Unconscious desires",
+    "Unconscious mind",
+    "Sigmund Freud",
+    "Psychoanalysis",
+    "Repressed desires",
+    "Fears",
+    "Conflicts",
+    "Person's psyche",
+    "Motivations",
+    "Behavior",
+    "Emotional centers of the brain",
+    "Dreamer",
+    "Stress",
+    "Anxiety",
+    "Nightmares",
+    "Emotional state",
+    "Unresolved issues",
+    "Well-being",
+    "Memory consolidation",
+    "Information",
+    "Brain",
+    "Memories",
+    "Knowledge networks",
+    "Memory performance",
+    "Learning process",
+    "Waking experiences",
+    "Mechanisms",
+    "Memory formation",
+    "Retrieval",
+    "Problem-solving",
+    "Creativity",
+    "Science",
+    "Art",
+    "Literature",
+    "Lucid dreaming",
+    "Individuals",
+    "Dream content",
+    "Problem-solving skills",
+    "Creative potential",
+    "Personal growth",
+    "Professional growth",
+    "Human behavior",
+    "Cognition",
+    "Self-reflection",
+    "Personal growth",
+    "Psychological understanding"
+  ],
+  "relations": [
+    [
+      "Dreams",
+      "have fascinated",
+      "Humans"
+    ],
+    [
+      "Cultures",
+      "interpret",
+      "Dreams"
+    ],
+    [
+      "Dreams",
+      "are interpreted as",
+      "Messages from the divine"
+    ],
+    [
+      "Dreams",
+      "are interpreted as",
+      "Windows into the subconscious mind"
+    ],
+    [
+      "Dreams",
+      "are interpreted as",
+      "Random firings of the brain"
+    ],
+    [
+      "Dreams",
+      "have been",
+      "Subject of interest"
+    ],
+    [
+      "Dreams",
+      "have been",
+      "Study"
+    ],
+    [
+      "Dreams",
+      "offer insights into",
+      "Human mind"
+    ],
+    [
+      "Dreams",
+      "play a role in understanding",
+      "Emotions"
+    ],
+    [
+      "Dreams",
+      "play a role in understanding",
+      "Memories"
+    ],
+    [
+      "Dreams",
+      "play a role in understanding",
+      "Unconscious desires"
+    ],
+    [
+      "Dreams",
+      "provide a glimpse into",
+      "Unconscious mind"
+    ],
+    [
+      "Sigmund Freud",
+      "argued",
+      "Dreams"
+    ],
+    [
+      "Dreams",
+      "are",
+      "Unconscious mind"
+    ],
+    [
+      "Dreams",
+      "are expressions of",
+      "Repressed desires"
+    ],
+    [
+      "Dreams",
+      "are expressions of",
+      "Fears"
+    ],
+    [
+      "Dreams",
+      "are expressions of",
+      "Conflicts"
+    ],
+    [
+      "Dreams",
+      "can uncover aspects of",
+      "Person's psyche"
+    ],
+    [
+      "Dreams",
+      "can provide understanding of",
+      "Motivations"
+    ],
+    [
+      "Dreams",
+      "can provide understanding of",
+      "Behavior"
+    ],
+    [
+      "Dreams",
+      "are linked to",
+      "Emotional centers of the brain"
+    ],
+    [
+      "Dreams",
+      "reflect",
+      "Emotional state"
+    ],
+    [
+      "Stress",
+      "experiencing",
+      "Stress"
+    ],
+    [
+      "Anxiety",
+      "experiencing",
+      "Anxiety"
+    ],
+    [
+      "Nightmares",
+      "may have",
+      "Nightmares"
+    ],
+    [
+      "Dreams",
+      "can provide insights into",
+      "Emotional state"
+    ],
+    [
+      "Dreams",
+      "can identify",
+      "Unresolved issues"
+    ],
+    [
+      "Dreams",
+      "can affect",
+      "Well-being"
+    ],
+    [
+      "Dreams",
+      "play a role in",
+      "Memory consolidation"
+    ],
+    [
+      "Brain",
+      "processes",
+      "Information"
+    ],
+    [
+      "Brain",
+      "stores",
+      "Information"
+    ],
+    [
+      "Brain",
+      "strengthening",
+      "Memories"
+    ],
+    [
+      "Brain",
+      "integrating into",
+      "Knowledge networks"
+    ],
+    [
+      "Dreams",
+      "are associated with",
+      "Memory performance"
+    ],
+    [
+      "Dreams",
+      "serve a function in",
+      "Learning process"
+    ],
+    [
+      "Dreams",
+      "relate to",
+      "Waking experiences"
+    ],
+    [
+      "Dreams",
+      "can help understand",
+      "Mechanisms"
+    ],
+    [
+      "Dreams",
+      "can help understand",
+      "Memory formation"
+    ],
+    [
+      "Dreams",
+      "can help understand",
+      "Retrieval"
+    ],
+    [
+      "Dreams",
+      "play a role in",
+      "Problem-solving"
+    ],
+    [
+      "Dreams",
+      "play a role in",
+      "Creativity"
+    ],
+    [
+      "Dreams",
+      "lead to breakthroughs in",
+      "Science"
+    ],
+    [
+      "Dreams",
+      "lead to breakthroughs in",
+      "Art"
+    ],
+    [
+      "Dreams",
+      "lead to breakthroughs in",
+      "Literature"
+    ],
+    [
+      "Lucid dreaming",
+      "can enhance",
+      "Creativity"
+    ],
+    [
+      "Lucid dreaming",
+      "can enhance",
+      "Problem-solving skills"
+    ],
+    [
+      "Dreams",
+      "can enhance",
+      "Creative potential"
+    ],
+    [
+      "Dreams",
+      "can be harnessed for",
+      "Personal growth"
+    ],
+    [
+      "Dreams",
+      "can be harnessed for",
+      "Professional growth"
+    ],
+    [
+      "Dreams",
+      "provide insights into",
+      "Human mind"
+    ],
+    [
+      "Dreams",
+      "provide insights into",
+      "Human behavior"
+    ],
+    [
+      "Dreams",
+      "provide insights into",
+      "Emotions"
+    ],
+    [
+      "Dreams",
+      "provide insights into",
+      "Cognition"
+    ],
+    [
+      "Dreams",
+      "serve as a tool for",
+      "Self-reflection"
+    ],
+    [
+      "Dreams",
+      "serve as a tool for",
+      "Personal growth"
+    ],
+    [
+      "Dreams",
+      "serve as a tool for",
+      "Psychological understanding"
+    ],
+    [
+      "Dreams",
+      "are a subject of study in",
+      "Field of psychology"
+    ]
+  ],
+  "edges": [
+    "can identify",
+    "argued",
+    "can provide understanding of",
+    "experiencing",
+    "have fascinated",
+    "interpret",
+    "are a subject of study in",
+    "have been",
+    "are linked to",
+    "can enhance",
+    "are",
+    "integrating into",
+    "are interpreted as",
+    "are expressions of",
+    "can uncover aspects of",
+    "offer insights into",
+    "provide a glimpse into",
+    "play a role in understanding",
+    "can help understand",
+    "play a role in",
+    "can provide insights into",
+    "reflect",
+    "serve as a tool for",
+    "lead to breakthroughs in",
+    "stores",
+    "strengthening",
+    "may have",
+    "serve a function in",
+    "can be harnessed for",
+    "relate to",
+    "can affect",
+    "are associated with",
+    "processes",
+    "provide insights into"
+  ]
+}

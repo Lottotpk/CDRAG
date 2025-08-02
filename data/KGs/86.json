@@ -1,0 +1,336 @@
+{
+  "entities": [
+    "Artificial intelligence",
+    "AI technologies",
+    "employment",
+    "automation",
+    "machine learning",
+    "human workers",
+    "job displacement",
+    "unemployment",
+    "workforce",
+    "job market",
+    "AI-powered machines",
+    "robots",
+    "low-skilled workers",
+    "autonomous vehicles",
+    "truck drivers",
+    "chatbots",
+    "virtual assistants",
+    "customer service representatives",
+    "technological advancements",
+    "new industries",
+    "job opportunities",
+    "data science",
+    "AI research",
+    "workers",
+    "productivity",
+    "efficiency",
+    "AI-powered tools",
+    "software",
+    "businesses",
+    "job roles",
+    "workplace safety",
+    "human capabilities",
+    "doctors",
+    "diseases",
+    "lawyers",
+    "legal research",
+    "engineers",
+    "complex systems",
+    "employees",
+    "social implications",
+    "economic implications",
+    "job insecurity",
+    "income inequality",
+    "social unrest",
+    "policymakers",
+    "businesses",
+    "educators",
+    "skills",
+    "training",
+    "job market",
+    "education",
+    "training programs",
+    "critical thinking",
+    "problem-solving",
+    "digital literacy",
+    "stakeholders",
+    "technological innovation",
+    "job creation",
+    "society",
+    "economic growth",
+    "innovation",
+    "sustainable employment"
+  ],
+  "relations": [
+    [
+      "Artificial intelligence",
+      "impacts",
+      "employment"
+    ],
+    [
+      "AI technologies",
+      "advance",
+      "automation"
+    ],
+    [
+      "automation",
+      "replaces",
+      "human workers"
+    ],
+    [
+      "machine learning",
+      "replaces",
+      "human workers"
+    ],
+    [
+      "automation",
+      "leads to",
+      "job displacement"
+    ],
+    [
+      "automation",
+      "leads to",
+      "unemployment"
+    ],
+    [
+      "Artificial intelligence",
+      "transforms",
+      "job market"
+    ],
+    [
+      "AI-powered machines",
+      "perform tasks of",
+      "human workers"
+    ],
+    [
+      "robots",
+      "perform tasks of",
+      "human workers"
+    ],
+    [
+      "AI technologies",
+      "displaces",
+      "low-skilled workers"
+    ],
+    [
+      "autonomous vehicles",
+      "replace",
+      "truck drivers"
+    ],
+    [
+      "chatbots",
+      "replace",
+      "customer service representatives"
+    ],
+    [
+      "virtual assistants",
+      "replace",
+      "customer service representatives"
+    ],
+    [
+      "technological advancements",
+      "lead to",
+      "new industries"
+    ],
+    [
+      "technological advancements",
+      "lead to",
+      "job opportunities"
+    ],
+    [
+      "Artificial intelligence",
+      "creates",
+      "job opportunities"
+    ],
+    [
+      "Artificial intelligence",
+      "creates",
+      "data science"
+    ],
+    [
+      "Artificial intelligence",
+      "creates",
+      "machine learning"
+    ],
+    [
+      "Artificial intelligence",
+      "creates",
+      "AI research"
+    ],
+    [
+      "Artificial intelligence",
+      "enhances",
+      "productivity"
+    ],
+    [
+      "Artificial intelligence",
+      "enhances",
+      "efficiency"
+    ],
+    [
+      "AI-powered tools",
+      "streamline",
+      "businesses"
+    ],
+    [
+      "AI-powered tools",
+      "analyze",
+      "businesses"
+    ],
+    [
+      "Artificial intelligence",
+      "creates",
+      "job roles"
+    ],
+    [
+      "Artificial intelligence",
+      "improves",
+      "workplace safety"
+    ],
+    [
+      "Artificial intelligence",
+      "augments",
+      "human capabilities"
+    ],
+    [
+      "Artificial intelligence",
+      "assists",
+      "doctors"
+    ],
+    [
+      "Artificial intelligence",
+      "assists",
+      "lawyers"
+    ],
+    [
+      "Artificial intelligence",
+      "assists",
+      "engineers"
+    ],
+    [
+      "Artificial intelligence",
+      "leads to",
+      "job insecurity"
+    ],
+    [
+      "Artificial intelligence",
+      "leads to",
+      "income inequality"
+    ],
+    [
+      "Artificial intelligence",
+      "leads to",
+      "social unrest"
+    ],
+    [
+      "policymakers",
+      "address",
+      "social implications"
+    ],
+    [
+      "policymakers",
+      "address",
+      "economic implications"
+    ],
+    [
+      "educators",
+      "address",
+      "social implications"
+    ],
+    [
+      "educators",
+      "address",
+      "economic implications"
+    ],
+    [
+      "skills",
+      "needed for",
+      "job market"
+    ],
+    [
+      "training",
+      "needed for",
+      "job market"
+    ],
+    [
+      "education",
+      "focuses on",
+      "critical thinking"
+    ],
+    [
+      "education",
+      "focuses on",
+      "problem-solving"
+    ],
+    [
+      "education",
+      "focuses on",
+      "digital literacy"
+    ],
+    [
+      "training programs",
+      "focuses on",
+      "critical thinking"
+    ],
+    [
+      "training programs",
+      "focuses on",
+      "problem-solving"
+    ],
+    [
+      "training programs",
+      "focuses on",
+      "digital literacy"
+    ],
+    [
+      "stakeholders",
+      "promote",
+      "technological innovation"
+    ],
+    [
+      "stakeholders",
+      "promote",
+      "job creation"
+    ],
+    [
+      "Artificial intelligence",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "Artificial intelligence",
+      "drives",
+      "innovation"
+    ],
+    [
+      "Artificial intelligence",
+      "drives",
+      "sustainable employment"
+    ]
+  ],
+  "edges": [
+    "enhances",
+    "streamline",
+    "analyze",
+    "improves",
+    "needed for",
+    "leads to",
+    "creates",
+    "perform tasks of",
+    "replaces",
+    "impacts",
+    "address",
+    "focuses on",
+    "replace",
+    "lead to",
+    "advance",
+    "drives",
+    "displaces",
+    "promote",
+    "assists",
+    "transforms",
+    "augments"
+  ]
+}

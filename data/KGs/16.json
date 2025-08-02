@@ -1,0 +1,298 @@
+{
+  "entities": [
+    "Cooking",
+    "food",
+    "chemical reaction",
+    "chemical changes",
+    "interactions",
+    "taste",
+    "texture",
+    "nutritional value",
+    "Maillard reaction",
+    "emulsification",
+    "proteins",
+    "sugars",
+    "heat",
+    "browning",
+    "flavor compounds",
+    "roasted meats",
+    "grilled vegetables",
+    "baked goods",
+    "immiscible liquids",
+    "oil",
+    "water",
+    "emulsion",
+    "creamy sauces",
+    "dressings",
+    "mayonnaise",
+    "Acids",
+    "lemon juice",
+    "fruit salad",
+    "fruits",
+    "Salts",
+    "enzymatic reactions",
+    "Temperature control",
+    "chemical reactions",
+    "color",
+    "proteins",
+    "meat",
+    "eggs",
+    "food preservation techniques",
+    "fermentation",
+    "pickling",
+    "microorganisms",
+    "acids",
+    "alcohol",
+    "carbon dioxide",
+    "brine solution",
+    "spoilage microorganisms",
+    "culinary arts",
+    "dishes",
+    "senses",
+    "flavors",
+    "techniques"
+  ],
+  "relations": [
+    [
+      "Cooking",
+      "is",
+      "chemical reaction"
+    ],
+    [
+      "Cooking",
+      "involves",
+      "chemical changes"
+    ],
+    [
+      "Cooking",
+      "involves",
+      "interactions"
+    ],
+    [
+      "chemical reaction",
+      "determines",
+      "taste"
+    ],
+    [
+      "chemical reaction",
+      "determines",
+      "texture"
+    ],
+    [
+      "chemical reaction",
+      "determines",
+      "nutritional value"
+    ],
+    [
+      "Maillard reaction",
+      "is",
+      "chemical reaction"
+    ],
+    [
+      "proteins",
+      "exposed to",
+      "heat"
+    ],
+    [
+      "sugars",
+      "exposed to",
+      "heat"
+    ],
+    [
+      "Maillard reaction",
+      "results in",
+      "browning"
+    ],
+    [
+      "Maillard reaction",
+      "results in",
+      "flavor compounds"
+    ],
+    [
+      "roasted meats",
+      "undergoes",
+      "Maillard reaction"
+    ],
+    [
+      "grilled vegetables",
+      "undergoes",
+      "Maillard reaction"
+    ],
+    [
+      "baked goods",
+      "undergoes",
+      "Maillard reaction"
+    ],
+    [
+      "oil",
+      "is",
+      "immiscible liquids"
+    ],
+    [
+      "water",
+      "is",
+      "immiscible liquids"
+    ],
+    [
+      "immiscible liquids",
+      "form",
+      "emulsion"
+    ],
+    [
+      "Acids",
+      "influence",
+      "texture"
+    ],
+    [
+      "Acids",
+      "tenderize",
+      "meat"
+    ],
+    [
+      "lemon juice",
+      "added to",
+      "fruit salad"
+    ],
+    [
+      "lemon juice",
+      "prevents",
+      "browning"
+    ],
+    [
+      "Salts",
+      "regulate",
+      "enzymatic reactions"
+    ],
+    [
+      "Salts",
+      "amplify",
+      "flavors"
+    ],
+    [
+      "Salts",
+      "tenderize",
+      "proteins"
+    ],
+    [
+      "Temperature control",
+      "governed by",
+      "chemical reactions"
+    ],
+    [
+      "chemical reactions",
+      "affect",
+      "texture"
+    ],
+    [
+      "chemical reactions",
+      "affect",
+      "color"
+    ],
+    [
+      "proteins",
+      "denature at",
+      "Temperature control"
+    ],
+    [
+      "proteins",
+      "coagulate at",
+      "Temperature control"
+    ],
+    [
+      "fermentation",
+      "is",
+      "food preservation techniques"
+    ],
+    [
+      "microorganisms",
+      "break down",
+      "sugars"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "acids"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "alcohol"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "carbon dioxide"
+    ],
+    [
+      "fermentation",
+      "enhances",
+      "nutritional value"
+    ],
+    [
+      "pickling",
+      "is",
+      "food preservation techniques"
+    ],
+    [
+      "pickling",
+      "involves",
+      "brine solution"
+    ],
+    [
+      "brine solution",
+      "inhibits",
+      "spoilage microorganisms"
+    ],
+    [
+      "Cooking",
+      "is",
+      "culinary arts"
+    ],
+    [
+      "Cooking",
+      "creates",
+      "dishes"
+    ],
+    [
+      "Cooking",
+      "delight",
+      "senses"
+    ],
+    [
+      "Cooking",
+      "unlocks",
+      "flavors"
+    ],
+    [
+      "Cooking",
+      "unlocks",
+      "techniques"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "affect",
+    "inhibits",
+    "undergoes",
+    "is",
+    "determines",
+    "exposed to",
+    "produces",
+    "regulate",
+    "prevents",
+    "coagulate at",
+    "enhances",
+    "governed by",
+    "added to",
+    "creates",
+    "amplify",
+    "influence",
+    "results in",
+    "delight",
+    "unlocks",
+    "form",
+    "break down",
+    "tenderize",
+    "denature at"
+  ]
+}

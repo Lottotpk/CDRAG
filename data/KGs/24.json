@@ -1,0 +1,250 @@
+{
+  "entities": [
+    "Social media",
+    "communication",
+    "digital age",
+    "relationships",
+    "behaviors",
+    "perceptions",
+    "society",
+    "Facebook",
+    "Twitter",
+    "Instagram",
+    "Snapchat",
+    "friends",
+    "family",
+    "acquaintances",
+    "instant messaging",
+    "video calls",
+    "social networking features",
+    "users",
+    "information",
+    "citizen journalism",
+    "user-generated content",
+    "news",
+    "social networking sites",
+    "traditional media outlets",
+    "individuals",
+    "current events",
+    "social issues",
+    "voices",
+    "marginalized groups",
+    "platform",
+    "underrepresented communities",
+    "stories",
+    "social injustices",
+    "mainstream media",
+    "diversity",
+    "inclusion",
+    "social activism",
+    "misinformation",
+    "fake news",
+    "rumors",
+    "conspiracy theories",
+    "propaganda",
+    "likes",
+    "shares",
+    "emojis",
+    "online relationships",
+    "face-to-face interactions",
+    "validation",
+    "approval",
+    "comments",
+    "mental health",
+    "self-esteem",
+    "inadequacy",
+    "comparison",
+    "communication patterns",
+    "diverse voices",
+    "positive change"
+  ],
+  "relations": [
+    [
+      "Social media",
+      "revolutionized",
+      "communication"
+    ],
+    [
+      "Social media",
+      "impacted",
+      "relationships"
+    ],
+    [
+      "Social media",
+      "impacted",
+      "behaviors"
+    ],
+    [
+      "Social media",
+      "impacted",
+      "perceptions"
+    ],
+    [
+      "Facebook",
+      "is a",
+      "platform"
+    ],
+    [
+      "Twitter",
+      "is a",
+      "platform"
+    ],
+    [
+      "Instagram",
+      "is a",
+      "platform"
+    ],
+    [
+      "Snapchat",
+      "is a",
+      "platform"
+    ],
+    [
+      "instant messaging",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "video calls",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "social networking features",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "Social media",
+      "transformed",
+      "information"
+    ],
+    [
+      "citizen journalism",
+      "spreads",
+      "news"
+    ],
+    [
+      "user-generated content",
+      "spreads",
+      "news"
+    ],
+    [
+      "news",
+      "reaches",
+      "users"
+    ],
+    [
+      "Social media",
+      "amplifies",
+      "voices"
+    ],
+    [
+      "Social media",
+      "amplifies",
+      "voices"
+    ],
+    [
+      "Social media",
+      "provides",
+      "platform"
+    ],
+    [
+      "Twitter",
+      "provides",
+      "platform"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "diversity"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "inclusion"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "social activism"
+    ],
+    [
+      "Social media",
+      "brings",
+      "misinformation"
+    ],
+    [
+      "Social media",
+      "brings",
+      "fake news"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "likes"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "shares"
+    ],
+    [
+      "Social media",
+      "promotes",
+      "emojis"
+    ],
+    [
+      "Social media",
+      "affects",
+      "mental health"
+    ],
+    [
+      "Social media",
+      "affects",
+      "self-esteem"
+    ],
+    [
+      "Social media",
+      "shapes",
+      "communication patterns"
+    ],
+    [
+      "Social media",
+      "fosters",
+      "positive change"
+    ],
+    [
+      "Social media",
+      "impacted",
+      "society"
+    ],
+    [
+      "Social media",
+      "shapes",
+      "communication"
+    ],
+    [
+      "Social media",
+      "drives",
+      "positive change"
+    ]
+  ],
+  "edges": [
+    "fosters",
+    "amplifies",
+    "affects",
+    "is a",
+    "drives",
+    "reaches",
+    "provides",
+    "facilitates",
+    "spreads",
+    "revolutionized",
+    "transformed",
+    "brings",
+    "promotes",
+    "impacted",
+    "shapes"
+  ]
+}

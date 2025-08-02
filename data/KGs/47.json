@@ -1,0 +1,288 @@
+{
+  "entities": [
+    "birds",
+    "ecosystems",
+    "environmental health",
+    "biodiversity",
+    "natural systems",
+    "seed dispersal",
+    "pest control",
+    "plant populations",
+    "genetic diversity",
+    "vegetation",
+    "insect populations",
+    "insects",
+    "pest control agents",
+    "crops",
+    "chemical pesticides",
+    "human health",
+    "nutrient cycling",
+    "seabirds",
+    "marine environments",
+    "land",
+    "guano",
+    "soils",
+    "forests",
+    "droppings",
+    "pollination",
+    "hummingbirds",
+    "sunbirds",
+    "nectar",
+    "pollen",
+    "flower",
+    "fruits",
+    "seeds",
+    "environmental conditions",
+    "habitat loss",
+    "pollution",
+    "climate change",
+    "conservation efforts",
+    "ecosystem function",
+    "habitats",
+    "ecosystem services",
+    "resilience",
+    "future generations"
+  ],
+  "relations": [
+    [
+      "birds",
+      "play a crucial role in",
+      "ecosystems"
+    ],
+    [
+      "birds",
+      "serve as indicators of",
+      "environmental health"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "birds",
+      "help maintain balance in",
+      "natural systems"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "seed dispersal"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "pest control"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "ecosystem function"
+    ],
+    [
+      "birds",
+      "play a role in",
+      "seed dispersal"
+    ],
+    [
+      "seed dispersal",
+      "helps to",
+      "plant populations"
+    ],
+    [
+      "seed dispersal",
+      "promote",
+      "genetic diversity"
+    ],
+    [
+      "seed dispersal",
+      "support",
+      "vegetation"
+    ],
+    [
+      "birds",
+      "play a key role in controlling",
+      "insect populations"
+    ],
+    [
+      "birds",
+      "feed on",
+      "insects"
+    ],
+    [
+      "birds",
+      "serve as",
+      "pest control agents"
+    ],
+    [
+      "pest control agents",
+      "help keep in check",
+      "insect populations"
+    ],
+    [
+      "crops",
+      "damage",
+      "crops"
+    ],
+    [
+      "pest control",
+      "reduces the need for",
+      "chemical pesticides"
+    ],
+    [
+      "chemical pesticides",
+      "have harmful effects on",
+      "ecosystems"
+    ],
+    [
+      "chemical pesticides",
+      "have harmful effects on",
+      "human health"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "nutrient cycling"
+    ],
+    [
+      "seabirds",
+      "deposit nutrients from",
+      "marine environments"
+    ],
+    [
+      "seabirds",
+      "deposit nutrients onto",
+      "land"
+    ],
+    [
+      "seabirds",
+      "deposit",
+      "guano"
+    ],
+    [
+      "guano",
+      "enriching",
+      "soils"
+    ],
+    [
+      "guano",
+      "supporting",
+      "plant populations"
+    ],
+    [
+      "birds",
+      "feed on",
+      "insects"
+    ],
+    [
+      "droppings",
+      "contributes to",
+      "nutrient cycling"
+    ],
+    [
+      "birds",
+      "play a role in",
+      "pollination"
+    ],
+    [
+      "hummingbirds",
+      "are",
+      "pollination"
+    ],
+    [
+      "sunbirds",
+      "are",
+      "pollination"
+    ],
+    [
+      "birds",
+      "feed on",
+      "nectar"
+    ],
+    [
+      "birds",
+      "transfer",
+      "pollen"
+    ],
+    [
+      "birds",
+      "facilitate the reproduction of",
+      "plant populations"
+    ],
+    [
+      "birds",
+      "contribute to the production of",
+      "fruits"
+    ],
+    [
+      "birds",
+      "contribute to the production of",
+      "seeds"
+    ],
+    [
+      "birds",
+      "serve as indicators of",
+      "environmental health"
+    ],
+    [
+      "environmental conditions",
+      "include",
+      "habitat loss"
+    ],
+    [
+      "environmental conditions",
+      "include",
+      "pollution"
+    ],
+    [
+      "environmental conditions",
+      "include",
+      "climate change"
+    ],
+    [
+      "conservation efforts",
+      "protect",
+      "biodiversity"
+    ],
+    [
+      "conservation efforts",
+      "protect",
+      "ecosystem function"
+    ],
+    [
+      "ecosystems",
+      "are for",
+      "future generations"
+    ]
+  ],
+  "edges": [
+    "serve as indicators of",
+    "contribute to the production of",
+    "play a key role in controlling",
+    "help maintain balance in",
+    "enriching",
+    "protect",
+    "promote",
+    "deposit",
+    "damage",
+    "are",
+    "contribute to",
+    "helps to",
+    "support",
+    "help keep in check",
+    "supporting",
+    "serve as",
+    "play a role in",
+    "play a crucial role in",
+    "contributes to",
+    "include",
+    "reduces the need for",
+    "have harmful effects on",
+    "facilitate the reproduction of",
+    "are for",
+    "deposit nutrients onto",
+    "transfer",
+    "feed on",
+    "deposit nutrients from"
+  ]
+}

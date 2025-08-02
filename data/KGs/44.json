@@ -1,0 +1,334 @@
+{
+  "entities": [
+    "Electricity",
+    "human history",
+    "homes",
+    "businesses",
+    "technological advancements",
+    "society",
+    "economy",
+    "technology",
+    "society",
+    "manual labor",
+    "washing clothes",
+    "cooking meals",
+    "lighting homes",
+    "Electric appliances",
+    "washing machines",
+    "refrigerators",
+    "stoves",
+    "public health",
+    "safety",
+    "Electric lighting",
+    "cities",
+    "residents",
+    "Electric heating",
+    "cooling systems",
+    "indoor temperatures",
+    "heatstroke",
+    "hypothermia",
+    "medical technology",
+    "healthcare",
+    "economy",
+    "industrialization",
+    "economic growth",
+    "Factories",
+    "manufacturing plants",
+    "machinery",
+    "equipment",
+    "goods",
+    "industries",
+    "jobs",
+    "economic development",
+    "global trade",
+    "communication",
+    "technology",
+    "electrical engineering",
+    "telecommunications",
+    "transportation",
+    "computing",
+    "telegraph",
+    "telephone",
+    "internet",
+    "electric cars",
+    "trains",
+    "greenhouse gas emissions",
+    "sustainable energy sources",
+    "computers",
+    "electronic devices",
+    "modern world"
+  ],
+  "relations": [
+    [
+      "Electricity",
+      "is a discovery in",
+      "human history"
+    ],
+    [
+      "Electricity",
+      "powers",
+      "homes"
+    ],
+    [
+      "Electricity",
+      "powers",
+      "businesses"
+    ],
+    [
+      "Electricity",
+      "drives",
+      "technological advancements"
+    ],
+    [
+      "Electricity",
+      "has revolutionized",
+      "society"
+    ],
+    [
+      "Electricity",
+      "has revolutionized",
+      "economy"
+    ],
+    [
+      "Electricity",
+      "has revolutionized",
+      "technology"
+    ],
+    [
+      "Electricity",
+      "modernizes",
+      "society"
+    ],
+    [
+      "manual labor",
+      "includes",
+      "washing clothes"
+    ],
+    [
+      "manual labor",
+      "includes",
+      "cooking meals"
+    ],
+    [
+      "manual labor",
+      "includes",
+      "lighting homes"
+    ],
+    [
+      "Electric appliances",
+      "includes",
+      "washing machines"
+    ],
+    [
+      "Electric appliances",
+      "includes",
+      "refrigerators"
+    ],
+    [
+      "Electric appliances",
+      "includes",
+      "stoves"
+    ],
+    [
+      "Electricity",
+      "has improved",
+      "public health"
+    ],
+    [
+      "Electricity",
+      "has improved",
+      "safety"
+    ],
+    [
+      "Electric lighting",
+      "made possible for",
+      "cities"
+    ],
+    [
+      "Electric lighting",
+      "creates safer environment for",
+      "residents"
+    ],
+    [
+      "Electric heating",
+      "regulates",
+      "indoor temperatures"
+    ],
+    [
+      "cooling systems",
+      "regulates",
+      "indoor temperatures"
+    ],
+    [
+      "indoor temperatures",
+      "reduces risk of",
+      "heatstroke"
+    ],
+    [
+      "indoor temperatures",
+      "reduces risk of",
+      "hypothermia"
+    ],
+    [
+      "medical technology",
+      "powered by",
+      "Electricity"
+    ],
+    [
+      "medical technology",
+      "led to breakthroughs in",
+      "healthcare"
+    ],
+    [
+      "Electricity",
+      "drives",
+      "industrialization"
+    ],
+    [
+      "Electricity",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "Factories",
+      "rely on",
+      "Electricity"
+    ],
+    [
+      "manufacturing plants",
+      "rely on",
+      "Electricity"
+    ],
+    [
+      "Electricity",
+      "powers",
+      "machinery"
+    ],
+    [
+      "Electricity",
+      "powers",
+      "equipment"
+    ],
+    [
+      "Electricity",
+      "led to mass production of",
+      "goods"
+    ],
+    [
+      "Electricity",
+      "led to creation of",
+      "industries"
+    ],
+    [
+      "Electricity",
+      "generates",
+      "jobs"
+    ],
+    [
+      "Electricity",
+      "stimulates",
+      "economic development"
+    ],
+    [
+      "Electricity",
+      "facilitates",
+      "global trade"
+    ],
+    [
+      "Electricity",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "electrical engineering",
+      "paved the way for innovations in",
+      "telecommunications"
+    ],
+    [
+      "electrical engineering",
+      "paved the way for innovations in",
+      "transportation"
+    ],
+    [
+      "electrical engineering",
+      "paved the way for innovations in",
+      "computing"
+    ],
+    [
+      "telegraph",
+      "revolutionized",
+      "communication"
+    ],
+    [
+      "telephone",
+      "revolutionized",
+      "communication"
+    ],
+    [
+      "internet",
+      "revolutionized",
+      "communication"
+    ],
+    [
+      "electric cars",
+      "led to reduction in",
+      "greenhouse gas emissions"
+    ],
+    [
+      "electric cars",
+      "led to shift towards",
+      "sustainable energy sources"
+    ],
+    [
+      "trains",
+      "led to reduction in",
+      "greenhouse gas emissions"
+    ],
+    [
+      "trains",
+      "led to shift towards",
+      "sustainable energy sources"
+    ],
+    [
+      "computers",
+      "transformed",
+      "modern world"
+    ],
+    [
+      "electronic devices",
+      "transformed",
+      "modern world"
+    ],
+    [
+      "Electricity",
+      "has revolutionized",
+      "modern world"
+    ]
+  ],
+  "edges": [
+    "led to mass production of",
+    "led to shift towards",
+    "led to reduction in",
+    "stimulates",
+    "has revolutionized",
+    "led to creation of",
+    "modernizes",
+    "is a discovery in",
+    "facilitates",
+    "reduces risk of",
+    "has improved",
+    "creates safer environment for",
+    "generates",
+    "paved the way for innovations in",
+    "powered by",
+    "revolutionized",
+    "transformed",
+    "powers",
+    "includes",
+    "led to breakthroughs in",
+    "drives",
+    "regulates",
+    "made possible for",
+    "rely on"
+  ]
+}

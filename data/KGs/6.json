@@ -1,0 +1,281 @@
+{
+  "entities": [
+    "Bees",
+    "Agriculture",
+    "Pollinators",
+    "Crop production",
+    "Ecosystems",
+    "Plants",
+    "Fruits",
+    "Vegetables",
+    "Nuts",
+    "Food",
+    "Pollination",
+    "Pollen",
+    "Flowers",
+    "Fertilization",
+    "Seeds",
+    "Almonds",
+    "Apples",
+    "Cherries",
+    "Blueberries",
+    "Crops",
+    "Food crops",
+    "Natural ecosystems",
+    "Wild plants",
+    "Native species",
+    "Biodiversity",
+    "Ecosystem stability",
+    "Wildlife species",
+    "Habitat loss",
+    "Pesticide use",
+    "Climate change",
+    "Diseases",
+    "Food security",
+    "Hand pollination",
+    "Bee habitats",
+    "Sustainable farming practices",
+    "Bee-friendly flowers",
+    "Nesting sites",
+    "Harmful pesticides",
+    "Governments",
+    "Policymakers",
+    "Legislation",
+    "Incentives",
+    "Sustainable agriculture practices",
+    "Environment"
+  ],
+  "relations": [
+    [
+      "Bees",
+      "play a crucial role in",
+      "Agriculture"
+    ],
+    [
+      "Bees",
+      "are",
+      "Pollinators"
+    ],
+    [
+      "Pollinators",
+      "contribute to",
+      "Crop production"
+    ],
+    [
+      "Pollinators",
+      "contribute to",
+      "Ecosystems"
+    ],
+    [
+      "Bees",
+      "are responsible for pollinating",
+      "Plants"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Fruits"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Vegetables"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Nuts"
+    ],
+    [
+      "Fruits",
+      "are",
+      "Food"
+    ],
+    [
+      "Vegetables",
+      "are",
+      "Food"
+    ],
+    [
+      "Nuts",
+      "are",
+      "Food"
+    ],
+    [
+      "Bees",
+      "perform",
+      "Pollination"
+    ],
+    [
+      "Pollination",
+      "transfers",
+      "Pollen"
+    ],
+    [
+      "Pollination",
+      "leads to",
+      "Fertilization"
+    ],
+    [
+      "Pollination",
+      "leads to",
+      "Seeds"
+    ],
+    [
+      "Pollination",
+      "leads to",
+      "Fruits"
+    ],
+    [
+      "Bees",
+      "collect",
+      "Pollen"
+    ],
+    [
+      "Bees",
+      "collect",
+      "Flowers"
+    ],
+    [
+      "Bees",
+      "facilitate",
+      "Pollination"
+    ],
+    [
+      "Almonds",
+      "depend on",
+      "Bees"
+    ],
+    [
+      "Apples",
+      "depend on",
+      "Bees"
+    ],
+    [
+      "Cherries",
+      "depend on",
+      "Bees"
+    ],
+    [
+      "Blueberries",
+      "depend on",
+      "Bees"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Crops"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Food crops"
+    ],
+    [
+      "Wild plants",
+      "rely on",
+      "Bees"
+    ],
+    [
+      "Bees",
+      "pollinate",
+      "Native species"
+    ],
+    [
+      "Bees",
+      "maintain",
+      "Biodiversity"
+    ],
+    [
+      "Bees",
+      "maintain",
+      "Ecosystem stability"
+    ],
+    [
+      "Bees",
+      "are essential for",
+      "Wildlife species"
+    ],
+    [
+      "Habitat loss",
+      "contributes to",
+      "Bees"
+    ],
+    [
+      "Pesticide use",
+      "contributes to",
+      "Bees"
+    ],
+    [
+      "Climate change",
+      "contributes to",
+      "Bees"
+    ],
+    [
+      "Diseases",
+      "contributes to",
+      "Bees"
+    ],
+    [
+      "Bees",
+      "threatened by",
+      "Food security"
+    ],
+    [
+      "Crops",
+      "require",
+      "Hand pollination"
+    ],
+    [
+      "Governments",
+      "promote",
+      "Bees"
+    ],
+    [
+      "Policymakers",
+      "promote",
+      "Bees"
+    ],
+    [
+      "Governments",
+      "use",
+      "Legislation"
+    ],
+    [
+      "Governments",
+      "use",
+      "Incentives"
+    ],
+    [
+      "Governments",
+      "promote",
+      "Sustainable agriculture practices"
+    ],
+    [
+      "Bees",
+      "contribute to",
+      "Environment"
+    ]
+  ],
+  "edges": [
+    "are responsible for pollinating",
+    "threatened by",
+    "facilitate",
+    "require",
+    "use",
+    "depend on",
+    "promote",
+    "pollinate",
+    "are",
+    "perform",
+    "contribute to",
+    "maintain",
+    "are essential for",
+    "collect",
+    "transfers",
+    "play a crucial role in",
+    "contributes to",
+    "leads to",
+    "rely on"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "entities": [
+    "Climate change",
+    "animals",
+    "habitats",
+    "food sources",
+    "global temperatures",
+    "weather patterns",
+    "species",
+    "extinction",
+    "ecosystems",
+    "polar bears",
+    "sea ice",
+    "Arctic",
+    "warming temperatures",
+    "precipitation patterns",
+    "plants",
+    "coral bleaching",
+    "coral reefs",
+    "fish",
+    "food webs",
+    "hurricanes",
+    "droughts",
+    "wildfires",
+    "koalas",
+    "wildlife",
+    "diseases",
+    "parasites",
+    "white-nose syndrome",
+    "fungal disease",
+    "bats",
+    "greenhouse gas emissions",
+    "biodiversity",
+    "Earth",
+    "animal populations"
+  ],
+  "relations": [
+    [
+      "Climate change",
+      "poses a threat to",
+      "animals"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "habitats"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "food sources"
+    ],
+    [
+      "global temperatures",
+      "rise",
+      "global temperatures"
+    ],
+    [
+      "weather patterns",
+      "become",
+      "weather patterns"
+    ],
+    [
+      "Climate change",
+      "pushing",
+      "species"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "extinction"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "habitats"
+    ],
+    [
+      "warming temperatures",
+      "cause",
+      "ecosystems"
+    ],
+    [
+      "polar bears",
+      "facing",
+      "sea ice"
+    ],
+    [
+      "sea ice",
+      "is in",
+      "Arctic"
+    ],
+    [
+      "sea ice",
+      "melts due to",
+      "warming temperatures"
+    ],
+    [
+      "Climate change",
+      "causes changes in",
+      "food sources"
+    ],
+    [
+      "Climate change",
+      "disrupting",
+      "plants"
+    ],
+    [
+      "Climate change",
+      "disrupting",
+      "animals"
+    ],
+    [
+      "warming temperatures",
+      "cause",
+      "coral bleaching"
+    ],
+    [
+      "coral bleaching",
+      "reduces",
+      "fish"
+    ],
+    [
+      "fish",
+      "rely on",
+      "coral reefs"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "food sources"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "habitats"
+    ],
+    [
+      "Climate change",
+      "disrupt",
+      "food webs"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "animal populations"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "hurricanes"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "droughts"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "wildfires"
+    ],
+    [
+      "wildfires",
+      "decimated",
+      "koalas"
+    ],
+    [
+      "wildfires",
+      "decimated",
+      "wildlife"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "diseases"
+    ],
+    [
+      "Climate change",
+      "leads to",
+      "parasites"
+    ],
+    [
+      "warming temperatures",
+      "create conditions for",
+      "diseases"
+    ],
+    [
+      "white-nose syndrome",
+      "affects",
+      "bats"
+    ],
+    [
+      "fungal disease",
+      "affects",
+      "bats"
+    ],
+    [
+      "Climate change",
+      "linked to",
+      "white-nose syndrome"
+    ],
+    [
+      "Climate change",
+      "has effects on",
+      "animals"
+    ],
+    [
+      "Climate change",
+      "disrupt",
+      "ecosystems"
+    ],
+    [
+      "Climate change",
+      "lead to",
+      "biodiversity"
+    ],
+    [
+      "Climate change",
+      "threatens",
+      "species"
+    ],
+    [
+      "Climate change",
+      "puts pressure on",
+      "animal populations"
+    ],
+    [
+      "Climate change",
+      "poses a threat to",
+      "ecosystems"
+    ]
+  ],
+  "edges": [
+    "is in",
+    "puts pressure on",
+    "leads to",
+    "causes changes in",
+    "threatens",
+    "provide",
+    "linked to",
+    "impacts",
+    "decimated",
+    "pushing",
+    "cause",
+    "lead to",
+    "disrupt",
+    "become",
+    "has effects on",
+    "melts due to",
+    "reduces",
+    "create conditions for",
+    "rise",
+    "facing",
+    "disrupting",
+    "affects",
+    "rely on",
+    "poses a threat to"
+  ]
+}

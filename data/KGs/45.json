@@ -1,0 +1,426 @@
+{
+  "entities": [
+    "Fashion trends",
+    "society",
+    "values",
+    "beliefs",
+    "attitudes",
+    "eras",
+    "history",
+    "culture",
+    "technology",
+    "politics",
+    "economics",
+    "ancient civilizations",
+    "Egypt",
+    "Greece",
+    "Rome",
+    "clothing",
+    "status",
+    "identity",
+    "wealthy",
+    "elite",
+    "garments",
+    "fabrics",
+    "embroidery",
+    "jewelry",
+    "common people",
+    "linen",
+    "wool",
+    "Middle Ages",
+    "religion",
+    "social hierarchy",
+    "Catholic Church",
+    "sumptuary laws",
+    "Nobles",
+    "royalty",
+    "silk",
+    "velvet",
+    "peasants",
+    "Renaissance period",
+    "art",
+    "Europe",
+    "designers",
+    "tailors",
+    "printing press",
+    "fashion plates",
+    "magazines",
+    "Industrial Revolution",
+    "18th and 19th centuries",
+    "fashion industry",
+    "Mass production techniques",
+    "ready-to-wear clothing",
+    "department stores",
+    "fashion magazines",
+    "20th century",
+    "social movements",
+    "cultural movements",
+    "political movements",
+    "Roaring Twenties",
+    "hemlines",
+    "silhouettes",
+    "boyish cuts",
+    "Great Depression",
+    "1930s",
+    "post-World War II era",
+    "1950s",
+    "Audrey Hepburn",
+    "Marilyn Monroe",
+    "full skirts",
+    "fitted bodices",
+    "cat-eye sunglasses",
+    "1960s",
+    "1970s",
+    "youth culture",
+    "mini skirts",
+    "bell-bottoms",
+    "psychedelic prints",
+    "1980s",
+    "1990s",
+    "Cindy Crawford",
+    "Naomi Campbell",
+    "designer brands",
+    "high-end fashion labels",
+    "millennium",
+    "21st century",
+    "sustainability",
+    "diversity",
+    "body positivity",
+    "Social media platforms",
+    "Instagram",
+    "TikTok",
+    "influencers",
+    "bloggers",
+    "consumer behavior",
+    "Sustainable fashion practices",
+    "upcycling",
+    "recycling",
+    "ethical sourcing",
+    "environmental impact"
+  ],
+  "relations": [
+    [
+      "Fashion trends",
+      "played a significant role in",
+      "society"
+    ],
+    [
+      "Fashion trends",
+      "reflecting",
+      "values"
+    ],
+    [
+      "Fashion trends",
+      "reflecting",
+      "beliefs"
+    ],
+    [
+      "Fashion trends",
+      "reflecting",
+      "attitudes"
+    ],
+    [
+      "Fashion trends",
+      "of",
+      "eras"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "culture"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "technology"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "politics"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "economics"
+    ],
+    [
+      "clothing",
+      "symbol of",
+      "status"
+    ],
+    [
+      "clothing",
+      "symbol of",
+      "identity"
+    ],
+    [
+      "wealthy",
+      "wear",
+      "garments"
+    ],
+    [
+      "garments",
+      "made from",
+      "fabrics"
+    ],
+    [
+      "garments",
+      "adorned with",
+      "embroidery"
+    ],
+    [
+      "garments",
+      "adorned with",
+      "jewelry"
+    ],
+    [
+      "common people",
+      "wear",
+      "clothing"
+    ],
+    [
+      "clothing",
+      "made from",
+      "linen"
+    ],
+    [
+      "clothing",
+      "made from",
+      "wool"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "religion"
+    ],
+    [
+      "Fashion trends",
+      "influenced by",
+      "social hierarchy"
+    ],
+    [
+      "Catholic Church",
+      "dictating",
+      "clothing"
+    ],
+    [
+      "sumptuary laws",
+      "regulating",
+      "clothing"
+    ],
+    [
+      "Nobles",
+      "wear",
+      "garments"
+    ],
+    [
+      "royalty",
+      "wear",
+      "garments"
+    ],
+    [
+      "garments",
+      "made from",
+      "silk"
+    ],
+    [
+      "garments",
+      "made from",
+      "velvet"
+    ],
+    [
+      "peasants",
+      "wore",
+      "clothing"
+    ],
+    [
+      "Renaissance period",
+      "resurgence of interest in",
+      "art"
+    ],
+    [
+      "Renaissance period",
+      "resurgence of interest in",
+      "culture"
+    ],
+    [
+      "Europe",
+      "commission",
+      "garments"
+    ],
+    [
+      "garments",
+      "from",
+      "designers"
+    ],
+    [
+      "garments",
+      "from",
+      "tailors"
+    ],
+    [
+      "printing press",
+      "allowed for dissemination of",
+      "Fashion trends"
+    ],
+    [
+      "Industrial Revolution",
+      "brought changes in",
+      "fashion industry"
+    ],
+    [
+      "Mass production techniques",
+      "allowed for creation of",
+      "ready-to-wear clothing"
+    ],
+    [
+      "20th century",
+      "driven by",
+      "social movements"
+    ],
+    [
+      "20th century",
+      "driven by",
+      "cultural movements"
+    ],
+    [
+      "20th century",
+      "driven by",
+      "political movements"
+    ],
+    [
+      "Roaring Twenties",
+      "marked shift towards",
+      "hemlines"
+    ],
+    [
+      "Roaring Twenties",
+      "marked shift towards",
+      "silhouettes"
+    ],
+    [
+      "Roaring Twenties",
+      "marked shift towards",
+      "boyish cuts"
+    ],
+    [
+      "1950s",
+      "saw the rise of",
+      "Audrey Hepburn"
+    ],
+    [
+      "1950s",
+      "saw the rise of",
+      "Marilyn Monroe"
+    ],
+    [
+      "Audrey Hepburn",
+      "popularized",
+      "full skirts"
+    ],
+    [
+      "Audrey Hepburn",
+      "popularized",
+      "fitted bodices"
+    ],
+    [
+      "Audrey Hepburn",
+      "popularized",
+      "cat-eye sunglasses"
+    ],
+    [
+      "1960s",
+      "characterized by",
+      "youth culture"
+    ],
+    [
+      "1970s",
+      "characterized by",
+      "youth culture"
+    ],
+    [
+      "youth culture",
+      "influencing",
+      "mini skirts"
+    ],
+    [
+      "youth culture",
+      "influencing",
+      "bell-bottoms"
+    ],
+    [
+      "youth culture",
+      "influencing",
+      "psychedelic prints"
+    ],
+    [
+      "Cindy Crawford",
+      "helped popularize",
+      "designer brands"
+    ],
+    [
+      "Naomi Campbell",
+      "helped popularize",
+      "high-end fashion labels"
+    ],
+    [
+      "21st century",
+      "emphasis on",
+      "sustainability"
+    ],
+    [
+      "21st century",
+      "emphasis on",
+      "diversity"
+    ],
+    [
+      "21st century",
+      "emphasis on",
+      "body positivity"
+    ],
+    [
+      "influencers",
+      "driving",
+      "consumer behavior"
+    ],
+    [
+      "bloggers",
+      "driving",
+      "consumer behavior"
+    ],
+    [
+      "Fashion trends",
+      "reflecting",
+      "values"
+    ]
+  ],
+  "edges": [
+    "driving",
+    "resurgence of interest in",
+    "reflecting",
+    "emphasis on",
+    "driven by",
+    "adorned with",
+    "helped popularize",
+    "influencing",
+    "of",
+    "played a significant role in",
+    "symbol of",
+    "brought changes in",
+    "wear",
+    "wore",
+    "popularized",
+    "characterized by",
+    "dictating",
+    "saw the rise of",
+    "made from",
+    "regulating",
+    "allowed for dissemination of",
+    "marked shift towards",
+    "commission",
+    "allowed for creation of",
+    "from",
+    "influenced by"
+  ]
+}

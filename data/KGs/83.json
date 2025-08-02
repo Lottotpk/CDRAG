@@ -1,0 +1,417 @@
+{
+  "entities": [
+    "human body",
+    "defense mechanisms",
+    "pathogens",
+    "bacteria",
+    "viruses",
+    "fungi",
+    "parasites",
+    "immune system",
+    "infection",
+    "health",
+    "cells",
+    "tissues",
+    "organs",
+    "threat",
+    "resilience",
+    "adaptability",
+    "physical barriers",
+    "skin",
+    "mucous membranes",
+    "respiratory tracts",
+    "digestive tracts",
+    "mucus",
+    "acidic environment",
+    "stomach",
+    "white blood cells",
+    "neutrophils",
+    "macrophages",
+    "lymphocytes",
+    "phagocytosis",
+    "B cells",
+    "T cells",
+    "antibodies",
+    "infected cells",
+    "dendritic cells",
+    "antigens",
+    "Natural killer cells",
+    "Complement proteins",
+    "Cytokines",
+    "immunological memory",
+    "vaccination",
+    "memory cells",
+    "chronic inflammation",
+    "autoimmune diseases",
+    "rheumatoid arthritis",
+    "lupus",
+    "multiple sclerosis",
+    "heart disease",
+    "diabetes",
+    "cancer"
+  ],
+  "relations": [
+    [
+      "human body",
+      "equipped with",
+      "defense mechanisms"
+    ],
+    [
+      "defense mechanisms",
+      "protect against",
+      "pathogens"
+    ],
+    [
+      "pathogens",
+      "include",
+      "bacteria"
+    ],
+    [
+      "pathogens",
+      "include",
+      "viruses"
+    ],
+    [
+      "pathogens",
+      "include",
+      "fungi"
+    ],
+    [
+      "pathogens",
+      "include",
+      "parasites"
+    ],
+    [
+      "immune system",
+      "fights",
+      "infection"
+    ],
+    [
+      "immune system",
+      "restores",
+      "health"
+    ],
+    [
+      "cells",
+      "work with",
+      "tissues"
+    ],
+    [
+      "cells",
+      "work with",
+      "organs"
+    ],
+    [
+      "cells",
+      "eliminate",
+      "threat"
+    ],
+    [
+      "human body",
+      "has",
+      "resilience"
+    ],
+    [
+      "human body",
+      "has",
+      "adaptability"
+    ],
+    [
+      "defense mechanisms",
+      "include",
+      "physical barriers"
+    ],
+    [
+      "physical barriers",
+      "prevent entry of",
+      "pathogens"
+    ],
+    [
+      "skin",
+      "acts as",
+      "physical barriers"
+    ],
+    [
+      "skin",
+      "prevents penetration of",
+      "pathogens"
+    ],
+    [
+      "mucous membranes",
+      "located in",
+      "respiratory tracts"
+    ],
+    [
+      "mucous membranes",
+      "located in",
+      "digestive tracts"
+    ],
+    [
+      "mucous membranes",
+      "produce",
+      "mucus"
+    ],
+    [
+      "mucus",
+      "traps",
+      "pathogens"
+    ],
+    [
+      "acidic environment",
+      "located in",
+      "stomach"
+    ],
+    [
+      "acidic environment",
+      "kills",
+      "pathogens"
+    ],
+    [
+      "physical barriers",
+      "prevent",
+      "infection"
+    ],
+    [
+      "immune system",
+      "responds with",
+      "defense mechanisms"
+    ],
+    [
+      "immune system",
+      "comprised of",
+      "cells"
+    ],
+    [
+      "immune system",
+      "comprised of",
+      "tissues"
+    ],
+    [
+      "immune system",
+      "comprised of",
+      "organs"
+    ],
+    [
+      "immune system",
+      "identifies and eliminates",
+      "pathogens"
+    ],
+    [
+      "white blood cells",
+      "include",
+      "neutrophils"
+    ],
+    [
+      "white blood cells",
+      "include",
+      "macrophages"
+    ],
+    [
+      "white blood cells",
+      "include",
+      "lymphocytes"
+    ],
+    [
+      "white blood cells",
+      "destroy",
+      "pathogens"
+    ],
+    [
+      "neutrophils",
+      "engulf and destroy",
+      "pathogens"
+    ],
+    [
+      "neutrophils",
+      "use",
+      "phagocytosis"
+    ],
+    [
+      "macrophages",
+      "engulf and destroy",
+      "pathogens"
+    ],
+    [
+      "macrophages",
+      "alert",
+      "cells"
+    ],
+    [
+      "lymphocytes",
+      "include",
+      "B cells"
+    ],
+    [
+      "lymphocytes",
+      "include",
+      "T cells"
+    ],
+    [
+      "B cells",
+      "produce",
+      "antibodies"
+    ],
+    [
+      "antibodies",
+      "bind to",
+      "pathogens"
+    ],
+    [
+      "T cells",
+      "attack",
+      "infected cells"
+    ],
+    [
+      "dendritic cells",
+      "present",
+      "antigens"
+    ],
+    [
+      "dendritic cells",
+      "initiate",
+      "immune system"
+    ],
+    [
+      "Natural killer cells",
+      "kill",
+      "infected cells"
+    ],
+    [
+      "Complement proteins",
+      "enhance",
+      "antibodies"
+    ],
+    [
+      "Cytokines",
+      "coordinate",
+      "immune system"
+    ],
+    [
+      "Cytokines",
+      "regulate",
+      "cells"
+    ],
+    [
+      "immune system",
+      "has",
+      "immunological memory"
+    ],
+    [
+      "immunological memory",
+      "basis for",
+      "vaccination"
+    ],
+    [
+      "lymphocytes",
+      "differentiate into",
+      "memory cells"
+    ],
+    [
+      "immune system",
+      "generates",
+      "immune system"
+    ],
+    [
+      "immune system",
+      "encounters",
+      "pathogens"
+    ],
+    [
+      "immune system",
+      "mounts",
+      "immune system"
+    ],
+    [
+      "immune system",
+      "can lead to",
+      "chronic inflammation"
+    ],
+    [
+      "immune system",
+      "can lead to",
+      "autoimmune diseases"
+    ],
+    [
+      "immune system",
+      "attacks",
+      "human body"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "rheumatoid arthritis"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "lupus"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "multiple sclerosis"
+    ],
+    [
+      "chronic inflammation",
+      "contributes to",
+      "heart disease"
+    ],
+    [
+      "chronic inflammation",
+      "contributes to",
+      "diabetes"
+    ],
+    [
+      "chronic inflammation",
+      "contributes to",
+      "cancer"
+    ],
+    [
+      "immune system",
+      "detects and eliminates",
+      "pathogens"
+    ]
+  ],
+  "edges": [
+    "use",
+    "contributes to",
+    "kills",
+    "regulate",
+    "attacks",
+    "acts as",
+    "fights",
+    "work with",
+    "traps",
+    "bind to",
+    "basis for",
+    "include",
+    "produce",
+    "detects and eliminates",
+    "prevents penetration of",
+    "equipped with",
+    "prevent entry of",
+    "located in",
+    "responds with",
+    "identifies and eliminates",
+    "comprised of",
+    "restores",
+    "destroy",
+    "kill",
+    "mounts",
+    "initiate",
+    "eliminate",
+    "generates",
+    "prevent",
+    "alert",
+    "engulf and destroy",
+    "present",
+    "can lead to",
+    "protect against",
+    "has",
+    "encounters",
+    "differentiate into",
+    "coordinate",
+    "enhance",
+    "attack"
+  ]
+}

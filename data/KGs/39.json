@@ -1,0 +1,319 @@
+{
+  "entities": [
+    "Pirates",
+    "adventure",
+    "treasure",
+    "high seas",
+    "Caribbean",
+    "Mediterranean",
+    "piracy",
+    "14th century BC",
+    "Sea Peoples",
+    "Bronze Age",
+    "merchant ships",
+    "coastal communities",
+    "Middle Ages",
+    "Barbary pirates",
+    "North Africa",
+    "European ships",
+    "coastal towns",
+    "rulers",
+    "governments",
+    "Golden Age of Piracy",
+    "late 17th century",
+    "early 18th century",
+    "Blackbeard",
+    "Captain Kidd",
+    "Calico Jack",
+    "Atlantic Ocean",
+    "Spanish Empire",
+    "Spain",
+    "naval forces",
+    "Spanish treasure ships",
+    "coastal settlements",
+    "gold",
+    "silver",
+    "Tortuga",
+    "Nassau",
+    "Pirate Code",
+    "spoils",
+    "crew members",
+    "outlaws",
+    "heroes",
+    "common people",
+    "rebels",
+    "colonialism",
+    "imperialism",
+    "freedom",
+    "defiance",
+    "Britain",
+    "France",
+    "naval patrols",
+    "anti-piracy laws",
+    "piracy offenses",
+    "books",
+    "movies",
+    "television shows"
+  ],
+  "relations": [
+    [
+      "Pirates",
+      "have",
+      "adventure"
+    ],
+    [
+      "Pirates",
+      "have",
+      "treasure"
+    ],
+    [
+      "Pirates",
+      "associated with",
+      "high seas"
+    ],
+    [
+      "Pirates",
+      "operate in",
+      "Caribbean"
+    ],
+    [
+      "Pirates",
+      "operate in",
+      "Mediterranean"
+    ],
+    [
+      "piracy",
+      "dates back to",
+      "14th century BC"
+    ],
+    [
+      "Sea Peoples",
+      "existed during",
+      "Bronze Age"
+    ],
+    [
+      "Sea Peoples",
+      "attacked",
+      "merchant ships"
+    ],
+    [
+      "Sea Peoples",
+      "attacked",
+      "coastal communities"
+    ],
+    [
+      "piracy",
+      "prevalent during",
+      "Middle Ages"
+    ],
+    [
+      "Barbary pirates",
+      "operate out of",
+      "North Africa"
+    ],
+    [
+      "Barbary pirates",
+      "attacked",
+      "European ships"
+    ],
+    [
+      "Barbary pirates",
+      "attacked",
+      "coastal towns"
+    ],
+    [
+      "Barbary pirates",
+      "sponsored by",
+      "rulers"
+    ],
+    [
+      "Barbary pirates",
+      "sponsored by",
+      "governments"
+    ],
+    [
+      "Golden Age of Piracy",
+      "spans from",
+      "late 17th century"
+    ],
+    [
+      "Golden Age of Piracy",
+      "spans to",
+      "early 18th century"
+    ],
+    [
+      "Blackbeard",
+      "operated during",
+      "Golden Age of Piracy"
+    ],
+    [
+      "Captain Kidd",
+      "operated during",
+      "Golden Age of Piracy"
+    ],
+    [
+      "Calico Jack",
+      "operated during",
+      "Golden Age of Piracy"
+    ],
+    [
+      "Pirates",
+      "operated in",
+      "Caribbean"
+    ],
+    [
+      "Pirates",
+      "operated in",
+      "Atlantic Ocean"
+    ],
+    [
+      "Spanish Empire",
+      "declined during",
+      "Golden Age of Piracy"
+    ],
+    [
+      "Pirates",
+      "preyed on",
+      "Spanish treasure ships"
+    ],
+    [
+      "Pirates",
+      "plundered",
+      "coastal settlements"
+    ],
+    [
+      "Pirates",
+      "lured by",
+      "gold"
+    ],
+    [
+      "Pirates",
+      "lured by",
+      "silver"
+    ],
+    [
+      "Pirates",
+      "established strongholds in",
+      "Tortuga"
+    ],
+    [
+      "Pirates",
+      "established strongholds in",
+      "Nassau"
+    ],
+    [
+      "Pirate Code",
+      "governed",
+      "spoils"
+    ],
+    [
+      "Pirate Code",
+      "governed",
+      "crew members"
+    ],
+    [
+      "Pirates",
+      "considered",
+      "outlaws"
+    ],
+    [
+      "Pirates",
+      "seen as",
+      "heroes"
+    ],
+    [
+      "Pirates",
+      "viewed as",
+      "rebels"
+    ],
+    [
+      "Pirates",
+      "fought against",
+      "colonialism"
+    ],
+    [
+      "Pirates",
+      "fought against",
+      "imperialism"
+    ],
+    [
+      "Pirates",
+      "symbolized",
+      "freedom"
+    ],
+    [
+      "Pirates",
+      "symbolized",
+      "defiance"
+    ],
+    [
+      "Britain",
+      "cracked down on",
+      "piracy"
+    ],
+    [
+      "France",
+      "cracked down on",
+      "piracy"
+    ],
+    [
+      "naval patrols",
+      "introduced to curb",
+      "piracy"
+    ],
+    [
+      "anti-piracy laws",
+      "introduced to curb",
+      "piracy"
+    ],
+    [
+      "piracy offenses",
+      "introduced to curb",
+      "piracy"
+    ],
+    [
+      "Pirates",
+      "immortalized in",
+      "books"
+    ],
+    [
+      "Pirates",
+      "immortalized in",
+      "movies"
+    ],
+    [
+      "Pirates",
+      "immortalized in",
+      "television shows"
+    ]
+  ],
+  "edges": [
+    "spans to",
+    "associated with",
+    "attacked",
+    "existed during",
+    "immortalized in",
+    "established strongholds in",
+    "prevalent during",
+    "considered",
+    "viewed as",
+    "dates back to",
+    "preyed on",
+    "operated during",
+    "symbolized",
+    "spans from",
+    "introduced to curb",
+    "declined during",
+    "operated in",
+    "lured by",
+    "have",
+    "sponsored by",
+    "operate out of",
+    "fought against",
+    "plundered",
+    "cracked down on",
+    "governed",
+    "operate in",
+    "seen as"
+  ]
+}

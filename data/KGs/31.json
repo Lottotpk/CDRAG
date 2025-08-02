@@ -1,0 +1,241 @@
+{
+  "entities": [
+    "Time zones",
+    "time",
+    "global trade",
+    "transportation networks",
+    "local solar time",
+    "sun",
+    "transportation",
+    "communication capabilities",
+    "Trains",
+    "telegraphs",
+    "local time",
+    "standard time",
+    "19th century",
+    "town",
+    "city",
+    "rail travel",
+    "British railway companies",
+    "Railway Time",
+    "Sir Sandford Fleming",
+    "Canadian engineer",
+    "International Meridian Conference",
+    "Washington, D.C.",
+    "Greenwich Mean Time (GMT)",
+    "Greenwich Meridian",
+    "London",
+    "Prime Meridian",
+    "countries",
+    "United States",
+    "Eastern",
+    "Central",
+    "Mountain",
+    "Pacific",
+    "Daylight Saving Time (DST)",
+    "clocks",
+    "World War I",
+    "energy",
+    "natural daylight",
+    "technology",
+    "communication",
+    "internet",
+    "global telecommunications networks",
+    "scheduling events",
+    "meetings",
+    "globalized world"
+  ],
+  "relations": [
+    [
+      "Time zones",
+      "plays a role in",
+      "time"
+    ],
+    [
+      "global trade",
+      "led to",
+      "Time zones"
+    ],
+    [
+      "transportation networks",
+      "led to",
+      "Time zones"
+    ],
+    [
+      "local solar time",
+      "based on",
+      "sun"
+    ],
+    [
+      "Trains",
+      "highlighted inefficiencies of",
+      "local time"
+    ],
+    [
+      "telegraphs",
+      "highlighted inefficiencies of",
+      "local time"
+    ],
+    [
+      "standard time",
+      "introduced in",
+      "19th century"
+    ],
+    [
+      "town",
+      "set",
+      "local time"
+    ],
+    [
+      "city",
+      "set",
+      "local time"
+    ],
+    [
+      "rail travel",
+      "made impractical",
+      "local time"
+    ],
+    [
+      "British railway companies",
+      "adopted",
+      "Railway Time"
+    ],
+    [
+      "Railway Time",
+      "beginning of",
+      "standard time"
+    ],
+    [
+      "Sir Sandford Fleming",
+      "is a",
+      "Canadian engineer"
+    ],
+    [
+      "Sir Sandford Fleming",
+      "proposed",
+      "Time zones"
+    ],
+    [
+      "International Meridian Conference",
+      "held in",
+      "Washington, D.C."
+    ],
+    [
+      "International Meridian Conference",
+      "agreed to adopt",
+      "Time zones"
+    ],
+    [
+      "Greenwich Mean Time (GMT)",
+      "based on",
+      "Greenwich Meridian"
+    ],
+    [
+      "Greenwich Meridian",
+      "located in",
+      "London"
+    ],
+    [
+      "Greenwich Meridian",
+      "is the",
+      "Prime Meridian"
+    ],
+    [
+      "Prime Meridian",
+      "used to calculate",
+      "Time zones"
+    ],
+    [
+      "United States",
+      "divided into",
+      "Eastern"
+    ],
+    [
+      "United States",
+      "divided into",
+      "Central"
+    ],
+    [
+      "United States",
+      "divided into",
+      "Mountain"
+    ],
+    [
+      "United States",
+      "divided into",
+      "Pacific"
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "advancing",
+      "clocks"
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "implemented during",
+      "World War I"
+    ],
+    [
+      "World War I",
+      "to conserve",
+      "energy"
+    ],
+    [
+      "World War I",
+      "to make use of",
+      "natural daylight"
+    ],
+    [
+      "internet",
+      "enabled",
+      "communication"
+    ],
+    [
+      "global telecommunications networks",
+      "enabled",
+      "communication"
+    ],
+    [
+      "Time zones",
+      "essential for",
+      "scheduling events"
+    ],
+    [
+      "Time zones",
+      "essential for",
+      "meetings"
+    ],
+    [
+      "Time zones",
+      "adapt to",
+      "globalized world"
+    ]
+  ],
+  "edges": [
+    "used to calculate",
+    "to conserve",
+    "led to",
+    "based on",
+    "located in",
+    "held in",
+    "implemented during",
+    "adapt to",
+    "plays a role in",
+    "divided into",
+    "introduced in",
+    "proposed",
+    "enabled",
+    "highlighted inefficiencies of",
+    "adopted",
+    "essential for",
+    "made impractical",
+    "agreed to adopt",
+    "set",
+    "beginning of",
+    "is a",
+    "is the",
+    "to make use of",
+    "advancing"
+  ]
+}

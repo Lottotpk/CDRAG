@@ -1,0 +1,330 @@
+{
+  "entities": [
+    "Ancient Egypt",
+    "burial practices",
+    "Egyptians",
+    "afterlife",
+    "deceased",
+    "Egyptian culture",
+    "tombs",
+    "pyramids at Giza",
+    "pharaohs",
+    "food",
+    "clothing",
+    "jewelry",
+    "personal belongings",
+    "Mummification",
+    "internal organs",
+    "salt",
+    "linen bandages",
+    "soul",
+    "religious texts",
+    "amulets",
+    "burial chamber",
+    "Book of the Dead",
+    "spells",
+    "prayers",
+    "papyrus scrolls",
+    "priests",
+    "embalmers",
+    "skilled individuals",
+    "family",
+    "professional mourners",
+    "funeral procession",
+    "rituals",
+    "elite",
+    "common people",
+    "ordinary Egyptians",
+    "tools",
+    "gods",
+    "society"
+  ],
+  "relations": [
+    [
+      "Ancient Egypt",
+      "is known for",
+      "burial practices"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "Egyptians"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "afterlife"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "deceased"
+    ],
+    [
+      "burial practices",
+      "were part of",
+      "Egyptian culture"
+    ],
+    [
+      "burial practices",
+      "were designed to ensure",
+      "afterlife"
+    ],
+    [
+      "tombs",
+      "were",
+      "pyramids at Giza"
+    ],
+    [
+      "tombs",
+      "were built to house",
+      "pharaohs"
+    ],
+    [
+      "tombs",
+      "were built to house",
+      "deceased"
+    ],
+    [
+      "tombs",
+      "were designed to protect",
+      "deceased"
+    ],
+    [
+      "tombs",
+      "were designed to protect",
+      "personal belongings"
+    ],
+    [
+      "tombs",
+      "serve as",
+      "afterlife"
+    ],
+    [
+      "deceased",
+      "were buried with",
+      "food"
+    ],
+    [
+      "deceased",
+      "were buried with",
+      "clothing"
+    ],
+    [
+      "deceased",
+      "were buried with",
+      "jewelry"
+    ],
+    [
+      "deceased",
+      "were buried with",
+      "personal belongings"
+    ],
+    [
+      "Egyptians",
+      "believed",
+      "afterlife"
+    ],
+    [
+      "Mummification",
+      "was",
+      "burial practices"
+    ],
+    [
+      "Mummification",
+      "involved",
+      "internal organs"
+    ],
+    [
+      "Mummification",
+      "involved",
+      "salt"
+    ],
+    [
+      "Mummification",
+      "involved",
+      "linen bandages"
+    ],
+    [
+      "Egyptians",
+      "believed in",
+      "soul"
+    ],
+    [
+      "Egyptians",
+      "included",
+      "religious texts"
+    ],
+    [
+      "Egyptians",
+      "included",
+      "amulets"
+    ],
+    [
+      "religious texts",
+      "guide",
+      "deceased"
+    ],
+    [
+      "Book of the Dead",
+      "was",
+      "religious texts"
+    ],
+    [
+      "Book of the Dead",
+      "was",
+      "spells"
+    ],
+    [
+      "Book of the Dead",
+      "was",
+      "prayers"
+    ],
+    [
+      "Book of the Dead",
+      "was intended to help",
+      "deceased"
+    ],
+    [
+      "Book of the Dead",
+      "was inscribed on",
+      "papyrus scrolls"
+    ],
+    [
+      "Book of the Dead",
+      "was placed in",
+      "tombs"
+    ],
+    [
+      "burial practices",
+      "required",
+      "priests"
+    ],
+    [
+      "burial practices",
+      "required",
+      "embalmers"
+    ],
+    [
+      "burial practices",
+      "required",
+      "skilled individuals"
+    ],
+    [
+      "family",
+      "would hire",
+      "professional mourners"
+    ],
+    [
+      "professional mourners",
+      "lead",
+      "funeral procession"
+    ],
+    [
+      "professional mourners",
+      "perform",
+      "rituals"
+    ],
+    [
+      "elite",
+      "constructed",
+      "tombs"
+    ],
+    [
+      "common people",
+      "were",
+      "ordinary Egyptians"
+    ],
+    [
+      "ordinary Egyptians",
+      "were buried with",
+      "food"
+    ],
+    [
+      "ordinary Egyptians",
+      "were buried with",
+      "tools"
+    ],
+    [
+      "ordinary Egyptians",
+      "were buried with",
+      "personal belongings"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "Egyptians"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "afterlife"
+    ],
+    [
+      "tombs",
+      "ensure",
+      "afterlife"
+    ],
+    [
+      "Mummification",
+      "ensure",
+      "afterlife"
+    ],
+    [
+      "religious texts",
+      "ensure",
+      "afterlife"
+    ],
+    [
+      "amulets",
+      "ensure",
+      "afterlife"
+    ],
+    [
+      "burial practices",
+      "were part of",
+      "Egyptian culture"
+    ],
+    [
+      "burial practices",
+      "were part of",
+      "society"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "Egyptians"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "afterlife"
+    ]
+  ],
+  "edges": [
+    "were designed to ensure",
+    "included",
+    "required",
+    "were built to house",
+    "were part of",
+    "ensure",
+    "were buried with",
+    "perform",
+    "was",
+    "guide",
+    "was inscribed on",
+    "believed in",
+    "serve as",
+    "were",
+    "reflect",
+    "lead",
+    "was intended to help",
+    "involved",
+    "was placed in",
+    "would hire",
+    "were designed to protect",
+    "is known for",
+    "believed",
+    "constructed"
+  ]
+}

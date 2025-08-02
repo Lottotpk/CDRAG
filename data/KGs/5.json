@@ -1,0 +1,238 @@
+{
+  "entities": [
+    "Video games",
+    "Pong",
+    "Space Invaders",
+    "Red Dead Redemption",
+    "Fortnite",
+    "arcade gaming",
+    "console gaming",
+    "PC gaming",
+    "Spacewar!",
+    "Massachusetts Institute of Technology (MIT)",
+    "multiplayer gameplay",
+    "real-time action",
+    "Pac-Man",
+    "Atari 2600",
+    "Super Mario Bros.",
+    "The Legend of Zelda",
+    "Tetris",
+    "8-bit graphics",
+    "16-bit graphics",
+    "3D graphics",
+    "CD-ROM technology",
+    "Doom",
+    "Quake",
+    "Final Fantasy VII",
+    "StarCraft",
+    "Half-Life",
+    "Diablo",
+    "Xbox Live",
+    "PlayStation Network",
+    "World of Warcraft",
+    "Halo",
+    "Call of Duty",
+    "online multiplayer gaming",
+    "virtual reality (VR)",
+    "augmented reality (AR)",
+    "cloud gaming",
+    "Oculus Rift",
+    "PlayStation VR",
+    "Pok\u00c3\u00a9mon Go",
+    "artificial intelligence (AI)",
+    "machine learning",
+    "blockchain technology"
+  ],
+  "relations": [
+    [
+      "Video games",
+      "includes",
+      "Pong"
+    ],
+    [
+      "Video games",
+      "includes",
+      "Space Invaders"
+    ],
+    [
+      "Video games",
+      "includes",
+      "Red Dead Redemption"
+    ],
+    [
+      "Video games",
+      "includes",
+      "Fortnite"
+    ],
+    [
+      "Spacewar!",
+      "developed at",
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    [
+      "Spacewar!",
+      "introduced",
+      "multiplayer gameplay"
+    ],
+    [
+      "Spacewar!",
+      "introduced",
+      "real-time action"
+    ],
+    [
+      "arcade gaming",
+      "includes",
+      "Pong"
+    ],
+    [
+      "arcade gaming",
+      "includes",
+      "Space Invaders"
+    ],
+    [
+      "arcade gaming",
+      "includes",
+      "Pac-Man"
+    ],
+    [
+      "Atari 2600",
+      "is a",
+      "console gaming"
+    ],
+    [
+      "Super Mario Bros.",
+      "is a",
+      "Video games"
+    ],
+    [
+      "The Legend of Zelda",
+      "is a",
+      "Video games"
+    ],
+    [
+      "Tetris",
+      "is a",
+      "Video games"
+    ],
+    [
+      "8-bit graphics",
+      "enhanced",
+      "Video games"
+    ],
+    [
+      "16-bit graphics",
+      "enhanced",
+      "Video games"
+    ],
+    [
+      "3D graphics",
+      "led to",
+      "Doom"
+    ],
+    [
+      "3D graphics",
+      "led to",
+      "Quake"
+    ],
+    [
+      "3D graphics",
+      "led to",
+      "Final Fantasy VII"
+    ],
+    [
+      "CD-ROM technology",
+      "led to",
+      "Doom"
+    ],
+    [
+      "CD-ROM technology",
+      "led to",
+      "Quake"
+    ],
+    [
+      "CD-ROM technology",
+      "led to",
+      "Final Fantasy VII"
+    ],
+    [
+      "StarCraft",
+      "is a",
+      "PC gaming"
+    ],
+    [
+      "Half-Life",
+      "is a",
+      "PC gaming"
+    ],
+    [
+      "Diablo",
+      "is a",
+      "PC gaming"
+    ],
+    [
+      "Xbox Live",
+      "enabled",
+      "online multiplayer gaming"
+    ],
+    [
+      "PlayStation Network",
+      "enabled",
+      "online multiplayer gaming"
+    ],
+    [
+      "World of Warcraft",
+      "is a",
+      "online multiplayer gaming"
+    ],
+    [
+      "Halo",
+      "is a",
+      "online multiplayer gaming"
+    ],
+    [
+      "Call of Duty",
+      "is a",
+      "online multiplayer gaming"
+    ],
+    [
+      "Oculus Rift",
+      "is a",
+      "virtual reality (VR)"
+    ],
+    [
+      "PlayStation VR",
+      "is a",
+      "virtual reality (VR)"
+    ],
+    [
+      "Pok\u00c3\u00a9mon Go",
+      "is a",
+      "augmented reality (AR)"
+    ],
+    [
+      "artificial intelligence (AI)",
+      "revolutionize",
+      "Video games"
+    ],
+    [
+      "machine learning",
+      "revolutionize",
+      "Video games"
+    ],
+    [
+      "blockchain technology",
+      "revolutionize",
+      "Video games"
+    ]
+  ],
+  "edges": [
+    "enhanced",
+    "developed at",
+    "is a",
+    "introduced",
+    "led to",
+    "enabled",
+    "revolutionize",
+    "includes"
+  ]
+}

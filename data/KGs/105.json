@@ -1,0 +1,321 @@
+{
+  "entities": [
+    "Water",
+    "civilization",
+    "human survival",
+    "agriculture",
+    "transportation",
+    "industry",
+    "human history",
+    "ancient times",
+    "present day",
+    "early human settlements",
+    "rivers",
+    "lakes",
+    "oceans",
+    "ancient societies",
+    "crops",
+    "streams",
+    "land",
+    "surplus food",
+    "population centers",
+    "trade networks",
+    "complex societies",
+    "irrigation systems",
+    "canals of ancient Mesopotamia",
+    "terraced fields of the Inca Empire",
+    "goods",
+    "ideas",
+    "regions",
+    "seas",
+    "highways",
+    "empires",
+    "culture",
+    "technology",
+    "maritime trade routes",
+    "distant civilizations",
+    "spices",
+    "silk",
+    "precious metals",
+    "waterways",
+    "military campaigns",
+    "armies",
+    "new territories",
+    "power",
+    "industry",
+    "innovation",
+    "technological advancements",
+    "Watermills",
+    "waterwheels",
+    "grain",
+    "wood",
+    "mechanical devices",
+    "Industrial Revolution",
+    "mechanization of production processes",
+    "modern industry",
+    "hydroelectric power",
+    "clean and renewable energy",
+    "modern societies",
+    "environment",
+    "water scarcity",
+    "pollution",
+    "climate change",
+    "resource",
+    "future",
+    "generations"
+  ],
+  "relations": [
+    [
+      "Water",
+      "played a crucial role in",
+      "civilization"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "human survival"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "agriculture"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "transportation"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "industry"
+    ],
+    [
+      "Water",
+      "is important for",
+      "human survival"
+    ],
+    [
+      "early human settlements",
+      "were established near",
+      "rivers"
+    ],
+    [
+      "early human settlements",
+      "were established near",
+      "lakes"
+    ],
+    [
+      "early human settlements",
+      "were established near",
+      "oceans"
+    ],
+    [
+      "Water",
+      "has been vital for",
+      "agriculture"
+    ],
+    [
+      "Water",
+      "allowed to irrigate",
+      "crops"
+    ],
+    [
+      "ancient societies",
+      "cultivate",
+      "land"
+    ],
+    [
+      "Water",
+      "enabled",
+      "surplus food"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "population centers"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "trade networks"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "complex societies"
+    ],
+    [
+      "Water",
+      "is important for",
+      "irrigation systems"
+    ],
+    [
+      "irrigation systems",
+      "example",
+      "canals of ancient Mesopotamia"
+    ],
+    [
+      "irrigation systems",
+      "example",
+      "terraced fields of the Inca Empire"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "transportation"
+    ],
+    [
+      "Water",
+      "has been essential for",
+      "trade networks"
+    ],
+    [
+      "rivers",
+      "served as",
+      "highways"
+    ],
+    [
+      "seas",
+      "served as",
+      "highways"
+    ],
+    [
+      "Water",
+      "enabling",
+      "empires"
+    ],
+    [
+      "Water",
+      "enabling",
+      "culture"
+    ],
+    [
+      "Water",
+      "enabling",
+      "technology"
+    ],
+    [
+      "maritime trade routes",
+      "connected",
+      "distant civilizations"
+    ],
+    [
+      "maritime trade routes",
+      "fostered",
+      "goods"
+    ],
+    [
+      "maritime trade routes",
+      "fostered",
+      "spices"
+    ],
+    [
+      "maritime trade routes",
+      "fostered",
+      "silk"
+    ],
+    [
+      "maritime trade routes",
+      "fostered",
+      "precious metals"
+    ],
+    [
+      "Water",
+      "has been a source of",
+      "power"
+    ],
+    [
+      "Water",
+      "has been a source of",
+      "industry"
+    ],
+    [
+      "Water",
+      "has been a source of",
+      "innovation"
+    ],
+    [
+      "Watermills",
+      "were used to",
+      "grain"
+    ],
+    [
+      "Watermills",
+      "were used to",
+      "wood"
+    ],
+    [
+      "Watermills",
+      "were used to",
+      "mechanical devices"
+    ],
+    [
+      "waterwheels",
+      "were used to",
+      "grain"
+    ],
+    [
+      "waterwheels",
+      "were used to",
+      "wood"
+    ],
+    [
+      "waterwheels",
+      "were used to",
+      "mechanical devices"
+    ],
+    [
+      "Water",
+      "led to",
+      "mechanization of production processes"
+    ],
+    [
+      "Water",
+      "led to",
+      "modern industry"
+    ],
+    [
+      "Water",
+      "play a role in",
+      "hydroelectric power"
+    ],
+    [
+      "hydroelectric power",
+      "providing",
+      "clean and renewable energy"
+    ],
+    [
+      "Water",
+      "shaping",
+      "environment"
+    ],
+    [
+      "Water",
+      "is a",
+      "resource"
+    ]
+  ],
+  "edges": [
+    "were established near",
+    "shaping",
+    "enabling",
+    "fostered",
+    "has been a source of",
+    "play a role in",
+    "example",
+    "is important for",
+    "served as",
+    "has been essential for",
+    "providing",
+    "cultivate",
+    "allowed to irrigate",
+    "were used to",
+    "played a crucial role in",
+    "led to",
+    "connected",
+    "enabled",
+    "is a",
+    "has been vital for"
+  ]
+}

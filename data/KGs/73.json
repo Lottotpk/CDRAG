@@ -1,0 +1,213 @@
+{
+  "entities": [
+    "Bermuda Triangle",
+    "Devil's Triangle",
+    "North Atlantic Ocean",
+    "aircraft",
+    "ships",
+    "Miami",
+    "Bermuda",
+    "Puerto Rico",
+    "Flight 19",
+    "U.S. Navy bombers",
+    "crew members",
+    "rescue plane",
+    "USS Cyclops",
+    "U.S. Navy cargo ship",
+    "manganese ore",
+    "wreckage",
+    "distress call",
+    "supernatural forces",
+    "extraterrestrial involvement",
+    "underwater alien bases",
+    "magnetic anomalies",
+    "navigation systems",
+    "compass malfunctions",
+    "pilots",
+    "sailors",
+    "weather patterns",
+    "storms",
+    "rogue waves",
+    "methane gas",
+    "seafloor",
+    "methane hydrate destabilization",
+    "researchers",
+    "scientists",
+    "enthusiasts"
+  ],
+  "relations": [
+    [
+      "Bermuda Triangle",
+      "also known as",
+      "Devil's Triangle"
+    ],
+    [
+      "Bermuda Triangle",
+      "is in",
+      "North Atlantic Ocean"
+    ],
+    [
+      "aircraft",
+      "disappeared in",
+      "Bermuda Triangle"
+    ],
+    [
+      "ships",
+      "disappeared in",
+      "Bermuda Triangle"
+    ],
+    [
+      "Bermuda Triangle",
+      "is between",
+      "Miami"
+    ],
+    [
+      "Bermuda Triangle",
+      "is between",
+      "Bermuda"
+    ],
+    [
+      "Bermuda Triangle",
+      "is between",
+      "Puerto Rico"
+    ],
+    [
+      "Flight 19",
+      "disappeared in",
+      "Bermuda Triangle"
+    ],
+    [
+      "Flight 19",
+      "is a",
+      "U.S. Navy bombers"
+    ],
+    [
+      "crew members",
+      "were in",
+      "Flight 19"
+    ],
+    [
+      "rescue plane",
+      "disappeared in",
+      "Bermuda Triangle"
+    ],
+    [
+      "USS Cyclops",
+      "disappeared in",
+      "Bermuda Triangle"
+    ],
+    [
+      "USS Cyclops",
+      "is a",
+      "U.S. Navy cargo ship"
+    ],
+    [
+      "USS Cyclops",
+      "carried",
+      "manganese ore"
+    ],
+    [
+      "wreckage",
+      "was not found in",
+      "Bermuda Triangle"
+    ],
+    [
+      "distress call",
+      "was not found in",
+      "Bermuda Triangle"
+    ],
+    [
+      "supernatural forces",
+      "are responsible for events in",
+      "Bermuda Triangle"
+    ],
+    [
+      "extraterrestrial involvement",
+      "is responsible for events in",
+      "Bermuda Triangle"
+    ],
+    [
+      "underwater alien bases",
+      "are in",
+      "Bermuda Triangle"
+    ],
+    [
+      "magnetic anomalies",
+      "are in",
+      "Bermuda Triangle"
+    ],
+    [
+      "magnetic anomalies",
+      "interfere with",
+      "navigation systems"
+    ],
+    [
+      "compass malfunctions",
+      "affect",
+      "pilots"
+    ],
+    [
+      "compass malfunctions",
+      "affect",
+      "sailors"
+    ],
+    [
+      "weather patterns",
+      "are in",
+      "Bermuda Triangle"
+    ],
+    [
+      "storms",
+      "are in",
+      "Bermuda Triangle"
+    ],
+    [
+      "rogue waves",
+      "are in",
+      "Bermuda Triangle"
+    ],
+    [
+      "methane gas",
+      "is under",
+      "seafloor"
+    ],
+    [
+      "methane hydrate destabilization",
+      "occurs in",
+      "Bermuda Triangle"
+    ],
+    [
+      "researchers",
+      "are interested in",
+      "Bermuda Triangle"
+    ],
+    [
+      "scientists",
+      "are interested in",
+      "Bermuda Triangle"
+    ],
+    [
+      "enthusiasts",
+      "are interested in",
+      "Bermuda Triangle"
+    ]
+  ],
+  "edges": [
+    "also known as",
+    "is a",
+    "interfere with",
+    "are responsible for events in",
+    "is in",
+    "is between",
+    "disappeared in",
+    "was not found in",
+    "were in",
+    "is responsible for events in",
+    "affect",
+    "carried",
+    "is under",
+    "occurs in",
+    "are interested in",
+    "are in"
+  ]
+}

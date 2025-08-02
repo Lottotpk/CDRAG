@@ -1,0 +1,262 @@
+{
+  "entities": [
+    "Space Exploration",
+    "satellites",
+    "planets",
+    "Soviet Union",
+    "Sputnik 1",
+    "United States",
+    "Yuri Gagarin",
+    "Earth",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "moon",
+    "Apollo 11 mission",
+    "space probes",
+    "solar system",
+    "Voyager missions",
+    "Mars rovers",
+    "International Space Station (ISS)",
+    "astronauts",
+    "countries",
+    "private companies",
+    "SpaceX",
+    "payloads",
+    "scientific research",
+    "commercial ventures",
+    "microgravity",
+    "future space missions",
+    "Mars",
+    "NASA",
+    "Perseverance rover",
+    "red planet",
+    "human presence",
+    "Jupiter",
+    "Saturn",
+    "moons",
+    "distant worlds",
+    "habitable exoplanets",
+    "extraterrestrial life",
+    "ion propulsion systems",
+    "advanced materials",
+    "spacecraft",
+    "space tourism",
+    "Blue Origin",
+    "Virgin Galactic",
+    "suborbital spaceflights",
+    "private individuals",
+    "universe"
+  ],
+  "relations": [
+    [
+      "Space Exploration",
+      "includes",
+      "satellites"
+    ],
+    [
+      "Space Exploration",
+      "includes",
+      "planets"
+    ],
+    [
+      "Soviet Union",
+      "launched",
+      "Sputnik 1"
+    ],
+    [
+      "Sputnik 1",
+      "is",
+      "satellites"
+    ],
+    [
+      "Yuri Gagarin",
+      "orbited",
+      "Earth"
+    ],
+    [
+      "Neil Armstrong",
+      "walked on",
+      "moon"
+    ],
+    [
+      "Buzz Aldrin",
+      "walked on",
+      "moon"
+    ],
+    [
+      "Apollo 11 mission",
+      "landed on",
+      "moon"
+    ],
+    [
+      "space probes",
+      "study",
+      "planets"
+    ],
+    [
+      "Voyager missions",
+      "explore",
+      "solar system"
+    ],
+    [
+      "Mars rovers",
+      "explore",
+      "Mars"
+    ],
+    [
+      "International Space Station (ISS)",
+      "houses",
+      "astronauts"
+    ],
+    [
+      "International Space Station (ISS)",
+      "involves",
+      "countries"
+    ],
+    [
+      "Space Exploration",
+      "involves",
+      "private companies"
+    ],
+    [
+      "SpaceX",
+      "launches",
+      "payloads"
+    ],
+    [
+      "Space Exploration",
+      "enables",
+      "scientific research"
+    ],
+    [
+      "Space Exploration",
+      "enables",
+      "commercial ventures"
+    ],
+    [
+      "International Space Station (ISS)",
+      "conducts experiments in",
+      "microgravity"
+    ],
+    [
+      "International Space Station (ISS)",
+      "tests technologies for",
+      "future space missions"
+    ],
+    [
+      "Perseverance rover",
+      "landed on",
+      "Mars"
+    ],
+    [
+      "Perseverance rover",
+      "searches for life on",
+      "red planet"
+    ],
+    [
+      "SpaceX",
+      "plans to send humans to",
+      "Mars"
+    ],
+    [
+      "Space Exploration",
+      "seeks",
+      "human presence"
+    ],
+    [
+      "future space missions",
+      "explore",
+      "Jupiter"
+    ],
+    [
+      "future space missions",
+      "explore",
+      "Saturn"
+    ],
+    [
+      "Jupiter",
+      "has",
+      "moons"
+    ],
+    [
+      "Saturn",
+      "has",
+      "moons"
+    ],
+    [
+      "future space missions",
+      "explore",
+      "distant worlds"
+    ],
+    [
+      "future space missions",
+      "search for",
+      "habitable exoplanets"
+    ],
+    [
+      "future space missions",
+      "search for",
+      "extraterrestrial life"
+    ],
+    [
+      "spacecraft",
+      "use",
+      "ion propulsion systems"
+    ],
+    [
+      "spacecraft",
+      "use",
+      "advanced materials"
+    ],
+    [
+      "Blue Origin",
+      "offers",
+      "suborbital spaceflights"
+    ],
+    [
+      "Virgin Galactic",
+      "offers",
+      "suborbital spaceflights"
+    ],
+    [
+      "suborbital spaceflights",
+      "are for",
+      "private individuals"
+    ],
+    [
+      "Space Exploration",
+      "revolutionize understanding of",
+      "universe"
+    ],
+    [
+      "Space Exploration",
+      "includes",
+      "space tourism"
+    ]
+  ],
+  "edges": [
+    "involves",
+    "is",
+    "searches for life on",
+    "explore",
+    "use",
+    "seeks",
+    "plans to send humans to",
+    "launched",
+    "study",
+    "orbited",
+    "has",
+    "search for",
+    "landed on",
+    "houses",
+    "includes",
+    "revolutionize understanding of",
+    "are for",
+    "walked on",
+    "offers",
+    "tests technologies for",
+    "enables",
+    "launches",
+    "conducts experiments in"
+  ]
+}

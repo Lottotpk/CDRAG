@@ -1,0 +1,308 @@
+{
+  "entities": [
+    "Calligraphy",
+    "Arabic script",
+    "Chinese characters",
+    "Mesopotamia",
+    "Egypt",
+    "China",
+    "Greece",
+    "religious scriptures",
+    "historical records",
+    "Arabic calligraphy",
+    "Islam",
+    "Quran",
+    "mosques",
+    "palaces",
+    "Islamic culture",
+    "East Asia",
+    "Chinese calligraphy",
+    "shufa",
+    "Chinese philosophy",
+    "Japanese calligraphy",
+    "shodo",
+    "Western world",
+    "scribes",
+    "monks",
+    "manuscripts",
+    "Gothic script",
+    "Carolingian minuscule",
+    "Western calligraphy",
+    "writing instrument",
+    "brush",
+    "pen",
+    "animal hair",
+    "synthetic fibers",
+    "reed pen",
+    "bamboo pen",
+    "fountain pens",
+    "dip pens",
+    "markers",
+    "nibs",
+    "inks",
+    "papers",
+    "letterforms",
+    "spacing",
+    "rhythm",
+    "graphic design",
+    "typography",
+    "digital art",
+    "Calligraphic fonts",
+    "advertising",
+    "branding",
+    "social media"
+  ],
+  "relations": [
+    [
+      "Arabic script",
+      "is example of",
+      "Calligraphy"
+    ],
+    [
+      "Chinese characters",
+      "is example of",
+      "Calligraphy"
+    ],
+    [
+      "Calligraphy",
+      "originated in",
+      "Mesopotamia"
+    ],
+    [
+      "Calligraphy",
+      "originated in",
+      "Egypt"
+    ],
+    [
+      "Calligraphy",
+      "originated in",
+      "China"
+    ],
+    [
+      "Calligraphy",
+      "originated in",
+      "Greece"
+    ],
+    [
+      "Calligraphy",
+      "used to preserve",
+      "religious scriptures"
+    ],
+    [
+      "Calligraphy",
+      "used to preserve",
+      "historical records"
+    ],
+    [
+      "Arabic calligraphy",
+      "developed alongside",
+      "Islam"
+    ],
+    [
+      "Arabic calligraphy",
+      "used to transcribe",
+      "Quran"
+    ],
+    [
+      "Arabic calligraphy",
+      "used to decorate",
+      "mosques"
+    ],
+    [
+      "Arabic calligraphy",
+      "used to decorate",
+      "palaces"
+    ],
+    [
+      "Arabic script",
+      "reflects",
+      "Islamic culture"
+    ],
+    [
+      "Calligraphy",
+      "practiced in",
+      "East Asia"
+    ],
+    [
+      "Chinese calligraphy",
+      "is known as",
+      "shufa"
+    ],
+    [
+      "Chinese calligraphy",
+      "conveys",
+      "Chinese philosophy"
+    ],
+    [
+      "Japanese calligraphy",
+      "is known as",
+      "shodo"
+    ],
+    [
+      "Japanese calligraphy",
+      "influenced by",
+      "Chinese calligraphy"
+    ],
+    [
+      "Calligraphy",
+      "practiced in",
+      "Western world"
+    ],
+    [
+      "scribes",
+      "practiced",
+      "Calligraphy"
+    ],
+    [
+      "monks",
+      "practiced",
+      "Calligraphy"
+    ],
+    [
+      "Gothic script",
+      "is a type of",
+      "Calligraphy"
+    ],
+    [
+      "Carolingian minuscule",
+      "is a type of",
+      "Calligraphy"
+    ],
+    [
+      "Carolingian minuscule",
+      "became basis for",
+      "Western calligraphy"
+    ],
+    [
+      "writing instrument",
+      "is used in",
+      "Calligraphy"
+    ],
+    [
+      "brush",
+      "is a",
+      "writing instrument"
+    ],
+    [
+      "pen",
+      "is a",
+      "writing instrument"
+    ],
+    [
+      "brush",
+      "made of",
+      "animal hair"
+    ],
+    [
+      "brush",
+      "made of",
+      "synthetic fibers"
+    ],
+    [
+      "reed pen",
+      "used in",
+      "Arabic calligraphy"
+    ],
+    [
+      "bamboo pen",
+      "used in",
+      "Arabic calligraphy"
+    ],
+    [
+      "fountain pens",
+      "used in",
+      "Western calligraphy"
+    ],
+    [
+      "dip pens",
+      "used in",
+      "Western calligraphy"
+    ],
+    [
+      "markers",
+      "used in",
+      "Western calligraphy"
+    ],
+    [
+      "nibs",
+      "used in",
+      "Calligraphy"
+    ],
+    [
+      "inks",
+      "used in",
+      "Calligraphy"
+    ],
+    [
+      "papers",
+      "used in",
+      "Calligraphy"
+    ],
+    [
+      "letterforms",
+      "is a technique of",
+      "Calligraphy"
+    ],
+    [
+      "spacing",
+      "is a technique of",
+      "Calligraphy"
+    ],
+    [
+      "rhythm",
+      "is a technique of",
+      "Calligraphy"
+    ],
+    [
+      "Calligraphy",
+      "used in",
+      "graphic design"
+    ],
+    [
+      "Calligraphy",
+      "used in",
+      "typography"
+    ],
+    [
+      "Calligraphy",
+      "used in",
+      "digital art"
+    ],
+    [
+      "Calligraphic fonts",
+      "used in",
+      "advertising"
+    ],
+    [
+      "Calligraphic fonts",
+      "used in",
+      "branding"
+    ],
+    [
+      "Calligraphic fonts",
+      "used in",
+      "social media"
+    ]
+  ],
+  "edges": [
+    "practiced in",
+    "originated in",
+    "is used in",
+    "is example of",
+    "conveys",
+    "is a technique of",
+    "used to decorate",
+    "made of",
+    "influenced by",
+    "used to transcribe",
+    "is a type of",
+    "reflects",
+    "developed alongside",
+    "is known as",
+    "used in",
+    "is a",
+    "became basis for",
+    "practiced",
+    "used to preserve"
+  ]
+}

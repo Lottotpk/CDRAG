@@ -1,0 +1,132 @@
+{
+  "entities": [
+    "Olympic Games",
+    "Greece",
+    "Zeus",
+    "Olympia",
+    "city-states",
+    "Roman Emperor Theodosius",
+    "Christianity",
+    "Pierre de Coubertin",
+    "French educator",
+    "Athens",
+    "athletics",
+    "swimming",
+    "snowboarding",
+    "beach volleyball",
+    "1936 Berlin Olympics",
+    "Nazi Germany",
+    "1980 Moscow Olympics",
+    "Soviet Union",
+    "Afghanistan",
+    "Citius, Altius, Fortius"
+  ],
+  "relations": [
+    [
+      "Olympic Games",
+      "has origin in",
+      "Greece"
+    ],
+    [
+      "Olympic Games",
+      "held in",
+      "Olympia"
+    ],
+    [
+      "Olympic Games",
+      "held in honor of",
+      "Zeus"
+    ],
+    [
+      "Olympia",
+      "location of",
+      "Olympic Games"
+    ],
+    [
+      "Olympic Games",
+      "involved",
+      "city-states"
+    ],
+    [
+      "Roman Emperor Theodosius",
+      "abolished",
+      "Olympic Games"
+    ],
+    [
+      "Roman Emperor Theodosius",
+      "deemed incompatible with",
+      "Christianity"
+    ],
+    [
+      "Pierre de Coubertin",
+      "founded",
+      "Olympic Games"
+    ],
+    [
+      "Pierre de Coubertin",
+      "is a",
+      "French educator"
+    ],
+    [
+      "Olympic Games",
+      "held in",
+      "Athens"
+    ],
+    [
+      "Olympic Games",
+      "includes",
+      "athletics"
+    ],
+    [
+      "Olympic Games",
+      "includes",
+      "swimming"
+    ],
+    [
+      "Olympic Games",
+      "includes",
+      "snowboarding"
+    ],
+    [
+      "Olympic Games",
+      "includes",
+      "beach volleyball"
+    ],
+    [
+      "1936 Berlin Olympics",
+      "used by",
+      "Nazi Germany"
+    ],
+    [
+      "1980 Moscow Olympics",
+      "boycotted due to",
+      "Soviet Union"
+    ],
+    [
+      "Soviet Union",
+      "invaded",
+      "Afghanistan"
+    ],
+    [
+      "Olympic Games",
+      "motto",
+      "Citius, Altius, Fortius"
+    ]
+  ],
+  "edges": [
+    "includes",
+    "motto",
+    "is a",
+    "deemed incompatible with",
+    "involved",
+    "invaded",
+    "held in",
+    "location of",
+    "boycotted due to",
+    "held in honor of",
+    "abolished",
+    "has origin in",
+    "used by",
+    "founded"
+  ]
+}

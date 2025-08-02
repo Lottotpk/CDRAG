@@ -1,0 +1,344 @@
+{
+  "entities": [
+    "Modern medicine",
+    "healthcare practices",
+    "quality of life",
+    "ancient civilizations",
+    "medical treatment",
+    "scientific discoveries",
+    "technological innovations",
+    "human anatomy",
+    "physiology",
+    "human body",
+    "Renaissance period",
+    "Andreas Vesalius",
+    "dissections",
+    "physicians",
+    "diseases",
+    "germs",
+    "germ theory",
+    "Louis Pasteur",
+    "Robert Koch",
+    "infectious diseases",
+    "microorganisms",
+    "antibiotics",
+    "vaccines",
+    "bacterial infections",
+    "viral infections",
+    "medical technology",
+    "diagnostic tools",
+    "treatment modalities",
+    "X-ray",
+    "Wilhelm Roentgen",
+    "medical imaging",
+    "fractures",
+    "tumors",
+    "pneumonia",
+    "MRI",
+    "CT scans",
+    "surgery",
+    "anesthesia",
+    "William Morton",
+    "surgical procedures",
+    "laparoscopy",
+    "pharmaceutical industry",
+    "penicillin",
+    "Alexander Fleming",
+    "antibiotic era",
+    "drugs",
+    "therapies",
+    "chronic diseases",
+    "diabetes",
+    "hypertension",
+    "cancer",
+    "personalized medicine",
+    "genetic makeup",
+    "Telemedicine",
+    "artificial intelligence",
+    "wearable devices",
+    "electronic health records",
+    "healthcare providers",
+    "healthcare",
+    "marginalized communities",
+    "medical services",
+    "policymakers",
+    "the public",
+    "equity",
+    "inclusivity"
+  ],
+  "relations": [
+    [
+      "Modern medicine",
+      "has made",
+      "scientific discoveries"
+    ],
+    [
+      "Modern medicine",
+      "has made",
+      "technological innovations"
+    ],
+    [
+      "Modern medicine",
+      "revolutionizing",
+      "healthcare practices"
+    ],
+    [
+      "Modern medicine",
+      "improving",
+      "quality of life"
+    ],
+    [
+      "ancient civilizations",
+      "practiced",
+      "medical treatment"
+    ],
+    [
+      "human anatomy",
+      "key developments in",
+      "Modern medicine"
+    ],
+    [
+      "physiology",
+      "key developments in",
+      "Modern medicine"
+    ],
+    [
+      "Renaissance period",
+      "study of",
+      "human anatomy"
+    ],
+    [
+      "Andreas Vesalius",
+      "conducting",
+      "dissections"
+    ],
+    [
+      "physicians",
+      "diagnose",
+      "diseases"
+    ],
+    [
+      "germs",
+      "discovery of",
+      "germ theory"
+    ],
+    [
+      "germ theory",
+      "development of",
+      "Louis Pasteur"
+    ],
+    [
+      "germ theory",
+      "development of",
+      "Robert Koch"
+    ],
+    [
+      "infectious diseases",
+      "cause of",
+      "microorganisms"
+    ],
+    [
+      "antibiotics",
+      "combat",
+      "bacterial infections"
+    ],
+    [
+      "vaccines",
+      "combat",
+      "viral infections"
+    ],
+    [
+      "medical technology",
+      "advancements in",
+      "diagnostic tools"
+    ],
+    [
+      "medical technology",
+      "advancements in",
+      "treatment modalities"
+    ],
+    [
+      "X-ray",
+      "invention of",
+      "Wilhelm Roentgen"
+    ],
+    [
+      "X-ray",
+      "revolutionized",
+      "medical imaging"
+    ],
+    [
+      "physicians",
+      "diagnose",
+      "fractures"
+    ],
+    [
+      "physicians",
+      "diagnose",
+      "tumors"
+    ],
+    [
+      "physicians",
+      "diagnose",
+      "pneumonia"
+    ],
+    [
+      "MRI",
+      "imaging techniques",
+      "diseases"
+    ],
+    [
+      "CT scans",
+      "imaging techniques",
+      "diseases"
+    ],
+    [
+      "anesthesia",
+      "introduction of",
+      "William Morton"
+    ],
+    [
+      "anesthesia",
+      "revolutionized",
+      "surgical procedures"
+    ],
+    [
+      "surgical procedures",
+      "invention of",
+      "laparoscopy"
+    ],
+    [
+      "pharmaceutical industry",
+      "role in",
+      "Modern medicine"
+    ],
+    [
+      "penicillin",
+      "discovery of",
+      "Alexander Fleming"
+    ],
+    [
+      "penicillin",
+      "beginning of",
+      "antibiotic era"
+    ],
+    [
+      "antibiotic era",
+      "revolutionizing",
+      "bacterial infections"
+    ],
+    [
+      "drugs",
+      "treat",
+      "chronic diseases"
+    ],
+    [
+      "drugs",
+      "treat",
+      "diabetes"
+    ],
+    [
+      "drugs",
+      "treat",
+      "hypertension"
+    ],
+    [
+      "drugs",
+      "treat",
+      "cancer"
+    ],
+    [
+      "personalized medicine",
+      "based on",
+      "genetic makeup"
+    ],
+    [
+      "Telemedicine",
+      "integration of",
+      "healthcare"
+    ],
+    [
+      "artificial intelligence",
+      "integration of",
+      "healthcare"
+    ],
+    [
+      "wearable devices",
+      "integration of",
+      "healthcare"
+    ],
+    [
+      "electronic health records",
+      "improved",
+      "healthcare providers"
+    ],
+    [
+      "marginalized communities",
+      "facing barriers to",
+      "medical services"
+    ],
+    [
+      "equity",
+      "requires effort from",
+      "policymakers"
+    ],
+    [
+      "equity",
+      "requires effort from",
+      "healthcare providers"
+    ],
+    [
+      "equity",
+      "requires effort from",
+      "the public"
+    ],
+    [
+      "Modern medicine",
+      "development of",
+      "human anatomy"
+    ],
+    [
+      "Modern medicine",
+      "development of",
+      "medical technology"
+    ],
+    [
+      "healthcare",
+      "prioritize",
+      "equity"
+    ],
+    [
+      "healthcare",
+      "prioritize",
+      "inclusivity"
+    ]
+  ],
+  "edges": [
+    "improving",
+    "imaging techniques",
+    "beginning of",
+    "development of",
+    "prioritize",
+    "integration of",
+    "treat",
+    "cause of",
+    "requires effort from",
+    "conducting",
+    "advancements in",
+    "revolutionizing",
+    "combat",
+    "has made",
+    "revolutionized",
+    "facing barriers to",
+    "study of",
+    "invention of",
+    "introduction of",
+    "key developments in",
+    "based on",
+    "diagnose",
+    "practiced",
+    "role in",
+    "discovery of",
+    "improved"
+  ]
+}

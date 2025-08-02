@@ -1,0 +1,303 @@
+{
+  "entities": [
+    "Military technology",
+    "weapons",
+    "equipment",
+    "bow and arrow",
+    "ancient civilizations",
+    "Egyptians",
+    "Greeks",
+    "Romans",
+    "archery techniques",
+    "siege weapons",
+    "catapults",
+    "trebuchets",
+    "armies",
+    "fortified cities",
+    "castles",
+    "medieval warfare",
+    "gunpowder",
+    "China",
+    "cannons",
+    "firearms",
+    "Europe",
+    "Renaissance era",
+    "Industrial Revolution",
+    "metallurgy",
+    "engineering",
+    "rifled barrels",
+    "breech-loading mechanisms",
+    "repeating firearms",
+    "tanks",
+    "aircraft",
+    "submarines",
+    "missiles",
+    "World Wars",
+    "Cold War",
+    "nuclear weapons",
+    "Manhattan Project",
+    "cities",
+    "civilizations",
+    "unmanned aerial vehicles (UAVs)",
+    "drones",
+    "cyber warfare",
+    "artificial intelligence",
+    "military strategists",
+    "hypersonic missiles",
+    "directed energy weapons",
+    "autonomous robots",
+    "nations",
+    "adversaries",
+    "21st century",
+    "conflicts",
+    "geopolitical landscape"
+  ],
+  "relations": [
+    [
+      "Military technology",
+      "shaped",
+      "geopolitical landscape"
+    ],
+    [
+      "Military technology",
+      "shaped",
+      "conflicts"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "weapons"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "equipment"
+    ],
+    [
+      "bow and arrow",
+      "used by",
+      "ancient civilizations"
+    ],
+    [
+      "bow and arrow",
+      "used by",
+      "Egyptians"
+    ],
+    [
+      "bow and arrow",
+      "used by",
+      "Greeks"
+    ],
+    [
+      "bow and arrow",
+      "used by",
+      "Romans"
+    ],
+    [
+      "archery techniques",
+      "derived from",
+      "bow and arrow"
+    ],
+    [
+      "siege weapons",
+      "includes",
+      "catapults"
+    ],
+    [
+      "siege weapons",
+      "includes",
+      "trebuchets"
+    ],
+    [
+      "armies",
+      "used",
+      "siege weapons"
+    ],
+    [
+      "siege weapons",
+      "used in",
+      "medieval warfare"
+    ],
+    [
+      "siege weapons",
+      "used against",
+      "fortified cities"
+    ],
+    [
+      "siege weapons",
+      "used against",
+      "castles"
+    ],
+    [
+      "gunpowder",
+      "invented in",
+      "China"
+    ],
+    [
+      "gunpowder",
+      "led to",
+      "cannons"
+    ],
+    [
+      "gunpowder",
+      "led to",
+      "firearms"
+    ],
+    [
+      "gunpowder",
+      "adopted in",
+      "Europe"
+    ],
+    [
+      "gunpowder",
+      "used during",
+      "Renaissance era"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "metallurgy"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "engineering"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "rifled barrels"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "breech-loading mechanisms"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "repeating firearms"
+    ],
+    [
+      "World Wars",
+      "led to",
+      "tanks"
+    ],
+    [
+      "World Wars",
+      "led to",
+      "aircraft"
+    ],
+    [
+      "World Wars",
+      "led to",
+      "submarines"
+    ],
+    [
+      "World Wars",
+      "led to",
+      "missiles"
+    ],
+    [
+      "Cold War",
+      "led to",
+      "tanks"
+    ],
+    [
+      "Cold War",
+      "led to",
+      "aircraft"
+    ],
+    [
+      "Cold War",
+      "led to",
+      "submarines"
+    ],
+    [
+      "Cold War",
+      "led to",
+      "missiles"
+    ],
+    [
+      "Manhattan Project",
+      "developed",
+      "nuclear weapons"
+    ],
+    [
+      "nuclear weapons",
+      "can destroy",
+      "cities"
+    ],
+    [
+      "nuclear weapons",
+      "can destroy",
+      "civilizations"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "unmanned aerial vehicles (UAVs)"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "drones"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "cyber warfare"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "artificial intelligence"
+    ],
+    [
+      "Military technology",
+      "used by",
+      "military strategists"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "hypersonic missiles"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "directed energy weapons"
+    ],
+    [
+      "Military technology",
+      "includes",
+      "autonomous robots"
+    ],
+    [
+      "nations",
+      "compete with",
+      "adversaries"
+    ],
+    [
+      "Military technology",
+      "used in",
+      "21st century"
+    ]
+  ],
+  "edges": [
+    "includes",
+    "can destroy",
+    "used during",
+    "used in",
+    "used against",
+    "led to",
+    "derived from",
+    "invented in",
+    "developed",
+    "compete with",
+    "used",
+    "used by",
+    "adopted in",
+    "shaped"
+  ]
+}

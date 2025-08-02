@@ -1,0 +1,429 @@
+{
+  "entities": [
+    "Coffee",
+    "Society",
+    "Beverage",
+    "Cultural phenomenon",
+    "Morning rituals",
+    "Social gatherings",
+    "History of coffee",
+    "Ethiopian plateau",
+    "Kaldi",
+    "Goats",
+    "Coffee beans",
+    "Arabian Peninsula",
+    "Qahveh khaneh",
+    "Middle East",
+    "Coffee houses",
+    "Europe",
+    "Penny universities",
+    "London",
+    "Cafe culture",
+    "Paris",
+    "Social fabric",
+    "Enlightenment period",
+    "Voltaire",
+    "Rousseau",
+    "Starbucks",
+    "Social status",
+    "Lifestyle",
+    "Personal identity",
+    "Coffee culture",
+    "Quality",
+    "Sustainability",
+    "Ethical sourcing",
+    "Productivity",
+    "Focus",
+    "Energy",
+    "Morning cup of coffee",
+    "Cognitive functions",
+    "Coffee breaks",
+    "Colleagues",
+    "Relationships",
+    "Workplace",
+    "Coffee date",
+    "Family",
+    "Coffee tasting party",
+    "Community",
+    "Hospitality",
+    "Friendship",
+    "Warmth",
+    "Coffee production",
+    "Employment opportunities",
+    "Global coffee trade",
+    "Commodities",
+    "Supply chain",
+    "Farmers",
+    "Baristas",
+    "Consumers",
+    "Environmental implications",
+    "Climate conditions",
+    "Soil quality",
+    "Sustainable farming practices",
+    "Deforestation",
+    "Water usage",
+    "Biodiversity loss",
+    "Environmental footprint",
+    "Ethically sourced coffee",
+    "Sustainably produced coffee",
+    "Culture",
+    "Trends",
+    "Preferences"
+  ],
+  "relations": [
+    [
+      "Coffee",
+      "is",
+      "Beverage"
+    ],
+    [
+      "Coffee",
+      "is",
+      "Cultural phenomenon"
+    ],
+    [
+      "Coffee",
+      "plays a role in",
+      "Society"
+    ],
+    [
+      "Coffee",
+      "is part of",
+      "Morning rituals"
+    ],
+    [
+      "Coffee",
+      "is part of",
+      "Social gatherings"
+    ],
+    [
+      "History of coffee",
+      "dates back to",
+      "Ethiopian plateau"
+    ],
+    [
+      "Ethiopian plateau",
+      "is related to",
+      "Kaldi"
+    ],
+    [
+      "Kaldi",
+      "discovered",
+      "Coffee beans"
+    ],
+    [
+      "Kaldi",
+      "tended",
+      "Goats"
+    ],
+    [
+      "Coffee beans",
+      "affected",
+      "Goats"
+    ],
+    [
+      "Coffee",
+      "spread to",
+      "Arabian Peninsula"
+    ],
+    [
+      "Qahveh khaneh",
+      "emerged in",
+      "Middle East"
+    ],
+    [
+      "Qahveh khaneh",
+      "were",
+      "Social gatherings"
+    ],
+    [
+      "Coffee houses",
+      "are",
+      "Social gatherings"
+    ],
+    [
+      "Coffee",
+      "arrived in",
+      "Europe"
+    ],
+    [
+      "Coffee houses",
+      "became",
+      "Penny universities"
+    ],
+    [
+      "Penny universities",
+      "are in",
+      "London"
+    ],
+    [
+      "Cafe culture",
+      "developed in",
+      "Paris"
+    ],
+    [
+      "Coffee",
+      "shaped",
+      "Social fabric"
+    ],
+    [
+      "Coffee",
+      "played a role in",
+      "Enlightenment period"
+    ],
+    [
+      "Voltaire",
+      "frequented",
+      "Coffee houses"
+    ],
+    [
+      "Rousseau",
+      "frequented",
+      "Coffee houses"
+    ],
+    [
+      "Coffee",
+      "is associated with",
+      "Starbucks"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Social status"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Lifestyle"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Personal identity"
+    ],
+    [
+      "Coffee culture",
+      "emphasizes",
+      "Quality"
+    ],
+    [
+      "Coffee culture",
+      "emphasizes",
+      "Sustainability"
+    ],
+    [
+      "Coffee culture",
+      "emphasizes",
+      "Ethical sourcing"
+    ],
+    [
+      "Coffee",
+      "is associated with",
+      "Productivity"
+    ],
+    [
+      "Coffee",
+      "is associated with",
+      "Focus"
+    ],
+    [
+      "Coffee",
+      "is associated with",
+      "Energy"
+    ],
+    [
+      "Coffee",
+      "is associated with",
+      "Morning cup of coffee"
+    ],
+    [
+      "Coffee",
+      "boosts",
+      "Cognitive functions"
+    ],
+    [
+      "Coffee breaks",
+      "are opportunities to connect with",
+      "Colleagues"
+    ],
+    [
+      "Coffee breaks",
+      "build",
+      "Relationships"
+    ],
+    [
+      "Coffee breaks",
+      "occur in",
+      "Workplace"
+    ],
+    [
+      "Coffee date",
+      "is a type of",
+      "Social gatherings"
+    ],
+    [
+      "Coffee",
+      "brings together",
+      "Family"
+    ],
+    [
+      "Coffee tasting party",
+      "brings together",
+      "Community"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Hospitality"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Friendship"
+    ],
+    [
+      "Coffee",
+      "is a symbol of",
+      "Warmth"
+    ],
+    [
+      "Coffee production",
+      "provides",
+      "Employment opportunities"
+    ],
+    [
+      "Coffee",
+      "is part of",
+      "Global coffee trade"
+    ],
+    [
+      "Coffee",
+      "is one of the most traded",
+      "Commodities"
+    ],
+    [
+      "Coffee",
+      "impacts",
+      "Supply chain"
+    ],
+    [
+      "Coffee",
+      "involves",
+      "Farmers"
+    ],
+    [
+      "Coffee",
+      "involves",
+      "Baristas"
+    ],
+    [
+      "Coffee",
+      "involves",
+      "Consumers"
+    ],
+    [
+      "Coffee",
+      "has",
+      "Environmental implications"
+    ],
+    [
+      "Coffee",
+      "requires specific",
+      "Climate conditions"
+    ],
+    [
+      "Coffee",
+      "requires specific",
+      "Soil quality"
+    ],
+    [
+      "Coffee",
+      "requires",
+      "Sustainable farming practices"
+    ],
+    [
+      "Coffee",
+      "is related to",
+      "Deforestation"
+    ],
+    [
+      "Coffee",
+      "is related to",
+      "Water usage"
+    ],
+    [
+      "Coffee",
+      "is related to",
+      "Biodiversity loss"
+    ],
+    [
+      "Coffee",
+      "has",
+      "Environmental footprint"
+    ],
+    [
+      "Coffee",
+      "can be",
+      "Ethically sourced coffee"
+    ],
+    [
+      "Coffee",
+      "can be",
+      "Sustainably produced coffee"
+    ],
+    [
+      "Coffee",
+      "is part of",
+      "Culture"
+    ],
+    [
+      "Coffee",
+      "is subject to",
+      "Trends"
+    ],
+    [
+      "Coffee",
+      "is subject to",
+      "Preferences"
+    ]
+  ],
+  "edges": [
+    "became",
+    "involves",
+    "spread to",
+    "played a role in",
+    "arrived in",
+    "frequented",
+    "is",
+    "is subject to",
+    "provides",
+    "is part of",
+    "build",
+    "developed in",
+    "is associated with",
+    "impacts",
+    "is one of the most traded",
+    "requires specific",
+    "are",
+    "can be",
+    "is related to",
+    "shaped",
+    "plays a role in",
+    "emerged in",
+    "dates back to",
+    "has",
+    "occur in",
+    "were",
+    "tended",
+    "boosts",
+    "discovered",
+    "emphasizes",
+    "is a symbol of",
+    "are opportunities to connect with",
+    "affected",
+    "are in",
+    "brings together",
+    "requires",
+    "is a type of"
+  ]
+}

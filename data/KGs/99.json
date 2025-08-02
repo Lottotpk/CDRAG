@@ -1,0 +1,332 @@
+{
+  "entities": [
+    "Climate change",
+    "planet",
+    "human life",
+    "global agriculture",
+    "Agriculture",
+    "climate conditions",
+    "crop production",
+    "food security",
+    "livelihoods",
+    "weather patterns",
+    "global temperatures",
+    "weather events",
+    "droughts",
+    "floods",
+    "heatwaves",
+    "crops",
+    "yields",
+    "supply chains",
+    "food shortages",
+    "price spikes",
+    "California",
+    "Australia",
+    "growing seasons",
+    "pests",
+    "diseases",
+    "planting",
+    "harvesting seasons",
+    "pesticides",
+    "environmental consequences",
+    "health consequences",
+    "water availability",
+    "precipitation patterns",
+    "evaporation rates",
+    "water scarcity",
+    "farmers",
+    "irrigation",
+    "produce",
+    "water resources",
+    "rainwater harvesting",
+    "irrigation systems",
+    "innovation",
+    "adaptation",
+    "drought-resistant crop varieties",
+    "precision agriculture techniques",
+    "sustainable farming practices",
+    "agroforestry",
+    "crop rotation",
+    "soil health",
+    "environment",
+    "human health",
+    "sustainable agricultural practices",
+    "organic farming",
+    "agroecology",
+    "greenhouse gas emissions",
+    "biodiversity",
+    "research",
+    "technology",
+    "food security"
+  ],
+  "relations": [
+    [
+      "Climate change",
+      "is a pressing issue facing",
+      "planet"
+    ],
+    [
+      "Climate change",
+      "has impacts on",
+      "human life"
+    ],
+    [
+      "Climate change",
+      "has impacts on",
+      "global agriculture"
+    ],
+    [
+      "Agriculture",
+      "is dependent on",
+      "climate conditions"
+    ],
+    [
+      "climate conditions",
+      "affects",
+      "crop production"
+    ],
+    [
+      "climate conditions",
+      "affects",
+      "food security"
+    ],
+    [
+      "climate conditions",
+      "affects",
+      "livelihoods"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "weather patterns"
+    ],
+    [
+      "global temperatures",
+      "lead to",
+      "weather events"
+    ],
+    [
+      "weather events",
+      "include",
+      "droughts"
+    ],
+    [
+      "weather events",
+      "include",
+      "floods"
+    ],
+    [
+      "weather events",
+      "include",
+      "heatwaves"
+    ],
+    [
+      "weather events",
+      "devastate",
+      "crops"
+    ],
+    [
+      "weather events",
+      "reduce",
+      "yields"
+    ],
+    [
+      "weather events",
+      "destroy",
+      "crops"
+    ],
+    [
+      "weather events",
+      "disrupt",
+      "supply chains"
+    ],
+    [
+      "weather events",
+      "lead to",
+      "food shortages"
+    ],
+    [
+      "weather events",
+      "lead to",
+      "price spikes"
+    ],
+    [
+      "droughts",
+      "occur in",
+      "California"
+    ],
+    [
+      "droughts",
+      "occur in",
+      "Australia"
+    ],
+    [
+      "droughts",
+      "impact",
+      "crop production"
+    ],
+    [
+      "droughts",
+      "impact",
+      "food security"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "growing seasons"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "pests"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "diseases"
+    ],
+    [
+      "global temperatures",
+      "lead to spread of",
+      "pests"
+    ],
+    [
+      "global temperatures",
+      "lead to spread of",
+      "diseases"
+    ],
+    [
+      "pesticides",
+      "have",
+      "environmental consequences"
+    ],
+    [
+      "pesticides",
+      "have",
+      "health consequences"
+    ],
+    [
+      "Climate change",
+      "poses challenges to",
+      "water availability"
+    ],
+    [
+      "precipitation patterns",
+      "lead to",
+      "water scarcity"
+    ],
+    [
+      "evaporation rates",
+      "lead to",
+      "water scarcity"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "farmers"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "irrigation"
+    ],
+    [
+      "water scarcity",
+      "affects",
+      "produce"
+    ],
+    [
+      "Climate change",
+      "presents",
+      "innovation"
+    ],
+    [
+      "Climate change",
+      "presents",
+      "adaptation"
+    ],
+    [
+      "drought-resistant crop varieties",
+      "help",
+      "farmers"
+    ],
+    [
+      "precision agriculture techniques",
+      "help",
+      "farmers"
+    ],
+    [
+      "sustainable farming practices",
+      "include",
+      "agroforestry"
+    ],
+    [
+      "sustainable farming practices",
+      "include",
+      "crop rotation"
+    ],
+    [
+      "sustainable farming practices",
+      "improve",
+      "soil health"
+    ],
+    [
+      "sustainable agricultural practices",
+      "include",
+      "organic farming"
+    ],
+    [
+      "sustainable agricultural practices",
+      "include",
+      "agroecology"
+    ],
+    [
+      "sustainable agricultural practices",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "sustainable agricultural practices",
+      "protect",
+      "biodiversity"
+    ],
+    [
+      "research",
+      "addresses",
+      "Climate change"
+    ],
+    [
+      "technology",
+      "addresses",
+      "Climate change"
+    ],
+    [
+      "Climate change",
+      "impacts",
+      "food security"
+    ]
+  ],
+  "edges": [
+    "has impacts on",
+    "presents",
+    "is dependent on",
+    "occur in",
+    "protect",
+    "reduce",
+    "poses challenges to",
+    "include",
+    "impacts",
+    "impact",
+    "is a pressing issue facing",
+    "help",
+    "devastate",
+    "destroy",
+    "lead to",
+    "disrupt",
+    "addresses",
+    "improve",
+    "have",
+    "affects",
+    "lead to spread of"
+  ]
+}

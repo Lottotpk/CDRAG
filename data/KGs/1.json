@@ -1,0 +1,300 @@
+{
+  "entities": [
+    "Butterflies",
+    "life cycle",
+    "egg",
+    "larva",
+    "pupa",
+    "adult butterfly",
+    "host plants",
+    "larvae",
+    "leaves",
+    "predators",
+    "species",
+    "caterpillar",
+    "skin",
+    "molting",
+    "spines",
+    "hairs",
+    "twigs",
+    "ecosystem",
+    "pollination",
+    "plant populations",
+    "stem",
+    "chrysalis",
+    "metamorphosis",
+    "organs",
+    "tissues",
+    "structures",
+    "wings",
+    "antennae",
+    "nectar",
+    "flowers",
+    "proboscis",
+    "pollen",
+    "plants",
+    "birds",
+    "reptiles",
+    "insects",
+    "biodiversity",
+    "mate",
+    "reproduction",
+    "Female butterflies"
+  ],
+  "relations": [
+    [
+      "Butterflies",
+      "undergo",
+      "life cycle"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "egg"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "larva"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "pupa"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "adult butterfly"
+    ],
+    [
+      "Female butterflies",
+      "lay",
+      "egg"
+    ],
+    [
+      "egg",
+      "laid on",
+      "host plants"
+    ],
+    [
+      "host plants",
+      "provide food for",
+      "larvae"
+    ],
+    [
+      "egg",
+      "laid on",
+      "leaves"
+    ],
+    [
+      "leaves",
+      "protect from",
+      "predators"
+    ],
+    [
+      "larva",
+      "known as",
+      "caterpillar"
+    ],
+    [
+      "caterpillar",
+      "eat",
+      "leaves"
+    ],
+    [
+      "caterpillar",
+      "undergo",
+      "molting"
+    ],
+    [
+      "caterpillar",
+      "have",
+      "skin"
+    ],
+    [
+      "caterpillar",
+      "have",
+      "spines"
+    ],
+    [
+      "caterpillar",
+      "have",
+      "hairs"
+    ],
+    [
+      "caterpillar",
+      "mimic",
+      "twigs"
+    ],
+    [
+      "caterpillar",
+      "mimic",
+      "leaves"
+    ],
+    [
+      "caterpillar",
+      "essential to",
+      "ecosystem"
+    ],
+    [
+      "caterpillar",
+      "play role in",
+      "pollination"
+    ],
+    [
+      "caterpillar",
+      "maintain",
+      "plant populations"
+    ],
+    [
+      "caterpillar",
+      "attaches to",
+      "stem"
+    ],
+    [
+      "caterpillar",
+      "forms",
+      "chrysalis"
+    ],
+    [
+      "caterpillar",
+      "undergoes",
+      "metamorphosis"
+    ],
+    [
+      "metamorphosis",
+      "changes",
+      "organs"
+    ],
+    [
+      "metamorphosis",
+      "develops",
+      "tissues"
+    ],
+    [
+      "metamorphosis",
+      "develops",
+      "structures"
+    ],
+    [
+      "metamorphosis",
+      "develops",
+      "wings"
+    ],
+    [
+      "metamorphosis",
+      "develops",
+      "antennae"
+    ],
+    [
+      "adult butterfly",
+      "emerges from",
+      "chrysalis"
+    ],
+    [
+      "adult butterfly",
+      "feed on",
+      "nectar"
+    ],
+    [
+      "adult butterfly",
+      "feed on",
+      "flowers"
+    ],
+    [
+      "adult butterfly",
+      "use",
+      "proboscis"
+    ],
+    [
+      "adult butterfly",
+      "transfer",
+      "pollen"
+    ],
+    [
+      "adult butterfly",
+      "pollinate",
+      "plants"
+    ],
+    [
+      "adult butterfly",
+      "food source for",
+      "birds"
+    ],
+    [
+      "adult butterfly",
+      "food source for",
+      "reptiles"
+    ],
+    [
+      "adult butterfly",
+      "food source for",
+      "insects"
+    ],
+    [
+      "adult butterfly",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "adult butterfly",
+      "find",
+      "mate"
+    ],
+    [
+      "adult butterfly",
+      "focus on",
+      "reproduction"
+    ],
+    [
+      "Female butterflies",
+      "lay",
+      "egg"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "larva"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "pupa"
+    ],
+    [
+      "life cycle",
+      "stages",
+      "adult butterfly"
+    ]
+  ],
+  "edges": [
+    "contribute to",
+    "undergo",
+    "forms",
+    "food source for",
+    "essential to",
+    "eat",
+    "undergoes",
+    "pollinate",
+    "have",
+    "transfer",
+    "emerges from",
+    "known as",
+    "maintain",
+    "play role in",
+    "stages",
+    "protect from",
+    "laid on",
+    "mimic",
+    "attaches to",
+    "lay",
+    "use",
+    "feed on",
+    "find",
+    "focus on",
+    "changes",
+    "provide food for",
+    "develops"
+  ]
+}

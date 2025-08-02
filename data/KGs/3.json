@@ -1,0 +1,227 @@
+{
+  "entities": [
+    "Artificial Intelligence",
+    "AI development",
+    "privacy",
+    "bias",
+    "accountability",
+    "transparency",
+    "impact of AI on society",
+    "AI technologies",
+    "data",
+    "individuals' privacy rights",
+    "facial recognition technology",
+    "surveillance purposes",
+    "abuse of power",
+    "governments",
+    "corporations",
+    "biased algorithms",
+    "hiring processes",
+    "discrimination",
+    "race",
+    "gender",
+    "decision-making processes",
+    "AI system",
+    "developers",
+    "users",
+    "ethical guidelines",
+    "regulations",
+    "AI systems",
+    "decisions",
+    "job displacement",
+    "inequality",
+    "concentration of power",
+    "communities",
+    "ethical principles"
+  ],
+  "relations": [
+    [
+      "AI development",
+      "has",
+      "ethical guidelines"
+    ],
+    [
+      "Artificial Intelligence",
+      "advances",
+      "AI technologies"
+    ],
+    [
+      "AI technologies",
+      "raise concerns about",
+      "privacy"
+    ],
+    [
+      "AI technologies",
+      "raise concerns about",
+      "bias"
+    ],
+    [
+      "AI technologies",
+      "raise concerns about",
+      "accountability"
+    ],
+    [
+      "AI technologies",
+      "raise concerns about",
+      "transparency"
+    ],
+    [
+      "AI technologies",
+      "raise concerns about",
+      "impact of AI on society"
+    ],
+    [
+      "AI systems",
+      "collect and analyze",
+      "data"
+    ],
+    [
+      "data",
+      "affects",
+      "individuals' privacy rights"
+    ],
+    [
+      "facial recognition technology",
+      "used for",
+      "surveillance purposes"
+    ],
+    [
+      "facial recognition technology",
+      "raises questions about",
+      "abuse of power"
+    ],
+    [
+      "governments",
+      "potentially abuse",
+      "facial recognition technology"
+    ],
+    [
+      "corporations",
+      "potentially abuse",
+      "facial recognition technology"
+    ],
+    [
+      "AI systems",
+      "trained on",
+      "data"
+    ],
+    [
+      "biased algorithms",
+      "used in",
+      "hiring processes"
+    ],
+    [
+      "biased algorithms",
+      "can perpetuate",
+      "discrimination"
+    ],
+    [
+      "discrimination",
+      "based on",
+      "race"
+    ],
+    [
+      "discrimination",
+      "based on",
+      "gender"
+    ],
+    [
+      "AI systems",
+      "impact",
+      "decision-making processes"
+    ],
+    [
+      "AI system",
+      "makes",
+      "decisions"
+    ],
+    [
+      "developers",
+      "responsible for",
+      "AI system"
+    ],
+    [
+      "users",
+      "responsible for",
+      "AI system"
+    ],
+    [
+      "ethical guidelines",
+      "needed for",
+      "AI technologies"
+    ],
+    [
+      "regulations",
+      "needed for",
+      "AI technologies"
+    ],
+    [
+      "AI systems",
+      "lack",
+      "transparency"
+    ],
+    [
+      "AI systems",
+      "make",
+      "decisions"
+    ],
+    [
+      "AI technologies",
+      "cause",
+      "job displacement"
+    ],
+    [
+      "AI technologies",
+      "cause",
+      "inequality"
+    ],
+    [
+      "AI technologies",
+      "cause",
+      "concentration of power"
+    ],
+    [
+      "AI technologies",
+      "impact",
+      "communities"
+    ],
+    [
+      "AI development",
+      "guided by",
+      "ethical principles"
+    ],
+    [
+      "ethical guidelines",
+      "promote",
+      "transparency"
+    ],
+    [
+      "ethical guidelines",
+      "promote",
+      "accountability"
+    ]
+  ],
+  "edges": [
+    "based on",
+    "guided by",
+    "promote",
+    "trained on",
+    "needed for",
+    "potentially abuse",
+    "used for",
+    "raise concerns about",
+    "cause",
+    "has",
+    "make",
+    "advances",
+    "affects",
+    "collect and analyze",
+    "impact",
+    "makes",
+    "used in",
+    "responsible for",
+    "can perpetuate",
+    "lack",
+    "raises questions about"
+  ]
+}

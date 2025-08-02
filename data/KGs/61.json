@@ -1,0 +1,301 @@
+{
+  "entities": [
+    "Languages",
+    "human culture",
+    "identity",
+    "communication",
+    "expression",
+    "communities",
+    "language death",
+    "linguistic diversity",
+    "heritage",
+    "language extinction",
+    "endangered languages",
+    "cultural assimilation",
+    "globalization",
+    "English",
+    "Spanish",
+    "Mandarin",
+    "minority languages",
+    "indigenous languages",
+    "intergenerational transmission of languages",
+    "ancestral languages",
+    "urbanized settings",
+    "schools",
+    "media",
+    "Environmental factors",
+    "natural disasters",
+    "wars",
+    "forced migration",
+    "communities",
+    "dominant languages",
+    "traditional knowledge",
+    "cultural practices",
+    "ecological knowledge",
+    "spiritual beliefs",
+    "social structures",
+    "speakers",
+    "mother tongue",
+    "Linguists",
+    "language activists",
+    "community members",
+    "language revitalization programs",
+    "language teaching",
+    "language learning",
+    "community engagement",
+    "language resources",
+    "dictionaries",
+    "grammars",
+    "language materials",
+    "linguistic heritage",
+    "future generations",
+    "global linguistic diversity",
+    "cultural heritage",
+    "human languages"
+  ],
+  "relations": [
+    [
+      "Languages",
+      "part of",
+      "human culture"
+    ],
+    [
+      "Languages",
+      "part of",
+      "identity"
+    ],
+    [
+      "Languages",
+      "means of",
+      "communication"
+    ],
+    [
+      "Languages",
+      "means of",
+      "expression"
+    ],
+    [
+      "Languages",
+      "used by",
+      "communities"
+    ],
+    [
+      "language death",
+      "leads to loss of",
+      "linguistic diversity"
+    ],
+    [
+      "language death",
+      "leads to loss of",
+      "heritage"
+    ],
+    [
+      "cultural assimilation",
+      "cause of",
+      "language death"
+    ],
+    [
+      "globalization",
+      "cause of",
+      "language death"
+    ],
+    [
+      "English",
+      "example of",
+      "dominant languages"
+    ],
+    [
+      "Spanish",
+      "example of",
+      "dominant languages"
+    ],
+    [
+      "Mandarin",
+      "example of",
+      "dominant languages"
+    ],
+    [
+      "minority languages",
+      "replaced by",
+      "dominant languages"
+    ],
+    [
+      "indigenous languages",
+      "example of",
+      "minority languages"
+    ],
+    [
+      "intergenerational transmission of languages",
+      "factor in",
+      "language death"
+    ],
+    [
+      "ancestral languages",
+      "related to",
+      "intergenerational transmission of languages"
+    ],
+    [
+      "minority languages",
+      "not supported in",
+      "schools"
+    ],
+    [
+      "minority languages",
+      "not supported in",
+      "media"
+    ],
+    [
+      "Environmental factors",
+      "cause of",
+      "language death"
+    ],
+    [
+      "natural disasters",
+      "example of",
+      "Environmental factors"
+    ],
+    [
+      "wars",
+      "example of",
+      "Environmental factors"
+    ],
+    [
+      "forced migration",
+      "example of",
+      "Environmental factors"
+    ],
+    [
+      "traditional knowledge",
+      "encoded in",
+      "Languages"
+    ],
+    [
+      "cultural practices",
+      "encoded in",
+      "Languages"
+    ],
+    [
+      "ecological knowledge",
+      "encoded in",
+      "Languages"
+    ],
+    [
+      "spiritual beliefs",
+      "encoded in",
+      "Languages"
+    ],
+    [
+      "social structures",
+      "encoded in",
+      "Languages"
+    ],
+    [
+      "language extinction",
+      "leads to erosion of",
+      "traditional knowledge"
+    ],
+    [
+      "language extinction",
+      "leads to erosion of",
+      "ecological knowledge"
+    ],
+    [
+      "language extinction",
+      "leads to erosion of",
+      "spiritual beliefs"
+    ],
+    [
+      "language extinction",
+      "leads to erosion of",
+      "social structures"
+    ],
+    [
+      "speakers",
+      "related to",
+      "mother tongue"
+    ],
+    [
+      "Linguists",
+      "involved in",
+      "language revitalization programs"
+    ],
+    [
+      "language activists",
+      "involved in",
+      "language revitalization programs"
+    ],
+    [
+      "community members",
+      "involved in",
+      "language revitalization programs"
+    ],
+    [
+      "language teaching",
+      "focus of",
+      "language revitalization programs"
+    ],
+    [
+      "language learning",
+      "focus of",
+      "language revitalization programs"
+    ],
+    [
+      "community engagement",
+      "focus of",
+      "language revitalization programs"
+    ],
+    [
+      "dictionaries",
+      "example of",
+      "language resources"
+    ],
+    [
+      "grammars",
+      "example of",
+      "language resources"
+    ],
+    [
+      "language materials",
+      "example of",
+      "language resources"
+    ],
+    [
+      "linguistic heritage",
+      "passed on to",
+      "future generations"
+    ],
+    [
+      "language death",
+      "challenges",
+      "global linguistic diversity"
+    ],
+    [
+      "language death",
+      "challenges",
+      "cultural heritage"
+    ],
+    [
+      "human languages",
+      "related to",
+      "global linguistic diversity"
+    ]
+  ],
+  "edges": [
+    "leads to loss of",
+    "encoded in",
+    "focus of",
+    "part of",
+    "factor in",
+    "cause of",
+    "not supported in",
+    "passed on to",
+    "used by",
+    "example of",
+    "leads to erosion of",
+    "involved in",
+    "challenges",
+    "means of",
+    "replaced by",
+    "related to"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "entities": [
+    "Typography",
+    "written language",
+    "Egyptians",
+    "hieroglyphics",
+    "writing systems",
+    "scripts",
+    "typefaces",
+    "printing press",
+    "Johannes Gutenberg",
+    "books",
+    "printed materials",
+    "standardized typefaces",
+    "printing techniques",
+    "fonts",
+    "sizes",
+    "layouts",
+    "Renaissance period",
+    "Claude Garamond",
+    "Giambattista Bodoni",
+    "design discipline",
+    "aesthetics",
+    "readability",
+    "functionality",
+    "Industrial Revolution",
+    "printing technologies",
+    "newspapers",
+    "magazines",
+    "advertisements",
+    "graphic design",
+    "20th century",
+    "Jan Tschichold",
+    "Paul Rand",
+    "Neville Brody",
+    "digital technology",
+    "branding",
+    "marketing",
+    "communication",
+    "digital devices",
+    "platforms",
+    "visual communication",
+    "digital design"
+  ],
+  "relations": [
+    [
+      "Typography",
+      "is",
+      "design discipline"
+    ],
+    [
+      "Typography",
+      "emphasizes",
+      "aesthetics"
+    ],
+    [
+      "Typography",
+      "emphasizes",
+      "readability"
+    ],
+    [
+      "Typography",
+      "emphasizes",
+      "functionality"
+    ],
+    [
+      "Typography",
+      "is",
+      "visual communication"
+    ],
+    [
+      "Typography",
+      "related to",
+      "branding"
+    ],
+    [
+      "Typography",
+      "related to",
+      "marketing"
+    ],
+    [
+      "Typography",
+      "related to",
+      "communication"
+    ],
+    [
+      "Typography",
+      "uses",
+      "fonts"
+    ],
+    [
+      "Typography",
+      "uses",
+      "sizes"
+    ],
+    [
+      "Typography",
+      "uses",
+      "layouts"
+    ],
+    [
+      "Typography",
+      "related to",
+      "digital design"
+    ],
+    [
+      "Typography",
+      "related to",
+      "digital technology"
+    ],
+    [
+      "Typography",
+      "related to",
+      "digital devices"
+    ],
+    [
+      "Typography",
+      "related to",
+      "platforms"
+    ],
+    [
+      "Egyptians",
+      "used",
+      "hieroglyphics"
+    ],
+    [
+      "Johannes Gutenberg",
+      "invented",
+      "printing press"
+    ],
+    [
+      "printing press",
+      "allowed for",
+      "books"
+    ],
+    [
+      "printing press",
+      "allowed for",
+      "printed materials"
+    ],
+    [
+      "printing press",
+      "led to",
+      "standardized typefaces"
+    ],
+    [
+      "printing press",
+      "led to",
+      "printing techniques"
+    ],
+    [
+      "Claude Garamond",
+      "created",
+      "typefaces"
+    ],
+    [
+      "Giambattista Bodoni",
+      "created",
+      "typefaces"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "printing technologies"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "newspapers"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "magazines"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "advertisements"
+    ],
+    [
+      "Industrial Revolution",
+      "led to",
+      "graphic design"
+    ],
+    [
+      "20th century",
+      "associated with",
+      "Jan Tschichold"
+    ],
+    [
+      "20th century",
+      "associated with",
+      "Paul Rand"
+    ],
+    [
+      "20th century",
+      "associated with",
+      "Neville Brody"
+    ],
+    [
+      "writing systems",
+      "led to",
+      "scripts"
+    ],
+    [
+      "writing systems",
+      "led to",
+      "typefaces"
+    ]
+  ],
+  "edges": [
+    "is",
+    "created",
+    "led to",
+    "emphasizes",
+    "allowed for",
+    "uses",
+    "invented",
+    "used",
+    "associated with",
+    "related to"
+  ]
+}

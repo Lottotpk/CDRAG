@@ -1,0 +1,427 @@
+{
+  "entities": [
+    "Laughter",
+    "Science",
+    "Phenomenon",
+    "cultural barriers",
+    "people",
+    "joy",
+    "connection",
+    "humor",
+    "pleasure",
+    "scientists",
+    "psychologists",
+    "mechanisms",
+    "benefits",
+    "human beings",
+    "communication",
+    "relationships",
+    "trust",
+    "unity",
+    "brains",
+    "social cue",
+    "environment",
+    "emotional contagion",
+    "emotions",
+    "nonverbal cues",
+    "facial expressions",
+    "vocalizations",
+    "body language",
+    "mirror neurons",
+    "brain cells",
+    "actions",
+    "feelings",
+    "research",
+    "psychological processes",
+    "physiological processes",
+    "cognitive processes",
+    "brain imaging techniques",
+    "functional magnetic resonance imaging (fMRI)",
+    "reward",
+    "emotion regulation",
+    "social cognition",
+    "endorphins",
+    "neurotransmitters",
+    "painkillers",
+    "mood elevators",
+    "stress",
+    "immune function",
+    "well-being",
+    "blood pressure",
+    "cardiovascular health",
+    "lung capacity",
+    "deep breathing exercises",
+    "social relationships",
+    "community",
+    "group settings",
+    "teamwork",
+    "social bonds",
+    "barriers",
+    "tension",
+    "camaraderie",
+    "individuals",
+    "diversity",
+    "ridicule",
+    "mockery",
+    "exclusion",
+    "shame",
+    "embarrassment",
+    "alienation",
+    "target",
+    "culture",
+    "empathy",
+    "society",
+    "language barriers",
+    "cultural differences",
+    "social norms",
+    "expression"
+  ],
+  "relations": [
+    [
+      "Laughter",
+      "is",
+      "Phenomenon"
+    ],
+    [
+      "Laughter",
+      "is",
+      "expression"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "cultural barriers"
+    ],
+    [
+      "Laughter",
+      "brings together",
+      "people"
+    ],
+    [
+      "Laughter",
+      "brings",
+      "joy"
+    ],
+    [
+      "Laughter",
+      "brings",
+      "connection"
+    ],
+    [
+      "Laughter",
+      "is",
+      "humor"
+    ],
+    [
+      "Laughter",
+      "is",
+      "pleasure"
+    ],
+    [
+      "Phenomenon",
+      "intrigued",
+      "scientists"
+    ],
+    [
+      "Phenomenon",
+      "intrigued",
+      "psychologists"
+    ],
+    [
+      "human beings",
+      "rely on",
+      "communication"
+    ],
+    [
+      "human beings",
+      "rely on",
+      "connection"
+    ],
+    [
+      "Laughter",
+      "strengthens",
+      "relationships"
+    ],
+    [
+      "Laughter",
+      "builds",
+      "trust"
+    ],
+    [
+      "Laughter",
+      "creates",
+      "unity"
+    ],
+    [
+      "brains",
+      "interpret",
+      "social cue"
+    ],
+    [
+      "Laughter",
+      "is",
+      "emotional contagion"
+    ],
+    [
+      "emotions",
+      "transferred through",
+      "nonverbal cues"
+    ],
+    [
+      "emotions",
+      "transferred through",
+      "facial expressions"
+    ],
+    [
+      "emotions",
+      "transferred through",
+      "vocalizations"
+    ],
+    [
+      "emotions",
+      "transferred through",
+      "body language"
+    ],
+    [
+      "mirror neurons",
+      "mimic",
+      "actions"
+    ],
+    [
+      "mirror neurons",
+      "mimic",
+      "emotions"
+    ],
+    [
+      "research",
+      "shows",
+      "psychological processes"
+    ],
+    [
+      "research",
+      "shows",
+      "physiological processes"
+    ],
+    [
+      "research",
+      "shows",
+      "cognitive processes"
+    ],
+    [
+      "brain imaging techniques",
+      "is",
+      "functional magnetic resonance imaging (fMRI)"
+    ],
+    [
+      "brains",
+      "associated with",
+      "reward"
+    ],
+    [
+      "brains",
+      "associated with",
+      "emotion regulation"
+    ],
+    [
+      "brains",
+      "associated with",
+      "social cognition"
+    ],
+    [
+      "Laughter",
+      "triggers",
+      "reward"
+    ],
+    [
+      "Laughter",
+      "enhances",
+      "empathy"
+    ],
+    [
+      "Laughter",
+      "enhances",
+      "connection"
+    ],
+    [
+      "Laughter",
+      "releases",
+      "endorphins"
+    ],
+    [
+      "endorphins",
+      "act as",
+      "painkillers"
+    ],
+    [
+      "endorphins",
+      "act as",
+      "mood elevators"
+    ],
+    [
+      "Laughter",
+      "reduces",
+      "stress"
+    ],
+    [
+      "Laughter",
+      "boost",
+      "immune function"
+    ],
+    [
+      "Laughter",
+      "improves",
+      "well-being"
+    ],
+    [
+      "Laughter",
+      "lowers",
+      "blood pressure"
+    ],
+    [
+      "Laughter",
+      "improves",
+      "cardiovascular health"
+    ],
+    [
+      "Laughter",
+      "increases",
+      "lung capacity"
+    ],
+    [
+      "Laughter",
+      "enhances",
+      "social relationships"
+    ],
+    [
+      "Laughter",
+      "promotes",
+      "community"
+    ],
+    [
+      "Laughter",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "Laughter",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "Laughter",
+      "breaks down",
+      "barriers"
+    ],
+    [
+      "Laughter",
+      "defuses",
+      "tension"
+    ],
+    [
+      "Laughter",
+      "promotes",
+      "camaraderie"
+    ],
+    [
+      "Laughter",
+      "used for",
+      "ridicule"
+    ],
+    [
+      "Laughter",
+      "used for",
+      "mockery"
+    ],
+    [
+      "Laughter",
+      "used for",
+      "exclusion"
+    ],
+    [
+      "Laughter",
+      "leads to",
+      "shame"
+    ],
+    [
+      "Laughter",
+      "leads to",
+      "embarrassment"
+    ],
+    [
+      "Laughter",
+      "leads to",
+      "alienation"
+    ],
+    [
+      "Laughter",
+      "promotes",
+      "empathy"
+    ],
+    [
+      "Laughter",
+      "fosters",
+      "connection"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "language barriers"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "cultural differences"
+    ],
+    [
+      "Laughter",
+      "transcends",
+      "social norms"
+    ],
+    [
+      "Laughter",
+      "is",
+      "expression"
+    ],
+    [
+      "Laughter",
+      "promotes",
+      "well-being"
+    ],
+    [
+      "Laughter",
+      "enhances",
+      "social relationships"
+    ]
+  ],
+  "edges": [
+    "intrigued",
+    "fosters",
+    "boost",
+    "is",
+    "transcends",
+    "transferred through",
+    "associated with",
+    "builds",
+    "interpret",
+    "lowers",
+    "reduces",
+    "mimic",
+    "strengthens",
+    "enhances",
+    "used for",
+    "creates",
+    "increases",
+    "triggers",
+    "leads to",
+    "promotes",
+    "breaks down",
+    "brings",
+    "act as",
+    "brings together",
+    "shows",
+    "defuses",
+    "improves",
+    "releases",
+    "rely on"
+  ]
+}

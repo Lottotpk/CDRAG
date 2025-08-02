@@ -1,0 +1,332 @@
+{
+  "entities": [
+    "Political systems",
+    "societies",
+    "governance",
+    "human civilization",
+    "ancient forms of governance",
+    "modern democracies",
+    "tribal system",
+    "small groups of people",
+    "kinship",
+    "shared customs",
+    "leadership",
+    "community members",
+    "homogenous groups",
+    "monarchies",
+    "single ruler",
+    "ruling family",
+    "centralized authority",
+    "constitutional monarchies",
+    "monarch",
+    "constitution",
+    "parliament",
+    "Enlightenment era",
+    "John Locke",
+    "Montesquieu",
+    "social contract",
+    "separation of powers",
+    "democratic systems",
+    "free and fair elections",
+    "government institutions",
+    "French Revolution of 1789",
+    "republican forms of government",
+    "liberty",
+    "equality",
+    "fraternity",
+    "democracy",
+    "self-determination",
+    "republics",
+    "democratic governments",
+    "totalitarian regimes",
+    "fascism",
+    "communism",
+    "single party",
+    "leader",
+    "individual freedoms",
+    "human rights",
+    "social goals",
+    "economic goals",
+    "World War II",
+    "Cold War",
+    "state power",
+    "democratic values",
+    "democratic institutions",
+    "rule of law",
+    "human rights",
+    "corruption",
+    "inequality",
+    "polarization",
+    "freedom",
+    "justice"
+  ],
+  "relations": [
+    [
+      "Political systems",
+      "adapting to",
+      "societies"
+    ],
+    [
+      "Political systems",
+      "reflects",
+      "human civilization"
+    ],
+    [
+      "Political systems",
+      "reflects",
+      "governance"
+    ],
+    [
+      "tribal system",
+      "governed by",
+      "small groups of people"
+    ],
+    [
+      "small groups of people",
+      "based on",
+      "kinship"
+    ],
+    [
+      "small groups of people",
+      "based on",
+      "shared customs"
+    ],
+    [
+      "leadership",
+      "based on",
+      "leadership"
+    ],
+    [
+      "leadership",
+      "among",
+      "community members"
+    ],
+    [
+      "tribal system",
+      "for",
+      "homogenous groups"
+    ],
+    [
+      "monarchies",
+      "power in",
+      "single ruler"
+    ],
+    [
+      "monarchies",
+      "power in",
+      "ruling family"
+    ],
+    [
+      "monarchies",
+      "provided",
+      "centralized authority"
+    ],
+    [
+      "constitutional monarchies",
+      "powers limited by",
+      "constitution"
+    ],
+    [
+      "constitutional monarchies",
+      "powers limited by",
+      "parliament"
+    ],
+    [
+      "Enlightenment era",
+      "thinkers",
+      "John Locke"
+    ],
+    [
+      "Enlightenment era",
+      "thinkers",
+      "Montesquieu"
+    ],
+    [
+      "John Locke",
+      "proposed",
+      "social contract"
+    ],
+    [
+      "Montesquieu",
+      "proposed",
+      "separation of powers"
+    ],
+    [
+      "democratic systems",
+      "power vested in",
+      "free and fair elections"
+    ],
+    [
+      "democratic systems",
+      "government institutions",
+      "government institutions"
+    ],
+    [
+      "French Revolution of 1789",
+      "rise of",
+      "republican forms of government"
+    ],
+    [
+      "republican forms of government",
+      "based on",
+      "liberty"
+    ],
+    [
+      "republican forms of government",
+      "based on",
+      "equality"
+    ],
+    [
+      "republican forms of government",
+      "based on",
+      "fraternity"
+    ],
+    [
+      "French Revolution of 1789",
+      "inspired",
+      "democracy"
+    ],
+    [
+      "French Revolution of 1789",
+      "inspired",
+      "self-determination"
+    ],
+    [
+      "democracy",
+      "establishment of",
+      "republics"
+    ],
+    [
+      "democracy",
+      "establishment of",
+      "democratic governments"
+    ],
+    [
+      "totalitarian regimes",
+      "such as",
+      "fascism"
+    ],
+    [
+      "totalitarian regimes",
+      "such as",
+      "communism"
+    ],
+    [
+      "totalitarian regimes",
+      "centralize power in",
+      "single party"
+    ],
+    [
+      "totalitarian regimes",
+      "centralize power in",
+      "leader"
+    ],
+    [
+      "totalitarian regimes",
+      "suppressed",
+      "individual freedoms"
+    ],
+    [
+      "totalitarian regimes",
+      "suppressed",
+      "human rights"
+    ],
+    [
+      "totalitarian regimes",
+      "achieving",
+      "social goals"
+    ],
+    [
+      "totalitarian regimes",
+      "achieving",
+      "economic goals"
+    ],
+    [
+      "World War II",
+      "dangers of",
+      "state power"
+    ],
+    [
+      "Cold War",
+      "dangers of",
+      "state power"
+    ],
+    [
+      "democratic values",
+      "protecting",
+      "democratic values"
+    ],
+    [
+      "democratic institutions",
+      "protecting",
+      "democratic institutions"
+    ],
+    [
+      "democracy",
+      "founded on",
+      "rule of law"
+    ],
+    [
+      "democracy",
+      "founded on",
+      "separation of powers"
+    ],
+    [
+      "democracy",
+      "founded on",
+      "human rights"
+    ],
+    [
+      "democracy",
+      "challenges",
+      "corruption"
+    ],
+    [
+      "democracy",
+      "challenges",
+      "inequality"
+    ],
+    [
+      "democracy",
+      "challenges",
+      "polarization"
+    ],
+    [
+      "Political systems",
+      "struggle for",
+      "freedom"
+    ],
+    [
+      "Political systems",
+      "struggle for",
+      "justice"
+    ]
+  ],
+  "edges": [
+    "proposed",
+    "among",
+    "founded on",
+    "rise of",
+    "protecting",
+    "for",
+    "power vested in",
+    "centralize power in",
+    "suppressed",
+    "struggle for",
+    "power in",
+    "provided",
+    "government institutions",
+    "governed by",
+    "such as",
+    "achieving",
+    "powers limited by",
+    "reflects",
+    "adapting to",
+    "based on",
+    "thinkers",
+    "establishment of",
+    "dangers of",
+    "challenges",
+    "inspired"
+  ]
+}

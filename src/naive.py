@@ -42,14 +42,14 @@ vectordb = VectorDB()
 logging.info("Vector database successfully retrieved.")
 
 
-def prompt_format(query: str, retrieved_context: list):
+def prompt_format(query: str, retrieved_context: list, doc_id: str = None):
     docs = set()
-    prompt_template = PROMPT_DICT[vectordb.get_metadata(retrieved_context[0][0])[0]]
+    prompt_template = PROMPT_DICT[(vectordb.get_metadata(retrieved_context[0][0])[0] if doc_id is None else doc_id)]
     user_content = f" ### Context:\n"
     for msg, _ in retrieved_context:
         docs.add(vectordb.get_metadata(msg)[1])
         user_content += f"- {msg}\n"
-    user_content +="### Question: {query}\n ### Response:"
+    user_content += f"### Question: {query}\n### Response:"
     messages = [
             {
                 "role": "user",
@@ -59,10 +59,10 @@ def prompt_format(query: str, retrieved_context: list):
     return messages, docs
 
 
-def ask(prompt: str):
+def ask(prompt: str, doc_id: str = None):
     # Retrieve relevant query
     embedded_text = model_embed.encode(prompt, convert_to_tensor=True)
-    retrieved = vectordb.get_topk_similar(embedded_text)
+    retrieved = vectordb.get_topk_similar(embedded_text, doc_id=doc_id)
     
     # prepare the model input
     messages, docs = prompt_format(prompt, retrieved)
@@ -115,5 +115,5 @@ def eval():
 
 
 if __name__ == "__main__":
-    # print(ask("What is the interest expense in 2009?"))
+    # print(ask("which multilingual approaches do they compare with?", "1912.01214"))
     eval()

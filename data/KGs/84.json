@@ -1,0 +1,347 @@
+{
+  "entities": [
+    "Consumer behavior",
+    "psychology",
+    "businesses",
+    "products",
+    "services",
+    "psychological factors",
+    "motivation",
+    "perception",
+    "attitudes",
+    "decision-making processes",
+    "intrinsic motivation",
+    "extrinsic motivation",
+    "personal preferences",
+    "values",
+    "emotions",
+    "social norms",
+    "peer pressure",
+    "marketing messages",
+    "brand image",
+    "packaging",
+    "past experiences",
+    "luxury brand",
+    "reputation",
+    "branding",
+    "beliefs",
+    "feelings",
+    "behaviors",
+    "purchase intentions",
+    "marketing strategies",
+    "advertisements",
+    "endorsements",
+    "product placements",
+    "cognitive factors",
+    "emotional factors",
+    "behavioral factors",
+    "problem recognition",
+    "information search",
+    "evaluation of alternatives",
+    "purchase decision",
+    "post-purchase evaluation",
+    "emotions",
+    "social influences",
+    "impulse purchases",
+    "emotional triggers",
+    "situational factors",
+    "cultural factors",
+    "culture",
+    "values",
+    "beliefs",
+    "customs",
+    "norms",
+    "cultural differences",
+    "consumer preferences",
+    "buying habits",
+    "collectivist cultures",
+    "social relationships",
+    "group harmony",
+    "individualistic cultures",
+    "self-expression",
+    "target audience",
+    "marketing strategies",
+    "customers",
+    "sales",
+    "brand loyalty"
+  ],
+  "relations": [
+    [
+      "Consumer behavior",
+      "is a study within",
+      "psychology"
+    ],
+    [
+      "businesses",
+      "market",
+      "products"
+    ],
+    [
+      "businesses",
+      "market",
+      "services"
+    ],
+    [
+      "psychological factors",
+      "influence",
+      "Consumer behavior"
+    ],
+    [
+      "motivation",
+      "plays a role in",
+      "Consumer behavior"
+    ],
+    [
+      "intrinsic motivation",
+      "is influenced by",
+      "personal preferences"
+    ],
+    [
+      "intrinsic motivation",
+      "is influenced by",
+      "values"
+    ],
+    [
+      "intrinsic motivation",
+      "is influenced by",
+      "emotions"
+    ],
+    [
+      "extrinsic motivation",
+      "is influenced by",
+      "social norms"
+    ],
+    [
+      "extrinsic motivation",
+      "is influenced by",
+      "peer pressure"
+    ],
+    [
+      "extrinsic motivation",
+      "is influenced by",
+      "marketing messages"
+    ],
+    [
+      "perception",
+      "shapes",
+      "Consumer behavior"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "marketing messages"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "brand image"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "packaging"
+    ],
+    [
+      "perception",
+      "is influenced by",
+      "past experiences"
+    ],
+    [
+      "luxury brand",
+      "has",
+      "reputation"
+    ],
+    [
+      "luxury brand",
+      "has",
+      "branding"
+    ],
+    [
+      "attitudes",
+      "play a role in",
+      "Consumer behavior"
+    ],
+    [
+      "attitudes",
+      "are a combination of",
+      "beliefs"
+    ],
+    [
+      "attitudes",
+      "are a combination of",
+      "feelings"
+    ],
+    [
+      "attitudes",
+      "are a combination of",
+      "behaviors"
+    ],
+    [
+      "attitudes",
+      "result in",
+      "purchase intentions"
+    ],
+    [
+      "businesses",
+      "use",
+      "marketing strategies"
+    ],
+    [
+      "marketing strategies",
+      "use",
+      "advertisements"
+    ],
+    [
+      "marketing strategies",
+      "use",
+      "endorsements"
+    ],
+    [
+      "marketing strategies",
+      "use",
+      "product placements"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "cognitive factors"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "emotional factors"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "behavioral factors"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "problem recognition"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "information search"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "evaluation of alternatives"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "purchase decision"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "post-purchase evaluation"
+    ],
+    [
+      "impulse purchases",
+      "are driven by",
+      "emotional triggers"
+    ],
+    [
+      "impulse purchases",
+      "are driven by",
+      "situational factors"
+    ],
+    [
+      "cultural factors",
+      "play a role in",
+      "Consumer behavior"
+    ],
+    [
+      "culture",
+      "encompasses",
+      "values"
+    ],
+    [
+      "culture",
+      "encompasses",
+      "beliefs"
+    ],
+    [
+      "culture",
+      "encompasses",
+      "customs"
+    ],
+    [
+      "culture",
+      "encompasses",
+      "norms"
+    ],
+    [
+      "cultural differences",
+      "impact",
+      "consumer preferences"
+    ],
+    [
+      "cultural differences",
+      "impact",
+      "buying habits"
+    ],
+    [
+      "collectivist cultures",
+      "prioritize",
+      "social relationships"
+    ],
+    [
+      "collectivist cultures",
+      "prioritize",
+      "group harmony"
+    ],
+    [
+      "individualistic cultures",
+      "focus on",
+      "personal preferences"
+    ],
+    [
+      "individualistic cultures",
+      "focus on",
+      "self-expression"
+    ],
+    [
+      "businesses",
+      "understand",
+      "target audience"
+    ],
+    [
+      "businesses",
+      "increase",
+      "sales"
+    ],
+    [
+      "businesses",
+      "increase",
+      "brand loyalty"
+    ]
+  ],
+  "edges": [
+    "use",
+    "involve",
+    "is a study within",
+    "shapes",
+    "play a role in",
+    "prioritize",
+    "include",
+    "impact",
+    "understand",
+    "result in",
+    "are driven by",
+    "increase",
+    "plays a role in",
+    "is influenced by",
+    "influence",
+    "are a combination of",
+    "encompasses",
+    "focus on",
+    "has",
+    "market"
+  ]
+}

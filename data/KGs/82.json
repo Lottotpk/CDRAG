@@ -1,0 +1,116 @@
+{
+  "entities": [
+    "Deja Vu",
+    "scientists",
+    "psychologists",
+    "general public",
+    "French origin",
+    "dual processing theory",
+    "brain",
+    "information",
+    "memory-based theory",
+    "past memory",
+    "stress",
+    "fatigue",
+    "sleep deprivation",
+    "creativity",
+    "imagination",
+    "laboratory setting",
+    "subjective experience",
+    "human brain",
+    "consciousness"
+  ],
+  "relations": [
+    [
+      "Deja Vu",
+      "intrigues",
+      "scientists"
+    ],
+    [
+      "Deja Vu",
+      "intrigues",
+      "psychologists"
+    ],
+    [
+      "Deja Vu",
+      "intrigues",
+      "general public"
+    ],
+    [
+      "Deja Vu",
+      "is of",
+      "French origin"
+    ],
+    [
+      "dual processing theory",
+      "concerns",
+      "brain"
+    ],
+    [
+      "dual processing theory",
+      "concerns",
+      "information"
+    ],
+    [
+      "memory-based theory",
+      "is triggered by",
+      "past memory"
+    ],
+    [
+      "stress",
+      "increases likelihood of",
+      "Deja Vu"
+    ],
+    [
+      "fatigue",
+      "increases likelihood of",
+      "Deja Vu"
+    ],
+    [
+      "sleep deprivation",
+      "increases likelihood of",
+      "Deja Vu"
+    ],
+    [
+      "creativity",
+      "may lead to",
+      "Deja Vu"
+    ],
+    [
+      "imagination",
+      "may lead to",
+      "Deja Vu"
+    ],
+    [
+      "Deja Vu",
+      "is difficult to study in",
+      "laboratory setting"
+    ],
+    [
+      "Deja Vu",
+      "is",
+      "subjective experience"
+    ],
+    [
+      "scientists",
+      "delve into",
+      "human brain"
+    ],
+    [
+      "scientists",
+      "delve into",
+      "consciousness"
+    ]
+  ],
+  "edges": [
+    "delve into",
+    "is",
+    "is triggered by",
+    "increases likelihood of",
+    "concerns",
+    "may lead to",
+    "is difficult to study in",
+    "is of",
+    "intrigues"
+  ]
+}
