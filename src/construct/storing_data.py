@@ -7,6 +7,7 @@ from vectordb import VectorDB
 import logging
 import PyPDF2
 import os
+import re
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 logging.basicConfig(level=logging.INFO,
@@ -63,6 +64,7 @@ def main():
                 reader = PyPDF2.PdfReader(file, strict=False)
                 for pg in reader.pages:
                     raw_text += pg.extract_text()
+            raw_text = re.sub(r'[\ud800-\udfff]', '', raw_text)
             
             # Text Chunking and Chunk embedding
             text_splitter = RecursiveCharacterTextSplitter(
