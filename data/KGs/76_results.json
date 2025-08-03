@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. Earth's surface is warmed by sun. cumulonimbus clouds bring heavy rain. air reaches dew point. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. air warms up near Earth's surface. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. air rises into atmosphere. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. cumulus clouds are clouds. humidity plays a role in clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. Earth's surface is warmed by sun. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds are clouds. stratus clouds bring light rain. air rises into atmosphere. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. cumulus clouds are clouds. humidity plays a role in clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. sun's rays heat ground. dew point is related to water vapor. air warms up near Earth's surface. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. Earth's surface is warmed by sun. cumulonimbus clouds bring heavy rain. clouds form through condensation. dew point is related to water vapor. condensation is crucial to clouds. water droplets form clouds. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. air warms up near Earth's surface. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. air rises into atmosphere. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds are clouds. stratus clouds bring light rain. air rises into atmosphere. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. air warms up near Earth's surface. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. air rises into atmosphere. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. air warms up near Earth's surface. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. cumulus clouds are clouds. humidity plays a role in clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. air reaches dew point. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. cumulus clouds are clouds. humidity plays a role in clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. dew point is related to water vapor. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "cirrus clouds are composed of ice crystals. cumulus clouds are associated with sky. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. clouds form through condensation. condensation is crucial to clouds. water droplets form clouds. stratus clouds bring light rain. cirrus clouds are seen in sky. temperature plays a role in clouds. cumulonimbus clouds bring thunderstorms. water vapor condenses into ice crystals. humidity plays a role in clouds. cumulus clouds are clouds. clouds are natural phenomenon. cirrus clouds are referred to as mare's tails. cumulus clouds develop into cumulonimbus clouds. ice crystals form clouds. clouds can be observed in sky. air currents plays a role in clouds. water vapor condenses into water droplets. stratus clouds are clouds. cirrus clouds are clouds.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

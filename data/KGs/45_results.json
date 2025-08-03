@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "Renaissance period resurgence of interest in art. 20th century driven by social movements. Fashion trends reflecting values. Fashion trends influenced by culture. 20th century driven by cultural movements. Fashion trends played a significant role in society. Fashion trends of eras. printing press allowed for dissemination of Fashion trends. Renaissance period resurgence of interest in culture. Mass production techniques allowed for creation of ready-to-wear clothing. Fashion trends influenced by politics. Industrial Revolution brought changes in fashion industry. Fashion trends reflecting beliefs. Fashion trends reflecting attitudes. Fashion trends influenced by technology. 20th century driven by political movements. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. Fashion trends influenced by economics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "Renaissance period resurgence of interest in art. sumptuary laws regulating clothing. 20th century driven by social movements. Fashion trends reflecting values. clothing made from wool. Fashion trends influenced by culture. 20th century driven by cultural movements. Fashion trends played a significant role in society. Fashion trends of eras. printing press allowed for dissemination of Fashion trends. Catholic Church dictating clothing. Renaissance period resurgence of interest in culture. clothing symbol of status. Fashion trends influenced by politics. peasants wore clothing. clothing made from linen. Industrial Revolution brought changes in fashion industry. Fashion trends reflecting beliefs. Fashion trends reflecting attitudes. Fashion trends influenced by technology. 20th century driven by political movements. common people wear clothing. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. clothing symbol of identity. Fashion trends influenced by economics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "sumptuary laws regulating clothing. clothing made from wool. wealthy wear garments. Catholic Church dictating clothing. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. clothing symbol of status. Mass production techniques allowed for creation of ready-to-wear clothing. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. clothing made from linen. peasants wore clothing. garments made from velvet. Industrial Revolution brought changes in fashion industry. garments from tailors. Europe commission garments. common people wear clothing. clothing symbol of identity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "garments made from velvet. Naomi Campbell helped popularize high-end fashion labels. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. 1950s saw the rise of Audrey Hepburn. Audrey Hepburn popularized full skirts. Mass production techniques allowed for creation of ready-to-wear clothing. Audrey Hepburn popularized cat-eye sunglasses. garments from tailors. Europe commission garments. Audrey Hepburn popularized fitted bodices. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. wealthy wear garments.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "sumptuary laws regulating clothing. clothing made from wool. wealthy wear garments. Catholic Church dictating clothing. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. clothing symbol of status. Mass production techniques allowed for creation of ready-to-wear clothing. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. clothing made from linen. peasants wore clothing. garments made from velvet. garments from tailors. Europe commission garments. common people wear clothing. clothing symbol of identity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "Renaissance period resurgence of interest in art. sumptuary laws regulating clothing. clothing made from wool. Fashion trends reflecting values. Fashion trends influenced by culture. Fashion trends played a significant role in society. Fashion trends of eras. wealthy wear garments. printing press allowed for dissemination of Fashion trends. Catholic Church dictating clothing. Renaissance period resurgence of interest in culture. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. clothing symbol of status. royalty wear garments. Fashion trends influenced by politics. garments from designers. garments adorned with jewelry. garments made from silk. clothing made from linen. peasants wore clothing. garments made from velvet. garments from tailors. Fashion trends reflecting beliefs. Fashion trends reflecting attitudes. Europe commission garments. Fashion trends influenced by technology. common people wear clothing. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. clothing symbol of identity. Fashion trends influenced by economics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "garments made from velvet. Renaissance period resurgence of interest in art. Naomi Campbell helped popularize high-end fashion labels. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. Renaissance period resurgence of interest in culture. Fashion trends influenced by culture. garments from tailors. Europe commission garments. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. wealthy wear garments.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "sumptuary laws regulating clothing. Renaissance period resurgence of interest in art. clothing made from wool. Fashion trends influenced by culture. youth culture influencing mini skirts. wealthy wear garments. Catholic Church dictating clothing. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. Renaissance period resurgence of interest in culture. 1960s characterized by youth culture. clothing symbol of status. Mass production techniques allowed for creation of ready-to-wear clothing. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. clothing made from linen. peasants wore clothing. garments made from velvet. 1970s characterized by youth culture. garments from tailors. Europe commission garments. common people wear clothing. youth culture influencing bell-bottoms. clothing symbol of identity. youth culture influencing psychedelic prints.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "Renaissance period resurgence of interest in art. 20th century driven by social movements. Fashion trends reflecting values. Fashion trends influenced by culture. 20th century driven by cultural movements. Fashion trends played a significant role in society. Fashion trends of eras. printing press allowed for dissemination of Fashion trends. Renaissance period resurgence of interest in culture. Fashion trends influenced by politics. Roaring Twenties marked shift towards boyish cuts. Industrial Revolution brought changes in fashion industry. Fashion trends reflecting beliefs. Fashion trends reflecting attitudes. Fashion trends influenced by technology. Roaring Twenties marked shift towards hemlines. 20th century driven by political movements. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. Roaring Twenties marked shift towards silhouettes. Fashion trends influenced by economics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "sumptuary laws regulating clothing. Renaissance period resurgence of interest in art. clothing made from wool. Fashion trends influenced by culture. wealthy wear garments. Catholic Church dictating clothing. Nobles wear garments. garments made from fabrics. garments adorned with embroidery. Renaissance period resurgence of interest in culture. clothing symbol of status. Mass production techniques allowed for creation of ready-to-wear clothing. royalty wear garments. garments from designers. garments adorned with jewelry. garments made from silk. clothing made from linen. peasants wore clothing. garments made from velvet. Industrial Revolution brought changes in fashion industry. garments from tailors. Europe commission garments. common people wear clothing. clothing symbol of identity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "Naomi Campbell helped popularize high-end fashion labels. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. Renaissance period resurgence of interest in culture. Industrial Revolution brought changes in fashion industry. Fashion trends reflecting values. Fashion trends influenced by culture. Fashion trends played a significant role in society. Fashion trends reflecting beliefs. Fashion trends of eras. Fashion trends reflecting attitudes. Fashion trends influenced by politics. Fashion trends influenced by technology. printing press allowed for dissemination of Fashion trends. Fashion trends influenced by economics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "Fashion trends reflecting values. Fashion trends influenced by culture. Fashion trends played a significant role in society. Fashion trends of eras. youth culture influencing mini skirts. 1950s saw the rise of Marilyn Monroe. printing press allowed for dissemination of Fashion trends. Renaissance period resurgence of interest in culture. 1960s characterized by youth culture. Mass production techniques allowed for creation of ready-to-wear clothing. Audrey Hepburn popularized fitted bodices. Fashion trends influenced by politics. Roaring Twenties marked shift towards boyish cuts. 1970s characterized by youth culture. 1950s saw the rise of Audrey Hepburn. Audrey Hepburn popularized cat-eye sunglasses. Fashion trends reflecting beliefs. Fashion trends reflecting attitudes. Fashion trends influenced by technology. Roaring Twenties marked shift towards hemlines. Fashion trends influenced by social hierarchy. Fashion trends influenced by religion. Audrey Hepburn popularized full skirts. youth culture influencing bell-bottoms. Roaring Twenties marked shift towards silhouettes. Fashion trends influenced by economics. youth culture influencing psychedelic prints.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "Roaring Twenties marked shift towards boyish cuts. 1970s characterized by youth culture. 1960s characterized by youth culture. Audrey Hepburn popularized full skirts. Industrial Revolution brought changes in fashion industry. 1950s saw the rise of Audrey Hepburn. Audrey Hepburn popularized cat-eye sunglasses. youth culture influencing mini skirts. Audrey Hepburn popularized fitted bodices. 1950s saw the rise of Marilyn Monroe. youth culture influencing bell-bottoms. Roaring Twenties marked shift towards silhouettes. Roaring Twenties marked shift towards hemlines. youth culture influencing psychedelic prints.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "Naomi Campbell helped popularize high-end fashion labels. Roaring Twenties marked shift towards boyish cuts. 1970s characterized by youth culture. 1960s characterized by youth culture. Audrey Hepburn popularized full skirts. 1950s saw the rise of Audrey Hepburn. Audrey Hepburn popularized cat-eye sunglasses. youth culture influencing mini skirts. Audrey Hepburn popularized fitted bodices. 1950s saw the rise of Marilyn Monroe. youth culture influencing bell-bottoms. Roaring Twenties marked shift towards silhouettes. Roaring Twenties marked shift towards hemlines. youth culture influencing psychedelic prints.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "Roaring Twenties marked shift towards boyish cuts. 1970s characterized by youth culture. Audrey Hepburn popularized full skirts. 1960s characterized by youth culture. 1950s saw the rise of Audrey Hepburn. Audrey Hepburn popularized cat-eye sunglasses. youth culture influencing mini skirts. Audrey Hepburn popularized fitted bodices. 1950s saw the rise of Marilyn Monroe. youth culture influencing bell-bottoms. Roaring Twenties marked shift towards silhouettes. Roaring Twenties marked shift towards hemlines. youth culture influencing psychedelic prints.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

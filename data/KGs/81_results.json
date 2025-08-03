@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Architecture shapes the way we live, work, and interact with one another.",
+    "retrieved_context": "public buildings are schools. green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. urban forests improve air quality. infrastructure attract investment. urban forests provide habitat wildlife. green spaces improve air quality. architecture influences society. urban forests reduce urban heat islands. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. sidewalks influences public spaces. energy-efficient buildings reduce carbon footprint. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. energy-efficient buildings mitigate climate change. public buildings are libraries. infrastructure attract tourism. green spaces provide habitat wildlife. parks influence public spaces. public spaces influence society. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture influences society through the design of public spaces.",
+    "retrieved_context": "green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. urban forests improve air quality. infrastructure attract investment. urban forests provide habitat wildlife. green spaces improve air quality. architecture influences society. urban forests reduce urban heat islands. Sydney Opera House is tourism. sidewalks influences public spaces. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. infrastructure attract tourism. green spaces provide habitat wildlife. parks influence public spaces. public spaces influence society. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Public buildings serve as symbols of a society's values and priorities.",
+    "retrieved_context": "public buildings are schools. green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. urban forests improve air quality. infrastructure attract investment. urban forests provide habitat wildlife. green spaces improve air quality. architecture influences society. urban forests reduce urban heat islands. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. sidewalks influences public spaces. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. public buildings are libraries. infrastructure attract tourism. green spaces provide habitat wildlife. parks influence public spaces. public spaces influence society. buildings attract tourism.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The design of public buildings can convey a sense of authority, tradition, or modernity.",
+    "retrieved_context": "public buildings are schools. public squares influence public spaces. city layout influences public spaces. infrastructure attract investment. architecture influences society. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. sidewalks influences public spaces. energy-efficient buildings reduce carbon footprint. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. energy-efficient buildings mitigate climate change. public buildings are libraries. infrastructure attract tourism. parks influence public spaces. public spaces influence society. buildings attract tourism.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Public buildings shape how people interact with their surroundings.",
+    "retrieved_context": "public buildings are schools. green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. urban forests improve air quality. infrastructure attract investment. urban forests provide habitat wildlife. green spaces improve air quality. architecture influences society. urban forests reduce urban heat islands. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. sidewalks influences public spaces. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. public buildings are libraries. infrastructure attract tourism. green spaces provide habitat wildlife. parks influence public spaces. public spaces influence society. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The layout of a city influences how people move through urban spaces.",
+    "retrieved_context": "green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. architecture shapes residential areas. urban forests improve air quality. urban forests provide habitat wildlife. architecture shapes communities. green spaces improve air quality. architecture influences economic development. architecture influences society. urban forests reduce urban heat islands. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. parks encourage communities. architecture shapes cities. green spaces provide habitat wildlife. parks influence public spaces. architecture impact environment. public spaces influence society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed parks can encourage social interaction and community engagement.",
+    "retrieved_context": "green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. architecture shapes residential areas. urban forests improve air quality. urban forests provide habitat wildlife. architecture shapes communities. green spaces improve air quality. architecture influences economic development. architecture influences society. urban forests reduce urban heat islands. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. parks encourage communities. architecture shapes cities. green spaces provide habitat wildlife. houses lead to communities. parks influence public spaces. architecture impact environment. public spaces influence society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture shapes the built environment of residential areas.",
+    "retrieved_context": "public buildings are schools. green spaces reduce urban heat islands. public squares influence public spaces. architecture shapes residential areas. city layout influences public spaces. urban forests improve air quality. infrastructure attract investment. urban forests provide habitat wildlife. architecture shapes communities. green spaces improve air quality. architecture influences economic development. architecture influences society. urban forests reduce urban heat islands. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. architecture shapes cities. public buildings are libraries. infrastructure attract tourism. green spaces provide habitat wildlife. houses lead to communities. parks influence public spaces. architecture impact environment. public spaces influence society. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The design of homes and neighborhoods impacts the quality of life of residents.",
+    "retrieved_context": "green spaces reduce urban heat islands. public squares influence public spaces. architecture shapes residential areas. city layout influences public spaces. urban forests improve air quality. urban forests provide habitat wildlife. architecture shapes communities. green spaces improve air quality. architecture influences economic development. architecture influences society. urban forests reduce urban heat islands. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. parks encourage communities. architecture shapes cities. green spaces provide habitat wildlife. houses lead to communities. parks influence public spaces. architecture impact environment. public spaces influence society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed houses can promote a sense of pride and ownership among residents.",
+    "retrieved_context": "public buildings are schools. public squares influence public spaces. architecture shapes residential areas. city layout influences public spaces. infrastructure attract investment. architecture shapes communities. architecture influences economic development. architecture influences society. public buildings are museums. public buildings are government offices. Sydney Opera House is tourism. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. parks encourage communities. architecture shapes cities. public buildings are libraries. infrastructure attract tourism. houses lead to communities. parks influence public spaces. architecture impact environment. public spaces influence society. buildings attract tourism.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Architecture influences the economic development of a society.",
+    "retrieved_context": "public squares influence public spaces. architecture shapes residential areas. city layout influences public spaces. infrastructure attract investment. architecture shapes communities. architecture influences economic development. architecture influences society. Sydney Opera House is tourism. architecture impact sustainability. sidewalks influences public spaces. energy-efficient buildings reduce carbon footprint. streets influences public spaces. buildings deter investment. Burj Khalifa is tourism. energy-efficient buildings mitigate climate change. architecture shapes cities. infrastructure attract tourism. parks influence public spaces. architecture impact environment. public spaces influence society. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed buildings can attract investment and tourism, boosting the local economy.",
+    "retrieved_context": "public buildings are schools. architecture shapes residential areas. infrastructure attract investment. architecture shapes communities. architecture influences economic development. architecture influences society. public buildings are museums. public buildings are government offices. architecture impact sustainability. Sydney Opera House is tourism. energy-efficient buildings reduce carbon footprint. buildings deter investment. Burj Khalifa is tourism. energy-efficient buildings mitigate climate change. architecture shapes cities. public buildings are libraries. infrastructure attract tourism. architecture impact environment. buildings attract tourism.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture can influence the environment and sustainability.",
+    "retrieved_context": "urban forests provide habitat wildlife. architecture shapes communities. green spaces reduce urban heat islands. green spaces improve air quality. energy-efficient buildings reduce carbon footprint. green spaces provide habitat wildlife. architecture influences economic development. architecture impact environment. architecture influences society. architecture shapes residential areas. urban forests reduce urban heat islands. urban forests improve air quality. energy-efficient buildings mitigate climate change. architecture shapes cities. architecture impact sustainability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designing energy-efficient buildings can help reduce the carbon footprint of the built environment.",
+    "retrieved_context": "urban forests provide habitat wildlife. architecture shapes communities. green spaces reduce urban heat islands. green spaces improve air quality. energy-efficient buildings reduce carbon footprint. green spaces provide habitat wildlife. architecture influences economic development. architecture impact environment. architecture influences society. architecture shapes residential areas. urban forests reduce urban heat islands. urban forests improve air quality. energy-efficient buildings mitigate climate change. architecture shapes cities. architecture impact sustainability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Green spaces and urban forests can improve air quality and provide habitat for wildlife.",
+    "retrieved_context": "green spaces reduce urban heat islands. public squares influence public spaces. city layout influences public spaces. architecture shapes residential areas. urban forests improve air quality. urban forests provide habitat wildlife. architecture shapes communities. green spaces improve air quality. architecture influences economic development. architecture influences society. urban forests reduce urban heat islands. architecture impact sustainability. sidewalks influences public spaces. streets influences public spaces. parks encourage communities. architecture shapes cities. green spaces provide habitat wildlife. houses lead to communities. parks influence public spaces. architecture impact environment. public spaces influence society.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

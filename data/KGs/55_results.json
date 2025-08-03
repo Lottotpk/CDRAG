@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The Olympic Games are one of the most prestigious sporting events in the world.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have a rich history dating back to ancient Greece.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held in honor of the Greek god Zeus.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Olympic Games includes swimming. Roman Emperor Theodosius deemed incompatible with Christianity. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were first held in 776 BC in Olympia, Greece.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were a religious festival dedicated to Zeus.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Olympic Games includes swimming. Roman Emperor Theodosius deemed incompatible with Christianity. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Athletes from various city-states would gather to compete in the ancient Olympics.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games held in Olympia. Olympic Games involved city-states. Olympic Games held in Athens. Olympic Games includes swimming. Roman Emperor Theodosius deemed incompatible with Christianity. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympics included events like running, wrestling, boxing, and chariot racing.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held every four years.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The ancient Olympics were abolished by the Roman Emperor Theodosius in 393 AD.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern Olympic Games were founded by Pierre de Coubertin in 1894.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern Olympics were inspired by the ancient Olympics.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Olympic Games have grown in size and popularity since their revival.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Olympic Games have expanded to include a wide range of sports.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Olympic Games have been marred by political disputes, boycotts, and doping scandals.",
+    "retrieved_context": "Olympic Games motto Citius, Altius, Fortius. Pierre de Coubertin is a French educator. 1936 Berlin Olympics used by Nazi Germany. Olympic Games includes snowboarding. Olympic Games has origin in Greece. Olympic Games includes athletics. 1980 Moscow Olympics boycotted due to Soviet Union. Olympic Games involved city-states. Olympic Games held in Olympia. Olympic Games held in Athens. Roman Emperor Theodosius deemed incompatible with Christianity. Olympic Games includes swimming. Pierre de Coubertin founded Olympic Games. Olympic Games includes beach volleyball. Soviet Union invaded Afghanistan. Olympia location of Olympic Games. Roman Emperor Theodosius abolished Olympic Games. Olympic Games held in honor of Zeus.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

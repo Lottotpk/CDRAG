@@ -7,25 +7,17 @@ import logging
 import json
 from tqdm.auto import tqdm
 from datasets import load_dataset
-from config import PROMPT_DICT
+from config import ALL_QUESTIONS_ANSWERS
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-logging.info(f"Running on {device}")
-# embedding model
-logging.info("Initializing embedding transformer model...")
 model_embed = SentenceTransformer(
     "Qwen/Qwen3-Embedding-0.6B",
     model_kwargs={"attn_implementation": "flash_attention_2", "device_map": "auto", "torch_dtype": torch.float16},
     tokenizer_kwargs={"padding_side": "left"},
 )
-logging.info("Embedding transformer model initialized")
-
-# base LLM model
-# Note: run `huggingface-cli login` first in the terminal before using
-logging.info("Initializing LLM model...")
 
 model_name = "Qwen/Qwen3-8B"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -34,38 +26,29 @@ model = AutoModelForCausalLM.from_pretrained(
     torch_dtype="auto",
     device_map="auto"
 )
-logging.info("LLM model initialized.")
 
-# Our vector database data structure
-logging.info("Loading vector database...")
 vectordb = VectorDB()
-logging.info("Vector database successfully retrieved.")
 
 
-def prompt_format(query: str, retrieved_context: list, doc_id: str = None):
-    docs = set()
-    prompt_template = PROMPT_DICT[(vectordb.get_metadata(retrieved_context[0][0])[0] if doc_id is None else doc_id)]
-    user_content = f" ### Context:\n"
-    for msg, _ in retrieved_context:
-        docs.add(vectordb.get_metadata(msg)[1])
-        user_content += f"- {msg}\n"
-    user_content += f"### Question: {query}\n### Response:"
+def gpt_evaluate_response(correct_answer, context):
+    prompt = f"""
+    Context:
+    {context}
+
+    Correct Answer:
+    {correct_answer}
+
+    Task:
+    Determine whether the context contains the information stated in the correct answer. \\
+    Respond with "1" if yes, and "0" if no. Do not provide any explanation, just the number.
+    """
     messages = [
-            {
-                "role": "user",
-                "content": prompt_template["system"] + "\n" + user_content,
-            },
-        ]
-    return messages, docs
+        {
+            "role": "user",
+            "content": prompt,
+        }
+    ]
 
-
-def ask(prompt: str, doc_id: str = None):
-    # Retrieve relevant query
-    embedded_text = model_embed.encode(prompt, convert_to_tensor=True)
-    retrieved = vectordb.get_topk_similar(embedded_text, doc_id=doc_id)
-    
-    # prepare the model input
-    messages, docs = prompt_format(prompt, retrieved)
     text = tokenizer.apply_chat_template(
         messages,
         tokenize=False,
@@ -91,29 +74,35 @@ def ask(prompt: str, doc_id: str = None):
     # thinking_content = tokenizer.decode(output_ids[:index], skip_special_tokens=True).strip("\n")
     content = tokenizer.decode(output_ids[index:], skip_special_tokens=True).strip("\n")
 
-    return content, list(docs)
+    return int(content)
 
 
 def eval():
-    # topics = ["fin", "paper_text", "paper_tab", "tat", "feta", "nq"]
-    topics = ["paper_text", "paper_tab", "feta", "nq"]
-    for topic in topics:
-        logging.info(f"Start evaluating {topic} topic")
-        ans_file = open(f"./data/results/naive_{topic}.jsonl", "a")
-        ds = load_dataset("qinchuanhui/UDA-QA", topic, split="test")
-        count = 0
-        for item in ds:
-            response, docs = ask(item['question'])
-            item['response'] = response
-            item['docs'] = docs
-            ans_file.write(json.dumps(item) + "\n")
-            count += 1
-            if count % 100 == 0:
-                logging.info(f"Done {count} QA.")
-            ans_file.flush()
-    ans_file.close()
-
+    for num, qa in enumerate(ALL_QUESTIONS_ANSWERS):
+        results = []
+        correct = 0
+        for q in qa:
+            embedded = model_embed.encode(q['answer'], convert_to_tensor=True)
+            retrieved = vectordb.get_topk_similar(embedded, k=1)
+            context = ""
+            for i in range(len(retrieved)):
+                context += f"{retrieved[i][0]} "
+            score = gpt_evaluate_response(q['answer'], context)
+            results.append({
+                "correct_answer": q['answer'],
+                "retrieved_context": context,
+                "evaluation": score
+            })
+            correct += score
+        
+        accuracy = correct / len(qa)
+        results.append({"accuracy": f"{accuracy * 100:.2f}%"})
+        
+        output_file = f"./data/naive_rag/{num+1}_results.json"
+        with open(output_file, "w") as f:
+            json.dump(results, f, indent=2)
+        print(f"Results saved to {output_file}")
+            
 
 if __name__ == "__main__":
-    # print(ask("which multilingual approaches do they compare with?", "1912.01214"))
     eval()

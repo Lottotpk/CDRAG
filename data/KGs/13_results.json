@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. mechanical energy is potential energy. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. forces contribute to acceleration. acceleration creates airtime. centripetal force directed toward circular path. gravitational force pulls objects toward center of the Earth. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "acceleration creates airtime. gravity pulls roller coaster car. physics includes acceleration. physics includes forces. centripetal force keeps roller coaster car. physics includes energy conservation. centripetal force created by track. friction provides traction. friction provides stability. centripetal force directed toward circular path. gravitational force pulls objects toward center of the Earth. acceleration creates weightlessness. roller coaster designers consider friction. physics includes velocity. forces contribute to acceleration. acceleration is rate of change of velocity. Roller coasters showcases physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. acceleration creates airtime. centripetal force directed toward circular path. gravitational force pulls objects toward center of the Earth. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. physics includes acceleration. Roller coasters provide twists. friction provides traction. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. friction provides stability. forces contribute to acceleration. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. centripetal force directed toward circular path. gravitational force pulls objects toward center of the Earth. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. forces contribute to acceleration. acceleration creates airtime. centripetal force directed toward circular path. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. acceleration is rate of change of velocity. physics includes forces. friction provides stability. physics includes energy conservation. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. mechanical energy is potential energy. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. mechanical energy is potential energy. Roller coasters provide loops. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. physics includes forces. physics includes energy conservation. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. acceleration creates airtime. centripetal force directed toward circular path. gravitational force pulls objects toward center of the Earth. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. physics includes acceleration. Roller coasters provide twists. friction provides traction. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. friction provides stability. forces contribute to acceleration. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. forces contribute to acceleration. acceleration creates airtime. centripetal force directed toward circular path. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. physics includes acceleration. Roller coasters provide twists. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. acceleration creates airtime. centripetal force directed toward circular path. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. mechanical energy is potential energy. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. forces contribute to acceleration. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. forces contribute to acceleration. acceleration creates airtime. centripetal force directed toward circular path. acceleration creates weightlessness. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. mechanical energy is potential energy. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. roller coaster designers consider friction. Roller coasters provide drops. acceleration is rate of change of velocity. physics includes forces. physics includes energy conservation. friction provides stability. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "centripetal force keeps roller coaster car. Roller coasters reach velocity. centripetal force created by track. potential energy converted into kinetic energy. centripetal force directed toward circular path. velocity is direction. Roller coasters showcases physics. gravity pulls roller coaster car. Roller coasters provide loops. mechanical energy is potential energy. Roller coasters provide twists. physics includes acceleration. mechanical energy is kinetic energy. Roller coasters are amusement park rides. physics includes velocity. Roller coasters provide drops. roller coaster designers consider friction. physics includes forces. friction provides stability. physics includes energy conservation. friction provides traction. Roller coasters provide turns. Roller coasters rely on energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

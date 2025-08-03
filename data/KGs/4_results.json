@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Dinosaurs captivate human imagination for centuries.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs roamed the Earth millions of years ago.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs fascinate us due to their immense size.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tyrannosaurus rex was a towering dinosaur.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Tyrannosaurus rex is a Dinosaurs. Dinosaurs remind us of evolution. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Brachiosaurus was a colossal dinosaur.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs challenge our understanding of the natural world.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs captivate us with their diverse range of adaptations.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carnivorous dinosaurs had razor-sharp teeth.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ceratopsians had intricate frills.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. volcanoes were in Earth. oceans were in Earth. creatures ruled Earth. forests were in Earth. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs lived in the Mesozoic era.",
+    "retrieved_context": "Mesozoic era is known as Age of Dinosaurs. Dinosaurs remind us of evolution. Dinosaurs captivated human imagination. Paleontologists study Dinosaurs. Tyrannosaurus rex is a Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Mesozoic era was known as the Age of Dinosaurs.",
+    "retrieved_context": "Mesozoic era is known as Age of Dinosaurs. Dinosaurs remind us of evolution. Dinosaurs captivated human imagination. Paleontologists study Dinosaurs. Tyrannosaurus rex is a Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs represent a world vastly different from our own.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. volcanoes were in Earth. oceans were in Earth. creatures ruled Earth. forests were in Earth. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The extinction of dinosaurs is surrounded by mystery.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs have an enduring presence in popular culture.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs inspire creativity and imagination in both children and adults.",
+    "retrieved_context": "Dinosaurs captivated human imagination. Dinosaurs remind us of evolution. Tyrannosaurus rex is a Dinosaurs. Paleontologists study Dinosaurs. Mesozoic era is known as Age of Dinosaurs. Dinosaurs inspire adults. Jurassic Park features Dinosaurs. Dinosaurs inspire children. scientists study Dinosaurs. Brachiosaurus is a Dinosaurs.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

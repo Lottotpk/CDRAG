@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The concept of home has evolved significantly over the centuries.",
+    "retrieved_context": "home reflects technological advancements. manor house featured architecture. home design in 20th century. caves is a shelters. dwellings are shelters. manor house emerged in Middle Ages. suburban home rose in post-World War II period. suburban home featured electrical appliances. smart technology used in Smart homes. smart homes is a home. manor house featured design elements. home reflects societal norms. grand homes are manor house. suburban home featured modern amenities. home reflects cultural influences. smart technology transformed living spaces. home reflects society. suburban home epitome of American Dream. suburban home featured indoor plumbing. primitive shelters is a home. suburban home featured central heating. manor house owned by noble families. architecture in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern home has undergone a remarkable transformation.",
+    "retrieved_context": "manor house featured architecture. home design in 20th century. Levittown is a planned suburban community. caves is a shelters. dwellings are shelters. manor house emerged in Middle Ages. mass-produced housing has cookie-cutter design. suburban home rose in post-World War II period. suburban home featured electrical appliances. smart technology used in Smart homes. housing became affordable prices. Levittown set standard for mass-produced housing. manor house featured design elements. grand homes are manor house. suburban home featured modern amenities. mass-produced housing has affordable prices. smart technology transformed living spaces. suburban home epitome of American Dream. suburban home featured indoor plumbing. suburban home featured central heating. manor house owned by noble families. architecture in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans lived in caves, tents, and rudimentary structures.",
+    "retrieved_context": "home reflects technological advancements. ancient civilizations have cultural values. early humans lived in caves. caves is a shelters. dwellings are shelters. early humans lived in tents. rudimentary structures made from stone. smart homes is a home. home reflects societal norms. early humans lived in rudimentary structures. societies in Mesopotamia. home reflects cultural influences. home reflects society. societies in Egypt. rudimentary structures made from mud. rudimentary structures made from wood. primitive shelters is a home. ancient civilizations have social hierarchy. societies in Greece.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Homes in ancient civilizations served as centers of social, political, and religious life.",
+    "retrieved_context": "home reflects technological advancements. ancient civilizations have cultural values. manor house featured architecture. caves is a shelters. dwellings are shelters. manor house emerged in Middle Ages. smart technology used in Smart homes. smart homes is a home. manor house featured design elements. home reflects societal norms. grand homes are manor house. societies in Mesopotamia. home reflects cultural influences. smart technology transformed living spaces. home reflects society. societies in Egypt. ancient civilizations have social hierarchy. primitive shelters is a home. manor house owned by noble families. societies in Greece.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The manor house in the Middle Ages was a symbol of power and authority.",
+    "retrieved_context": "middle class related to housing. manor house emerged in Middle Ages. grand homes are manor house. suburban home epitome of American Dream. suburban home rose in post-World War II period. suburban home featured indoor plumbing. housing became affordable prices. suburban home featured electrical appliances. suburban home featured modern amenities. suburban home featured central heating. manor house featured architecture. manor house owned by noble families. architecture in 20th century. manor house featured design elements.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to standardized and affordable housing for the middle class.",
+    "retrieved_context": "middle class related to housing. manor house emerged in Middle Ages. mass-produced housing has cookie-cutter design. suburban home epitome of American Dream. suburban home rose in post-World War II period. suburban home featured indoor plumbing. suburban home featured electrical appliances. housing became affordable prices. suburban home featured modern amenities. grand homes are manor house. suburban home featured central heating. manor house featured architecture. mass-produced housing has affordable prices. Levittown is a planned suburban community. manor house owned by noble families. Levittown set standard for mass-produced housing. manor house featured design elements.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "New building materials like steel and concrete allowed for larger structures.",
+    "retrieved_context": "home reflects technological advancements. steel used for suburban communities. renewable energy sources reduce environmental impact. green building techniques used for sustainable design practices. Levittown is a planned suburban community. mass-produced housing has cookie-cutter design. suburban home rose in post-World War II period. suburban home featured electrical appliances. housing became affordable prices. Levittown set standard for mass-produced housing. smart homes is a home. rudimentary structures made from stone. home reflects societal norms. early humans lived in rudimentary structures. suburban home featured modern amenities. home reflects cultural influences. concrete used for suburban communities. mass-produced housing has affordable prices. home reflects society. Energy-efficient materials reduce environmental impact. suburban home epitome of American Dream. suburban home featured indoor plumbing. steel used for apartment buildings. rudimentary structures made from mud. rudimentary structures made from wood. primitive shelters is a home. suburban home featured central heating. Energy-efficient materials used for sustainable design practices. green building techniques reduce environmental impact. renewable energy sources used for sustainable design practices. concrete used for apartment buildings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modernist movement influenced home design with simplicity and functionality.",
+    "retrieved_context": "Le Corbusier championed open floor plans. home design in 20th century. manor house featured architecture. Levittown is a planned suburban community. manor house emerged in Middle Ages. mass-produced housing has cookie-cutter design. suburban home rose in post-World War II period. suburban home featured electrical appliances. smart technology used in Smart homes. housing became affordable prices. Frank Lloyd Wright championed open floor plans. Ludwig Mies van der Rohe championed open floor plans. modernist movement emphasized efficiency. Levittown set standard for mass-produced housing. manor house featured design elements. modernist movement emphasized simplicity. grand homes are manor house. modernist movement emphasized functionality. suburban home featured modern amenities. mass-produced housing has affordable prices. smart technology transformed living spaces. suburban home epitome of American Dream. suburban home featured indoor plumbing. suburban home featured central heating. manor house owned by noble families. architecture in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II period saw the rise of suburban homes.",
+    "retrieved_context": "mass-produced housing has cookie-cutter design. suburban home epitome of American Dream. suburban home rose in post-World War II period. suburban home featured electrical appliances. suburban home featured indoor plumbing. suburban home featured modern amenities. housing became affordable prices. steel used for suburban communities. suburban home featured central heating. concrete used for suburban communities. steel used for apartment buildings. mass-produced housing has affordable prices. Levittown is a planned suburban community. Levittown set standard for mass-produced housing. concrete used for apartment buildings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Suburban homes featured modern amenities like central heating and indoor plumbing.",
+    "retrieved_context": "steel used for suburban communities. manor house featured architecture. caves is a shelters. Levittown is a planned suburban community. dwellings are shelters. manor house emerged in Middle Ages. suburban home rose in post-World War II period. suburban home featured electrical appliances. Levittown set standard for mass-produced housing. manor house featured design elements. grand homes are manor house. suburban home featured modern amenities. concrete used for suburban communities. suburban home epitome of American Dream. suburban home featured indoor plumbing. steel used for apartment buildings. suburban home featured central heating. manor house owned by noble families. concrete used for apartment buildings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart homes have interconnected devices for remote control and monitoring.",
+    "retrieved_context": "home reflects technological advancements. Smart homes equipped with thermostats. Smart homes equipped with lighting. suburban home rose in post-World War II period. smart technology used in Smart homes. suburban home featured electrical appliances. smart homes is a home. Smart homes equipped with security cameras. Smart homes equipped with systems. Smart homes equipped with appliances. home reflects societal norms. suburban home featured modern amenities. home reflects cultural influences. smart technology transformed living spaces. home reflects society. suburban home epitome of American Dream. suburban home featured indoor plumbing. primitive shelters is a home. suburban home featured central heating. Smart homes equipped with interconnected devices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable design practices aim to reduce the environmental impact of modern homes.",
+    "retrieved_context": "passive solar design promotes sustainability. Energy-efficient materials reduce environmental impact. rainwater harvesting promotes resilience. rainwater harvesting promotes sustainability. passive solar design promotes resilience. smart technology used in Smart homes. renewable energy sources reduce environmental impact. green building techniques used for sustainable design practices. home design in 20th century. Energy-efficient materials used for sustainable design practices. green roofs promotes sustainability. green building techniques reduce environmental impact. renewable energy sources used for sustainable design practices. architecture in 20th century. green roofs promotes resilience. smart technology transformed living spaces.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Energy-efficient materials are being used in modern home construction.",
+    "retrieved_context": "passive solar design promotes sustainability. renewable energy sources reduce environmental impact. green building techniques used for sustainable design practices. home design in 20th century. green roofs promotes sustainability. Levittown is a planned suburban community. mass-produced housing has cookie-cutter design. passive solar design promotes resilience. suburban home rose in post-World War II period. suburban home featured electrical appliances. housing became affordable prices. Levittown set standard for mass-produced housing. rainwater harvesting promotes resilience. suburban home featured modern amenities. mass-produced housing has affordable prices. Energy-efficient materials reduce environmental impact. rainwater harvesting promotes sustainability. suburban home epitome of American Dream. suburban home featured indoor plumbing. suburban home featured central heating. Energy-efficient materials used for sustainable design practices. green building techniques reduce environmental impact. renewable energy sources used for sustainable design practices. architecture in 20th century. green roofs promotes resilience.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern homes incorporate concepts like passive solar design and green roofs.",
+    "retrieved_context": "passive solar design promotes sustainability. renewable energy sources reduce environmental impact. green building techniques used for sustainable design practices. home design in 20th century. green roofs promotes sustainability. passive solar design promotes resilience. suburban home rose in post-World War II period. suburban home featured electrical appliances. smart technology used in Smart homes. rainwater harvesting promotes resilience. suburban home featured modern amenities. smart technology transformed living spaces. Energy-efficient materials reduce environmental impact. rainwater harvesting promotes sustainability. suburban home epitome of American Dream. suburban home featured indoor plumbing. suburban home featured central heating. Energy-efficient materials used for sustainable design practices. green building techniques reduce environmental impact. renewable energy sources used for sustainable design practices. architecture in 20th century. green roofs promotes resilience.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of the modern home reflects changing societal norms and cultural influences.",
+    "retrieved_context": "home reflects technological advancements. manor house featured architecture. home design in 20th century. caves is a shelters. Levittown is a planned suburban community. dwellings are shelters. manor house emerged in Middle Ages. mass-produced housing has cookie-cutter design. suburban home rose in post-World War II period. suburban home featured electrical appliances. smart technology used in Smart homes. housing became affordable prices. Levittown set standard for mass-produced housing. smart homes is a home. manor house featured design elements. home reflects societal norms. grand homes are manor house. suburban home featured modern amenities. home reflects cultural influences. mass-produced housing has affordable prices. smart technology transformed living spaces. home reflects society. suburban home epitome of American Dream. suburban home featured indoor plumbing. primitive shelters is a home. suburban home featured central heating. manor house owned by noble families. architecture in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

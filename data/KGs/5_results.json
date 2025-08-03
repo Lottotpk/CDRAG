@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Video games have evolved since the mid-20th century.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). 3D graphics led to Doom. CD-ROM technology led to Final Fantasy VII. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. CD-ROM technology led to Doom. Video games includes Space Invaders. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 3D graphics led to Quake. 16-bit graphics enhanced Video games. CD-ROM technology led to Quake. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. 3D graphics led to Final Fantasy VII. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pong and Space Invaders were simple, pixelated games.",
+    "retrieved_context": "machine learning revolutionize Video games. arcade gaming includes Space Invaders. Video games includes Space Invaders. arcade gaming includes Pong. Pok\u00c3\u00a9mon Go is a augmented reality (AR). Super Mario Bros. is a Video games. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. Video games includes Red Dead Redemption. Tetris is a Video games. 16-bit graphics enhanced Video games. 8-bit graphics enhanced Video games. Video games includes Fortnite. arcade gaming includes Pac-Man. The Legend of Zelda is a Video games. blockchain technology revolutionize Video games. Atari 2600 is a console gaming.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red Dead Redemption and Fortnite offer lifelike worlds.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). Pok\u00c3\u00a9mon Go is a augmented reality (AR). Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. Half-Life is a PC gaming. artificial intelligence (AI) revolutionize Video games. Video games includes Pong. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. World of Warcraft is a online multiplayer gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! was developed in 1962 at MIT.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. Spacewar! introduced real-time action. Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Spacewar! developed at Massachusetts Institute of Technology (MIT). Video games includes Red Dead Redemption. Tetris is a Video games. Spacewar! introduced multiplayer gameplay.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! introduced multiplayer gameplay.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. Spacewar! introduced real-time action. Call of Duty is a online multiplayer gaming. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Spacewar! developed at Massachusetts Institute of Technology (MIT). Video games includes Red Dead Redemption. Tetris is a Video games. Spacewar! introduced multiplayer gameplay.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arcade gaming rose in the 1970s.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atari 2600 brought arcade experience to homes.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). 3D graphics led to Doom. CD-ROM technology led to Final Fantasy VII. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. CD-ROM technology led to Doom. Video games includes Space Invaders. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 3D graphics led to Quake. 16-bit graphics enhanced Video games. CD-ROM technology led to Quake. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. 3D graphics led to Final Fantasy VII. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Super Mario Bros. and The Legend of Zelda were iconic games in the 1980s.",
+    "retrieved_context": "machine learning revolutionize Video games. arcade gaming includes Space Invaders. Video games includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Super Mario Bros. is a Video games. Half-Life is a PC gaming. artificial intelligence (AI) revolutionize Video games. Video games includes Pong. Video games includes Red Dead Redemption. Tetris is a Video games. 16-bit graphics enhanced Video games. 8-bit graphics enhanced Video games. Diablo is a PC gaming. Video games includes Fortnite. arcade gaming includes Pac-Man. The Legend of Zelda is a Video games. blockchain technology revolutionize Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "8-bit and 16-bit graphics enhanced game worlds.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. 3D graphics led to Doom. CD-ROM technology led to Final Fantasy VII. Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. CD-ROM technology led to Doom. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. artificial intelligence (AI) revolutionize Video games. Video games includes Pong. 3D graphics led to Quake. 16-bit graphics enhanced Video games. CD-ROM technology led to Quake. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. 3D graphics led to Final Fantasy VII. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doom and Quake pushed boundaries in the 1990s.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. 3D graphics led to Doom. CD-ROM technology led to Final Fantasy VII. Call of Duty is a online multiplayer gaming. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. CD-ROM technology led to Doom. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 3D graphics led to Quake. 16-bit graphics enhanced Video games. CD-ROM technology led to Quake. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. 3D graphics led to Final Fantasy VII. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Online gaming rose in the early 2000s.",
+    "retrieved_context": "arcade gaming includes Space Invaders. StarCraft is a PC gaming. arcade gaming includes Pong. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. Call of Duty is a online multiplayer gaming. Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. Half-Life is a PC gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Spacewar! developed at Massachusetts Institute of Technology (MIT). Video games includes Red Dead Redemption. Tetris is a Video games. Spacewar! introduced multiplayer gameplay. Spacewar! introduced real-time action.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "VR and AR technologies have advanced gaming experiences.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). Pok\u00c3\u00a9mon Go is a augmented reality (AR). Super Mario Bros. is a Video games. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI, machine learning, and blockchain are revolutionizing the gaming industry.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. machine learning revolutionize Video games. Pok\u00c3\u00a9mon Go is a augmented reality (AR). Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Xbox Live enabled online multiplayer gaming. artificial intelligence (AI) revolutionize Video games. Video games includes Pong. 16-bit graphics enhanced Video games. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video games have responded to technological advancements and consumer preferences.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Half-Life is a PC gaming. Xbox Live enabled online multiplayer gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of video games promises new and exciting experiences.",
+    "retrieved_context": "arcade gaming includes Space Invaders. arcade gaming includes Pong. StarCraft is a PC gaming. Halo is a online multiplayer gaming. PlayStation Network enabled online multiplayer gaming. Video games includes Fortnite. The Legend of Zelda is a Video games. Oculus Rift is a virtual reality (VR). machine learning revolutionize Video games. PlayStation VR is a virtual reality (VR). Super Mario Bros. is a Video games. Call of Duty is a online multiplayer gaming. 8-bit graphics enhanced Video games. arcade gaming includes Pac-Man. Video games includes Space Invaders. Half-Life is a PC gaming. Xbox Live enabled online multiplayer gaming. Video games includes Pong. artificial intelligence (AI) revolutionize Video games. 16-bit graphics enhanced Video games. Diablo is a PC gaming. blockchain technology revolutionize Video games. Atari 2600 is a console gaming. World of Warcraft is a online multiplayer gaming. Video games includes Red Dead Redemption. Tetris is a Video games.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

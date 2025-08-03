@@ -89,8 +89,8 @@ class VectorDB:
         """
         return self.vec_metadata.get(id)
     
-    def save_to_json(self) -> None:
-        """Save the vector database to .json files, named as 'vector.pt' and 'metadata.pt'
+    def save_to_pt(self) -> None:
+        """Save the vector database to .pt files, named as 'vector.pt' and 'metadata.pt'
         
         Parameters
         ----------

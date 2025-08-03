@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Body language is a form of communication.",
+    "retrieved_context": "Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. posture reveal thoughts. person's posture suggest disinterest. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions. posture reveal feelings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals use body language daily.",
+    "retrieved_context": "Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. person's posture suggest disinterest. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. Body language improve communication skills. eye contact signal attentiveness. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial expressions convey emotions.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. smiles associated with happiness. smiles associated with friendliness. nonverbal cues make up communication. person's posture create connection. Body language resolve conflicts. posture reveal thoughts. shoulders associated with confidence. Body language build connection. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions. posture reveal feelings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smiling is associated with happiness.",
+    "retrieved_context": "Body language lead to social interactions. smiles associated with happiness. Body language is a form of communication. smiles associated with friendliness. eye contact signal engagement. eye contact suggest dishonesty. romantic body language signal attraction. Body language resolve conflicts. romantic body language signal intimacy. Body language build connection. eye contact signal attentiveness. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Furrowed brow may indicate confusion.",
+    "retrieved_context": "Body language establish rapport. person's posture establish rapport. person's posture create connection. person's posture suggest insecurity. Body language is a form of communication. Body language build connection. brow indicate confusion. Body language conveys emotions. facial expressions signal emotions. person's posture suggest disinterest. brow indicate concern. nonverbal cues make up communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gestures convey messages without words.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. proxemics convey cultural cues. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. gestures convey messages. proxemics convey personal cues. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crossing arms may signal defensiveness.",
+    "retrieved_context": "arms signal defensiveness. arms signal discomfort. Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. person's posture suggest disinterest. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. shoulders associated with assertiveness. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nodding can indicate agreement.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. proxemics convey cultural cues. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. agreement indicate understanding. proxemics convey personal cues. Body language improve communication skills. eye contact signal attentiveness. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Posture reveals thoughts and feelings.",
+    "retrieved_context": "Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. posture reveal thoughts. person's posture suggest disinterest. proxemics convey cultural cues. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. proxemics convey personal cues. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions. posture reveal feelings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Standing up straight signals confidence.",
+    "retrieved_context": "Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. Body language resolve conflicts. posture reveal thoughts. person's posture suggest disinterest. shoulders associated with confidence. Body language build connection. shoulders associated with assertiveness. Body language improve communication skills. eye contact signal attentiveness. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions. posture reveal feelings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Slouching may suggest insecurity.",
+    "retrieved_context": "arms signal discomfort. arms signal defensiveness. Body language lead to social interactions. person's posture suggest insecurity. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. Body language resolve conflicts. posture reveal thoughts. brow indicate confusion. person's posture suggest disinterest. shoulders associated with confidence. Body language build connection. shoulders associated with assertiveness. Body language improve communication skills. facial expressions signal emotions. brow indicate concern. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions. posture reveal feelings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maintaining eye contact signals attentiveness.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. Body language resolve conflicts. shoulders associated with confidence. Body language build connection. eye contact signal attentiveness. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Avoiding eye contact may suggest discomfort.",
+    "retrieved_context": "arms signal discomfort. arms signal defensiveness. Body language lead to social interactions. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. eye contact signal attentiveness. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proxemics conveys cultural and personal cues.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. eye contact suggest dishonesty. eye contact signal engagement. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. proxemics convey cultural cues. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. proxemics convey personal cues. eye contact signal attentiveness. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Body language can help navigate social situations.",
+    "retrieved_context": "Body language lead to social interactions. Body language is a form of communication. nonverbal cues make up communication. person's posture create connection. romantic body language signal attraction. Body language resolve conflicts. proxemics convey cultural cues. romantic body language signal intimacy. shoulders associated with confidence. Body language build connection. gestures convey messages. proxemics convey personal cues. Body language improve communication skills. facial expressions signal emotions. Body language establish rapport. Body language project authority. person's posture establish rapport. Body language project confidence. Body language lead to relationships. Body language conveys intentions. Body language conveys emotions.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

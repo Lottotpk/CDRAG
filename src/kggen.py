@@ -6,10 +6,17 @@ import numpy as np
 import os
 import torch
 import sys
-sys.path.insert(1, os.path.join(sys.path[0], '..'))
 from config import ALL_QUESTIONS_ANSWERS
-
 from kg_gen import KGGen
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+model_name = "Qwen/Qwen3-8B"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    torch_dtype="auto",
+    device_map="auto"
+)
 
 # Load JSON data
 def load_graph_from_json(file_path):
@@ -64,28 +71,53 @@ def retrieve_context(node, graph, depth=2):
     explore_neighbors(node, 1)
     return list(context)
 
-# Use GPT to evaluate if the correct answer is in the context
+# Use LLM to evaluate if the correct answer is in the context
 def gpt_evaluate_response(correct_answer, context):
-    pass
-    # prompt = f"""
-    # Context:
-    # {context}
+    prompt = f"""
+    Context:
+    {context}
 
-    # Correct Answer:
-    # {correct_answer}
+    Correct Answer:
+    {correct_answer}
 
-    # Task:
-    # Determine whether the context contains the information stated in the correct answer. \\
-    # Respond with "1" if yes, and "0" if no. Do not provide any explanation, just the number.
-    # """
-    # response = client.chat.completions.create(
-    #     model="gpt-4",
-    #     messages=[{"role": "system", "content": "You are an evaluator that checks if the correct answer can be deduced from the information in the context."},
-    #               {"role": "user", "content": prompt}],
-    #     max_tokens=1,
-    #     temperature=0.0
-    # )
-    # return int(response.choices[0].message.content.strip())
+    Task:
+    Determine whether the context contains the information stated in the correct answer. \\
+    Respond with "1" if yes, and "0" if no. Do not provide any explanation, just the number.
+    """
+    messages = [
+        {
+            "role": "user",
+            "content": prompt,
+        }
+    ]
+
+    text = tokenizer.apply_chat_template(
+        messages,
+        tokenize=False,
+        add_generation_prompt=True,
+        enable_thinking=False # Switches between thinking and non-thinking modes. Default is True.
+    )
+    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+
+    # conduct text completion
+    generated_ids = model.generate(
+        **model_inputs,
+        max_new_tokens=32768
+    )
+    output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
+
+    # parsing thinking content
+    try:
+        # rindex finding 151668 (</think>)
+        index = len(output_ids) - output_ids[::-1].index(151668)
+    except ValueError:
+        index = 0
+
+    # thinking_content = tokenizer.decode(output_ids[:index], skip_special_tokens=True).strip("\n")
+    content = tokenizer.decode(output_ids[index:], skip_special_tokens=True).strip("\n")
+
+    return int(content)
+
 
 # Evaluate accuracy
 def evaluate_accuracy(questions_answers, node_embeddings, model, graph, output_file):
@@ -122,9 +154,27 @@ def evaluate_accuracy(questions_answers, node_embeddings, model, graph, output_f
         json.dump(results, f, indent=2)
     print(f"Results saved to {output_file}")
 
+
+def construct_graph():
+    kg = KGGen(
+        model="huggingface/sambanova/Qwen/Qwen2.5-72B-Instruct",
+        temperature=0.0,
+    )
+    with open("./data/MINE.json", "r") as f:
+        data = json.load(f)
+    
+    for i in range(len(data)):
+        kg.generate(
+            input_data=data[i]['content'],
+            context=data[i]['topic'],
+            chunk_size=3000,
+            output_folder=f"./data/KGs/{i+1}.json"
+        )
+
+
 # Main function to process multiple files
 def main():
-    json_files = [f"./data/KGs/{i}.json" for i in range(1, 107)] 
+    json_files = [f"./data/KGs/{i}.json" for i in range(1, 106)] 
 
     # Initialize embedding model
     embedding_model = SentenceTransformer(
@@ -151,23 +201,6 @@ def main():
             continue
 
 
-def construct_graph():
-    kg = KGGen(
-        model="huggingface/sambanova/Qwen/Qwen2.5-72B-Instruct",
-        temperature=0.0,
-    )
-    with open("./data/MINE.json", "r") as f:
-        data = json.load(f)
-    
-    for i in range(len(data)):
-        kg.generate(
-            input_data=data[i]['content'],
-            context=data[i]['topic'],
-            chunk_size=3000,
-            output_folder=f"./data/KGs/{i+1}.json"
-        )
-
-
 if __name__ == "__main__":
-    construct_graph()
-    # main()
+    # construct_graph()
+    main()

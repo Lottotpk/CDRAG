@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "mantis shrimp is a predators. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. axolotl regenerates spinal cord. mantis shrimp eats mollusks. animals has adaptation tail. mantis shrimp eats crabs. pangolin has scales. pangolin protected from predators. mantis shrimp is a crustacean. animals has adaptation brain. barreleye fish is a deep-sea dweller. animals has adaptation limbs. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl regenerates brain. scales made of keratin. axolotl native to Mexico.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "axolotl regenerates brain. axolotl regenerates spinal cord. keratin found in human hair. scales made of keratin. pangolin has scales. pangolin protected from predators. mantis shrimp is a predators. axolotl regenerates tail. animals has adaptation brain. animals has adaptation tail. animals has adaptation spinal cord. barreleye fish eats prey. keratin found in human nails. barreleye fish is a deep-sea dweller. animals has adaptation limbs. axolotl is a salamander. axolotl native to Mexico. axolotl regenerates limbs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "mantis shrimp is a predators. mantis shrimp eats mollusks. pangolin protected from predators. axolotl regenerates brain. mantis shrimp is a crustacean. axolotl regenerates spinal cord. barreleye fish eats prey. axolotl regenerates tail. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. common swift is a bird. mantis shrimp found in tropical waters. axolotl native to Mexico. common swift eats insects. axolotl regenerates limbs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "mantis shrimp is a predators. mantis shrimp eats mollusks. pangolin protected from predators. axolotl regenerates brain. mantis shrimp is a crustacean. axolotl regenerates spinal cord. pangolin has scales. scales made of keratin. axolotl regenerates tail. barreleye fish eats prey. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl native to Mexico. axolotl regenerates limbs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "axolotl regenerates brain. pangolin has scales. pangolin protected from predators. scales made of keratin. mantis shrimp is a predators. axolotl regenerates spinal cord. mantis shrimp eats mollusks. mantis shrimp is a crustacean. keratin found in human hair. axolotl regenerates tail. barreleye fish eats prey. keratin found in human nails. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl native to Mexico. axolotl regenerates limbs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "axolotl regenerates brain. pangolin has scales. pangolin protected from predators. scales made of keratin. mantis shrimp is a predators. axolotl regenerates spinal cord. mantis shrimp eats mollusks. mantis shrimp is a crustacean. axolotl regenerates tail. barreleye fish eats prey. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl native to Mexico. axolotl regenerates limbs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "mantis shrimp is a predators. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. keratin found in human hair. axolotl regenerates spinal cord. animals has adaptation tail. pangolin has scales. pangolin protected from predators. animals has adaptation brain. keratin found in human nails. barreleye fish is a deep-sea dweller. axolotl is a salamander. animals has adaptation limbs. common swift is a bird. common swift eats insects. scales made of keratin. axolotl regenerates brain. axolotl native to Mexico.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "mantis shrimp is a predators. aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. axolotl regenerates limbs. aye-aye extracts from tree bark. keratin found in human hair. axolotl regenerates spinal cord. aye-aye is a lemur. pangolin has scales. pangolin protected from predators. keratin found in human nails. barreleye fish is a deep-sea dweller. axolotl is a salamander. common swift is a bird. aye-aye native to Madagascar. common swift eats insects. scales made of keratin. axolotl regenerates brain. axolotl native to Mexico. aye-aye is a primates.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "axolotl regenerates brain. axolotl regenerates spinal cord. mantis shrimp is a predators. mantis shrimp eats mollusks. pangolin protected from predators. mantis shrimp is a crustacean. pangolin has scales. scales made of keratin. barreleye fish eats prey. axolotl regenerates tail. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl native to Mexico. axolotl regenerates limbs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "axolotl regenerates brain. axolotl regenerates spinal cord. mantis shrimp is a predators. mantis shrimp eats mollusks. mantis shrimp is a crustacean. pangolin protected from predators. barreleye fish eats prey. axolotl regenerates tail. mantis shrimp eats crabs. barreleye fish is a deep-sea dweller. axolotl is a salamander. mantis shrimp found in tropical waters. axolotl native to Mexico. common swift is a bird. common swift eats insects. axolotl regenerates limbs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "mantis shrimp is a predators. aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. aye-aye extracts from tree bark. axolotl regenerates spinal cord. mantis shrimp eats mollusks. aye-aye is a lemur. animals has adaptation tail. mantis shrimp eats crabs. mantis shrimp is a crustacean. animals has adaptation brain. barreleye fish is a deep-sea dweller. axolotl is a salamander. animals has adaptation limbs. mantis shrimp found in tropical waters. aye-aye native to Madagascar. axolotl regenerates brain. axolotl native to Mexico. aye-aye is a primates.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. aye-aye extracts from tree bark. axolotl regenerates limbs. keratin found in human hair. axolotl regenerates spinal cord. aye-aye is a lemur. animals has adaptation tail. animals has adaptation brain. keratin found in human nails. barreleye fish is a deep-sea dweller. animals has adaptation limbs. axolotl is a salamander. common swift is a bird. aye-aye native to Madagascar. common swift eats insects. scales made of keratin. axolotl regenerates brain. axolotl native to Mexico. aye-aye is a primates.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "mantis shrimp is a predators. aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. aye-aye extracts from tree bark. axolotl regenerates spinal cord. mantis shrimp eats mollusks. aye-aye is a lemur. animals has adaptation tail. mantis shrimp eats crabs. pangolin has scales. pangolin protected from predators. mantis shrimp is a crustacean. animals has adaptation brain. barreleye fish is a deep-sea dweller. animals has adaptation limbs. common swift is a bird. mantis shrimp found in tropical waters. aye-aye native to Madagascar. common swift eats insects. axolotl regenerates brain. aye-aye is a primates.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "mantis shrimp is a predators. aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. aye-aye extracts from tree bark. axolotl regenerates spinal cord. mantis shrimp eats mollusks. aye-aye is a lemur. animals has adaptation tail. mantis shrimp eats crabs. mantis shrimp is a crustacean. animals has adaptation brain. barreleye fish is a deep-sea dweller. animals has adaptation limbs. common swift is a bird. mantis shrimp found in tropical waters. aye-aye native to Madagascar. common swift eats insects. axolotl regenerates brain. aye-aye is a primates.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "mantis shrimp is a predators. aye-aye has middle finger. axolotl regenerates tail. barreleye fish eats prey. animals has adaptation spinal cord. axolotl regenerates limbs. aye-aye extracts from tree bark. axolotl regenerates spinal cord. mantis shrimp eats mollusks. aye-aye is a lemur. animals has adaptation tail. mantis shrimp eats crabs. pangolin has scales. pangolin protected from predators. mantis shrimp is a crustacean. animals has adaptation brain. barreleye fish is a deep-sea dweller. animals has adaptation limbs. axolotl is a salamander. common swift is a bird. mantis shrimp found in tropical waters. aye-aye native to Madagascar. common swift eats insects. axolotl regenerates brain. axolotl native to Mexico. aye-aye is a primates.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Plants release volatile organic compounds (VOCs) to communicate with neighboring plants.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VOCs can warn nearby plants of impending danger, such as herbivore attacks.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neighboring plants may increase production of defensive chemicals in response to VOC signals.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants communicate through mycorrhizal networks in their roots.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mycorrhizal networks enable plants to exchange nutrients, water, and chemical signals.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants can transfer resources to neighboring plants through mycorrhizal networks.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants release chemicals to attract pollinators for successful reproduction.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. pollinators receive pollen. plants share nutrients. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pollinators receive nectar or pollen as a food source from plants.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. pollinators receive pollen. plants share nutrients. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants interact with beneficial microbes in the soil through rhizosphere communication.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria improve nutrients. nitrogen-fixing bacteria protect plants. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rhizosphere communication involves plants releasing root exudates to attract beneficial microbes.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. plants share nutrients. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants can detect touch and vibrations as physical cues for adaptation.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Touching a plant may trigger the release of defensive chemicals.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants can sense vibrations caused by wind or nearby organisms.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plants interact with their environment through chemical, physical, and microbial signals.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Studying plant communication reveals the complexity of plant behavior and interactions.",
+    "retrieved_context": "plants warn plants. plants release root exudates. mycorrhizal networks enable plants. plants attract pollinators. nitrogen-fixing bacteria protect plants. nitrogen-fixing bacteria improve nutrients. plants use mycorrhizal networks. plants release volatile organic compounds. root exudates attract nitrogen-fixing bacteria. mycorrhizal fungi improve nutrients. pollinators receive nectar. plants share nutrients. pollinators receive pollen. plants release defensive chemicals. plants defend herbivores. plants share chemical signals. plants communicate with insects. VOCs are chemical signals. plants sense vibrations. microbes receive sugars. plant-to-plant signaling helps plants. plants communicate through roots. plants share water. plants interact with microbes. root exudates attract mycorrhizal fungi. mycorrhizal fungi protect plants. plants detect touch.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

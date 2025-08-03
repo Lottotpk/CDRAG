@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Yuri Gagarin flew aboard Vostok 1. space shuttle Challenger disaster related to human space travel. human space travel includes lunar bases. Buzz Aldrin landed on moon. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. space shuttle Challenger disaster related to human space travel. Yuri Gagarin flew aboard Vostok 1. human space travel includes lunar bases. Buzz Aldrin landed on moon. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. space shuttle Challenger disaster related to human space travel. Yuri Gagarin flew aboard Vostok 1. human space travel includes lunar bases. Buzz Aldrin landed on moon. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Yuri Gagarin flew aboard Vostok 1. Buzz Aldrin landed on moon. human space travel includes lunar bases. space shuttle Challenger disaster related to human space travel. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Yuri Gagarin flew aboard Vostok 1. Buzz Aldrin landed on moon. human space travel includes lunar bases. space shuttle Challenger disaster related to human space travel. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. Buzz Aldrin landed on moon. human space travel includes lunar bases. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Buzz Aldrin landed on moon. human space travel includes lunar bases. Sputnik 1 launched by Soviet Union. human space travel includes space tourism. human space travel includes interplanetary exploration. Soviet Union competing with United States. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Yuri Gagarin flew aboard Vostok 1. Buzz Aldrin landed on moon. human space travel includes lunar bases. space shuttle Challenger disaster related to human space travel. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. human space travel includes lunar bases. Buzz Aldrin landed on moon. Sputnik 1 launched by Soviet Union. human space travel includes space tourism. human space travel includes interplanetary exploration. Soviet Union competing with United States. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. human space travel includes lunar bases. Buzz Aldrin landed on moon. Sputnik 1 launched by Soviet Union. human space travel includes space tourism. human space travel includes interplanetary exploration. Soviet Union competing with United States. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. human space travel includes lunar bases. space shuttle Challenger disaster related to human space travel. Buzz Aldrin landed on moon. Soviet Union competing with United States. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. Sputnik 1 launched by Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "Apollo 11 landed on moon. International Space Station (ISS) enabled by space shuttle program. space shuttle program initiated by NASA. Neil Armstrong landed on moon. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. Buzz Aldrin landed on moon. NASA launched Apollo 11.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. human space travel includes lunar bases. Buzz Aldrin landed on moon. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. Neil Armstrong landed on moon. Russia successor to Soviet Union. Buzz Aldrin landed on moon. human space travel includes lunar bases. Sputnik 1 launched by Soviet Union. human space travel includes space tourism. human space travel includes interplanetary exploration. Soviet Union competing with United States. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "International Space Station (ISS) enabled by space shuttle program. Apollo 11 landed on moon. space shuttle program initiated by NASA. Columbia disaster related to human space travel. SpaceX plans to send humans to Mars. SpaceX founded by Elon Musk. human space travel includes lunar bases. human space travel includes space tourism. human space travel includes interplanetary exploration. NASA launched Apollo 11. space shuttle Challenger disaster related to human space travel.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

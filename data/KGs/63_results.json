@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. wheel enabled development of wheeled vehicles. wheel component of transportation systems. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. steam engine laid foundation for industrial society. wheel invented in Mesopotamia. light bulb primary source of electric lighting. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. printing press invented by Johannes Gutenberg. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. printing press made accessible books. computer revolutionized education. printing press made accessible printed materials. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "steam engine laid foundation for industrial society. steam engine revolutionized manufacturing processes. wheel enabled development of wheeled vehicles. steam engine developed by Thomas Newcomen. wheel invented in Mesopotamia. printing press made accessible printed materials. wheel component of transportation systems. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. printing press invented by Johannes Gutenberg. printing press made accessible books. steam engine transformed global economy. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. internet paved way for digital technologies. steam engine laid foundation for industrial society. internet paved way for social media. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. printing press made accessible books. computer revolutionized education. printing press made accessible printed materials. telephone paved way for telecommunications. internet paved way for e-commerce. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. steam engine laid foundation for industrial society. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. printing press made accessible books. computer revolutionized education. printing press made accessible printed materials. telephone paved way for telecommunications. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. steam engine laid foundation for industrial society. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. printing press made accessible books. computer revolutionized education. printing press made accessible printed materials. telephone paved way for telecommunications. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "steam engine laid foundation for industrial society. steam engine revolutionized manufacturing processes. steam engine developed by Thomas Newcomen. light bulb primary source of electric lighting. printing press made accessible printed materials. light bulb replaced gas lamps. light bulb invented by Thomas Edison. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. light bulb replaced candles. printing press invented by Johannes Gutenberg. printing press made accessible books. steam engine transformed global economy. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. light bulb invented by Thomas Edison. steam engine transformed global economy. internet paved way for digital technologies. steam engine laid foundation for industrial society. internet paved way for social media. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. light bulb replaced candles. printing press made accessible books. printing press made accessible printed materials. telephone paved way for telecommunications. internet paved way for e-commerce. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. wheel enabled development of wheeled vehicles. internet developed by Tim Berners-Lee. wheel component of transportation systems. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. internet paved way for digital technologies. steam engine laid foundation for industrial society. internet paved way for social media. wheel invented in Mesopotamia. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. computer revolutionized education. telephone paved way for telecommunications. internet paved way for e-commerce.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison. steam engine transformed global economy. electric lighting transformed urban landscapes. steam engine laid foundation for industrial society. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. light bulb replaced candles. printing press made accessible books. printing press made accessible printed materials. telephone paved way for telecommunications. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. electric lighting transformed urban landscapes. steam engine laid foundation for industrial society. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. computer revolutionized education. telephone paved way for telecommunications.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. internet paved way for digital technologies. steam engine laid foundation for industrial society. internet paved way for social media. light bulb primary source of electric lighting. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. computer revolutionized education. telephone paved way for telecommunications. internet paved way for e-commerce.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. computer first was ENIAC. steam engine transformed global economy. internet paved way for digital technologies. steam engine laid foundation for industrial society. internet paved way for social media. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. computer paved way for computing technologies. computer revolutionized business. computer revolutionized education. telephone paved way for telecommunications. internet paved way for e-commerce.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "internet paved way for social media. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. telephone paved way for telecommunications. telephone laid groundwork for internet. internet paved way for e-commerce. computer paved way for computing technologies. computer first was ENIAC. computer revolutionized business. telephone laid groundwork for mobile communication technologies. computer revolutionized education. internet paved way for digital technologies. computer revolutionized entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "internet paved way for social media. telephone invented by Alexander Graham Bell. internet developed by Tim Berners-Lee. telephone paved way for telecommunications. telephone laid groundwork for internet. internet paved way for e-commerce. computer paved way for computing technologies. computer first was ENIAC. computer revolutionized business. telephone laid groundwork for mobile communication technologies. computer revolutionized education. internet paved way for digital technologies. computer revolutionized entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. wheel enabled development of wheeled vehicles. telephone invented by Alexander Graham Bell. wheel component of transportation systems. light bulb invented by Thomas Edison. computer first was ENIAC. steam engine transformed global economy. steam engine laid foundation for industrial society. light bulb primary source of electric lighting. wheel invented in Mesopotamia. telephone laid groundwork for internet. steam engine powered machinery. steam engine led to mass production. steam engine developed by James Watt. telephone laid groundwork for mobile communication technologies. printing press invented by Johannes Gutenberg. computer revolutionized entertainment. steam engine developed by Thomas Newcomen. light bulb replaced gas lamps. computer paved way for computing technologies. computer revolutionized business. light bulb replaced candles. printing press made accessible books. computer revolutionized education. printing press made accessible printed materials. telephone paved way for telecommunications. printing press led to rise of literacy.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

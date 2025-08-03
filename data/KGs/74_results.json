@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People collect items like stamps, coins, or vintage memorabilia.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be a reflection of human nature.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collections related to authenticity. collectors collect vintage cars. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect stamps. collectors collect rare coins. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can trigger fond memories and emotions.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. psychologists study collections. collectors collect antique furniture. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A person who collects antique furniture may appreciate craftsmanship and history.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting allows individuals to express their identity and interests.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collections related to authenticity. collectors collect vintage cars. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect stamps. collectors collect rare coins. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music enthusiasts may collect vinyl records or concert memorabilia.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. psychologists study collections. collectors collect antique furniture. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of accomplishment and fulfillment.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collections related to authenticity. collectors collect vintage cars. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect stamps. collectors collect rare coins. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collectors derive pride and fulfillment from completing sets or finding unique pieces.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can serve as a form of investment.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artwork, rare books, or vintage cars can appreciate in value over time.",
+    "retrieved_context": "collectors collect artwork. collectors collect coins. collectors collect rare coins. collectors collect stamps. collectors collect rare books. collectors collect vintage cars. collectors collect antique furniture. antique furniture related to craftsmanship. concert memorabilia related to artists. collectors collect vinyl records. collectors collect vintage memorabilia. collectors collect items. vinyl records related to music. antique furniture related to history. collectors collect concert memorabilia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be linked to psychological motivations and behaviors.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can satisfy the human need for completion and closure.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collections related to authenticity. collectors collect vintage cars. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect stamps. collectors collect rare coins. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can offer individuals a source of novelty and excitement.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of adventure and exploration.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collections related to authenticity. collectors collect vintage cars. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect stamps. collectors collect rare coins. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting serves as a meaningful and rewarding pursuit for many individuals.",
+    "retrieved_context": "collectors collect coins. collectors collect rare books. collectors collect vintage cars. collections related to authenticity. collections related to preservation methods. collectors collect vintage memorabilia. collectors collect concert memorabilia. antique furniture related to craftsmanship. collectors collect vinyl records. collectors collect items. vinyl records related to music. collectors collect antique furniture. psychologists study collections. collectors collect artwork. collections related to market trends. concert memorabilia related to artists. collectors collect rare coins. collectors collect stamps. antique furniture related to history.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]
