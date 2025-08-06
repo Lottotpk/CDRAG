@@ -1,0 +1,981 @@
+{
+  "entities": [
+    {
+      "name": "Bicycle",
+      "type": "Vehicle",
+      "description": "A two-wheeled vehicle propelled by human power, with a rich history of evolution and innovation that spans centuries.",
+      "attributes": {
+        "Wheels": "Two",
+        "Propulsion Method": "Human Power",
+        "Material": "Wood, Steel, Carbon Fiber",
+        "Design Evolution": "From wooden contraption to high-tech racing machine",
+        "Impact on Society": "Influences transportation, recreation, and culture"
+      }
+    },
+    {
+      "name": "19th century",
+      "type": "Time Period",
+      "description": "The 19th century spans from the year 1801 to 1900. It was a period of significant technological and social change, including major advancements in transportation and communication.",
+      "attributes": {
+        "Start Year": "1801",
+        "End Year": "1900"
+      }
+    },
+    {
+      "name": "carbon fiber",
+      "type": "Material",
+      "description": "Carbon fiber is a strong, lightweight material used in various high-performance applications, including bicycle manufacturing.",
+      "attributes": {
+        "Strength": "High",
+        "Weight": "Lightweight",
+        "Aerodynamic Properties": "Good"
+      }
+    },
+    {
+      "name": "Baron Karl von Drais",
+      "type": "Person",
+      "description": "Baron Karl von Drais was a German inventor who created the draisine, an early version of the bicycle.",
+      "attributes": {
+        "Nationality": "German",
+        "Occupation": "Inventor"
+      }
+    },
+    {
+      "name": "mid-19th century",
+      "type": "Time Period",
+      "description": "The mid-19th century refers to the period from approximately 1850 to 1870, a time of significant technological and social changes.",
+      "attributes": {
+        "Start Year": "1850",
+        "End Year": "1870"
+      }
+    },
+    {
+      "name": "boneshaker",
+      "type": "Bicycle Type",
+      "description": "The boneshaker, also known as the velocipede, was an early bicycle that featured pedals attached directly to the front wheel. It offered a smoother ride and greater speed compared to its predecessor, the draisine, but it was still heavy and cumbersome, making it difficult to maneuver on rough terrain.",
+      "attributes": {
+        "Alternative Name": "velocipede",
+        "Invention Period": "mid-19th century",
+        "Pedal Mechanism": "attached directly to the front wheel",
+        "Ride Quality": "smoother than draisine, but heavy and cumbersome"
+      }
+    },
+    {
+      "name": "front wheel",
+      "type": "Bicycle Component",
+      "description": "The front wheel of a bicycle is one of the two wheels that support and propel the vehicle. It can vary in size and design depending on the type of bicycle.",
+      "attributes": {
+        "Size": "Varies (e.g., large, equal to rear wheel)",
+        "Function": "Supports the front part of the bicycle and contributes to steering"
+      }
+    },
+    {
+      "name": "rear wheel",
+      "type": "Bicycle Component",
+      "description": "The rear wheel of a bicycle is one of the two wheels that support and propel the vehicle. It can vary in size and design depending on the type of bicycle.",
+      "attributes": {
+        "Size": "Smaller than front wheel (in penny-farthing bicycles)",
+        "Design": "Varies by bicycle type"
+      }
+    },
+    {
+      "name": "wealthy gentlemen",
+      "type": "Social Group",
+      "description": "A social group of affluent men who had the means to indulge in leisure activities and hobbies, such as riding penny-farthings.",
+      "attributes": {
+        "Economic Status": "Affluent",
+        "Social Class": "Upper Class"
+      }
+    },
+    {
+      "name": "Cycling",
+      "type": "Activity",
+      "description": "Cycling, the activity of riding bicycles, has evolved from a simple wooden contraption to a high-tech racing machine. It has had a profound impact on society, influencing transportation, recreation, and culture.",
+      "attributes": {
+        "Impact on Society": "Influences transportation, recreation, and culture",
+        "Popularity": "Popular mode of transportation for commuting, exercise, and leisure",
+        "Sustainability": "Provides a sustainable and eco-friendly alternative to cars and public transportation",
+        "Competitive Nature": "Became a competitive sport enjoyed by millions of people around the world"
+      }
+    },
+    {
+      "name": "20th century",
+      "type": "Time Period",
+      "description": "The 20th century spans from the year 1901 to 2000 and is marked by significant advancements in technology, materials science, and societal changes.",
+      "attributes": {
+        "Start Year": "1901",
+        "End Year": "2000"
+      }
+    },
+    {
+      "name": "steel",
+      "type": "Material",
+      "description": "Steel is an alloy of iron and carbon, known for its strength and durability. It has been widely used in various applications, including bicycle frames.",
+      "attributes": {
+        "Primary Use Period": "Early 1900s",
+        "Characteristics": "Strength, Durability, Reasonable Cost"
+      }
+    },
+    {
+      "name": "aluminum",
+      "type": "Material",
+      "description": "Aluminum is a lightweight and stiff material that emerged as an alternative to steel in the mid-20th century, providing improved performance for various applications.",
+      "attributes": {
+        "Weight": "Lightweight",
+        "Stiffness": "Increased stiffness"
+      }
+    },
+    {
+      "name": "titanium",
+      "type": "Material",
+      "description": "Titanium is a strong, lightweight, and corrosion-resistant metal that emerged as a popular alternative to steel in the mid-20th century for bicycle frames.",
+      "attributes": {
+        "Weight": "Lightweight",
+        "Stiffness": "Increased stiffness",
+        "Corrosion Resistance": "High"
+      }
+    },
+    {
+      "name": "Competitive Racing",
+      "type": "Sport",
+      "description": "Competitive racing is a form of sport where participants compete in races, often on bicycles, showcasing speed, skill, and endurance.",
+      "attributes": {
+        "Popularity": "Enjoyed by millions of people around the world",
+        "Professional Events": "Includes events like the Tour de France",
+        "Technology Impact": "Advanced materials like carbon fiber have transformed racing bikes, making them faster, more agile, and more responsive"
+      }
+    },
+    {
+      "name": "High-performance cycling",
+      "type": "Activity",
+      "description": "High-performance cycling involves the use of advanced materials and designs to achieve optimal speed, agility, and responsiveness in competitive racing.",
+      "attributes": {
+        "Materials Used": "Carbon fiber",
+        "Design Features": "Lightweight, strong, aerodynamic frames",
+        "Performance Characteristics": "Faster, more agile, and more responsive"
+      }
+    },
+    {
+      "name": "bicycle manufacturing",
+      "type": "Industry",
+      "description": "Bicycle manufacturing involves the production of bicycles, from early wooden contraptions to modern high-tech racing machines. The industry has evolved significantly with advancements in materials, design, and technology.",
+      "attributes": {
+        "Primary Material (Early 1900s)": "Steel",
+        "Modern Primary Material": "Carbon Fiber"
+      }
+    },
+    {
+      "name": "dropped handlebars",
+      "type": "Bicycle Component",
+      "description": "Dropped handlebars are a type of bicycle handlebar that curves downward and then back up, providing multiple hand positions for the rider. They are commonly found on racing bikes.",
+      "attributes": {
+        "Shape": "Curves downward and then back up",
+        "Purpose": "Multiple hand positions for aerodynamic advantage and control"
+      }
+    },
+    {
+      "name": "cruisers",
+      "type": "Bicycle Style",
+      "description": "Cruisers are a type of bicycle designed for comfort and leisure, featuring upright seating positions and often wider tires.",
+      "attributes": {
+        "Seating Position": "Upright",
+        "Purpose": "Comfort and Leisure"
+      }
+    },
+    {
+      "name": "upright seating positions",
+      "type": "Bicycle Feature",
+      "description": "Upright seating positions are a type of bicycle design that allows the rider to sit in an upright posture, providing comfort and visibility.",
+      "attributes": {
+        "Purpose": "Comfort and Visibility",
+        "Associated Bicycle Type": "Cruisers"
+      }
+    },
+    {
+      "name": "electric bikes",
+      "type": "Bicycle Type",
+      "description": "Electric bikes are bicycles equipped with an electric motor to assist the rider, providing easier riding and longer distances.",
+      "attributes": {
+        "Motorized Assistance": "Yes",
+        "Purpose": "Easier Riding and Longer Distances"
+      }
+    },
+    {
+      "name": "public transportation",
+      "type": "Transportation Mode",
+      "description": "Public transportation refers to shared passenger services that are available for use by the general public, such as buses, trains, and subways.",
+      "attributes": {
+        "Type": "Shared Passenger Services",
+        "Usage": "General Public"
+      }
+    },
+    {
+      "name": "Tour de France",
+      "type": "Cycling Race",
+      "description": "The Tour de France is one of the most prestigious and challenging professional cycling races in the world, showcasing the speed, skill, and endurance of elite cyclists.",
+      "attributes": {
+        "Type": "Professional Cycling Race",
+        "Location": "France"
+      }
+    },
+    {
+      "name": "human ingenuity",
+      "type": "Concept",
+      "description": "Human ingenuity refers to the creative and inventive capabilities of humans, often demonstrated through technological advancements and problem-solving.",
+      "attributes": {
+        "Characteristics": "Creative, Inventive, Problem-Solving"
+      }
+    },
+    {
+      "name": "perseverance",
+      "type": "Attribute",
+      "description": "Perseverance refers to the continued effort to do or achieve something despite difficulties, failure, or delays.",
+      "attributes": {
+        "Definition": "Continued effort to do or achieve something despite difficulties, failure, or delays."
+      }
+    },
+    {
+      "name": "future",
+      "type": "Concept",
+      "description": "The future refers to the time that is yet to come, encompassing potential advancements and developments in various fields.",
+      "attributes": {
+        "Excitement": "High",
+        "Potential for Advancements": "Significant"
+      }
+    },
+    {
+      "name": "Draisine",
+      "type": "Vehicle",
+      "description": "A two-wheeled vehicle invented by Baron Karl von Drais in the early 19th century, propelled by the rider pushing off the ground with their feet.",
+      "attributes": {}
+    },
+    {
+      "name": "Velocipede (Boneshaker)",
+      "type": "Vehicle",
+      "description": "An early bicycle with pedals attached directly to the front wheel, offering a smoother ride and greater speed than the draisine.",
+      "attributes": {}
+    },
+    {
+      "name": "Safety Bicycle",
+      "type": "Vehicle",
+      "description": "A bicycle with two wheels of equal size, a chain drive system, and pneumatic tires, making it more stable, comfortable, and efficient.",
+      "attributes": {}
+    },
+    {
+      "name": "Penny-Farthing",
+      "type": "Vehicle",
+      "description": "A distinctive bicycle with a large front wheel and a smaller rear wheel, known for its speed and elegance but also dangerous due to its high center of gravity.",
+      "attributes": {}
+    },
+    {
+      "name": "Commuting",
+      "type": "Activity",
+      "description": "Traveling between home and work or school.",
+      "attributes": {}
+    },
+    {
+      "name": "Recreation",
+      "type": "Activity",
+      "description": "Engaging in leisure activities such as cycling for fun or exercise.",
+      "attributes": {}
+    },
+    {
+      "name": "Racing",
+      "type": "Activity",
+      "description": "Competitive cycling events where participants race against each other.",
+      "attributes": {}
+    },
+    {
+      "name": "Transportation",
+      "type": "Activity",
+      "description": "Using bicycles as a means of transportation for short and long distances.",
+      "attributes": {}
+    },
+    {
+      "name": "High-Wheel Bicycle (Penny-Farthing)",
+      "type": "Bicycle Type",
+      "description": "The high-wheel bicycle, also known as the penny-farthing, was a significant milestone in the evolution of bicycles. It featured a large front wheel and a much smaller rear wheel.",
+      "attributes": {}
+    },
+    {
+      "name": "Bicycle Frames",
+      "type": "Product Component",
+      "description": "Bicycle frames are the structural components of bicycles that provide support and stability.",
+      "attributes": {}
+    },
+    {
+      "name": "Bicycle Manufacturing",
+      "type": "Industry",
+      "description": "The bicycle manufacturing industry involves the production of bicycles for various uses, including racing and recreational cycling.",
+      "attributes": {}
+    },
+    {
+      "name": "Late 20th Century",
+      "type": "Time Period",
+      "description": "The late 20th century refers to the period from approximately 1970 to 1999.",
+      "attributes": {}
+    },
+    {
+      "name": "velocipede (boneshaker)",
+      "type": "Bicycle Model",
+      "description": "The velocipede, also known as the \"boneshaker,\" was an early bicycle with pedals attached directly to the front wheel. It allowed riders to propel themselves forward by turning the pedals in a circular motion.",
+      "attributes": {}
+    },
+    {
+      "name": "draisine",
+      "type": "Bicycle Type",
+      "description": "The draisine was an early wooden bicycle without pedals, propelled by the rider pushing along the ground with their feet.",
+      "attributes": {}
+    },
+    {
+      "name": "safety bicycle",
+      "type": "Bicycle Type",
+      "description": "The safety bicycle featured two wheels of equal size, a chain drive system, and pneumatic tires, making it more stable, comfortable, and efficient than its predecessors.",
+      "attributes": {}
+    },
+    {
+      "name": "Pedals (in early designs)",
+      "type": "Bicycle Component",
+      "description": "Components that allow the rider to propel the bicycle by turning them in a circular motion.",
+      "attributes": {}
+    },
+    {
+      "name": "Rear Wheel (in high-wheel designs)",
+      "type": "Bicycle Component",
+      "description": "The rear wheel of a bicycle, which can vary in size depending on the type of bicycle.",
+      "attributes": {}
+    },
+    {
+      "name": "Rear Wheel (in safety bicycles)",
+      "type": "Bicycle Component",
+      "description": "The rear wheel of a bicycle, which can vary in size depending on the type of bicycle.",
+      "attributes": {}
+    },
+    {
+      "name": "Front Wheel",
+      "type": "Bicycle Component",
+      "description": "The front wheel of a bicycle, which can vary in size and design depending on the type of bicycle.",
+      "attributes": {}
+    },
+    {
+      "name": "Penny-Farthing Bicycle",
+      "type": "Bicycle Type",
+      "description": "A distinctive bicycle featuring a large front wheel and a smaller rear wheel, giving it a high center of gravity and a precarious ride.",
+      "attributes": {}
+    },
+    {
+      "name": "penny-farthing",
+      "type": "Bicycle Type",
+      "description": "A type of bicycle with a large front wheel and a much smaller rear wheel, popular in the late 19th century.",
+      "attributes": {}
+    },
+    {
+      "name": "Leisure Activities",
+      "type": "Activity Type",
+      "description": "Activities pursued for enjoyment and relaxation, often by those with the means to afford them.",
+      "attributes": {}
+    },
+    {
+      "name": "Culture",
+      "type": "Sector",
+      "description": "The arts, customs, and habits that characterize a particular society or nation.",
+      "attributes": {}
+    },
+    {
+      "name": "Wooden Contraption",
+      "type": "Historical Object",
+      "description": "An early form of the bicycle made from wood.",
+      "attributes": {}
+    },
+    {
+      "name": "Racing Bikes",
+      "type": "Bicycle Type",
+      "description": "High-performance bicycles designed for speed and competition.",
+      "attributes": {}
+    },
+    {
+      "name": "Cruisers",
+      "type": "Bicycle Type",
+      "description": "Comfortable bicycles designed for leisure and casual riding.",
+      "attributes": {}
+    },
+    {
+      "name": "Aluminum and Titanium in Bicycle Construction",
+      "type": "Material Innovation",
+      "description": "Aluminum and titanium emerged as popular alternatives to steel, providing lighter weight and increased stiffness for improved performance.",
+      "attributes": {}
+    },
+    {
+      "name": "Carbon Fiber in Bicycle Construction",
+      "type": "Material Innovation",
+      "description": "Carbon fiber was introduced as a revolutionary material, providing significant improvements in weight reduction and stiffness.",
+      "attributes": {}
+    },
+    {
+      "name": "Bicycle Design and Technology",
+      "type": "Technological Advancement",
+      "description": "Throughout the 20th century, bicycles continued to evolve with advancements in materials, design, and technology.",
+      "attributes": {}
+    },
+    {
+      "name": "Aluminum",
+      "type": "Material",
+      "description": "Aluminum is a lightweight metal used in various applications, including bicycle frames.",
+      "attributes": {}
+    },
+    {
+      "name": "Titanium",
+      "type": "Material",
+      "description": "Titanium is a strong, lightweight metal used in high-performance applications, including bicycle frames.",
+      "attributes": {}
+    },
+    {
+      "name": "Carbon Fiber",
+      "type": "Material",
+      "description": "Carbon fiber is a composite material known for its lightweight, strength, and aerodynamic properties.",
+      "attributes": {}
+    },
+    {
+      "name": "bicycle frames",
+      "type": "Product Component",
+      "description": "Bicycle frames are the main structural components of bicycles, providing support and stability.",
+      "attributes": {}
+    },
+    {
+      "name": "Carbon Fiber Frames",
+      "type": "Material",
+      "description": "Carbon fiber is a lightweight, strong, and aerodynamic material used in the construction of high-performance bicycles.",
+      "attributes": {}
+    },
+    {
+      "name": "Elite Cyclists",
+      "type": "Athlete",
+      "description": "Elite cyclists are highly skilled and physically fit athletes who compete at the highest levels of professional cycling.",
+      "attributes": {}
+    },
+    {
+      "name": "Steel",
+      "type": "Material",
+      "description": "Steel is a strong and durable material that became the primary choice for bicycle frames in the early 1900s due to its reasonable cost.",
+      "attributes": {}
+    },
+    {
+      "name": "Design Evolution",
+      "type": "Process",
+      "description": "The design of bicycles has evolved over time to meet the changing needs and preferences of riders.",
+      "attributes": {}
+    },
+    {
+      "name": "Technological Advancements",
+      "type": "Process",
+      "description": "Advancements in technology have played a crucial role in the development of modern bicycles.",
+      "attributes": {}
+    },
+    {
+      "name": "racing bikes",
+      "type": "Bicycle Type",
+      "description": "Racing bikes are designed for speed and efficiency, often used in competitive cycling events.",
+      "attributes": {}
+    },
+    {
+      "name": "cruiser bicycles",
+      "type": "Bicycle Style",
+      "description": "Cruiser bicycles are designed for comfort and leisure, often featuring wide tires, a relaxed geometry, and upright seating positions.",
+      "attributes": {}
+    },
+    {
+      "name": "bicycles",
+      "type": "Transportation Mode",
+      "description": "Bicycles are two-wheeled vehicles used for transportation, exercise, and leisure.",
+      "attributes": {}
+    },
+    {
+      "name": "recent years",
+      "type": "Time Period",
+      "description": "Recent years refer to the most recent period in time, typically within the last few decades.",
+      "attributes": {}
+    },
+    {
+      "name": "cyclists",
+      "type": "Rider Group",
+      "description": "Cyclists are individuals who ride bicycles for various purposes such as commuting, exercise, and leisure.",
+      "attributes": {}
+    },
+    {
+      "name": "bicycle",
+      "type": "Transportation Mode",
+      "description": "A bicycle is a human-powered or motor-assisted vehicle with two wheels, used for transportation and recreation.",
+      "attributes": {}
+    },
+    {
+      "name": "Evolution of the Bicycle",
+      "type": "Historical Process",
+      "description": "The evolution of the bicycle is a historical process that spans centuries, from its early wooden contraptions to modern high-tech racing machines.",
+      "attributes": {}
+    },
+    {
+      "name": "Bicycle Innovations",
+      "type": "Technological Advancements",
+      "description": "Innovations in bicycle design and technology have included improvements in materials, mechanics, and aerodynamics.",
+      "attributes": {}
+    },
+    {
+      "name": "Future Advancements",
+      "type": "Technological Developments",
+      "description": "The future of bicycles holds potential for new technologies and designs that could further enhance their performance and utility.",
+      "attributes": {}
+    },
+    {
+      "name": "evolution of the bicycle",
+      "type": "Process",
+      "description": "The evolution of the bicycle from a wooden contraption to a high-tech racing machine.",
+      "attributes": {}
+    },
+    {
+      "name": "Bicycle Evolution",
+      "type": "Technological Development",
+      "description": "The evolution of the bicycle has been a continuous process, with advancements in materials, design, and technology throughout the 20th century.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Bicycle",
+      "Evolved From",
+      "Draisine",
+      "The bicycle evolved from the draisine, which was an early form of a two-wheeled vehicle."
+    ],
+    [
+      "Bicycle",
+      "Improved By",
+      "Velocipede (Boneshaker)",
+      "The velocipede improved upon the draisine by adding pedals for propulsion."
+    ],
+    [
+      "Bicycle",
+      "Replaced By",
+      "Safety Bicycle",
+      "The safety bicycle replaced the high-wheel bicycle (penny-farthing) due to its improved design and stability."
+    ],
+    [
+      "Bicycle",
+      "Predecessor Of",
+      "Penny-Farthing",
+      "The penny-farthing was a predecessor to the safety bicycle, marking a significant step in the evolution of bicycles."
+    ],
+    [
+      "Bicycle",
+      "Used For",
+      "Commuting",
+      "Bicycles are commonly used for commuting due to their efficiency and environmental benefits."
+    ],
+    [
+      "Bicycle",
+      "Used For",
+      "Recreation",
+      "Bicycles are popular for recreational purposes, providing a healthy and enjoyable way to spend time."
+    ],
+    [
+      "Bicycle",
+      "Used For",
+      "Racing",
+      "Bicycles are used in various racing competitions, from road races to track cycling."
+    ],
+    [
+      "Bicycle",
+      "Used For",
+      "Transportation",
+      "Bicycles serve as an efficient and eco-friendly mode of transportation."
+    ],
+    [
+      "19th century",
+      "Invented - Safety Bicycle",
+      "Safety Bicycle",
+      "In the late 19th century, the safety bicycle was invented, which significantly improved the cycling experience."
+    ],
+    [
+      "19th century",
+      "Invented - High-Wheel Bicycle",
+      "High-Wheel Bicycle (Penny-Farthing)",
+      "In the late 19th century, the high-wheel bicycle (penny-farthing) was invented, marking a major step in bicycle design."
+    ],
+    [
+      "19th century",
+      "Invented - Velocipede",
+      "Velocipede (Boneshaker)",
+      "In the mid-19th century, the velocipede (boneshaker) was invented, which marked a major step forward in bicycle technology."
+    ],
+    [
+      "carbon fiber",
+      "Used In",
+      "Bicycle Frames",
+      "Carbon fiber is used in the construction of bicycle frames, making them lightweight, strong, and aerodynamic."
+    ],
+    [
+      "carbon fiber",
+      "Transformed Industry",
+      "Bicycle Manufacturing",
+      "The use of carbon fiber in bicycle manufacturing has transformed the industry by enabling the development of advanced racing bikes that are faster, more agile, and more responsive."
+    ],
+    [
+      "carbon fiber",
+      "Introduced In",
+      "Late 20th Century",
+      "Carbon fiber was introduced as a revolutionary material in bicycle construction during the late 20th century."
+    ],
+    [
+      "Baron Karl von Drais",
+      "Created",
+      "Draisine",
+      "Baron Karl von Drais created the draisine, which was a significant innovation in transportation at the time."
+    ],
+    [
+      "mid-19th century",
+      "Witnessed Invention",
+      "velocipede (boneshaker)",
+      "During the mid-19th century, the velocipede or boneshaker was invented, marking a significant evolution in bicycle design."
+    ],
+    [
+      "boneshaker",
+      "Evolved From",
+      "draisine",
+      "The boneshaker evolved from the draisine, offering a smoother ride and greater speed."
+    ],
+    [
+      "boneshaker",
+      "Predecessor To",
+      "safety bicycle",
+      "The boneshaker was the predecessor to the safety bicycle, which introduced significant improvements in stability and comfort."
+    ],
+    [
+      "front wheel",
+      "Attached To",
+      "Bicycle",
+      "The front wheel is attached to the bicycle frame."
+    ],
+    [
+      "front wheel",
+      "Connected To",
+      "Pedals (in early designs)",
+      "In early bicycles, such as the velocipede or \"boneshaker,\" the front wheel was directly connected to the pedals."
+    ],
+    [
+      "front wheel",
+      "Larger Than",
+      "Rear Wheel (in high-wheel designs)",
+      "In high-wheel bicycles, the front wheel was significantly larger than the rear wheel."
+    ],
+    [
+      "front wheel",
+      "Equal Size To",
+      "Rear Wheel (in safety bicycles)",
+      "In safety bicycles, both the front and rear wheels were of equal size."
+    ],
+    [
+      "rear wheel",
+      "Part Of",
+      "Bicycle",
+      "The rear wheel is an integral part of the bicycle."
+    ],
+    [
+      "rear wheel",
+      "Paired With",
+      "Front Wheel",
+      "The rear wheel is paired with the front wheel to form the two-wheeled structure of the bicycle."
+    ],
+    [
+      "rear wheel",
+      "Component Of",
+      "Penny-Farthing Bicycle",
+      "The rear wheel is a component of the penny-farthing bicycle, which has a smaller size compared to the front wheel."
+    ],
+    [
+      "rear wheel",
+      "Component Of",
+      "Safety Bicycle",
+      "The rear wheel is a component of the safety bicycle, which has an equal size to the front wheel."
+    ],
+    [
+      "wealthy gentlemen",
+      "Rode",
+      "penny-farthing",
+      "Wealthy gentlemen rode penny-farthings for their speed and elegance."
+    ],
+    [
+      "wealthy gentlemen",
+      "Engaged In",
+      "Leisure Activities",
+      "Wealthy gentlemen engaged in leisure activities such as riding penny-farthings."
+    ],
+    [
+      "Cycling",
+      "Influences",
+      "Transportation",
+      "Cycling has become a popular mode of transportation, providing an eco-friendly alternative to cars and public transportation."
+    ],
+    [
+      "Cycling",
+      "Influences",
+      "Recreation",
+      "Cycling is a popular recreational activity, enjoyed by many for exercise and leisure."
+    ],
+    [
+      "Cycling",
+      "Influences",
+      "Culture",
+      "Cycling has had a significant impact on culture, influencing fashion, lifestyle, and community activities."
+    ],
+    [
+      "Cycling",
+      "Includes",
+      "Tour de France",
+      "The Tour de France is a prominent event in the competitive sport of cycling, showcasing elite cyclists."
+    ],
+    [
+      "Cycling",
+      "Evolved From",
+      "Wooden Contraption",
+      "Cycling has evolved from a simple wooden contraption to a high-tech racing machine."
+    ],
+    [
+      "Cycling",
+      "Marked by",
+      "Safety Bicycle",
+      "The introduction of the safety bicycle marked a turning point in the history of cycling."
+    ],
+    [
+      "Cycling",
+      "Includes",
+      "Racing Bikes",
+      "Cycling includes various types of bicycles, such as sleek racing bikes with dropped handlebars."
+    ],
+    [
+      "Cycling",
+      "Includes",
+      "Cruisers",
+      "Cycling includes various types of bicycles, such as comfortable cruisers with upright seating positions."
+    ],
+    [
+      "20th century",
+      "Saw Introduction Of",
+      "Aluminum and Titanium in Bicycle Construction",
+      "The 20th century saw the introduction of aluminum and titanium as materials used in bicycle construction."
+    ],
+    [
+      "20th century",
+      "Saw Introduction Of",
+      "Carbon Fiber in Bicycle Construction",
+      "The 20th century saw the introduction of carbon fiber as a material used in bicycle construction."
+    ],
+    [
+      "20th century",
+      "Continued Evolution Of",
+      "Bicycle Design and Technology",
+      "The 20th century was a period of continuous evolution for bicycle design and technology."
+    ],
+    [
+      "steel",
+      "Used In",
+      "Bicycle Frames",
+      "Steel became the primary material used in bicycle frames during the early 1900s due to its strength and durability at a reasonable cost."
+    ],
+    [
+      "steel",
+      "Alternative To",
+      "Aluminum",
+      "Steel was the primary material for bicycle frames before aluminum emerged as an alternative, offering lighter weight and increased stiffness."
+    ],
+    [
+      "steel",
+      "Alternative To",
+      "Titanium",
+      "Steel was the primary material for bicycle frames before titanium emerged as an alternative, offering lighter weight and increased stiffness."
+    ],
+    [
+      "steel",
+      "Alternative To",
+      "Carbon Fiber",
+      "Steel was the primary material for bicycle frames before carbon fiber emerged as an alternative, offering even greater performance benefits in competitive racing and high-performance cycling."
+    ],
+    [
+      "aluminum",
+      "Alternative To",
+      "steel",
+      "Aluminum emerged as an alternative to steel in the mid-20th century."
+    ],
+    [
+      "aluminum",
+      "Used In",
+      "bicycle frames",
+      "Aluminum is used in bicycle frames to provide lighter weight and increased stiffness for improved performance."
+    ],
+    [
+      "titanium",
+      "Alternative To",
+      "steel",
+      "Titanium emerged as an alternative to steel, providing lighter weight and increased stiffness for improved performance."
+    ],
+    [
+      "Competitive Racing",
+      "Uses",
+      "Carbon Fiber Frames",
+      "Competitive racing uses carbon fiber frames to enhance the performance of racing bikes."
+    ],
+    [
+      "Competitive Racing",
+      "Features In",
+      "Tour de France",
+      "Competitive racing features prominently in events like the Tour de France."
+    ],
+    [
+      "Competitive Racing",
+      "Showcases",
+      "Elite Cyclists",
+      "Competitive racing showcases the speed, skill, and endurance of elite cyclists."
+    ],
+    [
+      "High-performance cycling",
+      "Uses",
+      "Carbon Fiber Frames",
+      "High-performance cycling uses carbon fiber frames to achieve optimal performance."
+    ],
+    [
+      "High-performance cycling",
+      "Involves",
+      "Racing Bikes",
+      "High-performance cycling involves the use of sleek racing bikes with dropped handlebars."
+    ],
+    [
+      "bicycle manufacturing",
+      "Uses Material",
+      "Steel",
+      "Bicycle manufacturing used steel as the primary material for bicycle frames in the early 1900s."
+    ],
+    [
+      "bicycle manufacturing",
+      "Uses Material",
+      "Carbon Fiber",
+      "Bicycle manufacturing now uses carbon fiber as a primary material for producing faster, more agile, and more responsive bicycles."
+    ],
+    [
+      "bicycle manufacturing",
+      "Involves Process",
+      "Design Evolution",
+      "Bicycle manufacturing involves a continuous process of design evolution to improve bicycle performance and functionality."
+    ],
+    [
+      "bicycle manufacturing",
+      "Involves Process",
+      "Technological Advancements",
+      "Bicycle manufacturing involves ongoing technological advancements to enhance bicycle performance and innovation."
+    ],
+    [
+      "dropped handlebars",
+      "Found On",
+      "racing bikes",
+      "Dropped handlebars are commonly found on racing bikes to provide aerodynamic advantage and multiple hand positions."
+    ],
+    [
+      "cruisers",
+      "Is a Type of",
+      "Bicycle",
+      "Cruisers are a specific type of bicycle designed for comfort and leisure."
+    ],
+    [
+      "cruisers",
+      "Contrasts With",
+      "Racing Bikes",
+      "Cruisers offer an upright seating position for comfort, while racing bikes have dropped handlebars for a more aerodynamic riding posture."
+    ],
+    [
+      "upright seating positions",
+      "Feature Of",
+      "cruiser bicycles",
+      "Upright seating positions are a key feature of cruiser bicycles."
+    ],
+    [
+      "upright seating positions",
+      "Contrasts With",
+      "dropped handlebars",
+      "Upright seating positions contrast with the more aggressive posture provided by dropped handlebars."
+    ],
+    [
+      "electric bikes",
+      "Subtype Of",
+      "bicycles",
+      "Electric bikes are a subtype of bicycles."
+    ],
+    [
+      "electric bikes",
+      "Introduced In",
+      "recent years",
+      "Electric bikes were introduced in recent years."
+    ],
+    [
+      "electric bikes",
+      "Option For",
+      "cyclists",
+      "Electric bikes offer an additional option for cyclists."
+    ],
+    [
+      "public transportation",
+      "Alternative To",
+      "bicycle",
+      "Bicycles provide an alternative to public transportation, offering a sustainable and eco-friendly option."
+    ],
+    [
+      "public transportation",
+      "Complementary To",
+      "bicycle",
+      "Bicycles can complement public transportation by providing last-mile connectivity."
+    ],
+    [
+      "Tour de France",
+      "Showcases",
+      "Elite Cyclists",
+      "The Tour de France showcases the skills and endurance of elite cyclists."
+    ],
+    [
+      "Tour de France",
+      "Participates In",
+      "Cycling",
+      "The Tour de France is a major event in the sport of cycling."
+    ],
+    [
+      "human ingenuity",
+      "Drives",
+      "Evolution of the Bicycle",
+      "Human ingenuity has been a driving force behind the continuous innovation and improvement of bicycles."
+    ],
+    [
+      "human ingenuity",
+      "Manifests In",
+      "Bicycle Innovations",
+      "Human ingenuity is evident in the various technological advancements that have shaped the modern bicycle."
+    ],
+    [
+      "human ingenuity",
+      "Inspires",
+      "Future Advancements",
+      "Human ingenuity continues to inspire and drive the development of new bicycle technologies."
+    ],
+    [
+      "perseverance",
+      "Is a Characteristic of",
+      "human ingenuity",
+      "Perseverance is a characteristic that complements human ingenuity, driving continuous improvement and innovation."
+    ],
+    [
+      "perseverance",
+      "Is Demonstrated in",
+      "evolution of the bicycle",
+      "Perseverance is demonstrated in the continuous improvement and innovation seen in the evolution of the bicycle."
+    ],
+    [
+      "future",
+      "Shapes",
+      "Bicycle Evolution",
+      "The future will shape the next chapter in the evolution of the bicycle, bringing new advancements and developments."
+    ]
+  ]
+}

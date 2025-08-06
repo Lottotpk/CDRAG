@@ -1,0 +1,380 @@
+{
+  "entities": [
+    {
+      "name": "Deja Vu",
+      "type": "Phenomenon",
+      "description": "A phenomenon where one feels that the current situation has been experienced before, despite it being the first time.",
+      "attributes": {
+        "Origin of Term": "French",
+        "Meaning of Term": "already seen",
+        "Nature": "Fleeting and subjective experience",
+        "Commonality": "Experienced by many people at some point in their lives",
+        "Scientific Status": "Largely unexplained, mysterious, and elusive"
+      }
+    },
+    {
+      "name": "scientists",
+      "type": "Group of People",
+      "description": "Scientists are individuals who engage in systematic activities to acquire knowledge that describes and predicts the natural world, through observation and experimentation.",
+      "attributes": {
+        "Field of Study": "Various fields including psychology, neuroscience, and consciousness studies"
+      }
+    },
+    {
+      "name": "psychologists",
+      "type": "Group of Professionals",
+      "description": "Psychologists are professionals who study and analyze the human mind and behavior. They often conduct research, provide therapy, and contribute to understanding various psychological phenomena.",
+      "attributes": {
+        "Field of Study": "Human Mind and Behavior",
+        "Professional Activities": "Research, Therapy, Analysis"
+      }
+    },
+    {
+      "name": "general public",
+      "type": "Group of People",
+      "description": "The general public refers to the broad population, including individuals who are not necessarily experts or professionals in a specific field.",
+      "attributes": {
+        "Interest Level": "High",
+        "Intrigue Level": "High"
+      }
+    },
+    {
+      "name": "French",
+      "type": "Language",
+      "description": "French is a Romance language of the Indo-European family. It is spoken as a first language in France, Canada, Belgium, Switzerland, and other countries.",
+      "attributes": {
+        "Origin": "Romance Language",
+        "Family": "Indo-European Family"
+      }
+    },
+    {
+      "name": "Dual Processing Theory",
+      "type": "Scientific Theory",
+      "description": "The dual processing theory suggests that deja vu occurs when the brain processes information in two different ways simultaneously. This can lead to a sensation of having experienced the current situation before.",
+      "attributes": {
+        "Explanation": "Deja vu is caused by simultaneous processing of information in two different ways.",
+        "Commonality": "One of the most common theories regarding deja vu."
+      }
+    },
+    {
+      "name": "memory-based theory",
+      "type": "Theory",
+      "description": "The memory-based theory posits that deja vu is triggered by similarities between the current situation and a past memory.",
+      "attributes": {
+        "Explanation": "Deja vu occurs when the brain encounters a situation that is reminiscent of a past experience, leading to the sensation of deja vu."
+      }
+    },
+    {
+      "name": "brain",
+      "type": "Organ",
+      "description": "The brain is the central organ of the nervous system and plays a crucial role in processing information, storing memories, and regulating various bodily functions.",
+      "attributes": {
+        "Function": "Processing Information, Storing Memories, Regulating Bodily Functions",
+        "Complexity": "Highly Complex"
+      }
+    },
+    {
+      "name": "stress",
+      "type": "Condition",
+      "description": "Stress is a state of mental or emotional strain or tension resulting from adverse or demanding circumstances.",
+      "attributes": {
+        "Impact on Deja Vu Frequency": "Increased frequency of deja vu episodes"
+      }
+    },
+    {
+      "name": "fatigue",
+      "type": "Condition",
+      "description": "Fatigue is a state of physical and mental exhaustion that can result from various factors, including lack of sleep, overwork, or stress.",
+      "attributes": {
+        "Common Causes": "Lack of sleep, overwork, stress"
+      }
+    },
+    {
+      "name": "consciousness",
+      "type": "Concept",
+      "description": "Consciousness refers to the state of being aware of one\"s surroundings, thoughts, and feelings. It is a complex phenomenon that involves various cognitive processes and is central to understanding human experience.",
+      "attributes": {
+        "Complexity": "High",
+        "Involvement in Phenomena": "Deja vu, Cognitive Processes"
+      }
+    },
+    {
+      "name": "Memory-Based Theory",
+      "type": "Theory",
+      "description": "A theory positing that deja vu is triggered by similarities between the current situation and a past memory.",
+      "attributes": {}
+    },
+    {
+      "name": "Stress, Fatigue, Sleep Deprivation",
+      "type": "Factors",
+      "description": "Conditions that have been associated with an increased frequency of deja vu episodes.",
+      "attributes": {}
+    },
+    {
+      "name": "Scientists",
+      "type": "Researchers",
+      "description": "Experts in various fields who study the complexities of the human brain and consciousness.",
+      "attributes": {}
+    },
+    {
+      "name": "Psychologists",
+      "type": "Researchers",
+      "description": "Experts in the field of psychology who study mental processes and behaviors.",
+      "attributes": {}
+    },
+    {
+      "name": "General Public",
+      "type": "Audience",
+      "description": "The general population who are interested in and fascinated by the phenomenon of deja vu.",
+      "attributes": {}
+    },
+    {
+      "name": "Human Brain and Consciousness",
+      "type": "Field of Study",
+      "description": "The human brain is the most complex organ in the body, responsible for consciousness, thought, memory, and other cognitive functions.",
+      "attributes": {}
+    },
+    {
+      "name": "General Public Interest",
+      "type": "Public Engagement",
+      "description": "The general public is often intrigued by psychological phenomena such as Deja Vu, leading to widespread interest and discussion.",
+      "attributes": {}
+    },
+    {
+      "name": "Science of Deja Vu",
+      "type": "Field of Study",
+      "description": "The science of deja vu involves research into the complexities of the human brain and consciousness, aiming to understand why and how deja vu occurs.",
+      "attributes": {}
+    },
+    {
+      "name": "deja vu",
+      "type": "Phenomenon",
+      "description": "Deja vu is a phenomenon where an individual feels that they have experienced the current situation before, even though they know it is not true.",
+      "attributes": {}
+    },
+    {
+      "name": "Two Separate Areas",
+      "type": "Neural Pathways",
+      "description": "The brain processes information in two separate areas for storage and retrieval, which is a key aspect of the dual processing theory.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory",
+      "type": "Cognitive Function",
+      "description": "When the brain encounters a situation that is reminiscent of a past experience, it may mistakenly interpret it as a memory.",
+      "attributes": {}
+    },
+    {
+      "name": "Individuals with Higher Creativity or Imagination",
+      "type": "Person",
+      "description": "Individuals who have a higher level of creativity or imagination may be more prone to experiencing deja vu.",
+      "attributes": {}
+    },
+    {
+      "name": "sleep deprivation",
+      "type": "Condition",
+      "description": "Sleep deprivation is a condition characterized by a lack of adequate sleep, leading to various physical and mental health issues.",
+      "attributes": {}
+    },
+    {
+      "name": "deja vu episodes",
+      "type": "Phenomenon",
+      "description": "Deja vu is the phenomenon of having a strong feeling that an event or experience currently being experienced has been experienced in the past.",
+      "attributes": {}
+    },
+    {
+      "name": "Human Experience",
+      "type": "Concept",
+      "description": "Human experience encompasses the range of sensations, thoughts, and emotions that individuals encounter in their lives.",
+      "attributes": {}
+    },
+    {
+      "name": "Cognitive Processes",
+      "type": "Concept",
+      "description": "Cognitive processes are mental operations that include perception, attention, memory, language, problem-solving, and decision-making.",
+      "attributes": {}
+    },
+    {
+      "name": "Deja vu",
+      "type": "Phenomenon",
+      "description": "Deja vu is a phenomenon where individuals feel as though they have experienced a situation before, despite knowing that it is their first time encountering it.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Deja Vu",
+      "Associated With",
+      "Dual Processing Theory",
+      "The dual processing theory is one of the common theories associated with deja vu."
+    ],
+    [
+      "Deja Vu",
+      "Associated With",
+      "Memory-Based Theory",
+      "The memory-based theory is another common theory associated with deja vu."
+    ],
+    [
+      "Deja Vu",
+      "Influenced By",
+      "Stress, Fatigue, Sleep Deprivation",
+      "Deja vu can be influenced by stress, fatigue, and sleep deprivation."
+    ],
+    [
+      "Deja Vu",
+      "Studied By",
+      "Scientists",
+      "Deja vu is studied by scientists to understand its origins and mechanisms."
+    ],
+    [
+      "Deja Vu",
+      "Studied By",
+      "Psychologists",
+      "Deja vu is studied by psychologists to understand its psychological aspects."
+    ],
+    [
+      "Deja Vu",
+      "Studied By",
+      "General Public",
+      "Deja vu is a topic of interest for the general public."
+    ],
+    [
+      "scientists",
+      "Study",
+      "Deja Vu",
+      "Scientists are actively studying the phenomenon of Deja Vu to understand its underlying mechanisms and causes."
+    ],
+    [
+      "scientists",
+      "Explore",
+      "Human Brain and Consciousness",
+      "Scientists are delving into the complexities of the human brain and consciousness to gain deeper insights."
+    ],
+    [
+      "psychologists",
+      "Study Phenomenon",
+      "Deja Vu",
+      "Psychologists study the phenomenon of Deja Vu to understand its causes and mechanisms."
+    ],
+    [
+      "psychologists",
+      "Contribute To",
+      "General Public Interest",
+      "Psychologists contribute to the public\"s understanding of Deja Vu through their research and findings."
+    ],
+    [
+      "psychologists",
+      "Collaborate With",
+      "Scientists",
+      "Psychologists collaborate with scientists from other disciplines to study the complexities of the human brain and consciousness."
+    ],
+    [
+      "general public",
+      "Fascinated By",
+      "Deja Vu",
+      "The general public is fascinated by the phenomenon of deja vu due to its mysterious nature."
+    ],
+    [
+      "general public",
+      "Intrigued By",
+      "Science of Deja Vu",
+      "The general public is intrigued by ongoing scientific research into the phenomenon of deja vu."
+    ],
+    [
+      "French",
+      "Term Origin of",
+      "Deja Vu",
+      "The term \"deja vu\" originates from French and means \"already seen.\""
+    ],
+    [
+      "Dual Processing Theory",
+      "Explains Phenomenon",
+      "Deja Vu",
+      "The dual processing theory explains deja vu by suggesting that the brain processes information in two different ways simultaneously."
+    ],
+    [
+      "Dual Processing Theory",
+      "Competes With",
+      "Memory-Based Theory",
+      "The dual processing theory competes with the memory-based theory as an explanation for deja vu."
+    ],
+    [
+      "memory-based theory",
+      "Attempts to Explain",
+      "deja vu",
+      "The memory-based theory attempts to explain the occurrence of deja vu by suggesting that similarities between the current and past situations trigger this sensation."
+    ],
+    [
+      "brain",
+      "Processes Information In",
+      "Two Separate Areas",
+      "The brain sends information to two different areas for processing."
+    ],
+    [
+      "brain",
+      "Interprets Situations As",
+      "Memory",
+      "The brain can misinterpret new situations as memories, leading to deja vu."
+    ],
+    [
+      "brain",
+      "Processes Information Simultaneously In",
+      "Dual Processing Theory",
+      "According to the dual processing theory, the brain can process information in parallel."
+    ],
+    [
+      "brain",
+      "Is Studied By",
+      "Scientists",
+      "Scientists continue to research the complexities of the brain."
+    ],
+    [
+      "brain",
+      "Is More Prone To In",
+      "Individuals with Higher Creativity or Imagination",
+      "The brain is more likely to experience deja vu in individuals with higher levels of creativity or imagination."
+    ],
+    [
+      "stress",
+      "Associated With",
+      "deja vu",
+      "Stress is associated with an increased frequency of deja vu episodes."
+    ],
+    [
+      "stress",
+      "Similar to",
+      "fatigue",
+      "Stress and fatigue are both conditions that can lead to an increased frequency of deja vu episodes."
+    ],
+    [
+      "stress",
+      "Similar to",
+      "sleep deprivation",
+      "Stress and sleep deprivation are both conditions that can lead to an increased frequency of deja vu episodes."
+    ],
+    [
+      "fatigue",
+      "Associated With Increased Frequency Of",
+      "deja vu episodes",
+      "Fatigue, along with stress and sleep deprivation, has been associated with an increased frequency of deja vu episodes."
+    ],
+    [
+      "consciousness",
+      "Central to Understanding",
+      "Human Experience",
+      "Consciousness is central to understanding human experience, as it involves being aware of one\"s surroundings, thoughts, and feelings."
+    ],
+    [
+      "consciousness",
+      "Involves",
+      "Cognitive Processes",
+      "Consciousness involves various cognitive processes that contribute to the awareness of one\"s surroundings and internal states."
+    ],
+    [
+      "consciousness",
+      "Related to",
+      "Deja vu",
+      "Consciousness is related to the phenomenon of deja vu, which can be influenced by timing discrepancies in cognitive processes."
+    ]
+  ]
+}

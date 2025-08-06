@@ -1,0 +1,722 @@
+{
+  "entities": [
+    {
+      "name": "music",
+      "type": "Art Form",
+      "description": "Music is a powerful medium that has the ability to influence our emotions and mood in profound ways. It can impact heart rate, blood pressure, and cortisol levels, all of which are indicators of our emotional state.",
+      "attributes": {
+        "Influence on Mood": "Subjective and varies depending on individual preferences, past experiences, and cultural background",
+        "Emotional Impact": "Can enhance or change our emotional state, providing comfort, motivation, relaxation, or joy",
+        "Mechanisms of Influence": "Impacts heart rate, blood pressure, and cortisol levels"
+      }
+    },
+    {
+      "name": "mood",
+      "type": "Emotional State",
+      "description": "Mood refers to the emotional state of an individual, which can be influenced by various factors including music.",
+      "attributes": {
+        "Subjectivity": "Highly subjective and varies based on individual preferences, past experiences, and cultural background.",
+        "Influence Factors": "Music, memories, associations, heart rate, blood pressure, cortisol levels, genre, and style of music."
+      }
+    },
+    {
+      "name": "heart rate",
+      "type": "Physiological Indicator",
+      "description": "Heart rate, also known as pulse rate, is the number of times the heart beats per minute. It can be influenced by various factors including physical activity, emotional state, and music.",
+      "attributes": {
+        "Measurement Unit": "beats per minute (bpm)",
+        "Influencing Factors": "Physical Activity, Emotional State, Music"
+      }
+    },
+    {
+      "name": "blood pressure",
+      "type": "Physiological Indicator",
+      "description": "Blood pressure is a measure of the force exerted by circulating blood on the walls of blood vessels. It is an important indicator of cardiovascular health and can be influenced by various factors, including music.",
+      "attributes": {
+        "Measurement Units": "mmHg",
+        "Normal Range": "120/80 mmHg"
+      }
+    },
+    {
+      "name": "cortisol levels",
+      "type": "Biological Indicator",
+      "description": "Cortisol is a steroid hormone produced by the adrenal glands. It plays a crucial role in regulating various physiological processes, including stress response, immune function, and metabolism.",
+      "attributes": {
+        "Regulated By": "Adrenal Glands",
+        "Function": "Stress Response, Immune Function, Metabolism"
+      }
+    },
+    {
+      "name": "Upbeat and fast-paced music",
+      "type": "Music Genre/Style",
+      "description": "A type of music characterized by its high tempo, energetic rhythm, and ability to evoke feelings of excitement and motivation.",
+      "attributes": {
+        "Tempo": "High",
+        "Rhythm": "Energetic"
+      }
+    },
+    {
+      "name": "Slow, calming music",
+      "type": "Music Genre",
+      "description": "Slow, calming music is characterized by its slow tempo and soothing qualities. It can lower heart rate and induce relaxation.",
+      "attributes": {
+        "Tempo": "Slow",
+        "Mood Induction": "Relaxation"
+      }
+    },
+    {
+      "name": "concert",
+      "type": "Event",
+      "description": "A concert is a live music performance event where musicians or singers perform in front of an audience. Concerts can be held in various venues, from small clubs to large stadiums.",
+      "attributes": {
+        "Purpose": "To provide a shared musical experience for the audience",
+        "Setting": "Can vary from small clubs to large stadiums"
+      }
+    },
+    {
+      "name": "party",
+      "type": "Event",
+      "description": "A party is a social gathering where people come together to celebrate, have fun, and enjoy music and other activities.",
+      "attributes": {
+        "Purpose": "Celebration and Entertainment",
+        "Atmosphere": "Positive and Social"
+      }
+    },
+    {
+      "name": "classical",
+      "type": "Music Genre",
+      "description": "Classical music is a genre of music that is often associated with feelings of elegance, sophistication, and relaxation. It has the ability to influence emotions and mood in profound ways.",
+      "attributes": {
+        "Emotions Evoked": "elegance, sophistication, relaxation",
+        "Impact on Mood": "significant impact on mood"
+      }
+    },
+    {
+      "name": "rock",
+      "type": "Music Genre",
+      "description": "Rock music is a genre of popular music that originated as \"rock and roll\" in the United States during the 1950s. It has evolved into various subgenres, each with its own distinct characteristics.",
+      "attributes": {
+        "Emotions Evoked": "energy, rebellion, intensity",
+        "Origin": "United States",
+        "Time Period": "1950s - present"
+      }
+    },
+    {
+      "name": "pop",
+      "type": "Music Genre",
+      "description": "Pop music is a popular genre that often evokes feelings of joy, motivation, and relaxation in listeners. It has the ability to transform moods and elevate spirits.",
+      "attributes": {
+        "Emotions Evoked": "joy, motivation, relaxation"
+      }
+    },
+    {
+      "name": "jazz",
+      "type": "Music Genre",
+      "description": "Jazz is a music genre that originated in the African-American communities of New Orleans, United States, in the late 19th and early 20th centuries. It is characterized by its use of blue notes, improvisation, polyrhythms, syncopation, and the swung note.",
+      "attributes": {
+        "Origin": "African-American communities of New Orleans, United States",
+        "Time Period": "Late 19th and early 20th centuries",
+        "Characteristics": "Use of blue notes, improvisation, polyrhythms, syncopation, and the swung note"
+      }
+    },
+    {
+      "name": "electronic",
+      "type": "Music Genre",
+      "description": "Electronic music is a genre that uses electronic instruments and technology to create sound. It can evoke various emotions and feelings in listeners, similar to other genres like classical, rock, pop, and jazz.",
+      "attributes": {
+        "Instruments Used": "Synthesizers, drum machines, samplers",
+        "Technology Used": "Digital audio workstations, software synthesizers, MIDI controllers"
+      }
+    },
+    {
+      "name": "individual preferences",
+      "type": "Concept",
+      "description": "Individual preferences refer to the unique tastes, sensitivities, and emotional needs of a person that influence their reactions to various stimuli, such as music.",
+      "attributes": {
+        "Subjectivity": "Preferences can be highly subjective and vary from person to person.",
+        "Influence Factors": "Past experiences, cultural background, and personal tastes."
+      }
+    },
+    {
+      "name": "past experiences",
+      "type": "Concept",
+      "description": "Past experiences refer to the events, situations, and interactions that have occurred in an individual\"s life prior to the present moment. These experiences can significantly influence a person\"s current behavior, emotions, and responses.",
+      "attributes": {
+        "Influence on Mood": "Can affect how music influences mood",
+        "Subjectivity": "Varies depending on individual preferences, cultural background, and personal history"
+      }
+    },
+    {
+      "name": "cultural background",
+      "type": "Concept",
+      "description": "Cultural background refers to the set of shared attitudes, values, goals, and practices that members of a group or society have in common. It can influence various aspects of an individual\"s life, including their preferences, behaviors, and responses to different stimuli.",
+      "attributes": {
+        "Influence on Music Preferences": "Cultural background can shape an individual\"s music preferences by influencing the types of genres they are exposed to and the emotional connections they form with certain styles of music.",
+        "Impact on Mood Response": "Cultural background can affect how individuals respond emotionally to music, as it influences their past experiences and associations with different musical elements."
+      }
+    },
+    {
+      "name": "emotional well-being",
+      "type": "Concept",
+      "description": "Emotional well-being refers to the state of being content, happy, and emotionally healthy. It is a key aspect of overall mental health.",
+      "attributes": {
+        "Influenced by Music": "Music can enhance or change emotional states, impacting heart rate, blood pressure, and cortisol levels.",
+        "Enhanced through Understanding Mechanisms": "Understanding how music influences mood can help in harnessing its power to improve emotional well-being."
+      }
+    },
+    {
+      "name": "Mood",
+      "type": "Emotional State",
+      "description": "An individual\"s emotional state can be influenced by various factors including music. Music has the ability to enhance or change one\"s mood, providing comfort, motivation, relaxation, or joy.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotions",
+      "type": "Emotional Response",
+      "description": "Emotions are psychological responses that can be positive or negative. Music has the ability to evoke different emotions in listeners, such as happiness, sadness, energy, and relaxation.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotional Well-Being",
+      "type": "Psychological State",
+      "description": "Emotional well-being refers to the state of being content and satisfied with one\"s life. It is influenced by various factors, including emotional responses to music.",
+      "attributes": {}
+    },
+    {
+      "name": "Sense of Belonging and Camaraderie",
+      "type": "Social Connection",
+      "description": "A sense of belonging and camaraderie is a feeling of being part of a group or community. Music can foster this feeling when people listen to it together, such as at concerts or parties.",
+      "attributes": {}
+    },
+    {
+      "name": "genre and style of music",
+      "type": "Music Characteristics",
+      "description": "The genre and style of music refer to the specific characteristics and categories of musical compositions.",
+      "attributes": {}
+    },
+    {
+      "name": "Upbeat and Fast-Paced Music",
+      "type": "Type of Music",
+      "description": "Upbeat and fast-paced music is characterized by a high tempo and energetic rhythm.",
+      "attributes": {}
+    },
+    {
+      "name": "Slow and Calming Music",
+      "type": "Type of Music",
+      "description": "Slow and calming music is characterized by a low tempo and soothing rhythm.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotional State",
+      "type": "Psychological Condition",
+      "description": "Emotional state refers to the current mood or feeling of an individual.",
+      "attributes": {}
+    },
+    {
+      "name": "Music",
+      "type": "Art Form",
+      "description": "Music is an art form that combines sounds and silences in time to create emotional and aesthetic experiences.",
+      "attributes": {}
+    },
+    {
+      "name": "Heart Rate",
+      "type": "Physiological Response",
+      "description": "The rate at which the heart beats, measured in beats per minute.",
+      "attributes": {}
+    },
+    {
+      "name": "Energy Levels",
+      "type": "Physiological Response",
+      "description": "The level of physical or mental energy a person experiences.",
+      "attributes": {}
+    },
+    {
+      "name": "Excitement",
+      "type": "Emotion",
+      "description": "A state of heightened enthusiasm or eagerness.",
+      "attributes": {}
+    },
+    {
+      "name": "Motivation",
+      "type": "Emotion",
+      "description": "A state of being eager to act or work.",
+      "attributes": {}
+    },
+    {
+      "name": "Lower Heart Rate",
+      "type": "Physiological Effect",
+      "description": "A decrease in heart rate, often associated with a state of relaxation.",
+      "attributes": {}
+    },
+    {
+      "name": "Relaxation",
+      "type": "Emotional State",
+      "description": "A feeling of calm and reduced tension.",
+      "attributes": {}
+    },
+    {
+      "name": "Positive Atmosphere",
+      "type": "Social Environment",
+      "description": "An environment characterized by positive emotions and social bonds.",
+      "attributes": {}
+    },
+    {
+      "name": "Sense of Unity and Connection",
+      "type": "Social Bonding",
+      "description": "A feeling of shared experience and connection among listeners.",
+      "attributes": {}
+    },
+    {
+      "name": "Venue",
+      "type": "Location",
+      "description": "A venue is a place where events such as concerts are held. Venues can range from small clubs to large stadiums.",
+      "attributes": {}
+    },
+    {
+      "name": "Audience",
+      "type": "Group of People",
+      "description": "The audience is a group of people who attend concerts to listen to music and experience live performances.",
+      "attributes": {}
+    },
+    {
+      "name": "Musicians or Singers",
+      "type": "Performers",
+      "description": "Musicians or singers are the individuals who perform live music at concerts.",
+      "attributes": {}
+    },
+    {
+      "name": "Unity and Connection",
+      "type": "Social Bonding",
+      "description": "Unity and connection refer to the feeling of being part of a community or group, often strengthened through shared experiences.",
+      "attributes": {}
+    },
+    {
+      "name": "shared space",
+      "type": "Location",
+      "description": "A shared space is a common area where people can gather, such as a living room or community center.",
+      "attributes": {}
+    },
+    {
+      "name": "emotional experience",
+      "type": "Emotion",
+      "description": "The shared emotional experience of listening to music can strengthen social bonds and create a positive atmosphere.",
+      "attributes": {}
+    },
+    {
+      "name": "sense of belonging and camaraderie",
+      "type": "Social Bond",
+      "description": "A sense of belonging and camaraderie is a feeling of connection and community among people.",
+      "attributes": {}
+    },
+    {
+      "name": "emotions and feelings",
+      "type": "Emotional Response",
+      "description": "Emotions and feelings are psychological responses that can be influenced by various stimuli, including music.",
+      "attributes": {}
+    },
+    {
+      "name": "listeners",
+      "type": "People",
+      "description": "Listeners are individuals who consume and experience music, often through various mediums such as live performances, recordings, or streaming services.",
+      "attributes": {}
+    },
+    {
+      "name": "Listeners",
+      "type": "People",
+      "description": "Listeners are individuals who consume and enjoy music.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotions and Feelings",
+      "type": "Emotional Response",
+      "description": "Different genres of music evoke different emotions and feelings in listeners.",
+      "attributes": {}
+    },
+    {
+      "name": "Mood Transformation",
+      "type": "Psychological Effect",
+      "description": "Music has the ability to transform our mood and elevate our spirits.",
+      "attributes": {}
+    },
+    {
+      "name": "Shared Emotional Experience",
+      "type": "Experience",
+      "description": "A shared emotional experience is when multiple individuals feel similar emotions while listening to the same music.",
+      "attributes": {}
+    },
+    {
+      "name": "music selection",
+      "type": "Behavior",
+      "description": "Music selection refers to the choice of musical genres and pieces that an individual listens to.",
+      "attributes": {}
+    },
+    {
+      "name": "Social Bonds",
+      "type": "Concept",
+      "description": "Social bonds refer to the connections and relationships between individuals in a social context.",
+      "attributes": {}
+    },
+    {
+      "name": "Music Preferences",
+      "type": "Concept",
+      "description": "Music preferences refer to the individual\"s favored genres, artists, or styles of music. These preferences can be influenced by various factors including cultural background.",
+      "attributes": {}
+    },
+    {
+      "name": "Mood Response",
+      "type": "Concept",
+      "description": "Mood response refers to the emotional reaction or change in mood that an individual experiences when exposed to music. This can vary widely based on personal and cultural factors.",
+      "attributes": {}
+    },
+    {
+      "name": "Understanding Mechanisms",
+      "type": "Concept",
+      "description": "Understanding the mechanisms behind how music influences mood involves scientific studies and research.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "music",
+      "Influences",
+      "Mood",
+      "Music influences an individual\"s mood through its impact on heart rate, blood pressure, and cortisol levels."
+    ],
+    [
+      "music",
+      "Elicits",
+      "Emotions",
+      "Music elicits various emotional responses in listeners, which can vary depending on individual preferences, past experiences, and cultural background."
+    ],
+    [
+      "music",
+      "Enhances",
+      "Emotional Well-Being",
+      "By understanding how music influences mood, individuals can harness its power to enhance their emotional well-being."
+    ],
+    [
+      "music",
+      "Fosters",
+      "Sense of Belonging and Camaraderie",
+      "Music fosters a sense of belonging and camaraderie among listeners, especially in shared spaces."
+    ],
+    [
+      "mood",
+      "Can Be Influenced By",
+      "music",
+      "Mood can be influenced by music, which has the ability to transform emotional states through evoking memories and associations."
+    ],
+    [
+      "mood",
+      "Can Be Measured By",
+      "heart rate",
+      "Mood can be measured by changes in heart rate, which are influenced by music."
+    ],
+    [
+      "mood",
+      "Can Be Measured By",
+      "blood pressure",
+      "Mood can be measured by changes in blood pressure, which are influenced by music."
+    ],
+    [
+      "mood",
+      "Can Be Measured By",
+      "cortisol levels",
+      "Mood can be measured by changes in cortisol levels, which are influenced by music."
+    ],
+    [
+      "mood",
+      "Can Be Influenced By",
+      "genre and style of music",
+      "Mood can be influenced by the genre and style of music, which have different emotional impacts."
+    ],
+    [
+      "heart rate",
+      "Affected By",
+      "Upbeat and Fast-Paced Music",
+      "Upbeat and fast-paced music can increase heart rate, leading to feelings of excitement and motivation."
+    ],
+    [
+      "heart rate",
+      "Affected By",
+      "Slow and Calming Music",
+      "Slow and calming music can lower heart rate, inducing relaxation."
+    ],
+    [
+      "heart rate",
+      "Indicator Of",
+      "Emotional State",
+      "Heart rate is one of the physiological indicators that can reflect changes in emotional state, such as excitement, relaxation, and stress."
+    ],
+    [
+      "blood pressure",
+      "Impacted By",
+      "music",
+      "Studies have shown that music can impact blood pressure, which is an indicator of emotional state."
+    ],
+    [
+      "cortisol levels",
+      "Impacted By",
+      "Music",
+      "Studies have shown that music can impact cortisol levels, which are indicators of our emotional state."
+    ],
+    [
+      "cortisol levels",
+      "Indicator Of",
+      "Emotional State",
+      "Cortisol levels are indicators of our emotional state, reflecting changes in stress and relaxation."
+    ],
+    [
+      "Upbeat and fast-paced music",
+      "Increases",
+      "Heart Rate",
+      "Upbeat and fast-paced music can increase heart rate due to its high tempo and energetic rhythm."
+    ],
+    [
+      "Upbeat and fast-paced music",
+      "Enhances",
+      "Energy Levels",
+      "Upbeat and fast-paced music can enhance energy levels, leading to feelings of excitement and motivation."
+    ],
+    [
+      "Upbeat and fast-paced music",
+      "Elicits",
+      "Excitement",
+      "Upbeat and fast-paced music can elicit feelings of excitement due to its high tempo and energetic rhythm."
+    ],
+    [
+      "Upbeat and fast-paced music",
+      "Elicits",
+      "Motivation",
+      "Upbeat and fast-paced music can elicit feelings of motivation, encouraging individuals to engage in activities."
+    ],
+    [
+      "Slow, calming music",
+      "Induces",
+      "Lower Heart Rate",
+      "Slow, calming music can lower the listener\"s heart rate."
+    ],
+    [
+      "Slow, calming music",
+      "Induces",
+      "Relaxation",
+      "Slow, calming music can induce a state of relaxation in the listener."
+    ],
+    [
+      "Slow, calming music",
+      "Enhances",
+      "Positive Atmosphere",
+      "Slow, calming music can contribute to a positive atmosphere by enhancing the emotional experience of listeners."
+    ],
+    [
+      "Slow, calming music",
+      "Creates",
+      "Sense of Unity and Connection",
+      "Slow, calming music can create a sense of unity and connection among listeners."
+    ],
+    [
+      "concert",
+      "Held At",
+      "Venue",
+      "Concerts are typically held at venues that accommodate the size of the audience and the nature of the performance."
+    ],
+    [
+      "concert",
+      "Attended By",
+      "Audience",
+      "Concerts are attended by an audience that can vary in size from a few dozen to thousands of people."
+    ],
+    [
+      "concert",
+      "Performed By",
+      "Musicians or Singers",
+      "Concerts feature performances by musicians or singers, who entertain and engage the audience with their music."
+    ],
+    [
+      "concert",
+      "Elicits Emotion",
+      "Emotions",
+      "Concerts elicit a wide range of emotions in the audience, from joy and excitement to nostalgia and sadness."
+    ],
+    [
+      "concert",
+      "Creates Sense Of",
+      "Unity and Connection",
+      "Concerts create a sense of unity and connection among the audience members, fostering social bonds and a positive atmosphere."
+    ],
+    [
+      "party",
+      "Held At",
+      "shared space",
+      "Parties are often held in shared spaces where people can come together and enjoy music."
+    ],
+    [
+      "party",
+      "Involves",
+      "music",
+      "Parties often involve listening to music, which can enhance or change the emotional state of attendees."
+    ],
+    [
+      "party",
+      "Enhances",
+      "emotional experience",
+      "Parties enhance the emotional experience of attendees by providing a setting where they can share music and connect with others."
+    ],
+    [
+      "party",
+      "Creates",
+      "sense of belonging and camaraderie",
+      "Parties create a sense of belonging and camaraderie by bringing people together in a shared space to enjoy music and other activities."
+    ],
+    [
+      "classical",
+      "Associated With",
+      "emotions and feelings",
+      "Classical music is often associated with evoking emotions of elegance, sophistication, and relaxation."
+    ],
+    [
+      "classical",
+      "Influences",
+      "mood",
+      "Classical music has the ability to influence mood in profound ways."
+    ],
+    [
+      "rock",
+      "Evokes Emotions In",
+      "listeners",
+      "Rock music evokes feelings of energy, rebellion, and intensity in listeners."
+    ],
+    [
+      "rock",
+      "Triggers Memories In",
+      "listeners",
+      "Rock music can trigger memories of past experiences in listeners."
+    ],
+    [
+      "rock",
+      "Enhances Emotional State Of",
+      "listeners",
+      "Rock music has the ability to enhance or change the emotional state of listeners."
+    ],
+    [
+      "rock",
+      "Strengthens Social Bonds With",
+      "listeners",
+      "The shared emotional experience of listening to rock music can strengthen social bonds among listeners."
+    ],
+    [
+      "pop",
+      "Elicits Emotion In",
+      "Listeners",
+      "Pop music has the ability to evoke emotions such as joy, motivation, and relaxation in listeners."
+    ],
+    [
+      "pop",
+      "Transforms Mood Of",
+      "Listeners",
+      "Pop music can transform the mood of listeners, elevating their spirits and providing comfort or motivation."
+    ],
+    [
+      "jazz",
+      "Elicits Emotion",
+      "Emotions and Feelings",
+      "Jazz, as a genre, can elicit various emotions and feelings in listeners."
+    ],
+    [
+      "jazz",
+      "Influences Mood",
+      "Mood Transformation",
+      "Jazz can influence the listener\"s mood, potentially leading to feelings of comfort, motivation, relaxation, or joy."
+    ],
+    [
+      "jazz",
+      "Enhances Social Bonding",
+      "Sense of Belonging and Camaraderie",
+      "Listening to jazz in a shared space or at a concert can enhance social bonding among listeners."
+    ],
+    [
+      "electronic",
+      "Elicits Emotions In",
+      "Listeners",
+      "Electronic music can evoke different emotions and feelings in listeners, similar to other genres."
+    ],
+    [
+      "electronic",
+      "Is Part Of",
+      "Music",
+      "Electronic music is one of the genres within the broader category of music."
+    ],
+    [
+      "electronic",
+      "Can Enhance Or Change",
+      "Emotional State",
+      "Electronic music, like other genres, has the ability to enhance or change a listener\"s emotional state."
+    ],
+    [
+      "electronic",
+      "Strengthens Social Bonds Through",
+      "Shared Emotional Experience",
+      "The shared emotional experience of listening to electronic music can strengthen social bonds and create a positive atmosphere."
+    ],
+    [
+      "individual preferences",
+      "Affect",
+      "mood",
+      "Individual preferences significantly affect how music influences a person\"s mood."
+    ],
+    [
+      "individual preferences",
+      "Influence",
+      "music selection",
+      "Individual preferences guide the selection of music, leading individuals to gravitate towards specific genres based on their emotional needs and preferences."
+    ],
+    [
+      "past experiences",
+      "Triggered By",
+      "Music",
+      "Listening to music can trigger memories of past experiences, both positive and negative."
+    ],
+    [
+      "past experiences",
+      "Influence On",
+      "Emotions",
+      "Past experiences can influence the emotions evoked by music, leading to feelings of joy, nostalgia, sorrow, or melancholy."
+    ],
+    [
+      "past experiences",
+      "Influence On",
+      "Social Bonds",
+      "Past experiences can strengthen social bonds through shared emotional experiences of listening to music."
+    ],
+    [
+      "cultural background",
+      "Influences",
+      "Music Preferences",
+      "Cultural background influences an individual\"s music preferences by shaping their exposure and emotional connections to certain musical genres."
+    ],
+    [
+      "cultural background",
+      "Affects",
+      "Mood Response",
+      "Cultural background affects how individuals respond emotionally to music, as it influences their past experiences and associations with different musical elements."
+    ],
+    [
+      "emotional well-being",
+      "Impacted by",
+      "Music",
+      "Music can impact heart rate, blood pressure, and cortisol levels, all indicators of emotional state."
+    ],
+    [
+      "emotional well-being",
+      "Enhanced by",
+      "Understanding Mechanisms",
+      "By understanding these mechanisms, individuals can better harness the power of music to enhance their emotional well-being."
+    ],
+    [
+      "emotional well-being",
+      "Strengthened by",
+      "Social Bonds",
+      "The shared emotional experience of listening to music can strengthen social bonds, contributing to a positive atmosphere and enhanced emotional well-being."
+    ]
+  ]
+}

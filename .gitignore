@@ -5,6 +5,7 @@ note.txt
 data/raw
 data/naive_rag
 output.txt
+RAKG
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

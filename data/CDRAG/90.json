@@ -1,0 +1,926 @@
+{
+  "entities": [
+    {
+      "name": "Memory Formation",
+      "type": "Cognitive Process",
+      "description": "Memory formation is a complex and multifaceted process that involves the encoding, storage, and retrieval of information in the brain. It plays a crucial role in learning, cognitive performance, and overall well-being.",
+      "attributes": {
+        "Stages": "Encoding, Storage, Retrieval",
+        "Importance": "Essential for daily functioning and well-being",
+        "Involves": "Neural networks, synaptic plasticity, long-term potentiation",
+        "Factors Influencing": "Emotion, attention, sleep"
+      }
+    },
+    {
+      "name": "sensory information",
+      "type": "Information Type",
+      "description": "Sensory information refers to the data or signals received by the brain through sensory organs such as sight, sound, touch, taste, and smell.",
+      "attributes": {
+        "Source": "External stimuli",
+        "Types": "Sight, Sound, Touch, Taste, Smell"
+      }
+    },
+    {
+      "name": "sight",
+      "type": "Sense",
+      "description": "Sight, also known as vision, is one of the five primary senses that allows organisms to perceive and interpret visual information from their environment.",
+      "attributes": {
+        "Function": "Perceiving visual information",
+        "Importance": "Critical for memory formation, learning, decision-making, and navigating the world"
+      }
+    },
+    {
+      "name": "sound",
+      "type": "Sensory Stimulus",
+      "description": "Sound is one of the sensory stimuli that can be perceived through the sense of hearing. It plays a crucial role in memory formation and cognitive processes.",
+      "attributes": {
+        "Type": "Auditory",
+        "Perception Mechanism": "Hearing"
+      }
+    },
+    {
+      "name": "touch",
+      "type": "Sensory Modality",
+      "description": "Touch is one of the five primary senses, which involves the perception of external stimuli through physical contact with the skin.",
+      "attributes": {
+        "Type": "Sensory Input",
+        "Function": "Perception of Physical Contact and Texture"
+      }
+    },
+    {
+      "name": "taste",
+      "type": "Sensory Modality",
+      "description": "Taste is one of the five primary senses, responsible for detecting flavors and chemical substances in food and other materials.",
+      "attributes": {
+        "Function": "Detecting flavors and chemical substances",
+        "Sensory Modality Type": "Chemical sense"
+      }
+    },
+    {
+      "name": "smell",
+      "type": "Sensory Modality",
+      "description": "Smell, also known as olfaction, is one of the five primary senses that allows organisms to detect and identify chemical substances in the environment.",
+      "attributes": {
+        "Type": "Chemical Sensation",
+        "Function": "Detecting Chemical Substances"
+      }
+    },
+    {
+      "name": "prefrontal cortex",
+      "type": "Brain Region",
+      "description": "The prefrontal cortex is a part of the brain located in the frontal lobes, playing critical roles in memory formation and higher cognitive functions.",
+      "attributes": {
+        "Location": "Frontal Lobes",
+        "Function": "Critical roles in memory formation and higher cognitive functions"
+      }
+    },
+    {
+      "name": "episodic memories",
+      "type": "Memory Type",
+      "description": "Episodic memories are related to specific events and experiences, often better remembered due to the activation of the amygdala and other limbic structures that enhance memory encoding.",
+      "attributes": {
+        "Type": "Specific Events and Experiences",
+        "Enhancement Mechanism": "Activation of Amygdala and Limbic Structures"
+      }
+    },
+    {
+      "name": "procedural memories",
+      "type": "Memory Type",
+      "description": "Procedural memories are related to skills and habits, such as riding a bicycle or tying shoelaces.",
+      "attributes": {
+        "Type of Memory": "Implicit",
+        "Storage Location": "cerebellum and motor cortex"
+      }
+    },
+    {
+      "name": "motor cortex",
+      "type": "Brain Region",
+      "description": "The motor cortex is a part of the brain that plays a crucial role in the planning, control, and execution of voluntary movements.",
+      "attributes": {
+        "Function": "Planning, control, and execution of voluntary movements"
+      }
+    },
+    {
+      "name": "neocortex",
+      "type": "Brain Region",
+      "description": "The neocortex is the outer layer of the cerebral cortex in the brain, responsible for higher-order functions such as sensory perception, spatial reasoning, conscious thought, and language.",
+      "attributes": {
+        "Function": "Higher-order cognitive functions including sensory perception, spatial reasoning, conscious thought, and language",
+        "Location": "Outer layer of the cerebral cortex"
+      }
+    },
+    {
+      "name": "neuroimaging techniques",
+      "type": "Medical Technology",
+      "description": "Neuroimaging techniques are methods used to directly or indirectly image the structure, function, or pharmacology of the brain. They allow researchers and clinicians to observe brain activity in real time during various cognitive tasks.",
+      "attributes": {
+        "Examples": "functional magnetic resonance imaging (fMRI), electroencephalography (EEG)",
+        "Purpose": "To observe brain activity and provide insights into neural networks involved in cognitive processes such as memory formation"
+      }
+    },
+    {
+      "name": "electroencephalography (EEG)",
+      "type": "Neuroimaging Technique",
+      "description": "Electroencephalography (EEG) is a neuroimaging technique that measures electrical activity in the brain using electrodes placed on the scalp.",
+      "attributes": {
+        "Measurement Type": "Electrical Activity",
+        "Placement of Electrodes": "On the Scalp"
+      }
+    },
+    {
+      "name": "memory tasks",
+      "type": "Concept",
+      "description": "Memory tasks are cognitive activities designed to test or enhance memory function. These tasks often involve the recall, recognition, and storage of information.",
+      "attributes": {
+        "Purpose": "To test or enhance memory function",
+        "Involves": "Recall, recognition, and storage of information"
+      }
+    },
+    {
+      "name": "emotion",
+      "type": "Psychological Phenomenon",
+      "description": "Emotion refers to complex psychological states that involve subjective experiences, physiological responses, and behavioral expressions. Emotions play a crucial role in memory formation and other cognitive processes.",
+      "attributes": {
+        "Influence on Memory Formation": "Enhances memory encoding through the activation of the amygdala and other limbic structures",
+        "Role in Cognitive Processes": "Crucial for learning, decision-making, and navigating the world around us"
+      }
+    },
+    {
+      "name": "attention",
+      "type": "Cognitive Process",
+      "description": "Attention is a cognitive process that involves focusing on specific stimuli or information while filtering out other distractions. It plays a crucial role in memory formation and cognitive performance.",
+      "attributes": {
+        "Importance in Memory Formation": "Critical",
+        "Function": "Filtering and Prioritizing Information for Storage"
+      }
+    },
+    {
+      "name": "sleep",
+      "type": "Biological Process",
+      "description": "Sleep is a naturally recurring state of mind and body, characterized by altered consciousness, relatively inhibited sensory activity, reduced muscle activity, and inhibition of nearly all voluntary muscles during rapid eye movement (REM) sleep.",
+      "attributes": {
+        "Function": "Facilitates memory consolidation",
+        "Process Involvement": "Reactivation and strengthening of memory traces",
+        "Role in Memory Formation": "Crucial role, especially with factors such as emotion and attention"
+      }
+    },
+    {
+      "name": "learning",
+      "type": "Cognitive Process",
+      "description": "Learning is a cognitive process that involves the acquisition of knowledge, skills, and behaviors through experience, study, or being taught.",
+      "attributes": {
+        "Definition": "A cognitive process involving the acquisition of knowledge, skills, and behaviors.",
+        "Mechanism": "Involves memory formation, storage, retrieval, and synaptic plasticity."
+      }
+    },
+    {
+      "name": "memory disorders",
+      "type": "Medical Condition",
+      "description": "Memory disorders are conditions that affect the ability to form, retain, and recall memories. They can be caused by various factors including neurological damage, aging, and other medical conditions.",
+      "attributes": {
+        "Causes": "Neurological damage, aging, and other medical conditions",
+        "Impact on Cognitive Processes": "Affect the ability to form, retain, and recall memories"
+      }
+    },
+    {
+      "name": "Brain",
+      "type": "Organ",
+      "description": "The brain is the central organ of the nervous system and plays a critical role in cognitive processes.",
+      "attributes": {}
+    },
+    {
+      "name": "Hippocampus",
+      "type": "Brain Structure",
+      "description": "The hippocampus is a region of the brain that plays a central role in memory processing and consolidation.",
+      "attributes": {}
+    },
+    {
+      "name": "Amygdala",
+      "type": "Brain Structure",
+      "description": "The amygdala is a brain structure involved in the processing of emotions.",
+      "attributes": {}
+    },
+    {
+      "name": "Prefrontal Cortex",
+      "type": "Brain Structure",
+      "description": "The prefrontal cortex is a region of the brain involved in higher-order cognitive functions.",
+      "attributes": {}
+    },
+    {
+      "name": "Neocortex",
+      "type": "Brain Structure",
+      "description": "The neocortex is the outer layer of the cerebral hemispheres and is involved in higher-order cognitive functions.",
+      "attributes": {}
+    },
+    {
+      "name": "Cerebellum",
+      "type": "Brain Structure",
+      "description": "The cerebellum is involved in motor control and some cognitive functions.",
+      "attributes": {}
+    },
+    {
+      "name": "Sleep",
+      "type": "Biological Process",
+      "description": "Sleep is a biological process that is essential for various physiological and cognitive functions.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotion",
+      "type": "Psychological State",
+      "description": "Emotion refers to a complex state of feeling that results in physical and psychological changes.",
+      "attributes": {}
+    },
+    {
+      "name": "Attention",
+      "type": "Cognitive Function",
+      "description": "Attention is the ability to focus on specific stimuli while ignoring others.",
+      "attributes": {}
+    },
+    {
+      "name": "Synaptic Plasticity",
+      "type": "Neurobiological Mechanism",
+      "description": "Synaptic plasticity refers to the ability of synapses to strengthen or weaken over time, in response to increases or decreases in their activity.",
+      "attributes": {}
+    },
+    {
+      "name": "Long-Term Potentiation",
+      "type": "Neurobiological Mechanism",
+      "description": "Long-term potentiation (LTP) is a persistent strengthening of synapses based on recent patterns of activity.",
+      "attributes": {}
+    },
+    {
+      "name": "Neural Networks",
+      "type": "Biological System",
+      "description": "Neural networks are interconnected groups of neurons that work together to process and transmit information.",
+      "attributes": {}
+    },
+    {
+      "name": "Encoding Process",
+      "type": "Biological Process",
+      "description": "The process of converting sensory information into a form that can be stored in the brain.",
+      "attributes": {}
+    },
+    {
+      "name": "senses",
+      "type": "Category",
+      "description": "Senses are physiological capacities of organisms that provide data for perception. The senses and their operation, classification, and theory are overlapping topics studied by cognitive sciences, psychology, neuroscience, and physiology.",
+      "attributes": {}
+    },
+    {
+      "name": "memory formation",
+      "type": "Cognitive Process",
+      "description": "Memory formation is a complex process that involves encoding, consolidation, and retrieval of information. It is essential for learning and decision-making.",
+      "attributes": {}
+    },
+    {
+      "name": "cognitive performance",
+      "type": "Cognitive Function",
+      "description": "Cognitive performance refers to the efficiency and effectiveness of cognitive processes, including memory, attention, reasoning, and problem-solving.",
+      "attributes": {}
+    },
+    {
+      "name": "sensory stimulus",
+      "type": "Sensory Stimulus Category",
+      "description": "A sensory stimulus is any form of energy that can be detected by the senses and processed by the brain.",
+      "attributes": {}
+    },
+    {
+      "name": "hearing",
+      "type": "Sensory Modality",
+      "description": "Hearing is the sense that allows organisms to detect and interpret sound waves.",
+      "attributes": {}
+    },
+    {
+      "name": "brain",
+      "type": "Organ",
+      "description": "The brain is the central organ of the nervous system and plays a crucial role in processing sensory information.",
+      "attributes": {}
+    },
+    {
+      "name": "Synaptic Connections",
+      "type": "Biological Structure",
+      "description": "Synaptic connections are the junctions between neurons where signals are transmitted.",
+      "attributes": {}
+    },
+    {
+      "name": "Learning and Decision-Making",
+      "type": "Cognitive Process",
+      "description": "Learning and decision-making are cognitive processes that involve acquiring new information and using it to make choices.",
+      "attributes": {}
+    },
+    {
+      "name": "External Stimuli Perception",
+      "type": "Cognitive Process",
+      "description": "The perception of external stimuli through our senses, such as sight, sound, touch, taste, and smell.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Encoding",
+      "type": "Neurological Process",
+      "description": "The process by which information is transformed into a form that can be stored and retrieved from memory.",
+      "attributes": {}
+    },
+    {
+      "name": "Sensory Perception",
+      "type": "Cognitive Process",
+      "description": "Sensory perception is the process by which sensory information from the environment is detected, processed, and interpreted.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Formation Process",
+      "type": "Biological Process",
+      "description": "The process by which the brain encodes, stores, and retrieves information.",
+      "attributes": {}
+    },
+    {
+      "name": "hippocampus",
+      "type": "Brain Region",
+      "description": "The hippocampus is a part of the brain located in the medial temporal lobe and plays a crucial role in memory formation, especially for episodic memories.",
+      "attributes": {}
+    },
+    {
+      "name": "amygdala",
+      "type": "Brain Region",
+      "description": "The amygdala is a small, almond-shaped structure located deep within the temporal lobes of the brain. It plays a key role in processing emotions and enhancing memory encoding.",
+      "attributes": {}
+    },
+    {
+      "name": "limbic structures",
+      "type": "Brain Region",
+      "description": "Limbic structures include several brain regions such as the hippocampus, amygdala, and hypothalamus. They are involved in emotional responses and memory formation.",
+      "attributes": {}
+    },
+    {
+      "name": "cerebellum",
+      "type": "Brain Region",
+      "description": "The cerebellum is a region of the brain that plays an important role in motor control and coordination.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Research",
+      "type": "Research Field",
+      "description": "The study of how memories are formed, consolidated, and retrieved in the brain.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Activity Observation",
+      "type": "Research Method",
+      "description": "The process of observing and measuring brain activity using various imaging techniques.",
+      "attributes": {}
+    },
+    {
+      "name": "Functional Magnetic Resonance Imaging (fMRI)",
+      "type": "Neuroimaging Technique",
+      "description": "Functional magnetic resonance imaging (fMRI) is a neuroimaging technique that measures brain activity by detecting changes in blood flow.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Activity",
+      "type": "Biological Process",
+      "description": "Brain activity refers to the electrical and metabolic processes that occur in the brain.",
+      "attributes": {}
+    },
+    {
+      "name": "fMRI (functional magnetic resonance imaging)",
+      "type": "Neuroimaging Technique",
+      "description": "fMRI is a neuroimaging technique that measures brain activity by detecting changes in blood flow. It allows researchers to observe brain activity in real time during cognitive tasks.",
+      "attributes": {}
+    },
+    {
+      "name": "EEG (electroencephalography)",
+      "type": "Neuroimaging Technique",
+      "description": "EEG is a neuroimaging technique that measures brain activity by recording electrical activity along the scalp. It allows researchers to observe brain activity in real time during cognitive tasks.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Consolidation",
+      "type": "Biological Process",
+      "description": "The process by which new information is encoded and stored in the brain, making it more stable and accessible for later recall.",
+      "attributes": {}
+    },
+    {
+      "name": "Neurons",
+      "type": "Cell Type",
+      "description": "The basic functional units of the nervous system, responsible for transmitting information throughout the body.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Function",
+      "type": "Cognitive Ability",
+      "description": "The ability to encode, store, and retrieve information.",
+      "attributes": {}
+    },
+    {
+      "name": "Memory Retrieval",
+      "type": "Cognitive Process",
+      "description": "The process of accessing and bringing to mind stored information.",
+      "attributes": {}
+    },
+    {
+      "name": "Cognitive Performance",
+      "type": "Cognitive Ability",
+      "description": "The overall effectiveness of cognitive functions such as attention, memory, and problem-solving.",
+      "attributes": {}
+    },
+    {
+      "name": "Cognitive Processes",
+      "type": "Category",
+      "description": "A group of mental processes that include perception, attention, memory, language, problem-solving, and decision-making.",
+      "attributes": {}
+    },
+    {
+      "name": "cognitive processes",
+      "type": "Cognitive Function",
+      "description": "Cognitive processes are mental operations that include perception, attention, memory, language, and problem-solving.",
+      "attributes": {}
+    },
+    {
+      "name": "memory storage",
+      "type": "Biological Process",
+      "description": "Memory storage is the process by which information is retained over time in the brain.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Memory Formation",
+      "Occurs In",
+      "Brain",
+      "Memory formation occurs within the brain, involving various regions and neural networks."
+    ],
+    [
+      "Memory Formation",
+      "Involves Region",
+      "Hippocampus",
+      "Memory formation involves the hippocampus, which is crucial for encoding and consolidating episodic memories."
+    ],
+    [
+      "Memory Formation",
+      "Involves Region",
+      "Amygdala",
+      "Memory formation involves the amygdala, which enhances memory encoding for emotionally charged events."
+    ],
+    [
+      "Memory Formation",
+      "Involves Region",
+      "Prefrontal Cortex",
+      "Memory formation involves the prefrontal cortex, which plays a role in attention and memory processing."
+    ],
+    [
+      "Memory Formation",
+      "Involves Region",
+      "Neocortex",
+      "Memory formation involves the neocortex, which plays a role in long-term memory storage."
+    ],
+    [
+      "Memory Formation",
+      "Involves Region",
+      "Cerebellum",
+      "Memory formation involves the cerebellum, which plays a role in procedural memory."
+    ],
+    [
+      "Memory Formation",
+      "Enhanced By",
+      "Sleep",
+      "Memory formation is enhanced by sleep, which helps in the consolidation of memories."
+    ],
+    [
+      "Memory Formation",
+      "Influenced By",
+      "Emotion",
+      "Memory formation is influenced by emotion, with emotionally charged events being more likely to be remembered."
+    ],
+    [
+      "Memory Formation",
+      "Influenced By",
+      "Attention",
+      "Memory formation is influenced by attention, with focused attention improving memory encoding."
+    ],
+    [
+      "Memory Formation",
+      "Involves Process",
+      "Synaptic Plasticity",
+      "Memory formation involves synaptic plasticity, which is essential for the modification and storage of memories."
+    ],
+    [
+      "Memory Formation",
+      "Involves Process",
+      "Long-Term Potentiation",
+      "Memory formation involves long-term potentiation, which is a key mechanism for the consolidation of memories."
+    ],
+    [
+      "Memory Formation",
+      "Involves Process",
+      "Neural Networks",
+      "Memory formation involves neural networks, which coordinate the various stages of memory processing."
+    ],
+    [
+      "sensory information",
+      "Converted By",
+      "Encoding Process",
+      "Sensory information is converted by the encoding process to be stored in the brain."
+    ],
+    [
+      "sensory information",
+      "Received By",
+      "Brain",
+      "Sensory information is received by the brain through sensory organs."
+    ],
+    [
+      "sensory information",
+      "Influences",
+      "Memory Formation",
+      "Sensory information influences memory formation by being a key component in the encoding process."
+    ],
+    [
+      "sensory information",
+      "Strengthened By",
+      "Synaptic Plasticity",
+      "Sensory information can be strengthened by synaptic plasticity, enhancing the storage and retrieval of memories."
+    ],
+    [
+      "sight",
+      "Is a Type of",
+      "senses",
+      "Sight is one of the five primary senses."
+    ],
+    [
+      "sight",
+      "Contributes to",
+      "memory formation",
+      "Sight contributes to memory formation by providing visual information that can be encoded and stored."
+    ],
+    [
+      "sight",
+      "Enhances",
+      "cognitive performance",
+      "Sight enhances cognitive performance by providing visual cues that aid in learning and decision-making."
+    ],
+    [
+      "sight",
+      "Requires",
+      "attention",
+      "Sight requires attention to effectively process and prioritize visual information."
+    ],
+    [
+      "sound",
+      "Is a Type of",
+      "sensory stimulus",
+      "Sound is a type of sensory stimulus that is perceived through the sense of hearing."
+    ],
+    [
+      "sound",
+      "Contributes To",
+      "memory formation",
+      "Sound contributes to memory formation through its perception and processing by the brain."
+    ],
+    [
+      "sound",
+      "Is Perceived By",
+      "hearing",
+      "Sound is perceived by the sense of hearing."
+    ],
+    [
+      "sound",
+      "Is Processed By",
+      "brain",
+      "Sound is processed by the brain, which forms connections between neurons to store and organize incoming auditory information."
+    ],
+    [
+      "touch",
+      "Contributes To",
+      "Memory Formation",
+      "Touch contributes to memory formation by providing sensory input that can be integrated with other modalities during perception."
+    ],
+    [
+      "touch",
+      "Activates",
+      "Neural Networks",
+      "Touch activates neural networks involved in sensory processing, which can lead to the reconstruction of memories."
+    ],
+    [
+      "touch",
+      "Strengthens or Weakens",
+      "Synaptic Connections",
+      "Touch can influence synaptic plasticity, leading to the strengthening or weakening of synaptic connections over time."
+    ],
+    [
+      "touch",
+      "Influences",
+      "Learning and Decision-Making",
+      "Touch influences learning and decision-making by providing sensory input that is crucial for understanding the environment."
+    ],
+    [
+      "taste",
+      "Is a Part of",
+      "External Stimuli Perception",
+      "Taste is one of the sensory modalities involved in the perception of external stimuli."
+    ],
+    [
+      "taste",
+      "Contributes to",
+      "Memory Encoding",
+      "Taste, along with other sensory modalities, contributes to the encoding of memories, especially in emotionally charged events."
+    ],
+    [
+      "taste",
+      "Influences",
+      "Synaptic Plasticity",
+      "Taste experiences can influence synaptic plasticity, thereby affecting the modification of synaptic connections in response to experience and learning."
+    ],
+    [
+      "smell",
+      "Contributes To",
+      "Memory Encoding",
+      "Smell, along with other sensory modalities, contributes to the activation of neural networks involved in memory encoding."
+    ],
+    [
+      "smell",
+      "Activates",
+      "Neural Networks",
+      "Smell activates neural networks in the brain, which play a role in memory retrieval and perception."
+    ],
+    [
+      "smell",
+      "Is Part Of",
+      "Sensory Perception",
+      "Smell is one of the five primary senses that contribute to sensory perception."
+    ],
+    [
+      "prefrontal cortex",
+      "Participates In",
+      "Memory Formation Process",
+      "The prefrontal cortex plays a critical role in the memory formation process."
+    ],
+    [
+      "prefrontal cortex",
+      "Interacts With",
+      "Hippocampus",
+      "The prefrontal cortex interacts with the hippocampus during memory processing and consolidation."
+    ],
+    [
+      "prefrontal cortex",
+      "Interacts With",
+      "Amygdala",
+      "The prefrontal cortex interacts with the amygdala during memory processing and consolidation."
+    ],
+    [
+      "episodic memories",
+      "Stored In",
+      "hippocampus",
+      "Episodic memories are typically stored in the hippocampus."
+    ],
+    [
+      "episodic memories",
+      "Enhanced By",
+      "amygdala",
+      "Episodic memories are often better remembered due to the activation of the amygdala."
+    ],
+    [
+      "episodic memories",
+      "Enhanced By",
+      "limbic structures",
+      "Episodic memories are often better remembered due to the activation of limbic structures."
+    ],
+    [
+      "procedural memories",
+      "Stored In",
+      "cerebellum",
+      "Procedural memories are stored in the cerebellum."
+    ],
+    [
+      "procedural memories",
+      "Stored In",
+      "motor cortex",
+      "Procedural memories are stored in the motor cortex."
+    ],
+    [
+      "motor cortex",
+      "Stores",
+      "procedural memories",
+      "The motor cortex is involved in storing procedural memories."
+    ],
+    [
+      "neocortex",
+      "Involved In",
+      "Memory Formation",
+      "The neocortex plays a crucial role in the long-term storage of memories after they are initially processed by the hippocampus."
+    ],
+    [
+      "neocortex",
+      "Connected To",
+      "Hippocampus",
+      "The neocortex receives and stores memories that have been processed by the hippocampus."
+    ],
+    [
+      "neuroimaging techniques",
+      "Used In",
+      "Memory Research",
+      "Neuroimaging techniques are used to observe brain activity during memory tasks, providing valuable insights into the neural networks involved in memory formation."
+    ],
+    [
+      "neuroimaging techniques",
+      "Involves",
+      "Brain Activity Observation",
+      "Neuroimaging techniques are used to observe and measure brain activity in real time."
+    ],
+    [
+      "neuroimaging techniques",
+      "Provides Insights Into",
+      "Neural Networks",
+      "Neuroimaging techniques provide insights into the neural networks involved in cognitive processes such as memory formation."
+    ],
+    [
+      "electroencephalography (EEG)",
+      "Used In",
+      "Memory Research",
+      "EEG is used in memory research to observe brain activity during memory tasks."
+    ],
+    [
+      "electroencephalography (EEG)",
+      "Complements",
+      "Functional Magnetic Resonance Imaging (fMRI)",
+      "EEG and fMRI are often used together to provide complementary information about brain activity during memory tasks."
+    ],
+    [
+      "electroencephalography (EEG)",
+      "Observes",
+      "Brain Activity",
+      "EEG is used to observe real-time brain activity during memory tasks."
+    ],
+    [
+      "memory tasks",
+      "Observed Using",
+      "fMRI (functional magnetic resonance imaging)",
+      "Memory tasks are observed using fMRI, which provides insights into the neural networks involved in memory formation."
+    ],
+    [
+      "memory tasks",
+      "Observed Using",
+      "EEG (electroencephalography)",
+      "Memory tasks are observed using EEG, which provides insights into the neural networks involved in memory formation."
+    ],
+    [
+      "memory tasks",
+      "Involves",
+      "Hippocampus",
+      "Memory tasks involve the hippocampus, which is crucial for memory formation."
+    ],
+    [
+      "memory tasks",
+      "Involves",
+      "Amygdala",
+      "Memory tasks involve the amygdala, which is crucial for emotional memory formation."
+    ],
+    [
+      "memory tasks",
+      "Involves",
+      "Prefrontal Cortex",
+      "Memory tasks involve the prefrontal cortex, which is crucial for working memory and other cognitive processes."
+    ],
+    [
+      "memory tasks",
+      "Facilitated By",
+      "Sleep",
+      "Memory tasks are facilitated by sleep, which helps in the consolidation of memories."
+    ],
+    [
+      "emotion",
+      "Affects",
+      "Memory Encoding",
+      "Emotion affects memory encoding, particularly enhancing the recall of emotionally charged events."
+    ],
+    [
+      "emotion",
+      "Influences",
+      "Attention",
+      "Emotion influences attention, which in turn affects memory formation and other cognitive processes."
+    ],
+    [
+      "emotion",
+      "Interacts With",
+      "Sleep",
+      "Emotion interacts with sleep, which is essential for memory consolidation and overall well-being."
+    ],
+    [
+      "attention",
+      "Affects",
+      "memory formation",
+      "Attention helps to filter and prioritize incoming information, which is crucial for effective memory formation."
+    ],
+    [
+      "attention",
+      "Influences",
+      "cognitive performance",
+      "Focused attention enhances cognitive performance by improving the processing and retention of information."
+    ],
+    [
+      "attention",
+      "Interacts With",
+      "emotion",
+      "Both attention and emotion play crucial roles in memory formation, often interacting to enhance or diminish the encoding of information."
+    ],
+    [
+      "attention",
+      "Interacts With",
+      "sleep",
+      "Both attention and sleep are important for memory consolidation, with each influencing the other in various ways."
+    ],
+    [
+      "sleep",
+      "Involves",
+      "Memory Consolidation",
+      "Sleep plays a vital role in memory consolidation, with different stages of sleep involved in processing and strengthening memories."
+    ],
+    [
+      "sleep",
+      "Involves",
+      "Neurons",
+      "Sleep helps to form connections between neurons, which are essential for memory processing and consolidation."
+    ],
+    [
+      "sleep",
+      "Involves",
+      "Hippocampus",
+      "The hippocampus is particularly involved in the processes facilitated by sleep, such as memory reactivation and strengthening."
+    ],
+    [
+      "learning",
+      "Enhances",
+      "Memory Function",
+      "Learning enhances memory function by strengthening neural connections through synaptic plasticity."
+    ],
+    [
+      "learning",
+      "Influences",
+      "Memory Formation",
+      "Learning influences memory formation by providing experiences and information that are encoded into neural networks."
+    ],
+    [
+      "learning",
+      "Depends On",
+      "Memory Retrieval",
+      "Learning depends on memory retrieval, as the ability to recall past experiences is crucial for acquiring new knowledge."
+    ],
+    [
+      "learning",
+      "Contributes To",
+      "Cognitive Performance",
+      "Learning contributes to cognitive performance by improving the brain\"s ability to process and use information effectively."
+    ],
+    [
+      "learning",
+      "Is Part Of",
+      "Cognitive Processes",
+      "Learning is a fundamental cognitive process that plays a crucial role in the broader category of cognitive processes."
+    ],
+    [
+      "memory disorders",
+      "Related To",
+      "cognitive processes",
+      "Memory disorders can provide valuable insights into cognitive processes."
+    ],
+    [
+      "memory disorders",
+      "Involves",
+      "memory formation",
+      "Understanding memory disorders can provide insights into how memories are formed."
+    ],
+    [
+      "memory disorders",
+      "Involves",
+      "memory storage",
+      "Understanding memory disorders can provide insights into how memories are stored."
+    ],
+    [
+      "memory disorders",
+      "Influenced By",
+      "emotion",
+      "Factors such as emotion play crucial roles in memory formation, which can be affected by memory disorders."
+    ],
+    [
+      "memory disorders",
+      "Influenced By",
+      "attention",
+      "Factors such as attention play crucial roles in memory formation, which can be affected by memory disorders."
+    ],
+    [
+      "memory disorders",
+      "Influenced By",
+      "sleep",
+      "Factors such as sleep play crucial roles in memory formation, which can be affected by memory disorders."
+    ],
+    [
+      "memory disorders",
+      "Affects",
+      "episodic memories",
+      "Memory disorders can affect the formation and retention of episodic memories, which are typically stored in the hippocampus."
+    ],
+    [
+      "memory disorders",
+      "Affects",
+      "procedural memories",
+      "Memory disorders can affect the formation and retention of procedural memories, which are often stored in the cerebellum and motor cortex."
+    ]
+  ]
+}

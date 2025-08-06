@@ -1,0 +1,792 @@
+{
+  "entities": [
+    {
+      "name": "Astronaut",
+      "type": "Occupation",
+      "description": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a crew member aboard spacecraft. Astronauts are responsible for conducting scientific experiments, maintaining the space station, and performing various tasks essential for the health and well-being of the crew and the proper functioning of the space station.",
+      "attributes": {
+        "Work Environment": "Space Station",
+        "Daily Routine": "Scientific experiments, maintenance work, exercise, meals, relaxation, socializing with crewmates, preparing for bed",
+        "Physical Fitness Requirement": "High level of physical fitness required to counteract the effects of microgravity on the human body",
+        "Mental Resilience": "High level of dedication, intelligence, and mental resilience",
+        "Tasks": "Conducting scientific research, performing maintenance work, cleaning living quarters, preparing meals, routine checks on station systems"
+      }
+    },
+    {
+      "name": "Space Exploration",
+      "type": "Activity",
+      "description": "Space exploration involves the discovery and investigation of celestial bodies and phenomena in outer space, driven by scientific curiosity and technological advancement.",
+      "attributes": {
+        "Purpose": "To understand the universe, advance technology, and inspire future generations.",
+        "Challenges": "Long-duration missions, maintaining astronaut health, and ensuring mission success."
+      }
+    },
+    {
+      "name": "Universe",
+      "type": "Cosmic Entity",
+      "description": "The Universe encompasses all of space and time, along with all the matter and energy within it. It is a vast expanse that includes galaxies, stars, planets, and other celestial bodies.",
+      "attributes": {
+        "Scale": "Vast",
+        "Components": "Galaxies, Stars, Planets, Celestial Bodies"
+      }
+    },
+    {
+      "name": "space station",
+      "type": "Facility",
+      "description": "A space station is a spacecraft capable of supporting crew members, which serves as a research laboratory and living quarters for astronauts in low Earth orbit.",
+      "attributes": {
+        "Location": "Low Earth Orbit",
+        "Purpose": "Research Laboratory and Living Quarters"
+      }
+    },
+    {
+      "name": "space",
+      "type": "Environment",
+      "description": "Space is the vast, nearly empty expanse that exists beyond Earth\"s atmosphere. It is characterized by its extreme conditions and unique challenges for human habitation and exploration.",
+      "attributes": {
+        "Characteristics": "Vast, nearly empty expanse; extreme conditions",
+        "Location": "Beyond Earth\"s atmosphere"
+      }
+    },
+    {
+      "name": "morning briefing",
+      "type": "Event",
+      "description": "The morning briefing is the first task of the day for astronauts, where they discuss the day\"s activities, review any new instructions from mission control, and address any issues that may have arisen overnight.",
+      "attributes": {
+        "Time of Day": "Morning",
+        "Frequency": "Daily"
+      }
+    },
+    {
+      "name": "mission control",
+      "type": "Organization",
+      "description": "Mission control is responsible for coordinating and managing space missions, providing instructions and support to the crew.",
+      "attributes": {
+        "Role": "Coordinating and Managing Space Missions",
+        "Responsibilities": "Providing Instructions and Support to Crew"
+      }
+    },
+    {
+      "name": "scientific research",
+      "type": "Activity",
+      "description": "Scientific research involves systematic investigation to discover and advance knowledge in various fields of science.",
+      "attributes": {
+        "Purpose": "To test skills, knowledge, and resilience",
+        "Nature": "A demanding and rewarding profession"
+      }
+    },
+    {
+      "name": "maintenance work",
+      "type": "Activity",
+      "description": "Maintenance work involves performing tasks to ensure the proper functioning of systems and equipment on the space station.",
+      "attributes": {
+        "Purpose": "To ensure the proper functioning of the space station\"s systems and equipment",
+        "Frequency": "Regularly, as needed"
+      }
+    },
+    {
+      "name": "station\"s systems or equipment",
+      "type": "Space Station Component",
+      "description": "The station\"s systems and equipment are essential components of the International Space Station, responsible for maintaining its operational integrity and supporting various activities.",
+      "attributes": {
+        "Purpose": "Maintaining operational integrity and supporting crew activities",
+        "Usage": "Used by astronauts for maintenance, scientific research, and daily chores"
+      }
+    },
+    {
+      "name": "microgravity",
+      "type": "Environmental Condition",
+      "description": "Microgravity is an environment where the effects of gravity are significantly reduced, often experienced in space.",
+      "attributes": {
+        "Effect on Human Body": "Can have detrimental effects such as muscle and bone loss"
+      }
+    },
+    {
+      "name": "human body",
+      "type": "Biological Entity",
+      "description": "The human body is the entire structure of a human being, composed of various systems and organs that work together to maintain life.",
+      "attributes": {
+        "Adaptation in Microgravity": "Muscle and bone loss",
+        "Physical Fitness Requirement": "High level of physical fitness required for astronauts"
+      }
+    },
+    {
+      "name": "treadmills",
+      "type": "Exercise Equipment",
+      "description": "Treadmills are specialized exercise equipment used by astronauts to maintain physical fitness in space.",
+      "attributes": {
+        "Purpose": "Maintaining Physical Fitness",
+        "Usage Frequency": "At least two hours each day"
+      }
+    },
+    {
+      "name": "resistance machines",
+      "type": "Equipment",
+      "description": "Resistance machines are specialized exercise equipment used by astronauts to maintain physical fitness during long-duration space missions.",
+      "attributes": {
+        "Purpose": "Maintaining Physical Fitness",
+        "Usage Frequency": "At least two hours each day"
+      }
+    },
+    {
+      "name": "living quarters",
+      "type": "Location",
+      "description": "The living quarters are areas within the space station where astronauts reside and perform daily activities.",
+      "attributes": {
+        "Purpose": "Residence and Daily Activities",
+        "Equipment": "Sleeping bags attached to walls"
+      }
+    },
+    {
+      "name": "Earth",
+      "type": "Planet",
+      "description": "Earth is the third planet from the Sun and the only known celestial body to support life. It is often referred to as the \"Blue Planet\" due to its vast oceans.",
+      "attributes": {
+        "Position in Solar System": "Third planet from the Sun",
+        "Supports Life": "Yes"
+      }
+    },
+    {
+      "name": "downtime",
+      "type": "Activity Period",
+      "description": "Downtime refers to periods of reduced activity or rest during long-duration space missions, crucial for maintaining morale and mental well-being.",
+      "attributes": {
+        "Purpose": "Maintaining Morale and Mental Well-Being",
+        "Context": "Long-Duration Space Missions"
+      }
+    },
+    {
+      "name": "morale",
+      "type": "Concept",
+      "description": "Morale refers to the mental and emotional state of individuals or groups, particularly in terms of their confidence, enthusiasm, and discipline.",
+      "attributes": {
+        "Importance": "Crucial for maintaining well-being during long-duration space missions"
+      }
+    },
+    {
+      "name": "mental well-being",
+      "type": "Concept",
+      "description": "Mental well-being refers to the state of being comfortable, healthy, and happy. It is an important aspect of overall health and quality of life.",
+      "attributes": {
+        "Importance in Space Missions": "Crucial for maintaining morale during long-duration space missions"
+      }
+    },
+    {
+      "name": "sleeping bags",
+      "type": "Object",
+      "description": "Sleeping bags are used by astronauts to prevent them from floating around in their sleep while living and working in space.",
+      "attributes": {
+        "Purpose": "Prevent floating during sleep",
+        "Location": "Attached to the walls of sleeping quarters"
+      }
+    },
+    {
+      "name": "Space Station",
+      "type": "Facility",
+      "description": "A space station is a spacecraft capable of supporting crew members, which is designed to remain in orbit around the Earth or other celestial bodies for extended periods.",
+      "attributes": {}
+    },
+    {
+      "name": "Scientific Experiments",
+      "type": "Activity",
+      "description": "Scientific experiments are systematic investigations designed to discover or verify facts, test hypotheses, or develop new theories.",
+      "attributes": {}
+    },
+    {
+      "name": "Specialized Exercise Equipment",
+      "type": "Equipment",
+      "description": "Specialized exercise equipment includes treadmills and resistance machines designed to help astronauts maintain physical fitness in microgravity.",
+      "attributes": {}
+    },
+    {
+      "name": "Crewmates",
+      "type": "Person",
+      "description": "Crewmates are other astronauts or personnel working together on the same space mission.",
+      "attributes": {}
+    },
+    {
+      "name": "Mission Control",
+      "type": "Organization",
+      "description": "Mission control is a ground-based facility responsible for monitoring and directing space missions.",
+      "attributes": {}
+    },
+    {
+      "name": "Astronauts",
+      "type": "Profession",
+      "description": "Astronauts are trained professionals who travel to space for various missions, including scientific research and maintenance work.",
+      "attributes": {}
+    },
+    {
+      "name": "Specialized Equipment",
+      "type": "Technology",
+      "description": "Specialized equipment includes treadmills, resistance machines, and other tools necessary for maintaining astronaut health and conducting experiments.",
+      "attributes": {}
+    },
+    {
+      "name": "Future Generations",
+      "type": "Group",
+      "description": "Future generations refer to the people who will inherit the knowledge and advancements made through space exploration.",
+      "attributes": {}
+    },
+    {
+      "name": "Strict Schedule",
+      "type": "Regulation",
+      "description": "A strict schedule ensures that all necessary tasks are completed on time, maintaining the health and well-being of the crew and the proper functioning of the space station.",
+      "attributes": {}
+    },
+    {
+      "name": "Maintenance Work",
+      "type": "Operational Activity",
+      "description": "Astronauts perform maintenance work on the space station\"s systems and equipment to ensure its proper functioning.",
+      "attributes": {}
+    },
+    {
+      "name": "Physical Exercise",
+      "type": "Health Activity",
+      "description": "Astronauts spend at least two hours each day exercising to maintain their physical condition in the microgravity environment of space.",
+      "attributes": {}
+    },
+    {
+      "name": "Living and Working Conditions",
+      "type": "Conditions",
+      "description": "The conditions in space are extreme, including microgravity, radiation exposure, and isolation. These conditions present numerous challenges for human habitation and exploration.",
+      "attributes": {}
+    },
+    {
+      "name": "Unique Experiences",
+      "type": "Experiences",
+      "description": "Living in space offers rare and extraordinary experiences, such as viewing Earth from a distance, conducting experiments in microgravity, and experiencing the vastness of the universe.",
+      "attributes": {}
+    },
+    {
+      "name": "Scheduled Breaks",
+      "type": "Routine",
+      "description": "Astronauts have scheduled breaks for meals, relaxation, and socialization to maintain their mental well-being during long-duration missions.",
+      "attributes": {}
+    },
+    {
+      "name": "Scientific Research",
+      "type": "Research",
+      "description": "Astronauts conduct a wide range of scientific experiments in space, contributing to our understanding of various fields such as biology, physics, and materials science.",
+      "attributes": {}
+    },
+    {
+      "name": "astronauts",
+      "type": "Person",
+      "description": "Astronauts are crew members who live and work on spacecraft, conducting various scientific experiments and tasks.",
+      "attributes": {}
+    },
+    {
+      "name": "day\"s activities",
+      "type": "Task",
+      "description": "Tasks that need to be completed during the day, including scientific experiments and maintenance work.",
+      "attributes": {}
+    },
+    {
+      "name": "new instructions from mission control",
+      "type": "Instruction",
+      "description": "Instructions and updates provided by mission control to guide the astronauts\" activities.",
+      "attributes": {}
+    },
+    {
+      "name": "issues that may have arisen overnight",
+      "type": "Issue",
+      "description": "Problems or concerns that occurred while the astronauts were sleeping.",
+      "attributes": {}
+    },
+    {
+      "name": "crew members",
+      "type": "Personnel",
+      "description": "Crew members are the individuals who work on space missions, performing various tasks and experiments.",
+      "attributes": {}
+    },
+    {
+      "name": "daily activities",
+      "type": "Activity Set",
+      "description": "The daily activities of an astronaut include a wide range of tasks such as scientific research, physical exertion, and personal reflection.",
+      "attributes": {}
+    },
+    {
+      "name": "daily chores",
+      "type": "Activity",
+      "description": "Daily chores are routine tasks that astronauts must complete to maintain a healthy and functional living environment on the space station.",
+      "attributes": {}
+    },
+    {
+      "name": "health and well-being of the crew",
+      "type": "Health",
+      "description": "The health and well-being of the crew are crucial for the success of space missions.",
+      "attributes": {}
+    },
+    {
+      "name": "proper functioning of the space station",
+      "type": "Infrastructure",
+      "description": "The proper functioning of the space station is critical for the success of space missions.",
+      "attributes": {}
+    },
+    {
+      "name": "Crew",
+      "type": "Personnel Group",
+      "description": "The crew consists of astronauts who live and work on the International Space Station.",
+      "attributes": {}
+    },
+    {
+      "name": "Muscle Loss",
+      "type": "Health Condition",
+      "description": "A condition where the muscles lose mass and strength, often due to lack of use.",
+      "attributes": {}
+    },
+    {
+      "name": "Bone Loss",
+      "type": "Health Condition",
+      "description": "A condition where the bones lose density and strength, often due to lack of gravitational stress.",
+      "attributes": {}
+    },
+    {
+      "name": "Exercise Regimen",
+      "type": "Health Practice",
+      "description": "A structured program of physical activity designed to maintain or improve health.",
+      "attributes": {}
+    },
+    {
+      "name": "Microgravity",
+      "type": "Environmental Condition",
+      "description": "Microgravity is a condition where gravity is so weak that it has little effect on objects, such as in space.",
+      "attributes": {}
+    },
+    {
+      "name": "Space Station Equipment",
+      "type": "Equipment Set",
+      "description": "The equipment set on a space station includes various tools and machines necessary for the operation and maintenance of the station, as well as for the health and well-being of the crew.",
+      "attributes": {}
+    },
+    {
+      "name": "routine checks",
+      "type": "Activity",
+      "description": "Routine checks are regular inspections and maintenance tasks performed to ensure the proper functioning of the space station\"s systems.",
+      "attributes": {}
+    },
+    {
+      "name": "International Space Station",
+      "type": "Space Station",
+      "description": "The International Space Station (ISS) is a modular space station in low Earth orbit. It serves as a microgravity and space environment research laboratory.",
+      "attributes": {}
+    },
+    {
+      "name": "Evening",
+      "type": "Time Period",
+      "description": "The evening is the latter part of the day, typically after work or school hours and before bedtime.",
+      "attributes": {}
+    },
+    {
+      "name": "Daily Routine",
+      "type": "Activity Schedule",
+      "description": "The daily routine of astronauts includes a wide range of activities from waking up to going to sleep.",
+      "attributes": {}
+    },
+    {
+      "name": "Sleep Time",
+      "type": "Activity Period",
+      "description": "The time when astronauts go to sleep after completing their final check-in with mission control.",
+      "attributes": {}
+    },
+    {
+      "name": "Downtime",
+      "type": "Activity",
+      "description": "Periods of rest and relaxation that are essential for mental health.",
+      "attributes": {}
+    },
+    {
+      "name": "Crew Well-Being",
+      "type": "Concept",
+      "description": "The overall physical and mental health of the crew members.",
+      "attributes": {}
+    },
+    {
+      "name": "Exercise",
+      "type": "Activity",
+      "description": "Physical activity that is a critical part of an astronaut\"s daily routine.",
+      "attributes": {}
+    },
+    {
+      "name": "sleeping quarters",
+      "type": "Location",
+      "description": "Sleeping quarters are designated areas in spacecraft where astronauts rest and sleep.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Astronaut",
+      "Works On",
+      "Space Station",
+      "Astronauts work on and maintain the space station."
+    ],
+    [
+      "Astronaut",
+      "Performs",
+      "Scientific Experiments",
+      "Astronauts perform scientific experiments as part of their daily routine."
+    ],
+    [
+      "Astronaut",
+      "Uses",
+      "Specialized Exercise Equipment",
+      "Astronauts use specialized exercise equipment to stay in peak physical condition."
+    ],
+    [
+      "Astronaut",
+      "Interacts With",
+      "Crewmates",
+      "Astronauts interact with their crewmates during meals, relaxation, and social activities."
+    ],
+    [
+      "Astronaut",
+      "Follows Schedule Set By",
+      "Mission Control",
+      "Astronauts follow the schedule set by mission control to ensure the smooth operation of the space station."
+    ],
+    [
+      "Space Exploration",
+      "Involves",
+      "Astronauts",
+      "Space exploration involves the participation of astronauts who conduct daily activities such as exercise, research, and maintenance."
+    ],
+    [
+      "Space Exploration",
+      "Relies On",
+      "Specialized Equipment",
+      "Space exploration relies on specialized equipment to support the physical well-being of astronauts and facilitate scientific research."
+    ],
+    [
+      "Space Exploration",
+      "Conducted In",
+      "Space Station",
+      "Space exploration activities are conducted within the confines of a space station."
+    ],
+    [
+      "Space Exploration",
+      "Inspires",
+      "Future Generations",
+      "Space exploration inspires future generations by fostering curiosity and a desire to learn about the universe."
+    ],
+    [
+      "Universe",
+      "Includes",
+      "Earth",
+      "The Universe includes Earth, which is a unique planet in our solar system."
+    ],
+    [
+      "Universe",
+      "Includes",
+      "Space Exploration",
+      "The Universe is a primary focus of space exploration, driving human curiosity and scientific discovery."
+    ],
+    [
+      "Universe",
+      "Inspires",
+      "Astronauts",
+      "The Universe inspires many individuals to become astronauts, driven by the fascination with space exploration."
+    ],
+    [
+      "space station",
+      "Operated By",
+      "Astronauts",
+      "The space station is operated by astronauts who follow a strict schedule to ensure its smooth operation."
+    ],
+    [
+      "space station",
+      "Requires",
+      "Strict Schedule",
+      "The space station requires a strict schedule to ensure its smooth operation."
+    ],
+    [
+      "space station",
+      "Hosts",
+      "Scientific Experiments",
+      "The space station hosts a variety of scientific experiments conducted by astronauts."
+    ],
+    [
+      "space station",
+      "Hosts",
+      "Maintenance Work",
+      "The space station hosts maintenance activities necessary for its operation."
+    ],
+    [
+      "space station",
+      "Supports",
+      "Physical Exercise",
+      "The space station supports physical exercise activities for astronauts."
+    ],
+    [
+      "space",
+      "Hosts",
+      "Astronauts",
+      "Space hosts astronauts who live and work on the International Space Station."
+    ],
+    [
+      "space",
+      "Presents Challenges",
+      "Living and Working Conditions",
+      "Space presents unique and challenging living and working conditions that affect the daily routine of astronauts."
+    ],
+    [
+      "space",
+      "Offers Experiences",
+      "Unique Experiences",
+      "Space offers astronauts unique and rare experiences that few people will ever have."
+    ],
+    [
+      "space",
+      "Requires",
+      "Scheduled Breaks",
+      "Space requires astronauts to have structured downtime to support their physical and mental health."
+    ],
+    [
+      "space",
+      "Supports",
+      "Scientific Research",
+      "Space supports extensive scientific research through the activities of astronauts on the International Space Station."
+    ],
+    [
+      "morning briefing",
+      "Held By",
+      "astronauts",
+      "The morning briefing is held by astronauts to coordinate their daily activities."
+    ],
+    [
+      "morning briefing",
+      "Discusses",
+      "day\"s activities",
+      "During the morning briefing, astronauts discuss the tasks they need to complete for the day."
+    ],
+    [
+      "morning briefing",
+      "Reviews",
+      "new instructions from mission control",
+      "Astronauts review any new instructions from mission control during the morning briefing."
+    ],
+    [
+      "morning briefing",
+      "Addresses",
+      "issues that may have arisen overnight",
+      "Astronauts address any issues that arose during the night at the morning briefing."
+    ],
+    [
+      "mission control",
+      "Communicates With",
+      "crew members",
+      "Mission control communicates with crew members to provide instructions and receive reports."
+    ],
+    [
+      "mission control",
+      "Provides Instructions To",
+      "crew members",
+      "Mission control provides new instructions to crew members for their daily activities."
+    ],
+    [
+      "mission control",
+      "Receives Reports From",
+      "crew members",
+      "Mission control receives reports from crew members about their daily activities."
+    ],
+    [
+      "scientific research",
+      "Conducted By",
+      "astronauts",
+      "Some astronauts spend their day conducting scientific research as part of their duties on the International Space Station."
+    ],
+    [
+      "scientific research",
+      "Part Of",
+      "daily activities",
+      "Scientific research is one of the key components of an astronaut\"s daily activities."
+    ],
+    [
+      "maintenance work",
+      "Performed By",
+      "astronauts",
+      "Astronauts perform maintenance work to ensure the proper functioning of the space station\"s systems and equipment."
+    ],
+    [
+      "maintenance work",
+      "Part Of",
+      "daily chores",
+      "Maintenance work is part of the daily chores that astronauts perform."
+    ],
+    [
+      "maintenance work",
+      "Essential For",
+      "health and well-being of the crew",
+      "Maintenance work is essential for ensuring the health and well-being of the crew by maintaining a safe and functional living environment."
+    ],
+    [
+      "maintenance work",
+      "Essential For",
+      "proper functioning of the space station",
+      "Maintenance work is essential for ensuring the proper functioning of the space station by maintaining its systems and equipment."
+    ],
+    [
+      "station\"s systems or equipment",
+      "Requires Maintenance By",
+      "Astronauts",
+      "Astronauts perform maintenance tasks to ensure the proper functioning of the station\"s systems and equipment."
+    ],
+    [
+      "station\"s systems or equipment",
+      "Supports Activities Of",
+      "Crew",
+      "The station\"s systems and equipment support various activities of the crew, including scientific research, maintenance, and daily chores."
+    ],
+    [
+      "station\"s systems or equipment",
+      "Monitored By",
+      "Mission Control",
+      "The station\"s systems and equipment are monitored by Mission Control to ensure their proper functioning."
+    ],
+    [
+      "microgravity",
+      "Causes",
+      "Muscle Loss",
+      "Microgravity can lead to muscle loss in astronauts."
+    ],
+    [
+      "microgravity",
+      "Causes",
+      "Bone Loss",
+      "Microgravity can lead to bone loss in astronauts."
+    ],
+    [
+      "microgravity",
+      "Requires",
+      "Exercise Regimen",
+      "To counteract the detrimental effects of microgravity, astronauts must follow a regular exercise regimen."
+    ],
+    [
+      "human body",
+      "Affected By",
+      "Microgravity",
+      "The human body experiences muscle and bone loss when exposed to microgravity."
+    ],
+    [
+      "human body",
+      "Maintained By",
+      "Exercise Regimen",
+      "Regular exercise regimens are crucial for maintaining the human body\"s muscle and bone density, especially in microgravity."
+    ],
+    [
+      "treadmills",
+      "Used By",
+      "Astronauts",
+      "Treadmills are used by astronauts as part of their daily exercise routine to stay in peak physical condition."
+    ],
+    [
+      "treadmills",
+      "Part Of",
+      "Space Station",
+      "Treadmills are part of the exercise equipment available on the space station to support the physical health of astronauts."
+    ],
+    [
+      "resistance machines",
+      "Used By",
+      "Astronauts",
+      "Resistance machines are used by astronauts to stay in peak physical condition during long-duration space missions."
+    ],
+    [
+      "resistance machines",
+      "Part Of",
+      "Space Station Equipment",
+      "Resistance machines are part of the specialized exercise equipment available on the space station."
+    ],
+    [
+      "living quarters",
+      "Located In",
+      "space station",
+      "The living quarters are located within the space station."
+    ],
+    [
+      "living quarters",
+      "Used By",
+      "astronauts",
+      "The living quarters are used by astronauts for residence and daily activities."
+    ],
+    [
+      "living quarters",
+      "Contains",
+      "sleeping bags",
+      "The living quarters contain sleeping bags attached to the walls to prevent astronauts from floating around during sleep."
+    ],
+    [
+      "living quarters",
+      "Requires Maintenance",
+      "routine checks",
+      "The living quarters require routine checks as part of daily chores."
+    ],
+    [
+      "Earth",
+      "Viewed From",
+      "International Space Station",
+      "Astronauts on the ISS can view breathtaking views of Earth from space."
+    ],
+    [
+      "Earth",
+      "Studied By",
+      "Astronauts",
+      "Astronauts study and marvel at the beauty of Earth from their vantage point in space."
+    ],
+    [
+      "downtime",
+      "Occurs During",
+      "Evening",
+      "Downtime often occurs during the evening as astronauts wind down their activities and prepare for bed."
+    ],
+    [
+      "downtime",
+      "Is Part Of",
+      "Daily Routine",
+      "Downtime is an integral part of the astronauts\" daily routine, helping them relax and maintain their mental health."
+    ],
+    [
+      "downtime",
+      "Precedes",
+      "Sleep Time",
+      "Downtime typically precedes the sleep time, allowing astronauts to unwind before bed."
+    ],
+    [
+      "morale",
+      "Maintained By",
+      "Downtime",
+      "Downtime helps maintain the morale of astronauts during long-duration space missions."
+    ],
+    [
+      "morale",
+      "Affects",
+      "Crew Well-Being",
+      "Morale significantly affects the well-being of the crew, particularly in challenging environments like space missions."
+    ],
+    [
+      "mental well-being",
+      "Maintained By",
+      "Downtime",
+      "Mental well-being is maintained by downtime, which helps in reducing stress and improving morale."
+    ],
+    [
+      "mental well-being",
+      "Enhanced By",
+      "Exercise",
+      "Mental well-being is enhanced by regular exercise, which helps in reducing stress and improving mood."
+    ],
+    [
+      "sleeping bags",
+      "Used By",
+      "astronauts",
+      "Astronauts use sleeping bags to ensure they remain stationary during sleep."
+    ],
+    [
+      "sleeping bags",
+      "Located In",
+      "sleeping quarters",
+      "Sleeping bags are attached to the walls of sleeping quarters."
+    ]
+  ]
+}

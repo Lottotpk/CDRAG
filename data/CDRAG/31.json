@@ -1,0 +1,1120 @@
+{
+  "entities": [
+    {
+      "name": "time zones",
+      "type": "Concept",
+      "description": "Time zones are regions of the Earth that have adopted the same standard time, usually referred to by the number of hours they are offset from Coordinated Universal Time (UTC). They play a crucial role in organizing activities on a global scale and ensuring coordination across vast distances.",
+      "attributes": {
+        "Origin": "Late 19th century",
+        "Proposed By": "Sir Sandford Fleming",
+        "First Standard Time Adoption": "British railway companies in 1847 (Railway Time)",
+        "Number of Time Zones": "24",
+        "Purpose": "To standardize time measurement and synchronize activities across vast distances"
+      }
+    },
+    {
+      "name": "global trade",
+      "type": "Economic Activity",
+      "description": "Global trade refers to the exchange of goods and services between countries, facilitating economic growth and development.",
+      "attributes": {
+        "Impact on Time Zones": "The expansion of global trade contributed to the need for a standardized system of time zones."
+      }
+    },
+    {
+      "name": "transportation networks",
+      "type": "Infrastructure System",
+      "description": "Transportation networks are systems of routes and infrastructure that facilitate the movement of people, goods, and services across various distances.",
+      "attributes": {
+        "Purpose": "Facilitate Movement",
+        "Scope": "Global"
+      }
+    },
+    {
+      "name": "Trains",
+      "type": "Transportation Vehicle",
+      "description": "Trains are a mode of transportation that run on tracks and are used for both passenger and freight transport.",
+      "attributes": {
+        "Purpose": "Passenger and Freight Transport",
+        "Operational Environment": "Tracks"
+      }
+    },
+    {
+      "name": "standard time",
+      "type": "Timekeeping System",
+      "description": "Standard time refers to the uniform system of time used within a specific region or country, typically based on time zones. It was introduced to synchronize schedules and reduce confusion caused by local solar times.",
+      "attributes": {
+        "Introduction Date": "Mid-19th Century",
+        "Purpose": "To synchronize schedules and reduce confusion caused by local solar times"
+      }
+    },
+    {
+      "name": "mid-19th century",
+      "type": "Time Period",
+      "description": "The mid-19th century refers to the period from approximately 1850 to 1870.",
+      "attributes": {
+        "Start Year": "1850",
+        "End Year": "1870"
+      }
+    },
+    {
+      "name": "town or city",
+      "type": "Geographical Location",
+      "description": "A town or city is a human settlement that is larger than a village and smaller than a metropolis. In the context of time zones, each town or city would set its own time based on the local position of the sun before the standardization of time.",
+      "attributes": {
+        "Time Setting Method": "Local Solar Time",
+        "Size": "Larger than a village, smaller than a metropolis"
+      }
+    },
+    {
+      "name": "sun",
+      "type": "Celestial Body",
+      "description": "The sun is the star at the center of the Solar System, providing light and energy to Earth.",
+      "attributes": {
+        "Position in Sky": "Varies throughout the day",
+        "Role in Time Measurement": "Used for local solar time before standardized time zones"
+      }
+    },
+    {
+      "name": "British railway companies",
+      "type": "Organization",
+      "description": "The British railway companies were responsible for the operation and management of railways in Britain during the 19th century. They played a crucial role in the development of standardized timekeeping practices.",
+      "attributes": {
+        "Industry": "Railway",
+        "Time Period": "19th Century"
+      }
+    },
+    {
+      "name": "Sir Sandford Fleming",
+      "type": "Person",
+      "description": "Sir Sandford Fleming was a Canadian engineer who proposed the concept of time zones in the late 19th century.",
+      "attributes": {
+        "Nationality": "Canadian",
+        "Occupation": "Engineer",
+        "Era": "Late 19th century"
+      }
+    },
+    {
+      "name": "Canadian engineer",
+      "type": "Person",
+      "description": "A Canadian engineer who proposed the concept of time zones in the late 19th century.",
+      "attributes": {
+        "Name": "Sir Sandford Fleming",
+        "Nationality": "Canadian",
+        "Occupation": "Engineer",
+        "Time Period": "Late 19th century"
+      }
+    },
+    {
+      "name": "19th century",
+      "type": "Time Period",
+      "description": "The 19th century spans from the year 1801 to 1900. It was a period marked by significant technological, industrial, and social changes.",
+      "attributes": {
+        "Start Year": "1801",
+        "End Year": "1900"
+      }
+    },
+    {
+      "name": "International Meridian Conference",
+      "type": "Event",
+      "description": "The International Meridian Conference was held in Washington, D.C. in 1884 to standardize time zones and adopt a system based on Greenwich Mean Time (GMT).",
+      "attributes": {
+        "Date": "1884",
+        "Location": "Washington, D.C."
+      }
+    },
+    {
+      "name": "1884",
+      "type": "Year",
+      "description": "The year 1884 was significant for the establishment of standard time zones based on Greenwich Mean Time (GMT) at the International Meridian Conference held in Washington, D.C.",
+      "attributes": {
+        "Event": "International Meridian Conference",
+        "Location": "Washington, D.C."
+      }
+    },
+    {
+      "name": "Greenwich Mean Time (GMT)",
+      "type": "Time Standard",
+      "description": "Greenwich Mean Time (GMT) is a time standard based on the mean solar time at the Royal Observatory in Greenwich, London. It serves as the reference point for coordinating time across the globe.",
+      "attributes": {
+        "Reference Point": "Prime Meridian",
+        "Location of Reference": "Greenwich, London"
+      }
+    },
+    {
+      "name": "Greenwich Meridian",
+      "type": "Geographical Line",
+      "description": "The Greenwich Meridian, also known as the Prime Meridian, is a line of longitude that serves as the reference point for measuring time zones and coordinates around the world. It passes through the Royal Observatory in Greenwich, London.",
+      "attributes": {
+        "Location": "Greenwich, London",
+        "Longitude": "0\u00b0"
+      }
+    },
+    {
+      "name": "London",
+      "type": "City",
+      "description": "London, the capital of England and the United Kingdom, is one of the world\"s leading cities known for its history, culture, and global influence.",
+      "attributes": {
+        "Location": "South East England",
+        "Status": "Capital City"
+      }
+    },
+    {
+      "name": "Prime Meridian",
+      "type": "Geographical Reference",
+      "description": "The Prime Meridian, also known as the Greenwich Meridian, is a line of longitude that serves as the reference point for measuring time zones and coordinates around the world.",
+      "attributes": {
+        "Location": "Greenwich, London",
+        "Longitude": "0\u00b0"
+      }
+    },
+    {
+      "name": "United States",
+      "type": "Country",
+      "description": "The United States of America (USA) is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. It is one of the world\"s most influential countries in terms of economic, political, and cultural impact.",
+      "attributes": {
+        "Time Zones": "Eastern, Central, Mountain, Pacific"
+      }
+    },
+    {
+      "name": "Eastern",
+      "type": "Time Zone",
+      "description": "The Eastern Time Zone is one of the four time zones in the United States, covering a significant portion of the eastern part of the country.",
+      "attributes": {
+        "Region Covered": "Eastern Part of the United States"
+      }
+    },
+    {
+      "name": "Central",
+      "type": "Time Zone",
+      "description": "The Central Time Zone is one of the four time zones in the United States, alongside Eastern, Mountain, and Pacific.",
+      "attributes": {
+        "Location": "United States",
+        "Standard Time Offset": "UTC-6:00"
+      }
+    },
+    {
+      "name": "Mountain",
+      "type": "Time Zone",
+      "description": "The Mountain Time Zone is one of the four time zones in the United States, along with Eastern, Central, and Pacific.",
+      "attributes": {
+        "Position": "Third from the East"
+      }
+    },
+    {
+      "name": "Pacific",
+      "type": "Time Zone",
+      "description": "The Pacific Time Zone is one of the four time zones in the United States, covering parts of the western coast and inland areas.",
+      "attributes": {
+        "Location": "Western United States",
+        "Number of Time Zones in US": "4"
+      }
+    },
+    {
+      "name": "Other countries",
+      "type": "Geopolitical Entity Group",
+      "description": "A group of countries that followed the adoption of standard time zones and adjusted their timekeeping practices to align with the new system.",
+      "attributes": {
+        "Time Zone Adoption": "Following the International Meridian Conference",
+        "Time Keeping Practices": "Adjusted to align with standard time zones"
+      }
+    },
+    {
+      "name": "new standard",
+      "type": "Timekeeping System",
+      "description": "The new standard refers to the standardized timekeeping system adopted after the International Meridian Conference, which facilitated global communication and coordination.",
+      "attributes": {
+        "Adoption Event": "International Meridian Conference",
+        "Purpose": "Facilitating global communication and coordination",
+        "Time Period": "Mid-19th century onwards"
+      }
+    },
+    {
+      "name": "Daylight Saving Time (DST)",
+      "type": "Time Practice",
+      "description": "Daylight Saving Time (DST) is the practice of advancing clocks by one hour during the warmer months to extend daylight hours in the evening.",
+      "attributes": {
+        "Purpose": "To extend daylight hours in the evening",
+        "Time Change": "Advancing clocks by one hour",
+        "Seasonal Application": "During warmer months"
+      }
+    },
+    {
+      "name": "20th century",
+      "type": "Time Period",
+      "description": "The 20th century spans from the year 1901 to 2000 and is marked by significant technological, social, and cultural advancements.",
+      "attributes": {
+        "Start Year": "1901",
+        "End Year": "2000"
+      }
+    },
+    {
+      "name": "World War I",
+      "type": "Historical Event",
+      "description": "World War I, also known as the Great War, was a global conflict that lasted from 1914 to 1918. It involved many of the world\"s great powers and resulted in significant political, economic, and social changes.",
+      "attributes": {
+        "Start Date": "1914",
+        "End Date": "1918"
+      }
+    },
+    {
+      "name": "technology",
+      "type": "Concept",
+      "description": "Technology encompasses the tools, methods, and processes used to solve problems and improve human life. It includes a wide range of innovations from simple tools to complex systems.",
+      "attributes": {
+        "Role in Communication": "Enables instant communication and real-time collaboration across vast distances",
+        "Impact on Time Coordination": "Has made coordinating time across different time zones easier than ever"
+      }
+    },
+    {
+      "name": "communication",
+      "type": "Concept",
+      "description": "Communication refers to the exchange of information or news among people through speaking, writing, or using some other medium.",
+      "attributes": {
+        "Purpose": "Exchange of Information",
+        "Mediums": "Speaking, Writing, Digital Media"
+      }
+    },
+    {
+      "name": "Countries around the world",
+      "type": "Country",
+      "description": "Various countries that adopted and implemented the standardized system of time zones following the International Meridian Conference.",
+      "attributes": {}
+    },
+    {
+      "name": "global telecommunications networks",
+      "type": "Technology Infrastructure",
+      "description": "Global telecommunications networks enable instant communication and real-time collaboration across vast distances.",
+      "attributes": {}
+    },
+    {
+      "name": "standard time zones",
+      "type": "Time System",
+      "description": "Standard time zones are a system of timekeeping based on Greenwich Mean Time (GMT), adopted to facilitate global communication and coordination.",
+      "attributes": {}
+    },
+    {
+      "name": "local time systems",
+      "type": "Time System",
+      "description": "Local time systems are based on the solar time at a specific location, which can vary significantly across different regions.",
+      "attributes": {}
+    },
+    {
+      "name": "Local Time",
+      "type": "Time System",
+      "description": "Local time is a system where each town or region sets its own time based on the position of the sun.",
+      "attributes": {}
+    },
+    {
+      "name": "Railway Time",
+      "type": "Time System",
+      "description": "Railway Time is a standardized time system adopted by British railway companies in 1847.",
+      "attributes": {}
+    },
+    {
+      "name": "Time Zone System",
+      "type": "Geographical Standardization",
+      "description": "The time zone system is a global standard for dividing the Earth into regions with uniform time.",
+      "attributes": {}
+    },
+    {
+      "name": "British Railway Companies",
+      "type": "Organization",
+      "description": "The British railway companies were among the first to adopt standard time in 1847 for their schedules, known as Railway Time.",
+      "attributes": {}
+    },
+    {
+      "name": "Local Solar Time",
+      "type": "Timekeeping System",
+      "description": "Local solar time is based on the position of the sun in the sky and varies from place to place.",
+      "attributes": {}
+    },
+    {
+      "name": "Countries Around the World",
+      "type": "Geographical Entity",
+      "description": "Following the adoption of standard time zones at the International Meridian Conference, countries around the world began to implement the new system.",
+      "attributes": {}
+    },
+    {
+      "name": "Standardized Timekeeping on a Regional Level",
+      "type": "Historical Event",
+      "description": "The adoption of standard time marked the beginning of standardized timekeeping on a regional level.",
+      "attributes": {}
+    },
+    {
+      "name": "Standard Time",
+      "type": "Timekeeping System",
+      "description": "Standard time is a system of dividing the world into 24 time zones, each generally corresponding to one hour of longitude.",
+      "attributes": {}
+    },
+    {
+      "name": "Standard Time Zones",
+      "type": "Time System",
+      "description": "A system of standard time zones based on Greenwich Mean Time (GMT) was adopted at the International Meridian Conference in 1884.",
+      "attributes": {}
+    },
+    {
+      "name": "Country",
+      "type": "Geographical Location",
+      "description": "A country is a geographical region that has a defined territory and a permanent population, usually with a government and sovereignty over the land.",
+      "attributes": {}
+    },
+    {
+      "name": "Time Zone",
+      "type": "Geographical Location",
+      "description": "A time zone is a region that observes a uniform standard time for legal, commercial, and social purposes.",
+      "attributes": {}
+    },
+    {
+      "name": "local solar time",
+      "type": "Time Measurement Method",
+      "description": "Local solar time is a method of measuring time based on the position of the sun in the sky.",
+      "attributes": {}
+    },
+    {
+      "name": "natural daylight",
+      "type": "Light Source",
+      "description": "Natural daylight is the light provided by the sun during the day.",
+      "attributes": {}
+    },
+    {
+      "name": "Trains and Telegraphs",
+      "type": "Technology",
+      "description": "Technologies that played a significant role in highlighting the need for standardized timekeeping.",
+      "attributes": {}
+    },
+    {
+      "name": "Other Countries",
+      "type": "Geographical Entity",
+      "description": "Countries that adopted similar standardized timekeeping practices after Britain.",
+      "attributes": {}
+    },
+    {
+      "name": "Time Zones",
+      "type": "Concept",
+      "description": "The concept of time zones as we know them today was first proposed by Sir Sandford Fleming in the late 19th century. It involves dividing the world into 24 time zones, each one representing a one-hour difference in mean solar time.",
+      "attributes": {}
+    },
+    {
+      "name": "24 Time Zones",
+      "type": "Concept",
+      "description": "Fleming suggested dividing the world into 24 time zones, each one representing a one-hour difference in mean solar time.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Timekeeping Practices",
+      "type": "Practice",
+      "description": "The concept of time zones proposed by Sir Sandford Fleming influenced global timekeeping practices, leading to the standardization of time across different regions.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Communication",
+      "type": "Field",
+      "description": "The field that deals with the exchange of information across different regions and countries.",
+      "attributes": {}
+    },
+    {
+      "name": "Local Time Usage",
+      "type": "Practice",
+      "description": "Using local time across long distances was inefficient, especially for trains and telegraphs.",
+      "attributes": {}
+    },
+    {
+      "name": "Washington, D.C.",
+      "type": "City",
+      "description": "The capital city of the United States, located along the Potomac River.",
+      "attributes": {}
+    },
+    {
+      "name": "Standard Time Zones Based on GMT",
+      "type": "Time Standardization System",
+      "description": "A system of standard time zones based on Greenwich Mean Time (GMT) was adopted to address the inefficiencies of using local time across long distances.",
+      "attributes": {}
+    },
+    {
+      "name": "Royal Observatory",
+      "type": "Observatory",
+      "description": "The Royal Observatory is located in Greenwich, London, and it plays a significant role in the history of navigation and timekeeping.",
+      "attributes": {}
+    },
+    {
+      "name": "United Kingdom",
+      "type": "Country",
+      "description": "The United Kingdom of Great Britain and Northern Ireland (UK) is a sovereign country located off the northwestern coast of continental Europe.",
+      "attributes": {}
+    },
+    {
+      "name": "Greenwich Observatory",
+      "type": "Observatory",
+      "description": "The Greenwich Observatory is a historic observatory located in London, England.",
+      "attributes": {}
+    },
+    {
+      "name": "Implementation of Standard Time Zones",
+      "type": "Global Implementation",
+      "description": "Following the conference, countries around the world began to implement the new system of standard time zones.",
+      "attributes": {}
+    },
+    {
+      "name": "Standardized Time Zones",
+      "type": "Time System",
+      "description": "A standardized system of time zones was adopted to facilitate precise and consistent time measurement, enhancing global communication and coordination.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Time Coordination",
+      "type": "Global Practice",
+      "description": "Advances in technology and communication have made it easier to coordinate time across different time zones globally.",
+      "attributes": {}
+    },
+    {
+      "name": "Eastern Time Zone",
+      "type": "Time Zone",
+      "description": "The Eastern Time Zone is one of the four time zones in the United States, located to the east of the Central Time Zone.",
+      "attributes": {}
+    },
+    {
+      "name": "Mountain Time Zone",
+      "type": "Time Zone",
+      "description": "The Mountain Time Zone is one of the four time zones in the United States, located to the west of the Central Time Zone.",
+      "attributes": {}
+    },
+    {
+      "name": "Pacific Time Zone",
+      "type": "Time Zone",
+      "description": "The Pacific Time Zone is one of the four time zones in the United States, located to the west of the Mountain Time Zone.",
+      "attributes": {}
+    },
+    {
+      "name": "Conference on Time Zones",
+      "type": "Event",
+      "description": "A conference that divided the world into 24 time zones, each spanning 15 degrees of longitude.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Communication and Coordination",
+      "type": "Concept",
+      "description": "Effective communication and coordination across different regions and time zones are essential for global operations.",
+      "attributes": {}
+    },
+    {
+      "name": "Many Countries",
+      "type": "Geographical Area",
+      "description": "A broad range of countries around the world.",
+      "attributes": {}
+    },
+    {
+      "name": "Early 20th Century",
+      "type": "Time Period",
+      "description": "The early part of the 20th century.",
+      "attributes": {}
+    },
+    {
+      "name": "Advances in Technology and Communication",
+      "type": "Technological Development",
+      "description": "Significant advancements in technology and communication have made it easier to coordinate time across different time zones.",
+      "attributes": {}
+    },
+    {
+      "name": "Daylight Saving Time",
+      "type": "Time System",
+      "description": "Daylight Saving Time (DST) is the practice of advancing clocks during summer months to make better use of natural daylight.",
+      "attributes": {}
+    },
+    {
+      "name": "Internet",
+      "type": "Network",
+      "description": "A global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Telecommunications Networks",
+      "type": "Network",
+      "description": "A network of telecommunications systems that connect people and organizations around the world.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Coordination",
+      "type": "Process",
+      "description": "Global coordination involves the synchronization of activities and efforts across different regions and time zones.",
+      "attributes": {}
+    },
+    {
+      "name": "Technology",
+      "type": "Concept",
+      "description": "Technology encompasses the tools, methods, and processes used to create, develop, and improve products and services.",
+      "attributes": {}
+    },
+    {
+      "name": "Real-Time Collaboration",
+      "type": "Process",
+      "description": "Real-time collaboration involves multiple individuals working together on a project or task simultaneously.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "time zones",
+      "Proposed By",
+      "Sir Sandford Fleming",
+      "Time zones were first proposed by Sir Sandford Fleming."
+    ],
+    [
+      "time zones",
+      "Adopted By",
+      "British railway companies",
+      "Time zones were initially adopted by British railway companies to improve scheduling and coordination."
+    ],
+    [
+      "time zones",
+      "Divided By",
+      "United States",
+      "The United States was one of the first countries to implement a standardized system of time zones."
+    ],
+    [
+      "time zones",
+      "Refined By",
+      "Daylight Saving Time (DST)",
+      "The introduction of Daylight Saving Time further refined the system of time zones."
+    ],
+    [
+      "time zones",
+      "Standardized By",
+      "International Meridian Conference",
+      "The International Meridian Conference standardized the system of time zones by dividing the world into 24 time zones."
+    ],
+    [
+      "time zones",
+      "Implemented By",
+      "Countries around the world",
+      "Following the conference, many countries began to implement the new system of time zones."
+    ],
+    [
+      "global trade",
+      "Facilitated By",
+      "global telecommunications networks",
+      "The expansion of global trade has been facilitated by the development of global telecommunications networks."
+    ],
+    [
+      "global trade",
+      "Facilitated By",
+      "standard time zones",
+      "The expansion of global trade has been facilitated by the adoption of standard time zones."
+    ],
+    [
+      "transportation networks",
+      "Enabled By",
+      "global trade",
+      "The expansion of transportation networks has enabled global trade by facilitating the movement of goods over long distances."
+    ],
+    [
+      "transportation networks",
+      "Highlighted Inefficiencies Of",
+      "local time systems",
+      "The development of transportation networks highlighted the inefficiencies of using local time systems for long-distance travel and communication."
+    ],
+    [
+      "transportation networks",
+      "Improved By",
+      "time zones",
+      "The need for time zones arose with the expansion of transportation networks to coordinate time across different regions more effectively."
+    ],
+    [
+      "transportation networks",
+      "Facilitated By",
+      "global telecommunications networks",
+      "The development of global telecommunications networks has facilitated the expansion and efficiency of transportation networks by enabling better coordination and communication."
+    ],
+    [
+      "Trains",
+      "Highlighted Inefficiencies Of",
+      "Local Time",
+      "Trains highlighted the inefficiencies of using local time across long distances, leading to the adoption of standard time."
+    ],
+    [
+      "Trains",
+      "Adopted",
+      "Railway Time",
+      "Trains and the railway industry adopted Railway Time to improve coordination and efficiency."
+    ],
+    [
+      "Trains",
+      "Contributed To",
+      "Time Zone System",
+      "Trains and telegraphs contributed to the need for time zones, which arose with the expansion of global trade and transportation networks."
+    ],
+    [
+      "standard time",
+      "Adopted By",
+      "British Railway Companies",
+      "Standard time was adopted by the British railway companies in 1847 to synchronize their schedules."
+    ],
+    [
+      "standard time",
+      "Replaced",
+      "Local Solar Time",
+      "Standard time replaced local solar time, which was used before the advent of standardized time measurement."
+    ],
+    [
+      "standard time",
+      "Implemented By",
+      "Countries Around the World",
+      "Standard time was implemented by countries around the world after the International Meridian Conference."
+    ],
+    [
+      "standard time",
+      "Marked Beginning Of",
+      "Standardized Timekeeping on a Regional Level",
+      "The introduction of standard time in the mid-19th century marked the beginning of standardized timekeeping on a regional level."
+    ],
+    [
+      "mid-19th century",
+      "Introduced",
+      "Standard Time",
+      "The mid-19th century saw the introduction of standard time, which was a significant development in timekeeping."
+    ],
+    [
+      "town or city",
+      "Used Before Standardization",
+      "Standard Time Zones",
+      "Before the adoption of standard time zones, each town or city used local solar time to set its own time."
+    ],
+    [
+      "town or city",
+      "Part Of",
+      "Country",
+      "Towns or cities are part of larger countries."
+    ],
+    [
+      "town or city",
+      "Located In",
+      "Time Zone",
+      "Each town or city is located within a specific time zone."
+    ],
+    [
+      "sun",
+      "Influences",
+      "local solar time",
+      "The position of the sun in the sky was used to set local time before standardized time zones."
+    ],
+    [
+      "sun",
+      "Provides",
+      "natural daylight",
+      "The sun provides natural daylight, which was a factor in the implementation of Daylight Saving Time."
+    ],
+    [
+      "British railway companies",
+      "Adopted Standard Time",
+      "Railway Time",
+      "The British railway companies adopted Railway Time as a standard for their schedules in 1847."
+    ],
+    [
+      "British railway companies",
+      "Highlighted Inefficiencies",
+      "Local Time",
+      "The British railway companies highlighted the inefficiencies of using local time across long distances."
+    ],
+    [
+      "British railway companies",
+      "Influenced By",
+      "Trains and Telegraphs",
+      "The British railway companies were influenced by the development of trains and telegraphs, which highlighted the inefficiencies of local time."
+    ],
+    [
+      "British railway companies",
+      "Followed By",
+      "Other Countries",
+      "The British railway companies\" adoption of Railway Time influenced other countries to adjust their timekeeping practices."
+    ],
+    [
+      "Sir Sandford Fleming",
+      "Proposed Concept",
+      "Time Zones",
+      "Sir Sandford Fleming proposed the concept of time zones, which has become an integral part of our daily lives."
+    ],
+    [
+      "Sir Sandford Fleming",
+      "Suggested Division",
+      "24 Time Zones",
+      "Sir Sandford Fleming suggested dividing the world into 24 time zones."
+    ],
+    [
+      "Sir Sandford Fleming",
+      "Influenced",
+      "Global Timekeeping Practices",
+      "Sir Sandford Fleming\"s proposal for time zones influenced the standardization of global timekeeping practices."
+    ],
+    [
+      "Canadian engineer",
+      "Proposed Concept",
+      "Time Zones",
+      "Sir Sandford Fleming proposed the concept of time zones in the late 19th century."
+    ],
+    [
+      "Canadian engineer",
+      "Facilitated Development Of",
+      "Global Communication",
+      "The concept of time zones proposed by Sir Sandford Fleming facilitated the development of global communication."
+    ],
+    [
+      "19th century",
+      "Introduced Concept",
+      "Time Zones",
+      "The 19th century saw the introduction of the concept of time zones."
+    ],
+    [
+      "19th century",
+      "Highlighted Inefficiencies",
+      "Local Time Usage",
+      "The 19th century highlighted the inefficiencies of using local time in long-distance communication and transportation."
+    ],
+    [
+      "19th century",
+      "Developed Standard Time",
+      "Standard Time",
+      "The 19th century saw the development of standard time as a solution to the inefficiencies of local time."
+    ],
+    [
+      "International Meridian Conference",
+      "Adopted System",
+      "Standard Time Zones",
+      "The International Meridian Conference adopted a system of standard time zones."
+    ],
+    [
+      "International Meridian Conference",
+      "Chose Prime Meridian",
+      "Greenwich Meridian",
+      "The International Meridian Conference chose the Greenwich Meridian as the Prime Meridian."
+    ],
+    [
+      "International Meridian Conference",
+      "Divided World",
+      "24 Time Zones",
+      "The International Meridian Conference divided the world into 24 time zones."
+    ],
+    [
+      "International Meridian Conference",
+      "Facilitated Implementation",
+      "Countries Around the World",
+      "The International Meridian Conference facilitated the implementation of standard time zones by countries around the world."
+    ],
+    [
+      "1884",
+      "Held In",
+      "Washington, D.C.",
+      "The International Meridian Conference was held in Washington, D.C. in 1884."
+    ],
+    [
+      "1884",
+      "Adopted System Of",
+      "Standard Time Zones Based on GMT",
+      "The International Meridian Conference in 1884 agreed to adopt a system of standard time zones based on GMT."
+    ],
+    [
+      "Greenwich Mean Time (GMT)",
+      "Adopted By",
+      "International Meridian Conference",
+      "GMT was adopted as the reference point for standardizing time zones at the International Meridian Conference."
+    ],
+    [
+      "Greenwich Mean Time (GMT)",
+      "Used In",
+      "Standard Time Zones",
+      "GMT serves as the reference point for standard time zones."
+    ],
+    [
+      "Greenwich Mean Time (GMT)",
+      "Reference For",
+      "Daylight Saving Time (DST)",
+      "GMT serves as the reference point for calculating Daylight Saving Time."
+    ],
+    [
+      "Greenwich Meridian",
+      "Chosen As",
+      "Prime Meridian",
+      "The Greenwich Meridian was selected as the Prime Meridian during the International Meridian Conference held in Washington, D.C. in 1884."
+    ],
+    [
+      "Greenwich Meridian",
+      "Passes Through",
+      "Royal Observatory",
+      "The Greenwich Meridian passes through the Royal Observatory in Greenwich, London."
+    ],
+    [
+      "Greenwich Meridian",
+      "Reference For",
+      "Time Zones",
+      "The Greenwich Meridian serves as the reference point from which all time zones are calculated."
+    ],
+    [
+      "London",
+      "Home To",
+      "Greenwich Meridian",
+      "London is home to the Greenwich Meridian, which is used as the basis for calculating global time zones."
+    ],
+    [
+      "London",
+      "Located In",
+      "United Kingdom",
+      "London is the capital city of the United Kingdom."
+    ],
+    [
+      "Prime Meridian",
+      "Chosen As Reference For",
+      "Standard Time Zones",
+      "The Prime Meridian serves as the reference point for all standard time zones."
+    ],
+    [
+      "Prime Meridian",
+      "Located In",
+      "Greenwich Observatory",
+      "The Prime Meridian passes through the Greenwich Observatory."
+    ],
+    [
+      "Prime Meridian",
+      "Adopted By",
+      "International Meridian Conference",
+      "The Prime Meridian was adopted as the global reference point for longitude at this conference."
+    ],
+    [
+      "International Meridian Conference",
+      "Adopted System",
+      "Standard Time Zones",
+      "The International Meridian Conference adopted a system of standard time zones."
+    ],
+    [
+      "International Meridian Conference",
+      "Divided World Into",
+      "24 Time Zones",
+      "The International Meridian Conference divided the world into 24 time zones."
+    ],
+    [
+      "International Meridian Conference",
+      "Held In",
+      "Washington, D.C.",
+      "The International Meridian Conference was held in Washington, D.C."
+    ],
+    [
+      "International Meridian Conference",
+      "Led To",
+      "Implementation of Standard Time Zones",
+      "The International Meridian Conference led to the implementation of standard time zones in various countries."
+    ],
+    [
+      "United States",
+      "Practices",
+      "Daylight Saving Time (DST)",
+      "The United States practices Daylight Saving Time, with the specific dates varying based on local regulations."
+    ],
+    [
+      "United States",
+      "Adopted",
+      "Standardized Time Zones",
+      "The United States adopted a standardized system of time zones, which includes Eastern, Central, Mountain, and Pacific time zones."
+    ],
+    [
+      "United States",
+      "Influenced",
+      "Global Time Coordination",
+      "The United States, along with other countries, has influenced the global practice of coordinating time across different time zones."
+    ],
+    [
+      "Eastern",
+      "Part Of",
+      "United States",
+      "Eastern Time Zone is one of the four time zones in the United States."
+    ],
+    [
+      "Eastern",
+      "Coordinated With",
+      "Central",
+      "Eastern and Central Time Zones are coordinated with each other to facilitate communication and travel."
+    ],
+    [
+      "Eastern",
+      "Coordinated With",
+      "Mountain",
+      "Eastern and Mountain Time Zones are coordinated with each other to facilitate communication and travel."
+    ],
+    [
+      "Eastern",
+      "Coordinated With",
+      "Pacific",
+      "Eastern and Pacific Time Zones are coordinated with each other to facilitate communication and travel."
+    ],
+    [
+      "Central",
+      "Part Of",
+      "United States",
+      "Central Time Zone is one of the four time zones used in the United States."
+    ],
+    [
+      "Central",
+      "Based On",
+      "Greenwich Mean Time (GMT)",
+      "The Central Time Zone is based on Greenwich Mean Time (GMT)."
+    ],
+    [
+      "Central",
+      "Adjacent To",
+      "Eastern Time Zone",
+      "The Central Time Zone is adjacent to the Eastern Time Zone."
+    ],
+    [
+      "Central",
+      "Adjacent To",
+      "Mountain Time Zone",
+      "The Central Time Zone is adjacent to the Mountain Time Zone."
+    ],
+    [
+      "Central",
+      "Adjacent To",
+      "Pacific Time Zone",
+      "The Central Time Zone is adjacent to the Pacific Time Zone."
+    ],
+    [
+      "Mountain",
+      "Part Of",
+      "United States",
+      "Mountain Time Zone is one of the four time zones that divide the United States."
+    ],
+    [
+      "Mountain",
+      "Adjacent To",
+      "Central",
+      "Mountain Time Zone is adjacent to the Central Time Zone."
+    ],
+    [
+      "Mountain",
+      "Adjacent To",
+      "Pacific",
+      "Mountain Time Zone is adjacent to the Pacific Time Zone."
+    ],
+    [
+      "Pacific",
+      "Is Part Of",
+      "United States",
+      "The Pacific Time Zone is one of the four time zones that divide the United States."
+    ],
+    [
+      "Pacific",
+      "Is Divided By",
+      "Conference on Time Zones",
+      "The Pacific Time Zone is part of the global system of 24 time zones established by the conference."
+    ],
+    [
+      "Other countries",
+      "Followed",
+      "International Meridian Conference",
+      "Other countries followed the decisions made at the International Meridian Conference by adopting standard time zones."
+    ],
+    [
+      "Other countries",
+      "Adjusted Time Keeping Practices To Align With",
+      "Standard Time Zones",
+      "Other countries adjusted their timekeeping practices to align with the new standard time zones."
+    ],
+    [
+      "new standard",
+      "Introduced By",
+      "International Meridian Conference",
+      "The new standard was introduced as a result of the decisions made at the International Meridian Conference."
+    ],
+    [
+      "new standard",
+      "Implemented By",
+      "Countries around the world",
+      "The new standard was implemented by countries around the world, leading to a more unified system of timekeeping."
+    ],
+    [
+      "new standard",
+      "Facilitated",
+      "Global Communication and Coordination",
+      "The new standard facilitated better global communication and coordination by providing a standardized way of measuring time."
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "Gained Traction At",
+      "International Meridian Conference",
+      "The idea of Daylight Saving Time gained traction at the International Meridian Conference."
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "Adopted By",
+      "Many Countries",
+      "Daylight Saving Time has been adopted by many countries, with varying local regulations for time changes."
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "Introduced In",
+      "Early 20th Century",
+      "Daylight Saving Time was introduced in the early 20th century."
+    ],
+    [
+      "Daylight Saving Time (DST)",
+      "Divided Into Time Zones In",
+      "United States",
+      "In the United States, Daylight Saving Time is applied within four time zones: Eastern, Central, Mountain, and Pacific."
+    ],
+    [
+      "20th century",
+      "Introduced",
+      "Daylight Saving Time (DST)",
+      "The 20th century saw the introduction and widespread adoption of Daylight Saving Time."
+    ],
+    [
+      "20th century",
+      "Witnessed",
+      "Advances in Technology and Communication",
+      "The 20th century witnessed significant technological and communication advancements that facilitated better coordination of time across different time zones."
+    ],
+    [
+      "World War I",
+      "Implemented",
+      "Daylight Saving Time",
+      "World War I was a period when Daylight Saving Time was first implemented as a way to conserve energy and improve efficiency."
+    ],
+    [
+      "technology",
+      "Facilitates",
+      "Global Communication and Coordination",
+      "Technology facilitates global communication and coordination by enabling instant communication and real-time collaboration."
+    ],
+    [
+      "technology",
+      "Enables",
+      "Internet",
+      "Technology enables the internet, which is a critical infrastructure for modern communication and information exchange."
+    ],
+    [
+      "technology",
+      "Enables",
+      "Global Telecommunications Networks",
+      "Technology enables global telecommunications networks, which are essential for long-distance communication and data transmission."
+    ],
+    [
+      "communication",
+      "Facilitates",
+      "Global Coordination",
+      "Communication facilitates global coordination by enabling real-time collaboration and instant communication."
+    ],
+    [
+      "communication",
+      "Enhanced By",
+      "Technology",
+      "Communication has been significantly enhanced by advances in technology, particularly in global telecommunications networks and the internet."
+    ],
+    [
+      "communication",
+      "Challenges",
+      "Time Zones",
+      "Communication faces challenges due to differences in time zones, especially as transportation and communication capabilities improve."
+    ],
+    [
+      "communication",
+      "Supports",
+      "Real-Time Collaboration",
+      "Communication supports real-time collaboration by enabling instant interaction and coordination among participants."
+    ]
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "entities": [
+    {
+      "name": "body language",
+      "type": "Communication Method",
+      "description": "Body language refers to the nonverbal signals that we use to communicate. These include facial expressions, gestures, posture, and eye contact.",
+      "attributes": {
+        "Types of Body Language": "Facial expressions, gestures, posture, eye contact",
+        "Purpose": "To convey emotions, intentions, confidence, authority, and to communicate in various contexts",
+        "Impact on Communication": "Can make up a significant portion of communication, estimated at 55% by some studies"
+      }
+    },
+    {
+      "name": "social interactions",
+      "type": "Concept",
+      "description": "Social interactions refer to the various forms of communication and behavior that occur between individuals in social settings. These interactions can be verbal, non-verbal, or a combination of both.",
+      "attributes": {
+        "Importance of Body Language": "Body language plays a crucial role in enhancing the clarity and effectiveness of social interactions.",
+        "Impact on Relationships": "The impact of body language on social interactions and relationships is significant, influencing how individuals perceive and connect with each other."
+      }
+    },
+    {
+      "name": "relationships",
+      "type": "Social Concept",
+      "description": "Relationships refer to the connections and interactions between individuals, which can be influenced by various factors including body language.",
+      "attributes": {
+        "Influence Factors": "Body Language, Proxemics, Emotional Connection, Conflict Resolution",
+        "Importance in Social Interactions": "Crucial for building and maintaining connections between individuals"
+      }
+    },
+    {
+      "name": "Facial expressions",
+      "type": "Body Language",
+      "description": "Facial expressions are a form of non-verbal communication that convey emotions and feelings through the movement of facial muscles.",
+      "attributes": {
+        "Common Examples": "Smiles, frowns, raised eyebrows",
+        "Purpose": "To signal how a person is feeling at any given moment"
+      }
+    },
+    {
+      "name": "frowns",
+      "type": "Facial Expression",
+      "description": "Frowns are facial expressions characterized by a downward turn of the mouth, often indicating negative emotions such as sadness, displeasure, or disapproval.",
+      "attributes": {
+        "Expression Type": "Negative",
+        "Common Contexts": "Sadness, Displeasure, Disapproval"
+      }
+    },
+    {
+      "name": "raised eyebrows",
+      "type": "Facial Expression",
+      "description": "Raised eyebrows are a facial expression that can indicate various emotions or reactions, such as surprise, skepticism, or interest.",
+      "attributes": {
+        "Emotions Indicated": "surprise, skepticism, interest"
+      }
+    },
+    {
+      "name": "happiness",
+      "type": "Emotion",
+      "description": "Happiness is a positive emotion often associated with feelings of joy, contentment, and satisfaction. It can be expressed through various non-verbal cues such as smiling.",
+      "attributes": {
+        "Expression": "Smiling",
+        "Associated Emotions": "Joy, Contentment, Satisfaction"
+      }
+    },
+    {
+      "name": "friendliness",
+      "type": "Emotion/Behavior",
+      "description": "Friendliness is an emotion or behavior characterized by warmth, kindness, and a positive attitude towards others.",
+      "attributes": {
+        "Expression": "smile",
+        "Purpose": "to establish rapport and build connections with others"
+      }
+    },
+    {
+      "name": "furrowed brow",
+      "type": "Facial Expression",
+      "description": "A furrowed brow is a facial expression where the eyebrows are drawn together, creating vertical lines on the forehead. It often indicates confusion or concern.",
+      "attributes": {
+        "Expression Type": "Facial",
+        "Common Indications": "Confusion, Concern"
+      }
+    },
+    {
+      "name": "confusion",
+      "type": "Emotion",
+      "description": "Confusion is an emotional state characterized by uncertainty, disorientation, or a lack of clarity.",
+      "attributes": {
+        "Expression": "furrowed brow"
+      }
+    },
+    {
+      "name": "concern",
+      "type": "Emotion",
+      "description": "Concern is an emotion characterized by worry or anxiety about a situation or person.",
+      "attributes": {
+        "Facial Expression": "Furrowed Brow"
+      }
+    },
+    {
+      "name": "proxemics",
+      "type": "Concept",
+      "description": "Proxemics refers to the study of how people use space and distance in social interactions, which can convey important cultural and personal cues.",
+      "attributes": {
+        "Definition": "The study of how people use space and distance in social interactions.",
+        "Purpose": "To convey important cultural and personal cues."
+      }
+    },
+    {
+      "name": "professional settings",
+      "type": "Context",
+      "description": "Professional settings refer to environments where individuals engage in work-related activities, such as offices, meetings, and conferences. These settings often have specific norms and expectations regarding behavior and communication.",
+      "attributes": {
+        "Behavioral Norms": "Specific norms and expectations for behavior and communication",
+        "Communication Style": "Formal and structured, with emphasis on clarity and professionalism"
+      }
+    },
+    {
+      "name": "confidence",
+      "type": "Emotion/State",
+      "description": "Confidence is a feeling of self-assurance arising from an appreciation of one\"s own abilities or qualities.",
+      "attributes": {
+        "Associated Posture": "Standing up straight with shoulders back",
+        "Projecting Behavior": "Maintaining good posture and making direct eye contact",
+        "Enhanced Communication": "Using gestures to enhance clarity and effectiveness of communication"
+      }
+    },
+    {
+      "name": "authority",
+      "type": "Concept",
+      "description": "Authority refers to the power or right to give orders, make decisions, and enforce obedience. In the context of body language, authority can be projected through specific gestures and postures.",
+      "attributes": {
+        "Context": "Professional settings",
+        "Projection Method": "Maintaining good posture and making direct eye contact"
+      }
+    },
+    {
+      "name": "posture",
+      "type": "Body Language Component",
+      "description": "Posture refers to the position in which someone holds their body when standing or sitting. It can reveal a great deal about a person\"s thoughts and feelings, and it is often used to project confidence and authority.",
+      "attributes": {
+        "Associated with Confidence": "Standing up straight with shoulders back",
+        "Associated with Insecurity or Disinterest": "Slouching"
+      }
+    },
+    {
+      "name": "eye contact",
+      "type": "Behavioral Cue",
+      "description": "Eye contact refers to the act of looking into someone\"s eyes during a conversation or interaction. It is an important non-verbal communication signal that can convey various emotions and intentions.",
+      "attributes": {
+        "Purpose": "Non-verbal Communication",
+        "Contexts": "Professional, Romantic, Social Interactions"
+      }
+    },
+    {
+      "name": "55%",
+      "type": "Percentage",
+      "description": "A percentage value often cited in research studies to estimate the proportion of communication conveyed through body language.",
+      "attributes": {
+        "Value": "0.55"
+      }
+    },
+    {
+      "name": "Professional Settings",
+      "type": "Context",
+      "description": "Professional settings include workplaces, business meetings, and other formal environments.",
+      "attributes": {}
+    },
+    {
+      "name": "Emotions",
+      "type": "Emotion",
+      "description": "Emotions are feelings such as happiness, sadness, anger, and surprise.",
+      "attributes": {}
+    },
+    {
+      "name": "Intentions",
+      "type": "Intention",
+      "description": "Intentions are the goals or plans that individuals have in mind.",
+      "attributes": {}
+    },
+    {
+      "name": "Social Interactions and Relationships",
+      "type": "Social Aspect",
+      "description": "Social interactions and relationships refer to the ways people communicate and form connections with each other.",
+      "attributes": {}
+    },
+    {
+      "name": "gestures",
+      "type": "Concept",
+      "description": "Gestures are a form of body language that people use to communicate, often enhancing the clarity and effectiveness of their messages.",
+      "attributes": {}
+    },
+    {
+      "name": "Body Language",
+      "type": "Non-Verbal Communication",
+      "description": "Body language includes gestures, facial expressions, and posture that convey emotions and intentions.",
+      "attributes": {}
+    },
+    {
+      "name": "Proxemics",
+      "type": "Spatial Relationship",
+      "description": "Proxemics refers to the study of how people use space and distance in social interactions.",
+      "attributes": {}
+    },
+    {
+      "name": "Mirroring Posture",
+      "type": "Non-Verbal Behavior",
+      "description": "Mirroring another person\"s posture can help to establish rapport and create a sense of connection.",
+      "attributes": {}
+    },
+    {
+      "name": "Social Interactions",
+      "type": "Behavioral Activity",
+      "description": "Social interactions are exchanges between individuals that involve communication, cooperation, or conflict.",
+      "attributes": {}
+    },
+    {
+      "name": "Conflict Resolution",
+      "type": "Social Skill",
+      "description": "Conflict resolution involves techniques for managing and resolving disputes between individuals.",
+      "attributes": {}
+    },
+    {
+      "name": "Happiness or Friendliness",
+      "type": "Emotion",
+      "description": "Positive emotions such as happiness and friendliness are often expressed through facial expressions like smiles.",
+      "attributes": {}
+    },
+    {
+      "name": "Confusion or Concern",
+      "type": "Emotion",
+      "description": "Negative emotions such as confusion and concern are often expressed through facial expressions like a furrowed brow.",
+      "attributes": {}
+    },
+    {
+      "name": "Sadness",
+      "type": "Emotion",
+      "description": "Sadness is a feeling of unhappiness or sorrow.",
+      "attributes": {}
+    },
+    {
+      "name": "Displeasure",
+      "type": "Emotion",
+      "description": "Displeasure is a feeling of dissatisfaction or annoyance.",
+      "attributes": {}
+    },
+    {
+      "name": "Disapproval",
+      "type": "Emotion",
+      "description": "Disapproval is the act of not approving or agreeing with something.",
+      "attributes": {}
+    },
+    {
+      "name": "Person\"s Feeling",
+      "type": "Emotion",
+      "description": "A person\"s feeling is an internal emotional state that can be expressed through facial expressions and body language.",
+      "attributes": {}
+    },
+    {
+      "name": "Facial Expressions",
+      "type": "Category",
+      "description": "Facial expressions are the various movements and configurations of facial muscles that convey different emotional states.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication",
+      "type": "Process",
+      "description": "Communication is the exchange or sharing of information, ideas, and feelings between people through speaking, writing, or using some other medium.",
+      "attributes": {}
+    },
+    {
+      "name": "Smile",
+      "type": "Facial Expression",
+      "description": "A smile is a facial expression where the corners of the mouth are turned up and often accompanied by crinkling around the eyes. It is generally associated with positive emotions.",
+      "attributes": {}
+    },
+    {
+      "name": "Positive Interactions",
+      "type": "Social Interaction",
+      "description": "Positive interactions refer to exchanges between individuals that are characterized by mutual respect, understanding, and positive emotions.",
+      "attributes": {}
+    },
+    {
+      "name": "communication effectiveness",
+      "type": "Communication Quality",
+      "description": "Effective communication involves the clear and efficient exchange of information between individuals.",
+      "attributes": {}
+    },
+    {
+      "name": "rapport building",
+      "type": "Social Interaction",
+      "description": "Rapport is a harmonious relationship characterized by mutual understanding and trust.",
+      "attributes": {}
+    },
+    {
+      "name": "Confusion",
+      "type": "Emotion",
+      "description": "A state of being unsure or uncertain about something.",
+      "attributes": {}
+    },
+    {
+      "name": "Concern",
+      "type": "Emotion",
+      "description": "A feeling of worry or anxiety about a situation or problem.",
+      "attributes": {}
+    },
+    {
+      "name": "Furrowed Brow",
+      "type": "Facial Expression",
+      "description": "A furrowed brow is a facial expression where the eyebrows are drawn together, often indicating confusion or concern.",
+      "attributes": {}
+    },
+    {
+      "name": "Cultural Cues",
+      "type": "Concept",
+      "description": "Signals or indicators that are specific to a particular culture.",
+      "attributes": {}
+    },
+    {
+      "name": "Personal Cues",
+      "type": "Concept",
+      "description": "Signals or indicators that are specific to an individual\"s personal preferences or behaviors.",
+      "attributes": {}
+    },
+    {
+      "name": "Rapport",
+      "type": "Concept",
+      "description": "A relationship characterized by mutual understanding or trust.",
+      "attributes": {}
+    },
+    {
+      "name": "Attraction and Intimacy",
+      "type": "Concept",
+      "description": "Feelings of romantic interest and closeness between individuals.",
+      "attributes": {}
+    },
+    {
+      "name": "communication skills",
+      "type": "Skill",
+      "description": "Communication skills are the abilities to convey information effectively and clearly, both verbally and non-verbally.",
+      "attributes": {}
+    },
+    {
+      "name": "social navigation",
+      "type": "Skill",
+      "description": "Social navigation refers to the ability to navigate social situations effectively and with ease.",
+      "attributes": {}
+    },
+    {
+      "name": "assertiveness",
+      "type": "Emotion/State",
+      "description": "Assertiveness is the quality of being self-assured and confident without being aggressive.",
+      "attributes": {}
+    },
+    {
+      "name": "insecurity",
+      "type": "Emotion/State",
+      "description": "Insecurity is the state of feeling vulnerable or unprotected.",
+      "attributes": {}
+    },
+    {
+      "name": "disinterest",
+      "type": "Emotion/State",
+      "description": "Disinterest is the state of not being interested or engaged.",
+      "attributes": {}
+    },
+    {
+      "name": "rapport",
+      "type": "Social Connection",
+      "description": "Rapport is a close and harmonious relationship characterized by mutual understanding or trust.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication Clarity",
+      "type": "Concept",
+      "description": "Clarity in communication refers to the ability to convey messages clearly and effectively, ensuring that the intended meaning is understood by the recipient.",
+      "attributes": {}
+    },
+    {
+      "name": "Confidence",
+      "type": "Emotion",
+      "description": "Confidence is a feeling of self-assurance arising from an appreciation of one\"s own abilities or qualities.",
+      "attributes": {}
+    },
+    {
+      "name": "Eye Contact",
+      "type": "Body Language Component",
+      "description": "Eye contact is a form of non-verbal communication that involves looking directly at another person\"s eyes. It can convey confidence, interest, and attentiveness.",
+      "attributes": {}
+    },
+    {
+      "name": "Thoughts and Feelings",
+      "type": "Psychological State",
+      "description": "Thoughts and feelings encompass the mental and emotional states of an individual, including their attitudes, beliefs, and emotions.",
+      "attributes": {}
+    },
+    {
+      "name": "Attentiveness",
+      "type": "Emotion",
+      "description": "Attentiveness is the state of being attentive and focused on a task or interaction.",
+      "attributes": {}
+    },
+    {
+      "name": "Discomfort",
+      "type": "Emotion",
+      "description": "Discomfort is a feeling of unease or dissatisfaction.",
+      "attributes": {}
+    },
+    {
+      "name": "Dishonesty",
+      "type": "Behavioral Trait",
+      "description": "Dishonesty is the act of being untruthful or deceitful.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication Skills",
+      "type": "Skill",
+      "description": "Communication skills are the abilities to convey information effectively and clearly, both verbally and non-verbally.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication Conveyed Through Body Language",
+      "type": "Communication Aspect",
+      "description": "The aspect of communication that is conveyed through nonverbal cues, such as gestures and facial expressions.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "body language",
+      "Used In",
+      "Professional Settings",
+      "Body language is used in professional settings to project confidence and authority."
+    ],
+    [
+      "body language",
+      "Conveys",
+      "Emotions",
+      "Body language can convey a wide range of emotions through facial expressions, gestures, and posture."
+    ],
+    [
+      "body language",
+      "Conveys",
+      "Intentions",
+      "Body language can convey intentions through nonverbal cues."
+    ],
+    [
+      "body language",
+      "Affects",
+      "Social Interactions and Relationships",
+      "Body language has a significant impact on social interactions and relationships, influencing how people perceive and interact with one another."
+    ],
+    [
+      "social interactions",
+      "Influenced By",
+      "body language",
+      "Social interactions are significantly influenced by body language, which can enhance or detract from the effectiveness of communication."
+    ],
+    [
+      "social interactions",
+      "Influenced By",
+      "proxemics",
+      "The distance between individuals during an interaction, known as proxemics, influences the dynamics of social interactions."
+    ],
+    [
+      "social interactions",
+      "Enhanced By",
+      "gestures",
+      "Social interactions can be enhanced by incorporating gestures, which help in conveying messages more clearly."
+    ],
+    [
+      "social interactions",
+      "Observed In",
+      "posture",
+      "By being mindful of their own posture and observing the posture of others, individuals can better understand the dynamics of social interactions."
+    ],
+    [
+      "relationships",
+      "Influenced By",
+      "Body Language",
+      "The quality of relationships can be significantly influenced by the body language used during interactions."
+    ],
+    [
+      "relationships",
+      "Enhanced By",
+      "Proxemics",
+      "The physical distance between individuals during an interaction can enhance or detract from the quality of relationships."
+    ],
+    [
+      "relationships",
+      "Improved By",
+      "Mirroring Posture",
+      "Mirroring the posture of others can improve relationships by fostering a sense of mutual understanding and connection."
+    ],
+    [
+      "relationships",
+      "Dependent On",
+      "Social Interactions",
+      "Relationships are fundamentally dependent on the quality and nature of social interactions."
+    ],
+    [
+      "relationships",
+      "Strengthened By",
+      "Conflict Resolution",
+      "Effective conflict resolution can strengthen relationships by addressing and resolving issues that may otherwise weaken them."
+    ],
+    [
+      "Facial expressions",
+      "Indicate",
+      "Happiness or Friendliness",
+      "Facial expressions, particularly smiles, can indicate positive emotions like happiness or friendliness."
+    ],
+    [
+      "Facial expressions",
+      "Indicate",
+      "Confusion or Concern",
+      "Facial expressions, particularly a furrowed brow, can indicate negative emotions like confusion or concern."
+    ],
+    [
+      "Facial expressions",
+      "Are Part Of",
+      "Body Language",
+      "Facial expressions are a subset of body language used to convey emotions and feelings."
+    ],
+    [
+      "frowns",
+      "Indicates",
+      "Sadness",
+      "Frowns often indicate feelings of sadness."
+    ],
+    [
+      "frowns",
+      "Indicates",
+      "Displeasure",
+      "Frowns can signal displeasure with something or someone."
+    ],
+    [
+      "frowns",
+      "Indicates",
+      "Disapproval",
+      "Frowns can indicate disapproval, often in response to actions or statements."
+    ],
+    [
+      "raised eyebrows",
+      "Signals",
+      "Person\"s Feeling",
+      "Raised eyebrows can signal a person\"s feeling, indicating emotions such as surprise, skepticism, or interest."
+    ],
+    [
+      "raised eyebrows",
+      "Is Part Of",
+      "Facial Expressions",
+      "Raised eyebrows are a specific type of facial expression."
+    ],
+    [
+      "raised eyebrows",
+      "Can Be Used In",
+      "Communication",
+      "Raised eyebrows can be used in communication to convey emotions and enhance understanding."
+    ],
+    [
+      "happiness",
+      "Indicated By",
+      "Smile",
+      "Happiness is often indicated by a smile, which is a common non-verbal cue used to express this emotion."
+    ],
+    [
+      "happiness",
+      "Enhanced By",
+      "Positive Interactions",
+      "Happiness can be enhanced through positive interactions with others, which contribute to more meaningful and fulfilling relationships."
+    ],
+    [
+      "friendliness",
+      "Associated With",
+      "happiness",
+      "Friendliness is often associated with happiness."
+    ],
+    [
+      "friendliness",
+      "Enhances",
+      "communication effectiveness",
+      "Friendly gestures, such as smiling, nodding, and leaning in during conversations, can enhance the clarity and effectiveness of communication."
+    ],
+    [
+      "friendliness",
+      "Contributes To",
+      "rapport building",
+      "Friendliness, through behaviors like smiling and mirroring another person\"s posture, helps to establish rapport and create a sense of connection between individuals."
+    ],
+    [
+      "furrowed brow",
+      "Indicates",
+      "Confusion",
+      "A furrowed brow often indicates confusion."
+    ],
+    [
+      "furrowed brow",
+      "Indicates",
+      "Concern",
+      "A furrowed brow often indicates concern."
+    ],
+    [
+      "confusion",
+      "Indicated By",
+      "furrowed brow",
+      "Confusion can be indicated by a furrowed brow."
+    ],
+    [
+      "concern",
+      "Indicated By",
+      "Furrowed Brow",
+      "A furrowed brow can indicate concern."
+    ],
+    [
+      "concern",
+      "Related To",
+      "Confusion",
+      "Concern and confusion are often related emotions."
+    ],
+    [
+      "proxemics",
+      "Influences",
+      "Communication",
+      "Proxemics influences the clarity and effectiveness of communication by affecting how people perceive and interpret spatial distances during interactions."
+    ],
+    [
+      "proxemics",
+      "Related To",
+      "Cultural Cues",
+      "Proxemics is closely related to cultural cues, as the use of space and distance can vary significantly between different cultures."
+    ],
+    [
+      "proxemics",
+      "Related To",
+      "Personal Cues",
+      "Proxemics is closely related to personal cues, as the use of space and distance can reflect an individual\"s comfort level and personal boundaries."
+    ],
+    [
+      "proxemics",
+      "Enhances",
+      "Rapport",
+      "Proxemics can enhance rapport between individuals by helping to establish a sense of connection and mutual understanding through the use of appropriate spatial distances."
+    ],
+    [
+      "proxemics",
+      "Conveys",
+      "Attraction and Intimacy",
+      "Proxemics can convey attraction and intimacy through the use of appropriate spatial distances, which are often closer in romantic interactions."
+    ],
+    [
+      "professional settings",
+      "Involves",
+      "body language",
+      "Professional settings involve the use of body language to convey confidence and authority."
+    ],
+    [
+      "professional settings",
+      "Includes",
+      "proxemics",
+      "Professional settings include considerations of proxemics to convey cultural and personal cues."
+    ],
+    [
+      "professional settings",
+      "Enhances",
+      "communication skills",
+      "Understanding body language in professional settings can enhance communication skills."
+    ],
+    [
+      "professional settings",
+      "Improves",
+      "social navigation",
+      "Understanding body language in professional settings can improve an individual\"s ability to navigate social situations."
+    ],
+    [
+      "confidence",
+      "Associated With",
+      "assertiveness",
+      "Confidence is often associated with assertiveness, as both involve a strong sense of self."
+    ],
+    [
+      "confidence",
+      "Contrasted With",
+      "insecurity",
+      "Confidence is often contrasted with insecurity, as slouching may suggest a lack of confidence."
+    ],
+    [
+      "confidence",
+      "Contrasted With",
+      "disinterest",
+      "Confidence is often contrasted with disinterest, as slouching may suggest a lack of engagement."
+    ],
+    [
+      "confidence",
+      "Enhances",
+      "communication skills",
+      "Confidence can enhance communication skills by improving clarity and effectiveness of interactions."
+    ],
+    [
+      "confidence",
+      "Establishes",
+      "rapport",
+      "Confidence can help establish rapport through mirroring another person\"s posture, which creates a sense of connection."
+    ],
+    [
+      "authority",
+      "Projected Through",
+      "Body Language",
+      "Authority is projected through specific body language cues such as maintaining good posture and making direct eye contact."
+    ],
+    [
+      "authority",
+      "Enhances",
+      "Communication Clarity",
+      "Projecting authority through body language can enhance the clarity and effectiveness of communication."
+    ],
+    [
+      "authority",
+      "Contributes To",
+      "Confidence",
+      "Projecting authority through body language can contribute to the perception of confidence."
+    ],
+    [
+      "posture",
+      "Component Of",
+      "Body Language",
+      "Posture is an important component of body language."
+    ],
+    [
+      "posture",
+      "Used In",
+      "Professional Settings",
+      "In professional settings, posture is used to project confidence and authority."
+    ],
+    [
+      "posture",
+      "Observed In",
+      "Social Interactions",
+      "Posture is observed and can be used to better understand the dynamics of social interactions."
+    ],
+    [
+      "posture",
+      "Paired With",
+      "Eye Contact",
+      "Posture is often paired with eye contact to project confidence and authority."
+    ],
+    [
+      "posture",
+      "Reveals",
+      "Thoughts and Feelings",
+      "Posture can reveal a great deal about a person\"s thoughts and feelings."
+    ],
+    [
+      "eye contact",
+      "Signals",
+      "Attentiveness",
+      "Maintaining eye contact during a conversation can signal attentiveness and engagement."
+    ],
+    [
+      "eye contact",
+      "Signals",
+      "Confidence",
+      "Maintaining eye contact can project confidence and authority, especially in professional settings."
+    ],
+    [
+      "eye contact",
+      "Signals",
+      "Discomfort",
+      "Avoiding eye contact may suggest discomfort or dishonesty."
+    ],
+    [
+      "eye contact",
+      "Signals",
+      "Dishonesty",
+      "Avoiding eye contact may suggest dishonesty."
+    ],
+    [
+      "eye contact",
+      "Enhances",
+      "Communication Skills",
+      "Paying attention to eye contact can enhance communication skills and deepen understanding of those around them."
+    ],
+    [
+      "55%",
+      "Estimates Proportion Of",
+      "Communication Conveyed Through Body Language",
+      "Research studies estimate that 55% of communication is conveyed through body language."
+    ]
+  ]
+}

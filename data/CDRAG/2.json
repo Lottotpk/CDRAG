@@ -1,0 +1,777 @@
+{
+  "entities": [
+    {
+      "name": "Urban Legends",
+      "type": "Folklore",
+      "description": "Urban legends are modern folklore stories that have been passed down through generations, often with variations and adaptations. They typically involve elements of the supernatural, danger, or the unknown.",
+      "attributes": {
+        "Origin": "Ancient times",
+        "Themes": "Supernatural, paranormal, fear of the unknown, threat of danger",
+        "Impact on Society": "Enduring popularity and significant influence on popular culture",
+        "Transmission": "Rapidly shared across various platforms and mediums due to advancements in technology and communication"
+      }
+    },
+    {
+      "name": "Haunted Houses",
+      "type": "Location",
+      "description": "Haunted houses are locations believed to be inhabited by spirits or supernatural entities, often associated with dark pasts and ghostly apparitions. They captivate audiences and serve as a source of urban legends.",
+      "attributes": {
+        "Type": "Supernatural Location",
+        "Purpose": "Urban Legend Setting",
+        "Atmosphere": "Mysterious and Scary"
+      }
+    },
+    {
+      "name": "Mysterious Creatures",
+      "type": "Entity Type",
+      "description": "Mysterious creatures are often featured in urban legends and folklore, captivating audiences with their enigmatic nature and unexplained existence.",
+      "attributes": {
+        "Category": "Supernatural",
+        "Popularity": "Enduring"
+      }
+    },
+    {
+      "name": "ancient times",
+      "type": "Historical Period",
+      "description": "Ancient times refer to the early period of human history, characterized by the development of early civilizations and the use of stories to explain the unknown and supernatural.",
+      "attributes": {
+        "Characterized By": "Development of Early Civilizations",
+        "Cultural Practice": "Use of Stories to Explain Unknown and Supernatural"
+      }
+    },
+    {
+      "name": "Hook Man",
+      "type": "Urban Legend Character",
+      "description": "The Hook Man is a character from an urban legend, often depicted as an escaped criminal with a hook for a hand. The story typically involves a young couple parked in a secluded area who hear a news report about the Hook Man.",
+      "attributes": {
+        "Type": "Urban Legend Character",
+        "Physical Description": "Escaped Criminal with a Hook for a Hand",
+        "Common Setting": "Secluded Parking Area"
+      }
+    },
+    {
+      "name": "young couple",
+      "type": "Person",
+      "description": "A young couple who are the main characters in an urban legend involving a terrifying encounter with an escaped criminal.",
+      "attributes": {
+        "Location": "Secluded area",
+        "Activity": "Parking and listening to news reports"
+      }
+    },
+    {
+      "name": "secluded area",
+      "type": "Location",
+      "description": "A secluded area refers to a place that is isolated and remote, often used as a setting in urban legends or horror stories.",
+      "attributes": {
+        "Characteristics": "Isolated, Remote",
+        "Common Use In Stories": "Setting for Urban Legends and Horror Stories"
+      }
+    },
+    {
+      "name": "news report",
+      "type": "Information Source",
+      "description": "A news report is an informational document that provides details about recent events or situations, often used to inform the public.",
+      "attributes": {
+        "Content": "about an escaped criminal with a hook for a hand",
+        "Purpose": "to inform and warn the public about potential dangers"
+      }
+    },
+    {
+      "name": "escaped criminal",
+      "type": "Person",
+      "description": "An escaped criminal with a hook for a hand, who is the subject of an urban legend involving a young couple parked in a secluded area.",
+      "attributes": {
+        "Physical Feature": "Hook for a hand"
+      }
+    },
+    {
+      "name": "hook for a hand",
+      "type": "Prosthetic Limb",
+      "description": "A prosthetic limb used as a replacement for an amputated or missing hand, often depicted in urban legends and horror stories.",
+      "attributes": {
+        "Material": "Metal",
+        "Purpose": "Functional and Symbolic"
+      }
+    },
+    {
+      "name": "car door",
+      "type": "Object",
+      "description": "A car door is a hinged or sliding panel used to close and secure the entryway of a vehicle.",
+      "attributes": {
+        "Material": "Metal, Plastic",
+        "Function": "To provide access to the interior of the car and ensure security when closed."
+      }
+    },
+    {
+      "name": "bloody hook",
+      "type": "Object",
+      "description": "A bloody hook is an object that appears in the urban legend of the \"Hook Man,\" where it hangs from the car door, causing terror to a young couple.",
+      "attributes": {
+        "Material": "Metal",
+        "Condition": "Bloody"
+      }
+    },
+    {
+      "name": "ghostly apparitions",
+      "type": "Supernatural Phenomenon",
+      "description": "Ghostly apparitions are visual manifestations of spirits or supernatural entities, often associated with haunted places and urban legends.",
+      "attributes": {
+        "Nature": "Visual Manifestation",
+        "Association": "Haunted Places",
+        "Context": "Urban Legends"
+      }
+    },
+    {
+      "name": "strangers",
+      "type": "Person",
+      "description": "Strangers are individuals who are not known to the listener or the characters in the stories.",
+      "attributes": {
+        "Intent": "Potentially Malicious",
+        "Behavior": "Luring Children with Candy"
+      }
+    },
+    {
+      "name": "children",
+      "type": "Person",
+      "description": "Children are young individuals, typically below the age of adulthood. They are often the subjects of cautionary tales and stories that warn them about potential dangers.",
+      "attributes": {
+        "Age Group": "Below Adulthood"
+      }
+    },
+    {
+      "name": "cursed objects",
+      "type": "Concept",
+      "description": "Cursed objects are items believed to be imbued with malevolent or harmful supernatural forces, often warning listeners about the dangers that lurk in the world around them.",
+      "attributes": {
+        "Purpose": "To warn about dangers",
+        "Nature": "Supernatural and malevolent"
+      }
+    },
+    {
+      "name": "technology",
+      "type": "Concept",
+      "description": "Technology refers to the application of scientific knowledge for practical purposes, including tools, methods, and systems used to solve problems or improve existing processes.",
+      "attributes": {
+        "Advancements in Communication": "Facilitates the rapid spread of information and urban legends through various platforms and mediums.",
+        "Impact on Information Dissemination": "Enables stories to be shared and disseminated at lightning speed, reaching a global audience in a matter of seconds."
+      }
+    },
+    {
+      "name": "communication",
+      "type": "Process",
+      "description": "Communication refers to the exchange of information, ideas, or messages between individuals through speaking, writing, or using some other medium.",
+      "attributes": {
+        "Form": "Speaking, Writing, Digital",
+        "Speed": "Rapid, Lightning Speed"
+      }
+    },
+    {
+      "name": "Internet",
+      "type": "Technology",
+      "description": "The Internet is a global system of interconnected computer networks that communicate using the Internet Protocol (IP) and support various applications and services.",
+      "attributes": {
+        "Impact on Communication": "Facilitates rapid dissemination of information",
+        "Speed of Information Sharing": "Lightning speed"
+      }
+    },
+    {
+      "name": "social media",
+      "type": "Technology Platform",
+      "description": "Social media refers to the various online platforms and tools that allow users to create, share, or exchange information, ideas, and content with other internet users.",
+      "attributes": {
+        "Facilitates Rapid Information Sharing": "True",
+        "Global Reach": "True"
+      }
+    },
+    {
+      "name": "Technology and Communication Advancements",
+      "type": "Technological Development",
+      "description": "Advancements in technology and communication have greatly facilitated the spread of urban legends.",
+      "attributes": {}
+    },
+    {
+      "name": "Ghostly Apparitions",
+      "type": "Supernatural Entity",
+      "description": "Ghostly apparitions are visual manifestations of spirits or supernatural entities. They are often associated with haunted houses and other locations believed to be inhabited by the dead.",
+      "attributes": {}
+    },
+    {
+      "name": "Dark Pasts",
+      "type": "Historical Event",
+      "description": "Dark pasts refer to historical events or occurrences that are often tragic, violent, or associated with death. These events contribute to the haunting of a location.",
+      "attributes": {}
+    },
+    {
+      "name": "Dangers in the World",
+      "type": "Threat",
+      "description": "Dangers in the world refer to potential threats or hazards that people should be aware of. Urban legends often use haunted houses as a way to warn listeners about these dangers.",
+      "attributes": {}
+    },
+    {
+      "name": "Dangers",
+      "type": "Concept",
+      "description": "Dangers refer to potential threats or hazards that can cause harm. In folklore and urban legends, mysterious creatures often serve as warnings about the dangers in the world.",
+      "attributes": {}
+    },
+    {
+      "name": "Young Couple",
+      "type": "Victim Group",
+      "description": "A young couple, often depicted as teenagers or young adults, who are typically the victims in the Hook Man legend.",
+      "attributes": {}
+    },
+    {
+      "name": "Unknown and Danger",
+      "type": "Emotional Response",
+      "description": "A common theme in urban legends, the fear of the unknown and danger is often evoked by the presence of the Hook Man.",
+      "attributes": {}
+    },
+    {
+      "name": "Supernatural or Paranormal Themes",
+      "type": "Story Element",
+      "description": "Supernatural or paranormal elements are common in urban legends, adding to the mystery and fear.",
+      "attributes": {}
+    },
+    {
+      "name": "Escaped Criminal with a Hook for a Hand",
+      "type": "Criminal",
+      "description": "An escaped criminal known for having a hook instead of a hand, which is the source of terror in the urban legend.",
+      "attributes": {}
+    },
+    {
+      "name": "Scratching Sound on Car Door",
+      "type": "Sound",
+      "description": "A terrifying sound heard by the young couple, which adds to their fear and suspicion.",
+      "attributes": {}
+    },
+    {
+      "name": "Bloody Hook Hanging from Car Handle",
+      "type": "Object",
+      "description": "A bloody hook found hanging from the car handle, which is a key element of the urban legend.",
+      "attributes": {}
+    },
+    {
+      "name": "Urban Legend",
+      "type": "Story",
+      "description": "An urban legend that is often passed down through generations and shared widely in the age of the internet.",
+      "attributes": {}
+    },
+    {
+      "name": "young couple parked in a car",
+      "type": "Characters",
+      "description": "A young couple who are the protagonists of an urban legend involving a scary encounter.",
+      "attributes": {}
+    },
+    {
+      "name": "urban legend about an escaped criminal with a hook for a hand",
+      "type": "Story",
+      "description": "An urban legend where a young couple is threatened by an escaped criminal known for having a hook for a hand.",
+      "attributes": {}
+    },
+    {
+      "name": "stories of strangers luring children with candy",
+      "type": "Story",
+      "description": "A type of cautionary tale warning about the dangers of trusting strangers.",
+      "attributes": {}
+    },
+    {
+      "name": "haunted houses with dark pasts",
+      "type": "Story",
+      "description": "Stories involving haunted locations with a history of tragic events.",
+      "attributes": {}
+    },
+    {
+      "name": "urban legend",
+      "type": "Story",
+      "description": "A tale that is passed down through generations, often involving elements of fear and caution.",
+      "attributes": {}
+    },
+    {
+      "name": "technology and communication advancements",
+      "type": "Technology",
+      "description": "Advancements in technology and communication have facilitated the spread of information, including news reports.",
+      "attributes": {}
+    },
+    {
+      "name": "Escaped Criminal",
+      "type": "Character in Urban Legend",
+      "description": "An escaped criminal with a hook for a hand, often featured in urban legends and horror stories.",
+      "attributes": {}
+    },
+    {
+      "name": "Urban Legend of the Hook Man",
+      "type": "Story",
+      "description": "A famous urban legend involving a young couple parked in a secluded area who hear about an escaped criminal with a hook for a hand.",
+      "attributes": {}
+    },
+    {
+      "name": "Fear and Terror",
+      "type": "Emotion",
+      "description": "A strong feeling of fear or terror, often experienced by characters in horror stories and urban legends.",
+      "attributes": {}
+    },
+    {
+      "name": "Car",
+      "type": "Vehicle",
+      "description": "A vehicle used for transportation, typically with four wheels.",
+      "attributes": {}
+    },
+    {
+      "name": "Car Frame",
+      "type": "Structural Component",
+      "description": "The structural framework that supports and holds together the various parts of a vehicle.",
+      "attributes": {}
+    },
+    {
+      "name": "Car Door Handle",
+      "type": "Object",
+      "description": "A device attached to the car door for opening or closing it.",
+      "attributes": {}
+    },
+    {
+      "name": "Scratching Sound",
+      "type": "Sound",
+      "description": "A sound produced by an object moving across a surface, often indicating damage or intrusion.",
+      "attributes": {}
+    },
+    {
+      "name": "Bloody Hook",
+      "type": "Object",
+      "description": "A hook with blood on it, often used in urban legends as a symbol of danger.",
+      "attributes": {}
+    },
+    {
+      "name": "Hook Man Legend",
+      "type": "Urban Legend",
+      "description": "The \"Hook Man\" is a famous urban legend involving a young couple who hear a news report about an escaped criminal with a hook for a hand. They become terrified as they hear a scratching sound on the car door, only to discover a bloody hook hanging from the handle.",
+      "attributes": {}
+    },
+    {
+      "name": "Terror",
+      "type": "Emotion",
+      "description": "A strong feeling of fear or dread.",
+      "attributes": {}
+    },
+    {
+      "name": "Car Door",
+      "type": "Object",
+      "description": "A part of a car that can be opened and closed to allow entry and exit.",
+      "attributes": {}
+    },
+    {
+      "name": "Dangers Lurking in the World",
+      "type": "Concept",
+      "description": "The concept of dangers lurking in the world refers to the idea that unseen threats may be present in everyday life, often emphasized in cautionary tales.",
+      "attributes": {}
+    },
+    {
+      "name": "Cautionary Tales",
+      "type": "Story Genre",
+      "description": "A genre of stories designed to teach moral lessons and warn about potential dangers.",
+      "attributes": {}
+    },
+    {
+      "name": "Stranger Danger",
+      "type": "Concept",
+      "description": "Stranger danger is a concept taught to children to be wary of unknown individuals, especially those who may offer candy or other enticements.",
+      "attributes": {}
+    },
+    {
+      "name": "Rapid Information Transmission",
+      "type": "Process",
+      "description": "The process of quickly sharing information across different communication channels, such as the internet and social media.",
+      "attributes": {}
+    },
+    {
+      "name": "Information Dissemination",
+      "type": "Process",
+      "description": "The process by which information is distributed or shared among individuals or groups.",
+      "attributes": {}
+    },
+    {
+      "name": "Community Bonding",
+      "type": "Social Process",
+      "description": "The process by which individuals in a community come together and form strong social bonds.",
+      "attributes": {}
+    },
+    {
+      "name": "Social Media",
+      "type": "Technology",
+      "description": "Social media platforms allow users to create and share content or participate in social networking.",
+      "attributes": {}
+    },
+    {
+      "name": "Global Audience",
+      "type": "Audience",
+      "description": "A global audience refers to a wide range of people from different parts of the world who can access and engage with content.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Urban Legends",
+      "Include",
+      "Hook Man",
+      "The \"Hook Man\" is one of the many urban legends that have been passed down through generations."
+    ],
+    [
+      "Urban Legends",
+      "Include",
+      "Haunted Houses",
+      "Haunted houses are a common theme in urban legends, often involving tales of the paranormal."
+    ],
+    [
+      "Urban Legends",
+      "Include",
+      "Mysterious Creatures",
+      "Mysterious creatures, such as Bigfoot or the Loch Ness Monster, are often featured in urban legends."
+    ],
+    [
+      "Urban Legends",
+      "Facilitated By",
+      "Technology and Communication Advancements",
+      "The rapid transmission of information through modern technology has led to the proliferation of urban legends."
+    ],
+    [
+      "Haunted Houses",
+      "Feature In",
+      "Urban Legends",
+      "Haunted houses are a common setting in urban legends, contributing to their enduring popularity."
+    ],
+    [
+      "Haunted Houses",
+      "Contain",
+      "Ghostly Apparitions",
+      "Haunted houses are known for containing ghostly apparitions, which add to their mysterious and scary atmosphere."
+    ],
+    [
+      "Haunted Houses",
+      "Have",
+      "Dark Pasts",
+      "Haunted houses frequently have dark pasts, which are part of their lore and add to their supernatural reputation."
+    ],
+    [
+      "Haunted Houses",
+      "Warn About",
+      "Dangers in the World",
+      "Haunted house stories serve as warnings about the dangers that may lurk in the world around us."
+    ],
+    [
+      "Mysterious Creatures",
+      "Featured In",
+      "Urban Legends",
+      "Mysterious creatures are a common element in urban legends, contributing to their allure and popularity."
+    ],
+    [
+      "Mysterious Creatures",
+      "Appears In",
+      "Haunted Houses",
+      "Mysterious creatures may appear in the context of haunted houses, adding to the eerie atmosphere."
+    ],
+    [
+      "Mysterious Creatures",
+      "Warns About",
+      "Dangers",
+      "Stories of mysterious creatures warn listeners about the hidden dangers that may exist around them."
+    ],
+    [
+      "ancient times",
+      "Originated In",
+      "Urban Legends",
+      "The origins of urban legends can be traced back to ancient times."
+    ],
+    [
+      "Hook Man",
+      "Appears In",
+      "Urban Legends",
+      "The Hook Man is a prominent character in urban legends."
+    ],
+    [
+      "Hook Man",
+      "Threatens",
+      "Young Couple",
+      "The Hook Man threatens a young couple parked in a secluded area."
+    ],
+    [
+      "Hook Man",
+      "Causes Fear Of",
+      "Unknown and Danger",
+      "The Hook Man\"s story instills a deep fear of the unknown and potential danger."
+    ],
+    [
+      "Hook Man",
+      "Is Part Of",
+      "Supernatural or Paranormal Themes",
+      "The Hook Man is often associated with supernatural or paranormal themes."
+    ],
+    [
+      "young couple",
+      "Hears News Report About",
+      "Escaped Criminal with a Hook for a Hand",
+      "The young couple hears a news report about an escaped criminal with a hook for a hand while parked in a secluded area."
+    ],
+    [
+      "young couple",
+      "Experiences",
+      "Scratching Sound on Car Door",
+      "The young couple experiences a scratching sound on the car door, increasing their terror."
+    ],
+    [
+      "young couple",
+      "Discovers",
+      "Bloody Hook Hanging from Car Handle",
+      "The young couple discovers a bloody hook hanging from the car handle, confirming their worst fears."
+    ],
+    [
+      "young couple",
+      "Participates In",
+      "Urban Legend",
+      "The young couple\"s encounter with the escaped criminal forms a part of an urban legend, which is shared to protect communities from perceived threats."
+    ],
+    [
+      "secluded area",
+      "Location Of",
+      "young couple parked in a car",
+      "The secluded area is where the young couple parks their car, setting the stage for their terrifying experience."
+    ],
+    [
+      "secluded area",
+      "Setting For",
+      "urban legend about an escaped criminal with a hook for a hand",
+      "The secluded area serves as the setting for this particular urban legend, adding to its eerie atmosphere."
+    ],
+    [
+      "secluded area",
+      "Context For",
+      "stories of strangers luring children with candy",
+      "The secluded area is often mentioned in stories that warn listeners about the dangers lurking in isolated places."
+    ],
+    [
+      "secluded area",
+      "Context For",
+      "haunted houses with dark pasts",
+      "The secluded area is frequently used as the setting for tales of haunted houses, enhancing the sense of isolation and fear."
+    ],
+    [
+      "secluded area",
+      "Context For",
+      "cursed objects",
+      "The secluded area is a common setting for stories involving cursed objects, where the isolation adds to the suspense and fear."
+    ],
+    [
+      "news report",
+      "Broadcasts Information To",
+      "young couple",
+      "The news report informs and warns the young couple about an escaped criminal with a hook for a hand."
+    ],
+    [
+      "news report",
+      "Is Part Of",
+      "urban legend",
+      "The news report is a component of the urban legend, contributing to its narrative."
+    ],
+    [
+      "news report",
+      "Is Spread By",
+      "technology and communication advancements",
+      "The news report is spread more widely due to advancements in technology and communication."
+    ],
+    [
+      "escaped criminal",
+      "Causes Fear In",
+      "young couple",
+      "The escaped criminal with a hook for a hand causes fear and terror in the young couple."
+    ],
+    [
+      "escaped criminal",
+      "Featured In",
+      "urban legend",
+      "The escaped criminal with a hook for a hand is featured in an urban legend about a young couple parked in a secluded area."
+    ],
+    [
+      "hook for a hand",
+      "Belongs To",
+      "Escaped Criminal",
+      "The hook for a hand is a prosthetic limb belonging to the escaped criminal."
+    ],
+    [
+      "hook for a hand",
+      "Appears In",
+      "Urban Legend of the Hook Man",
+      "The hook for a hand is a key element in the urban legend of the Hook Man."
+    ],
+    [
+      "hook for a hand",
+      "Causes",
+      "Fear and Terror",
+      "The presence of the hook for a hand causes fear and terror among the young couple in the story."
+    ],
+    [
+      "car door",
+      "Part Of",
+      "Car",
+      "The car door is a component of the car."
+    ],
+    [
+      "car door",
+      "Hinged To",
+      "Car Frame",
+      "The car door is hinged to the car frame, allowing it to open and close."
+    ],
+    [
+      "car door",
+      "Has Handle",
+      "Car Door Handle",
+      "The car door has a handle that is used to open and close it."
+    ],
+    [
+      "car door",
+      "Can Be Scratched By",
+      "Scratching Sound",
+      "The car door can be scratched by a sound, which may indicate someone or something trying to gain access."
+    ],
+    [
+      "car door",
+      "Can Have Attached To It",
+      "Bloody Hook",
+      "In the context of an urban legend, a bloody hook can be attached to the car door."
+    ],
+    [
+      "bloody hook",
+      "Appears In",
+      "Hook Man Legend",
+      "The bloody hook appears in the \"Hook Man\" legend, where it is found hanging from the car door."
+    ],
+    [
+      "bloody hook",
+      "Causes",
+      "Terror",
+      "The discovery of the bloody hook causes terror in the young couple in the \"Hook Man\" legend."
+    ],
+    [
+      "bloody hook",
+      "Is Part Of",
+      "Car Door",
+      "The bloody hook is found hanging from the handle of the car door in the \"Hook Man\" legend."
+    ],
+    [
+      "ghostly apparitions",
+      "Appears In",
+      "Haunted Houses",
+      "Ghostly apparitions frequently appear in haunted houses, contributing to the eerie atmosphere and stories of these locations."
+    ],
+    [
+      "ghostly apparitions",
+      "Appears In",
+      "Urban Legends",
+      "Ghostly apparitions are common elements in urban legends, adding to the allure and mystery of these tales."
+    ],
+    [
+      "ghostly apparitions",
+      "Warns About",
+      "Dangers Lurking in the World",
+      "Ghostly apparitions in stories serve as warnings about potential dangers and the unknown, encouraging vigilance and caution."
+    ],
+    [
+      "strangers",
+      "Warns About",
+      "Dangers in the World",
+      "Strangers are used in stories to warn listeners about the potential dangers they might encounter from unknown individuals."
+    ],
+    [
+      "strangers",
+      "Appears In",
+      "Cautionary Tales",
+      "Strangers are a common element in cautionary tales, often depicted as dangerous or threatening figures."
+    ],
+    [
+      "children",
+      "Subject Of",
+      "Cautionary Tales",
+      "Children are often the subjects of cautionary tales that aim to protect them from various threats."
+    ],
+    [
+      "children",
+      "Target Of",
+      "Stranger Danger",
+      "Children are often warned about the dangers of strangers luring them with candy."
+    ],
+    [
+      "cursed objects",
+      "Feature In",
+      "Urban Legends",
+      "Cursed objects feature prominently in urban legends, serving as elements that warn listeners about the dangers in their surroundings."
+    ],
+    [
+      "cursed objects",
+      "Warn About",
+      "Dangers",
+      "Cursed objects in stories serve to warn listeners about the dangers that may exist in their world."
+    ],
+    [
+      "technology",
+      "Facilitates",
+      "Urban Legends",
+      "Advancements in technology have greatly facilitated the spread of urban legends by enabling rapid dissemination through various platforms and mediums."
+    ],
+    [
+      "technology",
+      "Enables",
+      "Rapid Information Transmission",
+      "Technology enables the rapid transmission of information, leading to the proliferation of urban legends in popular culture."
+    ],
+    [
+      "communication",
+      "Facilitates",
+      "Urban Legends",
+      "Communication, especially through technology and social media, facilitates the spread of urban legends."
+    ],
+    [
+      "communication",
+      "Enables",
+      "Information Dissemination",
+      "Communication enables the rapid dissemination of information, allowing stories and messages to reach a global audience quickly."
+    ],
+    [
+      "communication",
+      "Supports",
+      "Community Bonding",
+      "Communication supports the bonding of communities by allowing them to share stories and information, fostering a sense of unity and shared purpose."
+    ],
+    [
+      "Internet",
+      "Enables",
+      "Social Media",
+      "The Internet enables the existence and functionality of social media platforms."
+    ],
+    [
+      "Internet",
+      "Facilitates",
+      "Urban Legends",
+      "The Internet facilitates the rapid spread and proliferation of urban legends in popular culture."
+    ],
+    [
+      "Internet",
+      "Reaches",
+      "Global Audience",
+      "The Internet allows stories and information to reach a global audience in seconds."
+    ],
+    [
+      "social media",
+      "Enables",
+      "Urban Legends",
+      "Social media enables the rapid spread and proliferation of urban legends in popular culture."
+    ],
+    [
+      "social media",
+      "Facilitates",
+      "Information Dissemination",
+      "Social media facilitates the rapid dissemination of information, allowing stories to reach a global audience in seconds."
+    ],
+    [
+      "social media",
+      "Part Of",
+      "Internet",
+      "Social media platforms are part of the broader internet infrastructure."
+    ]
+  ]
+}

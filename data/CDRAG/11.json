@@ -1,0 +1,922 @@
+{
+  "entities": [
+    {
+      "name": "Language processing",
+      "type": "Cognitive Function",
+      "description": "Language processing is a complex function of the human brain that involves multiple stages and regions, each contributing to different aspects of linguistic function. It includes perception, comprehension, production, and acquisition.",
+      "attributes": {
+        "Stages": "Perception, Comprehension, Production, Acquisition",
+        "Importance": "Sheds light on human cognition, has implications for language development, communication disorders, and neurorehabilitation"
+      }
+    },
+    {
+      "name": "human brain",
+      "type": "Biological Organ",
+      "description": "The human brain is the central organ of the nervous system and plays a crucial role in language processing, cognition, and communication. It is composed of multiple regions that work together to process linguistic information.",
+      "attributes": {
+        "Function": "Central Organ of Nervous System",
+        "Role in Language Processing": "Processes language through multiple stages and regions, involving phoneme and grapheme recognition, word retrieval, grammatical organization, and motor command generation.",
+        "Plasticity": "Able to reorganize and adapt to new linguistic input"
+      }
+    },
+    {
+      "name": "neural networks",
+      "type": "Biological Structure",
+      "description": "Neural networks are complex systems of interconnected neurons in the brain that process and transmit information. They play a crucial role in various cognitive functions, including language processing.",
+      "attributes": {
+        "Function": "Process and transmit information",
+        "Role in Language Processing": "Involved in the perception of speech sounds and production of meaningful sentences"
+      }
+    },
+    {
+      "name": "linguistic input",
+      "type": "Concept",
+      "description": "Linguistic input refers to the language data that is received by an individual, which can be in the form of spoken or written language. This input is processed by various neural networks and brain regions to understand its structure and content.",
+      "attributes": {
+        "Form": "Spoken or Written Language",
+        "Processing Stage": "Understanding"
+      }
+    },
+    {
+      "name": "perception",
+      "type": "Cognitive Process",
+      "description": "Perception is the first stage of language processing, involving the recognition and decoding of speech sounds or written symbols.",
+      "attributes": {
+        "Stage in Language Processing": "First",
+        "Function": "Recognition and Decoding of Linguistic Input"
+      }
+    },
+    {
+      "name": "phonemes",
+      "type": "Linguistic Unit",
+      "description": "Phonemes are the smallest units of sound in a language that can distinguish one word from another.",
+      "attributes": {
+        "Type": "Sound Unit",
+        "Function": "Distinguishing Words"
+      }
+    },
+    {
+      "name": "graphemes",
+      "type": "Linguistic Unit",
+      "description": "Graphemes are the smallest units of written symbols in a language, representing individual sounds or phonemes.",
+      "attributes": {
+        "Type": "Written Symbol",
+        "Function": "Represents Phonemes"
+      }
+    },
+    {
+      "name": "angular gyrus",
+      "type": "Brain Region",
+      "description": "The angular gyrus is a part of the brain involved in language processing, particularly in integrating visual and auditory information to support reading and writing.",
+      "attributes": {
+        "Location": "Left Hemisphere",
+        "Function": "Integrates Visual and Auditory Information for Reading and Writing"
+      }
+    },
+    {
+      "name": "mental lexicon",
+      "type": "Cognitive Concept",
+      "description": "The mental lexicon is the brain\"s internal dictionary of words and their meanings, which plays a crucial role in language processing.",
+      "attributes": {
+        "Function": "Storage of Words and Meanings",
+        "Role in Language Processing": "Retrieval of Words for Speech Production"
+      }
+    },
+    {
+      "name": "grammatically correct sentences",
+      "type": "Linguistic Construct",
+      "description": "Grammatically correct sentences are well-formed sequences of words that adhere to the syntactic rules and structures of a language.",
+      "attributes": {
+        "Syntactic Structure": "Follows grammatical rules",
+        "Purpose": "To convey clear and understandable meaning"
+      }
+    },
+    {
+      "name": "articulatory muscles",
+      "type": "Biological Structure",
+      "description": "Articulatory muscles are the muscles involved in the production of speech, including those that control the movements of the lips, tongue, and vocal cords.",
+      "attributes": {
+        "Function": "Control the movements necessary for speech production"
+      }
+    },
+    {
+      "name": "expressive aphasia",
+      "type": "Medical Condition",
+      "description": "Expressive aphasia, also known as Broca\"s aphasia, is a language disorder characterized by difficulty in producing coherent speech. It often results from damage to the frontal lobe of the brain, particularly affecting areas such as Broca\"s area and the premotor cortex.",
+      "attributes": {
+        "Symptoms": "Difficulty producing coherent speech",
+        "Cause": "Damage to the frontal lobe of the brain, particularly affecting areas such as Broca\"s area and the premotor cortex"
+      }
+    },
+    {
+      "name": "receptive aphasia",
+      "type": "Medical Condition",
+      "description": "Receptive aphasia, also known as Wernicke\"s aphasia, is a language disorder characterized by difficulty in understanding spoken or written language. It often results from damage to the brain\"s left hemisphere, particularly in the posterior superior temporal gyrus.",
+      "attributes": {
+        "Symptom": "Difficulty understanding spoken or written language",
+        "Cause": "Damage to the brain\"s left hemisphere, particularly in the posterior superior temporal gyrus"
+      }
+    },
+    {
+      "name": "language",
+      "type": "Concept",
+      "description": "Language is a complex system of communication that involves the use of symbols and rules to convey meaning. It plays a crucial role in human cognition, development, and social interaction.",
+      "attributes": {
+        "Nature": "A system of communication involving symbols and rules",
+        "Function": "Conveying meaning and facilitating cognitive processes",
+        "Development": "Lifelong process involving learning new words, grammatical rules, and language structures"
+      }
+    },
+    {
+      "name": "human cognition",
+      "type": "Concept",
+      "description": "Human cognition encompasses the mental processes that allow humans to acquire, process, and use information. It includes perception, attention, memory, language processing, problem-solving, reasoning, and decision-making.",
+      "attributes": {
+        "Involves": "Mental Processes",
+        "Includes": "Perception, Attention, Memory, Language Processing, Problem-Solving, Reasoning, Decision-Making"
+      }
+    },
+    {
+      "name": "neurorehabilitation",
+      "type": "Medical Field",
+      "description": "Neurorehabilitation is a specialized field of medicine that focuses on the recovery and improvement of functions lost due to brain injuries or neurological disorders.",
+      "attributes": {
+        "Focus Area": "Recovery and Improvement of Functions Lost Due to Brain Injuries or Neurological Disorders",
+        "Importance": "Understanding how the brain processes language has important implications for neurorehabilitation."
+      }
+    },
+    {
+      "name": "communication",
+      "type": "Process",
+      "description": "Communication is the exchange of information or news among people through speaking, writing, or using some other medium.",
+      "attributes": {
+        "Key Aspect": "Understanding and producing language",
+        "Involves": "Integration of phonological, syntactic, and semantic information"
+      }
+    },
+    {
+      "name": "Key Brain Regions",
+      "type": "Brain Structures",
+      "description": "Several key brain regions are involved in language processing, each contributing to different aspects of linguistic function.",
+      "attributes": {}
+    },
+    {
+      "name": "Phonological, Syntactic, Semantic Information",
+      "type": "Information Types",
+      "description": "The integration of phonological, syntactic, and semantic information is crucial for understanding the structure and content of a sentence.",
+      "attributes": {}
+    },
+    {
+      "name": "Language Development",
+      "type": "Developmental Process",
+      "description": "The study of language processing has important implications for understanding how language develops in humans.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication Disorders",
+      "type": "Medical Condition",
+      "description": "Research into language processing can provide insights into communication disorders and their treatment.",
+      "attributes": {}
+    },
+    {
+      "name": "Neurorehabilitation",
+      "type": "Medical Treatment",
+      "description": "Understanding the brain\"s capacity for language processing can aid in neurorehabilitation efforts.",
+      "attributes": {}
+    },
+    {
+      "name": "Phoneme Recognition",
+      "type": "Cognitive Function",
+      "description": "The ability to distinguish between different phonemes, which are the smallest units of sound in a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Grapheme Recognition",
+      "type": "Cognitive Function",
+      "description": "The ability to distinguish between different graphemes, which are the smallest units of written symbols in a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Mental Lexicon",
+      "type": "Cognitive Function",
+      "description": "A mental dictionary where words are stored.",
+      "attributes": {}
+    },
+    {
+      "name": "Grammatically Correct Sentences",
+      "type": "Cognitive Function",
+      "description": "Sentences that follow the grammatical rules of a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Articulatory Muscles",
+      "type": "Biological Structure",
+      "description": "Muscles involved in the production of speech.",
+      "attributes": {}
+    },
+    {
+      "name": "Angular Gyrus",
+      "type": "Brain Region",
+      "description": "A part of the parietal lobe that integrates visual and auditory information to support reading and writing.",
+      "attributes": {}
+    },
+    {
+      "name": "Arcuate Fasciculus",
+      "type": "Brain Structure",
+      "description": "A bundle of nerve fibers that connects Broca\"s area and Wernicke\"s area, facilitating communication between them.",
+      "attributes": {}
+    },
+    {
+      "name": "Broca\"s Area",
+      "type": "Brain Region",
+      "description": "Located in the left frontal lobe, this region is crucial for language production.",
+      "attributes": {}
+    },
+    {
+      "name": "Wernicke\"s Area",
+      "type": "Brain Region",
+      "description": "Located in the left temporal lobe, this region is crucial for language comprehension.",
+      "attributes": {}
+    },
+    {
+      "name": "Auditory Cortex",
+      "type": "Brain Region",
+      "description": "A region of the temporal lobe that processes auditory information.",
+      "attributes": {}
+    },
+    {
+      "name": "Visual Cortex",
+      "type": "Brain Region",
+      "description": "A region of the occipital lobe that processes visual information.",
+      "attributes": {}
+    },
+    {
+      "name": "Language Comprehension",
+      "type": "Cognitive Function",
+      "description": "The ability to understand spoken and written language.",
+      "attributes": {}
+    },
+    {
+      "name": "Language Production",
+      "type": "Cognitive Function",
+      "description": "The ability to produce spoken and written language.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Regions",
+      "type": "Biological Structure",
+      "description": "Brain regions are specific areas within the brain that have specialized functions, such as Wernicke\"s area for language comprehension.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Plasticity",
+      "type": "Biological Property",
+      "description": "Brain plasticity refers to the brain\"s ability to reorganize and adapt to new information, including linguistic input.",
+      "attributes": {}
+    },
+    {
+      "name": "Neural Networks",
+      "type": "Biological System",
+      "description": "Neural networks are interconnected groups of neurons that process and transmit information in the brain.",
+      "attributes": {}
+    },
+    {
+      "name": "Phonological Information",
+      "type": "Linguistic Component",
+      "description": "Phonological information refers to the sound patterns of a language, including phonemes and their combinations.",
+      "attributes": {}
+    },
+    {
+      "name": "Syntactic Information",
+      "type": "Linguistic Component",
+      "description": "Syntactic information refers to the rules governing the structure of sentences in a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Semantic Information",
+      "type": "Linguistic Component",
+      "description": "Semantic information refers to the meaning conveyed by words, phrases, and sentences in a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Comprehension",
+      "type": "Cognitive Process",
+      "description": "Comprehension is the stage of language processing where the brain makes sense of linguistic input and extracts meaning from it.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain",
+      "type": "Organ",
+      "description": "The brain is the central organ of the nervous system and plays a crucial role in processing language.",
+      "attributes": {}
+    },
+    {
+      "name": "Graphemes",
+      "type": "Linguistic Unit",
+      "description": "Graphemes are the smallest units of written symbols in a language.",
+      "attributes": {}
+    },
+    {
+      "name": "Language Processing",
+      "type": "Cognitive Process",
+      "description": "Language processing involves the integration of phonological, syntactic, and semantic information to understand the structure and content of a sentence.",
+      "attributes": {}
+    },
+    {
+      "name": "Left Hemisphere",
+      "type": "Brain Hemisphere",
+      "description": "The left hemisphere of the brain is responsible for language processing, including grammatical rules and linking words to their meanings.",
+      "attributes": {}
+    },
+    {
+      "name": "Reading and Writing",
+      "type": "Cognitive Function",
+      "description": "Reading and writing are cognitive functions that involve processing visual and auditory information.",
+      "attributes": {}
+    },
+    {
+      "name": "Speech Production",
+      "type": "Biological Process",
+      "description": "Speech production is the process by which thoughts are translated into spoken words.",
+      "attributes": {}
+    },
+    {
+      "name": "Words and Meanings",
+      "type": "Linguistic Elements",
+      "description": "Words and meanings are the basic units of language that carry semantic information.",
+      "attributes": {}
+    },
+    {
+      "name": "motor areas in the frontal lobe",
+      "type": "Brain Region",
+      "description": "Motor areas in the frontal lobe, such as Broca\"s area and the premotor cortex, are responsible for controlling voluntary movements, including those of the articulatory muscles.",
+      "attributes": {}
+    },
+    {
+      "name": "speech production process",
+      "type": "Biological Process",
+      "description": "The process of producing speech involves retrieving words from the mental lexicon, organizing them into grammatically correct sentences, and sending motor commands to the articulatory muscles.",
+      "attributes": {}
+    },
+    {
+      "name": "Broca\"s area",
+      "type": "Brain Region",
+      "description": "Broca\"s area is a region in the frontal lobe of the brain that plays a crucial role in speech production.",
+      "attributes": {}
+    },
+    {
+      "name": "premotor cortex",
+      "type": "Brain Region",
+      "description": "The premotor cortex is a part of the frontal lobe that is involved in planning and executing movements, including those necessary for speech.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Damage",
+      "type": "Medical Condition",
+      "description": "Brain damage refers to the destruction or degeneration of brain cells. It can result from various causes, including trauma, stroke, infections, and neurodegenerative diseases.",
+      "attributes": {}
+    },
+    {
+      "name": "Premotor Cortex",
+      "type": "Brain Region",
+      "description": "The premotor cortex is a part of the frontal lobe that plays a role in planning and executing movements, including those involved in speech production.",
+      "attributes": {}
+    },
+    {
+      "name": "Brain Processing",
+      "type": "Biological Process",
+      "description": "The brain processes language through multiple regions and intricate neural pathways.",
+      "attributes": {}
+    },
+    {
+      "name": "Cognitive Development",
+      "type": "Psychological Process",
+      "description": "Cognitive development refers to the growth of mental processes, including perception, memory, reasoning, and problem-solving.",
+      "attributes": {}
+    },
+    {
+      "name": "Communication",
+      "type": "Social Function",
+      "description": "Communication is the exchange of information between individuals through speaking, writing, or using some other medium. It is a fundamental aspect of human interaction.",
+      "attributes": {}
+    },
+    {
+      "name": "brain plasticity",
+      "type": "Biological Process",
+      "description": "Brain plasticity is the brain\"s ability to reorganize itself by forming new neural connections throughout life. This allows it to adapt to new linguistic input.",
+      "attributes": {}
+    },
+    {
+      "name": "auditory cortex",
+      "type": "Brain Region",
+      "description": "The auditory cortex is a part of the temporal lobe in the brain that processes sound information.",
+      "attributes": {}
+    },
+    {
+      "name": "visual cortex",
+      "type": "Brain Region",
+      "description": "The visual cortex is a part of the brain that processes visual information.",
+      "attributes": {}
+    },
+    {
+      "name": "cognition",
+      "type": "Cognitive Process",
+      "description": "Cognition refers to the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "attributes": {}
+    },
+    {
+      "name": "researchers",
+      "type": "Research Community",
+      "description": "Researchers are individuals who conduct scientific studies to understand various phenomena, including communication and language processing.",
+      "attributes": {}
+    }
+  ],
+  "relations": [
+    [
+      "Language processing",
+      "Involves Brain Regions",
+      "Key Brain Regions",
+      "Language processing involves multiple brain regions that play specific roles in the process."
+    ],
+    [
+      "Language processing",
+      "Integrates Information Types",
+      "Phonological, Syntactic, Semantic Information",
+      "Language processing integrates various types of information to facilitate comprehension."
+    ],
+    [
+      "Language processing",
+      "Has Implications For",
+      "Language Development",
+      "Understanding language processing helps in studying the development of language skills."
+    ],
+    [
+      "Language processing",
+      "Has Implications For",
+      "Communication Disorders",
+      "Studying language processing is crucial for understanding and treating communication disorders."
+    ],
+    [
+      "Language processing",
+      "Has Implications For",
+      "Neurorehabilitation",
+      "Knowledge of language processing is valuable for developing neurorehabilitation strategies."
+    ],
+    [
+      "human brain",
+      "Processes Language Through",
+      "Phoneme Recognition",
+      "The human brain processes language by recognizing and distinguishing between different phonemes."
+    ],
+    [
+      "human brain",
+      "Processes Language Through",
+      "Grapheme Recognition",
+      "The human brain processes language by recognizing and distinguishing between different graphemes."
+    ],
+    [
+      "human brain",
+      "Retrieves Words From",
+      "Mental Lexicon",
+      "The human brain retrieves words from its mental lexicon to form sentences."
+    ],
+    [
+      "human brain",
+      "Organizes Words Into",
+      "Grammatically Correct Sentences",
+      "The human brain organizes words into grammatically correct sentences."
+    ],
+    [
+      "human brain",
+      "Sends Motor Commands To",
+      "Articulatory Muscles",
+      "The human brain sends motor commands to the articulatory muscles to produce speech."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Angular Gyrus",
+      "The human brain involves the angular gyrus in language processing, particularly for integrating visual and auditory information."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Arcuate Fasciculus",
+      "The human brain involves the arcuate fasciculus in language processing by connecting Broca\"s area and Wernicke\"s area."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Broca\"s Area",
+      "The human brain involves Broca\"s area in language processing, particularly for organizing words into grammatically correct sentences and generating motor commands."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Wernicke\"s Area",
+      "The human brain involves Wernicke\"s area in language processing, particularly for understanding and interpreting spoken and written language."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Auditory Cortex",
+      "The human brain involves the auditory cortex in language processing, particularly for recognizing and interpreting spoken words."
+    ],
+    [
+      "human brain",
+      "Involves Region",
+      "Visual Cortex",
+      "The human brain involves the visual cortex in language processing, particularly for recognizing and interpreting written words."
+    ],
+    [
+      "human brain",
+      "Involves Process",
+      "Language Comprehension",
+      "The human brain processes language comprehension through various regions, including Wernicke\"s area and the auditory cortex."
+    ],
+    [
+      "human brain",
+      "Involves Process",
+      "Language Production",
+      "The human brain processes language production through various regions, including Broca\"s area and the motor cortex."
+    ],
+    [
+      "neural networks",
+      "Work Together With",
+      "Brain Regions",
+      "Neural networks work together with various brain regions to process linguistic input and generate meaningful output."
+    ],
+    [
+      "neural networks",
+      "Supported By",
+      "Brain Plasticity",
+      "Neural networks are supported by the brain\"s plasticity, which allows them to adapt and reorganize in response to new linguistic input."
+    ],
+    [
+      "linguistic input",
+      "Involves",
+      "Neural Networks",
+      "Linguistic input involves a complex interplay of neural networks to make sense of the language data."
+    ],
+    [
+      "linguistic input",
+      "Involves",
+      "Brain Regions",
+      "Linguistic input involves various brain regions working together to understand and process language."
+    ],
+    [
+      "linguistic input",
+      "Supports",
+      "Language Production",
+      "Linguistic input supports the brain\"s ability to generate meaningful responses in the form of spoken or written language."
+    ],
+    [
+      "linguistic input",
+      "Influences",
+      "Brain Plasticity",
+      "Linguistic input influences brain plasticity by allowing the brain to reorganize and adapt to new language data."
+    ],
+    [
+      "linguistic input",
+      "Integrates",
+      "Phonological Information",
+      "Linguistic input integrates phonological information to understand the structure and content of a sentence."
+    ],
+    [
+      "linguistic input",
+      "Integrates",
+      "Syntactic Information",
+      "Linguistic input integrates syntactic information to understand the structure and content of a sentence."
+    ],
+    [
+      "linguistic input",
+      "Integrates",
+      "Semantic Information",
+      "Linguistic input integrates semantic information to understand the structure and content of a sentence."
+    ],
+    [
+      "perception",
+      "Occurs In",
+      "Auditory Cortex",
+      "Perception occurs in the auditory cortex for spoken language."
+    ],
+    [
+      "perception",
+      "Occurs In",
+      "Visual Cortex",
+      "Perception occurs in the visual cortex for written language."
+    ],
+    [
+      "perception",
+      "Precedes",
+      "Comprehension",
+      "Perception precedes comprehension in the stages of language processing."
+    ],
+    [
+      "phonemes",
+      "Processed By",
+      "Brain",
+      "Phonemes are processed by the brain to distinguish between different sounds in a language."
+    ],
+    [
+      "phonemes",
+      "Integrated With",
+      "Graphemes",
+      "Phonemes and graphemes are integrated by the brain to understand spoken and written language."
+    ],
+    [
+      "phonemes",
+      "Part Of",
+      "Language Processing",
+      "Phonemes are part of the language processing system in the brain."
+    ],
+    [
+      "graphemes",
+      "Distinguished By",
+      "Brain",
+      "The brain can distinguish between different graphemes, which are essential for reading and writing."
+    ],
+    [
+      "graphemes",
+      "Processed By",
+      "Angular Gyrus",
+      "Graphemes are processed by the angular gyrus, which helps in integrating visual and auditory information for language processing."
+    ],
+    [
+      "angular gyrus",
+      "Part Of",
+      "Left Hemisphere",
+      "The angular gyrus is located in the left hemisphere of the brain."
+    ],
+    [
+      "angular gyrus",
+      "Supports",
+      "Reading and Writing",
+      "The angular gyrus integrates visual and auditory information to support reading and writing."
+    ],
+    [
+      "angular gyrus",
+      "Connected To",
+      "Broca\"s Area",
+      "The angular gyrus and Broca\"s area are both involved in language processing."
+    ],
+    [
+      "angular gyrus",
+      "Connected To",
+      "Wernicke\"s Area",
+      "The angular gyrus, along with Wernicke\"s area, plays a role in language processing."
+    ],
+    [
+      "mental lexicon",
+      "Part Of",
+      "Brain",
+      "The mental lexicon is part of the brain\"s cognitive architecture."
+    ],
+    [
+      "mental lexicon",
+      "Interacts With",
+      "Auditory Cortex",
+      "The mental lexicon interacts with the auditory cortex during the processing of spoken language."
+    ],
+    [
+      "mental lexicon",
+      "Interacts With",
+      "Visual Cortex",
+      "The mental lexicon interacts with the visual cortex during the processing of written language."
+    ],
+    [
+      "mental lexicon",
+      "Contributes To",
+      "Speech Production",
+      "The mental lexicon contributes to speech production by providing the necessary words and meanings."
+    ],
+    [
+      "mental lexicon",
+      "Contributes To",
+      "Language Processing",
+      "The mental lexicon plays a crucial role in language processing by storing and retrieving words and their meanings."
+    ],
+    [
+      "grammatically correct sentences",
+      "Produced By",
+      "Brain",
+      "The brain produces grammatically correct sentences by organizing words into syntactically correct structures."
+    ],
+    [
+      "grammatically correct sentences",
+      "Processed By",
+      "Broca\"s Area",
+      "Broca\"s area processes grammatical rules to ensure sentences are syntactically correct."
+    ],
+    [
+      "grammatically correct sentences",
+      "Linked To",
+      "Words and Meanings",
+      "Grammatically correct sentences link words to their meanings, ensuring coherent communication."
+    ],
+    [
+      "grammatically correct sentences",
+      "Integrated With",
+      "Phonological Information",
+      "Grammatically correct sentences integrate phonological information to ensure proper pronunciation and articulation."
+    ],
+    [
+      "grammatically correct sentences",
+      "Integrated With",
+      "Semantic Information",
+      "Grammatically correct sentences integrate semantic information to ensure that the content is meaningful."
+    ],
+    [
+      "articulatory muscles",
+      "Controlled By",
+      "motor areas in the frontal lobe",
+      "The motor areas in the frontal lobe send commands to the articulatory muscles to produce speech."
+    ],
+    [
+      "articulatory muscles",
+      "Involved In",
+      "speech production process",
+      "Articulatory muscles are involved in the final stage of speech production by executing the movements necessary for vocalization."
+    ],
+    [
+      "expressive aphasia",
+      "Affects",
+      "Broca\"s area",
+      "Expressive aphasia often results from damage to Broca\"s area."
+    ],
+    [
+      "expressive aphasia",
+      "Affects",
+      "premotor cortex",
+      "Expressive aphasia can result from damage to the premotor cortex."
+    ],
+    [
+      "expressive aphasia",
+      "Contrasted With",
+      "receptive aphasia",
+      "Expressive aphasia and receptive aphasia are two distinct types of aphasia with different symptoms and causes."
+    ],
+    [
+      "receptive aphasia",
+      "Affects",
+      "Language Processing",
+      "Receptive aphasia affects an individual\"s ability to process and understand language."
+    ],
+    [
+      "receptive aphasia",
+      "Caused By",
+      "Brain Damage",
+      "Receptive aphasia is caused by damage to specific areas of the brain."
+    ],
+    [
+      "receptive aphasia",
+      "Related To",
+      "Broca\"s Area",
+      "Receptive aphasia and Broca\"s area are both involved in language processing, though they affect different aspects of language."
+    ],
+    [
+      "receptive aphasia",
+      "Related To",
+      "Premotor Cortex",
+      "Receptive aphasia and the premotor cortex are both involved in language processing."
+    ],
+    [
+      "receptive aphasia",
+      "Related To",
+      "Auditory Cortex",
+      "Receptive aphasia and the auditory cortex are both involved in the processing of spoken language."
+    ],
+    [
+      "receptive aphasia",
+      "Related To",
+      "Visual Cortex",
+      "Receptive aphasia and the visual cortex are both involved in the processing of written language."
+    ],
+    [
+      "receptive aphasia",
+      "Related To",
+      "Neurorehabilitation",
+      "Receptive aphasia may benefit from neurorehabilitation to improve language understanding."
+    ],
+    [
+      "language",
+      "Involves",
+      "Brain Processing",
+      "Language processing involves the brain\"s ability to interpret and generate linguistic information."
+    ],
+    [
+      "language",
+      "Supports",
+      "Cognitive Development",
+      "Language supports cognitive development by facilitating learning and understanding."
+    ],
+    [
+      "language",
+      "Contributes To",
+      "Communication Disorders",
+      "Understanding language processing can help in diagnosing and treating communication disorders."
+    ],
+    [
+      "language",
+      "Contributes To",
+      "Neurorehabilitation",
+      "Knowledge of language processing can aid in developing neurorehabilitation strategies."
+    ],
+    [
+      "language",
+      "Begins In",
+      "Auditory Cortex",
+      "For spoken language, processing begins in the auditory cortex."
+    ],
+    [
+      "language",
+      "Begins In",
+      "Visual Cortex",
+      "For written language, processing begins in the visual cortex."
+    ],
+    [
+      "language",
+      "Depends On",
+      "Brain Plasticity",
+      "Language acquisition depends on the brain\"s plasticity, which allows it to adapt to new linguistic input."
+    ],
+    [
+      "human cognition",
+      "Influences",
+      "Language Development",
+      "Human cognition influences the process of language development, as it provides the mental framework for understanding and producing language."
+    ],
+    [
+      "human cognition",
+      "Impacts",
+      "Communication Disorders",
+      "Human cognition impacts communication disorders by affecting the brain\"s ability to process and produce language."
+    ],
+    [
+      "human cognition",
+      "Supports",
+      "Neurorehabilitation",
+      "Human cognition supports neurorehabilitation by enabling the brain\"s plasticity, which allows for reorganization and adaptation to new linguistic input."
+    ],
+    [
+      "human cognition",
+      "Enhances",
+      "Language Processing",
+      "Human cognition enhances language processing by providing the necessary mental processes and brain plasticity to adapt to new linguistic input."
+    ],
+    [
+      "human cognition",
+      "Contributes To",
+      "Communication",
+      "Human cognition contributes to communication by enabling the understanding and production of language, which is essential for effective communication."
+    ],
+    [
+      "neurorehabilitation",
+      "Involves",
+      "Brain Plasticity",
+      "Neurorehabilitation involves leveraging brain plasticity to facilitate recovery."
+    ],
+    [
+      "neurorehabilitation",
+      "Relates To",
+      "Language Processing",
+      "Neurorehabilitation relates to understanding how the brain processes language, which can aid in recovery from communication disorders."
+    ],
+    [
+      "neurorehabilitation",
+      "Affects",
+      "Communication Disorders",
+      "Neurorehabilitation aims to address and improve communication disorders by understanding the brain\"s language processing mechanisms."
+    ],
+    [
+      "communication",
+      "Depends On",
+      "brain plasticity",
+      "Communication depends on the brain\"s plasticity, which enables the brain to reorganize and adapt to new linguistic input."
+    ],
+    [
+      "communication",
+      "Involves",
+      "auditory cortex",
+      "Communication involves the auditory cortex for processing spoken language."
+    ],
+    [
+      "communication",
+      "Involves",
+      "visual cortex",
+      "Communication involves the visual cortex for processing written language."
+    ],
+    [
+      "communication",
+      "Is Part Of",
+      "cognition",
+      "Communication is a key aspect of cognition."
+    ],
+    [
+      "communication",
+      "Is Studied By",
+      "researchers",
+      "Communication is studied by researchers to deepen our understanding of the brain\"s capacity for language processing."
+    ]
+  ]
+}
