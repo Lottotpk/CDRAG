@@ -91,6 +91,7 @@ def main():
     ax.legend(handles=combined_handles, ncol=2, fontsize=12, loc='upper left', frameon=True, shadow=True)
     
     plt.tight_layout()
+    plt.savefig("./src/eval/image.png")
     plt.savefig("./src/eval/image.svg")
     plt.show()
 

@@ -29,12 +29,12 @@ def main():
         raw_text = data[i]['content']
     
         # Text Chunking and Chunk embedding
-        # text_splitter = RecursiveCharacterTextSplitter(
-        #     chunk_size=250,
-        #     chunk_overlap=25,
-        # )
-        # chunk = text_splitter.split_text(raw_text)
-        chunk = raw_text.split(".")
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=100,
+            chunk_overlap=10,
+        )
+        chunk = text_splitter.split_text(raw_text)
+        # chunk = raw_text.split(".")
         embedded = model_embed.encode(chunk, convert_to_tensor=True)
         logging.info(f"\tEmbedded shape = {embedded.shape}")
 
