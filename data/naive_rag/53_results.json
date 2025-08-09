@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sports shape cultures around the world.",
+    "retrieved_context": "sports impact culture and society. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports bring people together.",
+    "retrieved_context": "and bringing people closer together in a moment of joy and camaraderie. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports foster a sense of community.",
+    "retrieved_context": "and fostering a sense of community. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports promote values like teamwork and fair play.",
+    "retrieved_context": "Sports also play a crucial role in promoting values that are essential for a healthy society. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports create shared experiences and traditions.",
+    "retrieved_context": "or the inspiration of athletes, sports have the power to transcend boundaries and build bridges ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sporting events unite people from different backgrounds.",
+    "retrieved_context": "games or international tournaments, have the power to unite people from different backgrounds and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The World Cup and Olympics bring millions of people together.",
+    "retrieved_context": "The Olympic Games, one of the most prestigious and celebrated sporting events in the world, have a ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sports promote important life skills like teamwork.",
+    "retrieved_context": "Sports also play a crucial role in promoting values that are essential for a healthy society. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Athletes learn perseverance and resilience through sports.",
+    "retrieved_context": "teamwork, perseverance, and resilience. Athletes must work together towards a common goal, overcome ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports help individuals handle challenges in life.",
+    "retrieved_context": "translate into other areas of life, helping individuals become better equipped to handle challenges ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports promote social change and break down barriers.",
+    "retrieved_context": "platform for athletes to promote causes they believe in and to advocate for social change. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports challenge stereotypes and promote gender equality.",
+    "retrieved_context": "subjects can be broached, stereotypes can be challenged, and new ideas can be introduced in a way ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports have a significant economic impact.",
+    "retrieved_context": "Sports also have a significant economic impact on culture and society. Major sporting events can ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Major sporting events generate revenue for host cities.",
+    "retrieved_context": "Sports also have a significant economic impact on culture and society. Major sporting events can ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports contribute to the global economy.",
+    "retrieved_context": "revenue. The sports industry has become a major player in the global economy, with billions of ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fast fashion is driven by the desire for quick turnover of trendy clothing at affordable prices.",
+    "retrieved_context": "Fast fashion has become a dominant force in the fashion industry, driven by the desire for quick ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion brands have revolutionized the way we consume clothing.",
+    "retrieved_context": "Fast fashion has become a dominant force in the fashion industry, driven by the desire for quick ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The environmental impact of fast fashion is significant and alarming.",
+    "retrieved_context": "One of the most concerning environmental impacts of fast fashion is the excessive consumption of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion garments rely heavily on synthetic materials like polyester and nylon.",
+    "retrieved_context": "use of synthetic materials such as polyester and nylon, which are derived from petrochemicals. The ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synthetic materials used in fast fashion contribute to air and water pollution.",
+    "retrieved_context": "another commonly used material in fast fashion, has been linked to deforestation, water scarcity, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The production of cotton in fast fashion has been linked to deforestation and water scarcity.",
+    "retrieved_context": "another commonly used material in fast fashion, has been linked to deforestation, water scarcity, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion brands produce massive quantities of clothing, leading to high levels of textile waste.",
+    "retrieved_context": "Fast fashion brands produce massive quantities of clothing, much of which ends up in landfills. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Textiles account for 5% of all landfill space in the United States.",
+    "retrieved_context": "According to the Environmental Protection Agency, textiles account for 5% of all landfill space in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion trends encourage consumers to discard clothing after only a few wears.",
+    "retrieved_context": "Fast fashion brands produce massive quantities of clothing, much of which ends up in landfills. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Synthetic fibers in fast fashion garments can take hundreds of years to decompose.",
+    "retrieved_context": "The synthetic fibers used in fast fashion garments can take hundreds of years to decompose, further ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The fashion industry is responsible for 10% of global carbon emissions.",
+    "retrieved_context": "a report by the United Nations Environment Programme, the fashion industry is responsible for 10% ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion contributes significantly to the fashion industry's carbon footprint.",
+    "retrieved_context": "Furthermore, the fast fashion industry is notorious for its high levels of textile waste. Fast ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The transportation of raw materials and finished products in fast fashion results in high greenhouse gas emissions.",
+    "retrieved_context": "Fast fashion brands produce massive quantities of clothing, much of which ends up in landfills. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One strategy to address the environmental impact of fast fashion is promoting sustainable fashion practices.",
+    "retrieved_context": "One approach is to promote sustainable fashion practices, such as using organic and recycled ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Consumers can play a crucial role in driving change by supporting ethical and sustainable fashion brands.",
+    "retrieved_context": "Consumers can play a crucial role in driving change by supporting ethical and sustainable fashion ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

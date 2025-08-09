@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Renewable energy sources combat climate change and reduce dependence on fossil fuels.",
+    "retrieved_context": "as a viable solution to combat climate change and reduce our dependence on fossil fuels. The ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Renewable energy sources are replenished on a human timescale.",
+    "retrieved_context": "Renewable energy sources are derived from natural processes that are replenished on a human ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Renewable energy sources are abundant and have lower environmental impacts compared to fossil fuels.",
+    "retrieved_context": "sources of energy are abundant, clean, and have lower environmental impacts compared to traditional ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Solar energy harnesses sunlight through photovoltaic cells.",
+    "retrieved_context": "harnesses sunlight through photovoltaic cells to generate electricity. The development of solar ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Solar panels are installed on rooftops and in utility-scale solar farms.",
+    "retrieved_context": "by solar panels that convert sunlight into electricity to operate their systems and charge their ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wind turbines convert the kinetic energy of wind into electricity.",
+    "retrieved_context": "turbines capture the kinetic energy of the wind and convert it into electricity. Wind power is a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advances in wind turbine technology have increased efficiency and cost-effectiveness.",
+    "retrieved_context": "As wind turbine technology continues to improve, wind farms are becoming more efficient and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hydropower plants harness the energy of flowing water to generate electricity.",
+    "retrieved_context": "for centuries. Hydropower plants harness the energy of flowing water to generate electricity. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geothermal energy taps into underground reservoirs of hot water or steam.",
+    "retrieved_context": "Geothermal energy utilizes heat from the Earth's core to generate electricity and provide heating ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bioenergy is derived from organic materials and can be converted into biofuels.",
+    "retrieved_context": "Bioenergy is another renewable energy source derived from organic materials, such as crops, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Government incentives promote the deployment of renewable energy technologies.",
+    "retrieved_context": "Policy support and incentives are essential for the continued growth of renewable energy. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Energy storage technologies are being developed to store excess renewable energy.",
+    "retrieved_context": "in energy storage, such as batteries and pumped hydro storage, are addressing the intermittent ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The levelized cost of electricity for solar and wind power is becoming competitive with fossil fuels.",
+    "retrieved_context": "for solar and wind power has become increasingly competitive with fossil fuels in many regions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Environmental concerns such as land use impacts need to be addressed in renewable energy projects.",
+    "retrieved_context": "crucial to ensure the long-term sustainability of renewable energy sources. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technological advancements continue to drive down costs and improve performance of renewable energy sources.",
+    "retrieved_context": "advancements continue to drive down costs and improve performance. The integration of renewable ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

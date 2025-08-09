@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Board games are a popular form of entertainment and social interaction.",
+    "retrieved_context": "```Board games have been a popular form of entertainment and social interaction for centuries, with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Board games have a rich history that spans cultures and civilizations around the world.",
+    "retrieved_context": "Board games also had a significant presence in ancient China, with games like Go and Xiangqi ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The origins of board games can be traced back to ancient times.",
+    "retrieved_context": "of board games can be traced back to ancient times, where they served as a means of leisure, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Senet is one of the earliest known board games, dating back to around 3100 BC.",
+    "retrieved_context": "One of the earliest known board games is Senet, an ancient Egyptian game dating back to around 3100 ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Senet was a game of chance and strategy played on a grid of 30 squares.",
+    "retrieved_context": "3100 BC. Senet was a game of chance and strategy played on a grid of 30 squares, with players ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was played by the Sumerians around 2600 BC.",
+    "retrieved_context": "In ancient Mesopotamia, the Royal Game of Ur was a popular board game played by the Sumerians ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was found in royal tombs, indicating its importance.",
+    "retrieved_context": "and was found in royal tombs, indicating its importance and status as a game of the elite. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Go and Xiangqi are ancient Chinese board games dating back thousands of years.",
+    "retrieved_context": "Board games also had a significant presence in ancient China, with games like Go and Xiangqi ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Go is considered one of the oldest board games still played today.",
+    "retrieved_context": "of the oldest board games still played today, with a history that can be traced back to the Zhou ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chaturanga was the ancient Indian precursor to modern-day chess.",
+    "retrieved_context": "the precursor to modern-day chess. Chaturanga was played on an 8x8 grid and featured different ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Backgammon originated in Persia and spread throughout the Middle East and Europe.",
+    "retrieved_context": "rise of games like Backgammon, which originated in Persia and spread throughout the Middle East and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Checkers and Tric-Trac emerged as popular board games during the Renaissance period.",
+    "retrieved_context": "The Renaissance period saw the emergence of popular board games like Checkers and Tric-Trac (a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to the mass production of board games in the 19th and 20th centuries.",
+    "retrieved_context": "led to the mass production of board games, making them more accessible to the general public. Games ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monopoly, Scrabble, and Clue became household names in the 20th century.",
+    "retrieved_context": "Games like Monopoly, Scrabble, and Clue became household names, captivating players with their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Board games continue to thrive in the digital age, driven by a new generation of designers and enthusiasts.",
+    "retrieved_context": "Today, board games continue to thrive in a digital age, with a resurgence in popularity driven by a ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

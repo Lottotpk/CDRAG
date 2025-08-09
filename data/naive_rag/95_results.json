@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Education influences values in society.",
+    "retrieved_context": "```Education plays a crucial role in shaping culture by influencing values, beliefs, and behaviors ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture is defined as shared beliefs and traditions.",
+    "retrieved_context": "behaviors within a society. Culture, defined as the shared beliefs, customs, and traditions of a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture is passed down through generations.",
+    "retrieved_context": "of a group of people, is passed down through generations and is constantly evolving. Education acts ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education preserves and transforms culture.",
+    "retrieved_context": "acts as a powerful tool in both preserving and transforming culture, as it provides individuals ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Schools transmit cultural knowledge to young individuals.",
+    "retrieved_context": "Schools serve as institutions where cultural values and norms are taught to young individuals, who ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "History classes cover cultural achievements and events.",
+    "retrieved_context": "cover the cultural achievements and events that have shaped a society, instilling a sense of pride ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education instills pride and identity in students.",
+    "retrieved_context": "of pride and identity in students. By learning about their cultural heritage, individuals develop a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Learning about cultural heritage deepens connection to roots.",
+    "retrieved_context": "a deep connection to their cultural roots and establish a sense of belonging within their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education promotes cultural diversity and understanding.",
+    "retrieved_context": "Furthermore, education plays a significant role in promoting cultural diversity and understanding. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education fosters cultural appreciation and respect.",
+    "retrieved_context": "Furthermore, education plays a significant role in promoting cultural diversity and understanding. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education encourages empathy towards different cultures.",
+    "retrieved_context": "of perspectives, education encourages empathy and tolerance towards those from different cultural ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education can drive social change and innovation.",
+    "retrieved_context": "Moreover, education can be a catalyst for cultural change and innovation. As societies evolve, so ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education challenges traditional gender roles.",
+    "retrieved_context": "traditional gender roles in many societies. By empowering individuals to question and rethink ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education can be a tool for cultural hegemony.",
+    "retrieved_context": "On the other hand, critics argue that education can also be a tool for cultural hegemony, where ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education should be inclusive and representative of all cultural groups.",
+    "retrieved_context": "of all cultural groups to ensure that no voices are silenced or marginalized. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

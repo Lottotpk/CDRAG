@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music is a powerful medium.",
+    "retrieved_context": "```Music is a powerful medium that has the ability to influence our emotions and mood in profound ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can influence emotions and mood.",
+    "retrieved_context": "```Music is a powerful medium that has the ability to influence our emotions and mood in profound ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance or change emotional state.",
+    "retrieved_context": "comfort, motivation, relaxation, or joy, music has the ability to transform our mood and elevate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can evoke memories and associations.",
+    "retrieved_context": "One of the primary ways in which music influences mood is through its ability to evoke memories and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hearing a song can trigger memories.",
+    "retrieved_context": "and associations. When we hear a particular song or piece of music, it can trigger memories of past ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can regulate emotions physiologically.",
+    "retrieved_context": "Music also has the power to regulate our emotions by affecting our physiological responses. Studies ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts heart rate.",
+    "retrieved_context": "Studies have shown that music can impact heart rate, blood pressure, and cortisol levels, all of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts blood pressure.",
+    "retrieved_context": "Studies have shown that music can impact heart rate, blood pressure, and cortisol levels, all of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts cortisol levels.",
+    "retrieved_context": "Studies have shown that music can impact heart rate, blood pressure, and cortisol levels, all of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lyrics of a song can influence mood.",
+    "retrieved_context": "Furthermore, the lyrics of a song can also play a significant role in influencing mood. The themes ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Themes and messages in lyrics can resonate with listeners.",
+    "retrieved_context": "themes and messages conveyed in the lyrics can resonate with listeners on a personal level, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can create a sense of unity among listeners.",
+    "retrieved_context": "In addition to evoking memories and regulating emotions, music can also create a sense of unity and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music together can create a sense of belonging.",
+    "retrieved_context": "and camaraderie. The shared emotional experience of listening to music can strengthen social bonds ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genre and style of music impact mood.",
+    "retrieved_context": "Moreover, the genre and style of music can also have a significant impact on mood. Different genres ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different genres evoke different emotions.",
+    "retrieved_context": "genres of music, such as classical, rock, pop, jazz, or electronic, evoke different emotions and ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Languages are an integral part of human culture and identity.",
+    "retrieved_context": "Languages are an integral part of human culture and identity, serving as a means of communication ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Languages serve as a means of communication and expression for communities.",
+    "retrieved_context": "Languages are an integral part of human culture and identity, serving as a means of communication ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language death occurs when a language ceases to be spoken by a community.",
+    "retrieved_context": "Language death occurs when a language ceases to be spoken by a community, resulting in its loss as ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural assimilation and globalization are primary reasons for language death.",
+    "retrieved_context": "to the decline and eventual extinction of languages. One of the primary reasons for language death ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Globalization leads to the marginalization of smaller, minority languages.",
+    "retrieved_context": "minority languages are often marginalized and replaced. The pressure to adopt a more widely spoken ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The decline in intergenerational transmission of languages contributes to language death.",
+    "retrieved_context": "Another factor that contributes to language death is the decline in intergenerational transmission ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Younger generations may not learn ancestral languages due to social pressures.",
+    "retrieved_context": "of languages. When younger generations no longer learn or use their ancestral languages due to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Breakdown in language transmission often occurs in urbanized settings.",
+    "retrieved_context": "This breakdown in language transmission often occurs in urbanized settings where minority languages ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Environmental factors like natural disasters can contribute to language death.",
+    "retrieved_context": "Another factor that contributes to language death is the decline in intergenerational transmission ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The consequences of language death include the loss of unique ways of understanding the world.",
+    "retrieved_context": "In conclusion, the phenomenon of language death is a complex and multifaceted issue that poses ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language extinction leads to the erosion of traditional ecological knowledge.",
+    "retrieved_context": "is lost forever. Language extinction also leads to the erosion of traditional ecological knowledge, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Efforts to preserve endangered languages involve language teaching and learning.",
+    "retrieved_context": "preserve endangered languages. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language revitalization programs aim to empower speakers to reclaim their linguistic heritage.",
+    "retrieved_context": "These efforts aim to empower speakers to reclaim their linguistic heritage and pass it on to future ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the reasons for language death is essential for addressing the issue.",
+    "retrieved_context": "In conclusion, the phenomenon of language death is a complex and multifaceted issue that poses ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Valuing and supporting linguistic diversity is crucial for the preservation of human languages.",
+    "retrieved_context": "and supporting linguistic diversity, we can ensure that the rich tapestry of human languages ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Military technology shapes the course of history.",
+    "retrieved_context": "Military technology has played a crucial role in shaping the course of history, from ancient times ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Weapons and equipment development for military advantage is a constant theme in human civilization.",
+    "retrieved_context": "times to the modern era. The development of weapons and equipment to gain military advantage has ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow revolutionized warfare by enabling long-range combat.",
+    "retrieved_context": "and arrow revolutionized warfare by giving soldiers the ability to strike from a distance, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow increased soldiers' effectiveness on the battlefield.",
+    "retrieved_context": "and arrow revolutionized warfare by giving soldiers the ability to strike from a distance, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Siege weapons like catapults and trebuchets were used to lay siege to fortified cities and castles.",
+    "retrieved_context": "weapons such as catapults and trebuchets allowed armies to lay siege to fortified cities and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Siege weapons were instrumental in shaping the outcome of battles and conflicts.",
+    "retrieved_context": "used in medieval warfare and were instrumental in shaping the outcome of many battles and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gunpowder weapons revolutionized warfare by providing powerful means of engaging the enemy.",
+    "retrieved_context": "point in military technology. Gunpowder weapons such as cannons and firearms revolutionized warfare ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought mass production of sophisticated and deadly weapons.",
+    "retrieved_context": "The mass production of weapons and equipment, combined with advancements in metallurgy and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rifled barrels, breech-loading mechanisms, and repeating firearms transformed warfare.",
+    "retrieved_context": "The introduction of rifled barrels, breech-loading mechanisms, and repeating firearms transformed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century saw advancements in tanks, aircraft, submarines, and missiles.",
+    "retrieved_context": "Wars and the Cold War. The invention of tanks, aircraft, submarines, and missiles revolutionized ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nuclear weapons have the potential to annihilate entire cities and civilizations.",
+    "retrieved_context": "with the potential to annihilate entire cities and civilizations in a single strike. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Unmanned aerial vehicles (UAVs), drones, cyber warfare, and artificial intelligence have transformed the battlefield.",
+    "retrieved_context": "rise of unmanned aerial vehicles (UAVs), drones, cyber warfare, and artificial intelligence has ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advanced technology enables precision strikes and real-time intelligence gathering.",
+    "retrieved_context": "has enabled armies to conduct precision strikes, gather real-time intelligence, and engage the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hypersonic missiles, directed energy weapons, and autonomous robots are emerging military technologies.",
+    "retrieved_context": "Emerging technologies such as hypersonic missiles, directed energy weapons, and autonomous robots ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Military technology innovation continues to drive change and shape conflicts.",
+    "retrieved_context": "change in the field of military technology. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

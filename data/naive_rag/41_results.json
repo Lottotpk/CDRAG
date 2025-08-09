@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Dreams are interpreted as messages from the divine.",
+    "retrieved_context": "Dreams have fascinated humans for centuries, with various cultures interpreting them as messages ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams are interpreted as windows into the subconscious mind.",
+    "retrieved_context": "Dreams have fascinated humans for centuries, with various cultures interpreting them as messages ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams are interpreted as mere random firings of the brain.",
+    "retrieved_context": "messages from the divine, windows into the subconscious mind, or mere random firings of the brain. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams have long been a subject of interest and study in psychology.",
+    "retrieved_context": "brain. In the field of psychology, dreams have long been a subject of interest and study, offering ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams provide a glimpse into the unconscious mind.",
+    "retrieved_context": "In addition to revealing unconscious desires, dreams also play a crucial role in processing ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Freud argued that dreams are symbolic expressions of repressed desires.",
+    "retrieved_context": "that dreams are the \"royal road to the unconscious.\" According to Freud, dreams are symbolic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams reflect the emotional experiences of the dreamer.",
+    "retrieved_context": "brain, and that dreams often reflect the emotional experiences of the dreamer. For example, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "High stress or anxiety may lead to more frequent and intense nightmares.",
+    "retrieved_context": "frequent and intense nightmares, while those who are feeling happy and content may have more ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Happy and content individuals may have more pleasant dreams.",
+    "retrieved_context": "frequent and intense nightmares, while those who are feeling happy and content may have more ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreaming is associated with memory consolidation and processing.",
+    "retrieved_context": "Furthermore, dreams have been found to play a role in memory consolidation and processing. During ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreaming is linked to enhanced memory performance.",
+    "retrieved_context": "is associated with enhanced memory performance, suggesting that dreams serve a vital function in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams can lead to insightful or creative ideas.",
+    "retrieved_context": "Many people report having insightful or creative ideas in their dreams, leading to breakthroughs in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lucid dreaming is studied as a potential tool for enhancing creativity.",
+    "retrieved_context": "the dream content, has been studied as a potential tool for enhancing creativity and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams offer valuable insights into the workings of the human mind.",
+    "retrieved_context": "Dreams have fascinated humans for centuries, with various cultures interpreting them as messages ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams are a powerful tool for self-reflection and personal growth.",
+    "retrieved_context": "Overall, dreams serve as a powerful tool for self-reflection, personal growth, and psychological ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

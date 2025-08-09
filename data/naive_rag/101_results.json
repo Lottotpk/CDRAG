@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music is an integral part of human culture.",
+    "retrieved_context": "```Music has been an integral part of human culture for centuries, serving not only as a form of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a form of entertainment.",
+    "retrieved_context": "form of entertainment that continues to captivate audiences of all ages. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a means of communication.",
+    "retrieved_context": "```Music has been an integral part of human culture for centuries, serving not only as a form of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a means of expression.",
+    "retrieved_context": "and evoke specific genres and styles, music has the ability to uplift, inspire, soothe, or energize ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music can enhance memory.",
+    "retrieved_context": "enhance memory. Numerous studies have shown that listening to music can improve memory retention ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music can improve memory retention.",
+    "retrieved_context": "enhance memory. Numerous studies have shown that listening to music can improve memory retention ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music can improve memory recall.",
+    "retrieved_context": "enhance memory. Numerous studies have shown that listening to music can improve memory retention ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music stimulates multiple areas of the brain.",
+    "retrieved_context": "way music stimulates multiple areas of the brain, including those involved in memory formation and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance language skills.",
+    "retrieved_context": "In addition to memory, music has also been found to have a positive impact on language skills. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Exposure to music from a young age can improve language development.",
+    "retrieved_context": "skills. Children who are exposed to music from a young age tend to have better language development ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music involves processing sound patterns and rhythms.",
+    "retrieved_context": "compared to those who are not. This is because music involves the processing of sound patterns and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance problem-solving skills.",
+    "retrieved_context": "Furthermore, music has been shown to enhance problem-solving skills in both children and adults. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Engaging with music requires critical thinking.",
+    "retrieved_context": "essential to consider personal tastes and sensitivities when exploring the influence of music on ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Engaging with music requires analytical skills.",
+    "retrieved_context": "Furthermore, music has been shown to enhance problem-solving skills in both children and adults. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music can evoke strong emotional responses.",
+    "retrieved_context": "```Music is a powerful medium that has the ability to influence our emotions and mood in profound ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The concept of home has evolved significantly over the centuries.",
+    "retrieved_context": "The concept of home has evolved significantly over the centuries, reflecting changing societal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern home has undergone a remarkable transformation.",
+    "retrieved_context": "has transformed the way we interact with our living spaces. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans lived in caves, tents, and rudimentary structures.",
+    "retrieved_context": "from the elements. Early humans lived in caves, tents, and rudimentary structures made from natural ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Homes in ancient civilizations served as centers of social, political, and religious life.",
+    "retrieved_context": "were not only places to live but also served as centers of social, political, and religious life. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The manor house in the Middle Ages was a symbol of power and authority.",
+    "retrieved_context": "The Middle Ages saw the emergence of the manor house, a large estate where noble families lived and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to standardized and affordable housing for the middle class.",
+    "retrieved_context": "The Industrial Revolution brought about significant changes in the way homes were built and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "New building materials like steel and concrete allowed for larger structures.",
+    "retrieved_context": "building materials such as steel and concrete allowed for larger and more complex structures to be ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modernist movement influenced home design with simplicity and functionality.",
+    "retrieved_context": "in technology and changes in lifestyle. The modernist movement, with its emphasis on simplicity, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II period saw the rise of suburban homes.",
+    "retrieved_context": "The post-World War II period saw the rise of the suburban home as the epitome of the American ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Suburban homes featured modern amenities like central heating and indoor plumbing.",
+    "retrieved_context": "modern amenities such as central heating, indoor plumbing, and electrical appliances, making life ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart homes have interconnected devices for remote control and monitoring.",
+    "retrieved_context": "devices and systems that allow homeowners to control and monitor various aspects of their home ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable design practices aim to reduce the environmental impact of modern homes.",
+    "retrieved_context": "of modern homes. Energy-efficient materials, renewable energy sources, and green building ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Energy-efficient materials are being used in modern home construction.",
+    "retrieved_context": "of modern homes. Energy-efficient materials, renewable energy sources, and green building ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern homes incorporate concepts like passive solar design and green roofs.",
+    "retrieved_context": "design, rainwater harvesting, and green roofs are being incorporated into modern home designs to ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The evolution of the modern home reflects changing societal norms and cultural influences.",
+    "retrieved_context": "The concept of home has evolved significantly over the centuries, reflecting changing societal ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

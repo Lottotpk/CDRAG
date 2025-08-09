@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pirates captured the imagination of people for centuries.",
+    "retrieved_context": "Pirates have captured the imagination of people around the world for centuries, with their tales of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirate activity dates back to the 14th century BC.",
+    "retrieved_context": "The origins of piracy can be traced back to ancient times, with records of pirate activity dating ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Sea Peoples were among the earliest known pirates.",
+    "retrieved_context": "dating as far back as the 14th century BC. The earliest known pirates were the Sea Peoples, a group ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Barbary pirates operated out of North Africa.",
+    "retrieved_context": "Barbary pirates, operating out of North Africa, became notorious for their raids on European ships ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Golden Age of Piracy spanned the late 17th to early 18th centuries.",
+    "retrieved_context": "The Golden Age of Piracy, spanning roughly from the late 17th century to the early 18th century, is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blackbeard, Captain Kidd, and Calico Jack were legendary pirates.",
+    "retrieved_context": "pirates such as Blackbeard, Captain Kidd, and Calico Jack, who terrorized the waters of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates preyed on Spanish treasure ships during the decline of the Spanish Empire.",
+    "retrieved_context": "forces weakened, pirates were able to operate with relative impunity, preying on Spanish treasure ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The lure of gold and silver attracted men to the pirate life.",
+    "retrieved_context": "valuable goods attracted many men to the pirate life, leading to the formation of pirate crews and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirate crews operated under a strict code of conduct known as the Pirate Code.",
+    "retrieved_context": "operated under a strict code of conduct known as the Pirate Code, which governed everything from ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates were often viewed as heroes by common people.",
+    "retrieved_context": "Despite their reputation as ruthless outlaws, pirates were often seen as heroes by the common ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "European powers cracked down on pirate activity in the early 18th century.",
+    "retrieved_context": "The decline of piracy began in the early 18th century, as European powers such as Britain and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Naval patrols and anti-piracy laws helped curb piracy.",
+    "retrieved_context": "of naval patrols, anti-piracy laws, and harsh punishments for piracy offenses helped curb the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The legacy of pirates endures in popular culture and folklore.",
+    "retrieved_context": "pirates have left an indelible mark on history and continue to capture the imagination of people ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates have been immortalized in books, movies, and television shows.",
+    "retrieved_context": "Pirates have captured the imagination of people around the world for centuries, with their tales of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The history of pirates spans centuries and continents.",
+    "retrieved_context": "In conclusion, the history of pirates is a rich and colorful tapestry that spans centuries and ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

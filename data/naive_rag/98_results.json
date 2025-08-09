@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Transportation is crucial for human civilization development.",
+    "retrieved_context": "```Transportation has played a crucial role in the development of human civilization throughout ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transportation systems connect people, goods, and ideas over long distances.",
+    "retrieved_context": "advancements and remains an essential component of modern transportation systems. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Walking was one of the earliest forms of transportation.",
+    "retrieved_context": "One of the earliest forms of transportation was walking, which allowed early humans to travel on ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals like horses, camels, and oxen were used for transportation in ancient times.",
+    "retrieved_context": "grew and expanded, people began to use animals such as horses, camels, and oxen to carry goods and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The invention of the wheel led to wheeled carts and chariots for transportation.",
+    "retrieved_context": "transportation, leading to the development of wheeled carts and chariots that could transport ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sailing ships enabled travel across oceans and exploration of new lands.",
+    "retrieved_context": "The next major innovation in transportation came with the advent of sailing ships, which allowed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Steam engine revolutionized land and sea travel in the 18th century.",
+    "retrieved_context": "The invention of the steam engine in the 18th century marked a significant turning point in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam-powered locomotives and steamships made transportation faster and more reliable.",
+    "retrieved_context": "point in transportation history. Steam-powered locomotives and steamships revolutionized land and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Automobiles and airplanes became dominant modes of transportation in the 20th century.",
+    "retrieved_context": "The 20th century saw the rise of automobiles and airplanes as dominant modes of transportation. The ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mass production of automobiles made personal transportation more affordable.",
+    "retrieved_context": "The mass production of automobiles by companies like Ford and General Motors made personal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Commercial aviation enabled long-distance travel in a matter of hours.",
+    "retrieved_context": "goods and passengers over longer distances. The invention of the wheel revolutionized ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in technology led to the development of ride-sharing services and electric vehicles.",
+    "retrieved_context": "industry. The rise of the internet and mobile technology has led to the development of ride-sharing ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hyperloop trains aim to transport passengers in high-speed pods through vacuum tubes.",
+    "retrieved_context": "aims to transport passengers in high-speed pods through vacuum tubes, potentially reducing travel ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Drones are used for delivery services and aerial surveys in transportation.",
+    "retrieved_context": "used for delivery services and aerial surveys, offering new possibilities for transporting goods ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space travel is becoming a reality with companies like SpaceX and Blue Origin.",
+    "retrieved_context": "Space travel, once the realm of science fiction, is becoming a reality with companies like SpaceX ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

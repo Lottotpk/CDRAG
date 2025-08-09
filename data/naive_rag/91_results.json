@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Color plays a crucial role in branding and marketing strategies.",
+    "retrieved_context": "Color plays a crucial role in branding and marketing strategies, as it has the power to evoke ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have the power to evoke emotions.",
+    "retrieved_context": "Colors have a profound impact on our psychological well-being and can evoke a wide range of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can convey messages.",
+    "retrieved_context": "color that can be used to convey a wide range of emotions and meanings. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors influence consumer behavior.",
+    "retrieved_context": "In addition to evoking emotions, colors can also influence consumer perceptions and behaviors. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding color psychology helps create a strong brand identity.",
+    "retrieved_context": "In conclusion, the psychology of colors plays a crucial role in branding and marketing strategies. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors evoke specific emotions and associations.",
+    "retrieved_context": "each color has its own unique psychological effects on individuals. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red is associated with passion, energy, and excitement.",
+    "retrieved_context": "For example, warm colors like red, orange, and yellow are often associated with feelings of energy, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue is associated with trust, reliability, and calmness.",
+    "retrieved_context": "colors like blue, green, and purple are often associated with feelings of calmness, tranquility, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors affect how consumers perceive a brand's personality, quality, and value.",
+    "retrieved_context": "Research has shown that colors can affect how consumers perceive a brand's personality, quality, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warm colors like red and orange create a sense of urgency.",
+    "retrieved_context": "For example, warm colors like red, orange, and yellow are often associated with feelings of energy, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue and green create a sense of trust.",
+    "retrieved_context": "green can create a sense of trust and reliability. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors help differentiate a brand from competitors.",
+    "retrieved_context": "Color plays a crucial role in branding and marketing strategies, as it has the power to evoke ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural associations of colors should be considered in branding.",
+    "retrieved_context": "When choosing colors for branding, it is important to consider the cultural and contextual ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Context influences the meaning and effects of colors in branding.",
+    "retrieved_context": "Color plays a crucial role in branding and marketing strategies, as it has the power to evoke ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Youth-oriented brands may use bright and bold colors.",
+    "retrieved_context": "color palette may be appropriate for a youth-oriented brand, while a more muted and sophisticated ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

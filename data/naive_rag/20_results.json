@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "VR technology has rapidly evolved in recent years.",
+    "retrieved_context": "Virtual reality (VR) technology has rapidly evolved in recent years, offering new possibilities and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality offers new possibilities for various industries, including education.",
+    "retrieved_context": "to leverage virtual reality technology for educational purposes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality can create immersive and engaging learning experiences.",
+    "retrieved_context": "to leverage virtual reality technology for educational purposes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR simulates real-world environments and scenarios.",
+    "retrieved_context": "between the virtual and physical worlds. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality helps students visualize complex concepts in a hands-on manner.",
+    "retrieved_context": "VR can help students visualize complex concepts and theories in a more interactive and hands-on ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Medical students can practice surgical procedures in a virtual operating room.",
+    "retrieved_context": "hands-on manner. For example, medical students can practice surgical procedures in a virtual ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "History students can explore historical landmarks through immersive virtual tours.",
+    "retrieved_context": "a virtual operating room, while history students can explore historical landmarks and events ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality caters to different learning styles and preferences.",
+    "retrieved_context": "Furthermore, virtual reality can cater to different learning styles and preferences, making ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR benefits visual and kinesthetic learners.",
+    "retrieved_context": "VR can help students visualize complex concepts and theories in a more interactive and hands-on ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Students with disabilities can benefit from virtual reality technology.",
+    "retrieved_context": "to leverage virtual reality technology for educational purposes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR can democratize access to high-quality educational resources.",
+    "retrieved_context": "to leverage virtual reality technology for educational purposes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR headsets are becoming more affordable and widespread.",
+    "retrieved_context": "in technology such as virtual reality (VR), augmented reality (AR), and cloud gaming. VR headsets ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One challenge is the cost of acquiring and maintaining VR equipment.",
+    "retrieved_context": "One of the main challenges is the cost of acquiring and maintaining VR equipment and software. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There are concerns about health and safety risks associated with VR devices.",
+    "retrieved_context": "Issues such as motion sickness, eye strain, and disorientation can arise when using VR headsets for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Educators need training on how to integrate virtual reality into teaching practices.",
+    "retrieved_context": "to effectively integrate virtual reality into their teaching practices. Educators may require ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

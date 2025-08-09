@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI revolutionized the way we live and work.",
+    "retrieved_context": "```Artificial intelligence (AI) has revolutionized the way we live and work, bringing about ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI brings significant changes in various industries.",
+    "retrieved_context": "about significant changes in various industries. One of the most pressing concerns surrounding AI ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is a concern about AI's impact on employment.",
+    "retrieved_context": "One of the key ways in which AI is affecting employment is through automation. AI-powered machines ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI technologies advance rapidly.",
+    "retrieved_context": "Artificial Intelligence (AI) has rapidly advanced in recent years, revolutionizing various ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is fear of automation replacing human workers.",
+    "retrieved_context": "is a growing fear that automation and machine learning will replace human workers, leading to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI automates repetitive and routine jobs.",
+    "retrieved_context": "One of the key ways in which AI is affecting employment is through automation. AI-powered machines ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Low-skilled workers are at risk of displacement by AI.",
+    "retrieved_context": "who are engaged in these types of jobs are at risk of being displaced by AI technologies. For ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Automation has historical precedence.",
+    "retrieved_context": "history, technological advancements have led to the automation of various tasks, resulting in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI can create new jobs in emerging fields.",
+    "retrieved_context": "One of the key ways in which AI is affecting employment is through automation. AI-powered machines ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI enhances productivity and efficiency in the workplace.",
+    "retrieved_context": "One of the key ways in which AI is affecting employment is through automation. AI-powered machines ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI-powered tools can streamline processes.",
+    "retrieved_context": "can streamline processes, analyze large datasets, and provide valuable insights that can help ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI can improve workplace safety.",
+    "retrieved_context": "One of the key ways in which AI is affecting employment is through automation. AI-powered machines ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI augments human capabilities.",
+    "retrieved_context": "AI technologies can complement human skills and expertise, enabling workers to perform their jobs ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI technologies complement human skills.",
+    "retrieved_context": "AI technologies can complement human skills and expertise, enabling workers to perform their jobs ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There are concerns about social and economic implications of automation.",
+    "retrieved_context": "about the social and economic implications of widespread automation. The displacement of workers ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

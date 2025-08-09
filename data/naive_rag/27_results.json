@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Hoaxes have been a part of human history for centuries.",
+    "retrieved_context": "Hoaxes have been a part of human history for centuries, with individuals and groups perpetrating ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals and groups perpetrate elaborate deceptions for various purposes.",
+    "retrieved_context": "elaborate deceptions for various purposes. These hoaxes often capture the public's imagination and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes often capture the public's imagination.",
+    "retrieved_context": "elaborate deceptions for various purposes. These hoaxes often capture the public's imagination and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes spark debate about the nature of truth and deception.",
+    "retrieved_context": "hoaxes have tested the boundaries of truth and fiction, forcing society to question the reliability ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man hoax was discovered in England in 1912.",
+    "retrieved_context": "between humans and apes that was discovered in England in 1912. The Piltdown Man was purported to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was a supposed missing link between humans and apes.",
+    "retrieved_context": "One of the most infamous hoaxes in history is the Piltdown Man, a supposed missing link between ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was revealed to be a forgery in 1953.",
+    "retrieved_context": "One of the most infamous hoaxes in history is the Piltdown Man, a supposed missing link between ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant hoax was discovered in Cardiff, New York, in 1869.",
+    "retrieved_context": "in Cardiff, New York, in 1869. The Cardiff Giant was later revealed to be a sculpture created by ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Cardiff Giant was later revealed to be a sculpture created by George Hull.",
+    "retrieved_context": "in Cardiff, New York, in 1869. The Cardiff Giant was later revealed to be a sculpture created by ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds radio broadcast by Orson Welles occurred in 1938.",
+    "retrieved_context": "In the realm of media hoaxes, the War of the Worlds radio broadcast by Orson Welles in 1938 stands ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds broadcast led to panic and confusion.",
+    "retrieved_context": "In the realm of media hoaxes, the War of the Worlds radio broadcast by Orson Welles in 1938 stands ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Han van Meegeren created and sold fake Vermeer paintings during the 1930s and 1940s.",
+    "retrieved_context": "Van Meegeren gained notoriety for creating and selling fake Vermeer paintings during the 1930s and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Sokal Affair of 1996 exposed the shortcomings of postmodernist academic discourse.",
+    "retrieved_context": "exposed the shortcomings of postmodernist academic discourse. Physicist Alan Sokal submitted a fake ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Alan Sokal submitted a fake paper to the journal Social Text.",
+    "retrieved_context": "In the realm of modern technology, the Sokal Affair of 1996 serves as a notable hoax that exposed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes have tested the boundaries of truth and fiction.",
+    "retrieved_context": "hoaxes have tested the boundaries of truth and fiction, forcing society to question the reliability ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

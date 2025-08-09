@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sir Alexander Fleming discovered penicillin in 1928.",
+    "retrieved_context": "medicine. The discovery of penicillin by Alexander Fleming in 1928 marked the beginning of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming was researching the properties of Staphylococcus bacteria.",
+    "retrieved_context": "the properties of Staphylococcus bacteria when he made a remarkable observation that would change ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming observed that a mold contaminated a petri dish with Staphylococcus bacteria.",
+    "retrieved_context": "that a petri dish containing Staphylococcus bacteria had been contaminated with a mold, which he ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The mold was identified as belonging to the Penicillium genus.",
+    "retrieved_context": "which he later identified as belonging to the Penicillium genus. To his surprise, he observed that ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bacteria surrounding the mold were being destroyed.",
+    "retrieved_context": "that the bacteria surrounding the mold were being destroyed, while the area around the mold ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming hypothesized that the mold was producing a substance with antibacterial properties.",
+    "retrieved_context": "He hypothesized that the mold was producing a substance that had antibacterial properties, which he ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming named the substance produced by the mold as penicillin.",
+    "retrieved_context": "In conclusion, the discovery of penicillin by Sir Alexander Fleming was a momentous breakthrough in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was the first antibiotic drug developed.",
+    "retrieved_context": "for the development of the first antibiotic drug, a monumental achievement that would revolutionize ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Howard Florey and Ernst Chain successfully purified penicillin in the early 1940s.",
+    "retrieved_context": "Chain at the University of Oxford successfully purified penicillin and demonstrated its efficacy in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was demonstrated to be effective in treating bacterial infections.",
+    "retrieved_context": "The development of penicillin paved the way for the discovery and production of a myriad of other ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of penicillin coincided with World War II.",
+    "retrieved_context": "with the onset of World War II. The widespread use of penicillin during the war played a crucial ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin played a crucial role in saving lives during the war.",
+    "retrieved_context": "and saved countless lives. The development of penicillin paved the way for the widespread use of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "in the history of medicine that revolutionized the treatment of bacterial infections and saved ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The overuse of antibiotics has led to the emergence of antibiotic-resistant bacteria.",
+    "retrieved_context": "emergence of antibiotic-resistant bacteria, posing a significant challenge to global public health. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The rise of antibiotic resistance poses a significant challenge to global public health.",
+    "retrieved_context": "emergence of antibiotic-resistant bacteria, posing a significant challenge to global public health. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

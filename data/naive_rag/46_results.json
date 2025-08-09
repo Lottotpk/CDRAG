@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The Rosetta Stone is a significant artifact in the field of archaeology and linguistics.",
+    "retrieved_context": "The Rosetta Stone is a significant artifact in the field of archaeology and linguistics due to its ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Rosetta Stone was discovered in 1799 by French soldiers during Napoleon's campaign in Egypt.",
+    "retrieved_context": "soldiers during Napoleon's campaign in Egypt, the Rosetta Stone is a large inscribed stone slab ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Rosetta Stone is a large inscribed stone slab.",
+    "retrieved_context": "The Rosetta Stone is a significant artifact in the field of archaeology and linguistics due to its ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Rosetta Stone contains a decree issued by King Ptolemy V in 196 BC.",
+    "retrieved_context": "slab that contains a decree issued by King Ptolemy V in 196 BC. The decree is written in three ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The decree on the Rosetta Stone is written in three scripts: ancient Egyptian hieroglyphs, Demotic script, and Greek.",
+    "retrieved_context": "in three scripts: ancient Egyptian hieroglyphs, Demotic script, and Greek. This unique trilingual ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Rosetta Stone became the key to unlocking the secrets of Egyptian hieroglyphic writing.",
+    "retrieved_context": "The Rosetta Stone is a significant artifact in the field of archaeology and linguistics due to its ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The meaning of Egyptian hieroglyphs was lost to history before the discovery of the Rosetta Stone.",
+    "retrieved_context": "Prior to the discovery of the Rosetta Stone, the meaning of Egyptian hieroglyphs was lost to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scholars and archaeologists had long been intrigued by the symbols and pictograms found on ancient Egyptian monuments.",
+    "retrieved_context": "by the intricate symbols and pictograms found on ancient Egyptian monuments and artifacts, but ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The breakthrough in deciphering hieroglyphs came in 1822 when Jean-Fran\u00e7ois Champollion successfully deciphered the hieroglyphic text on the Rosetta Stone.",
+    "retrieved_context": "The breakthrough in deciphering hieroglyphs came in 1822 when French scholar Jean-Fran\u00c3\u00a7ois ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Champollion compared the Greek text with the hieroglyphic and Demotic texts on the Rosetta Stone to decipher the hieroglyphs.",
+    "retrieved_context": "Champollion successfully deciphered the hieroglyphic text on the Rosetta Stone. By comparing the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Deciphering the Rosetta Stone opened up a new era of understanding of ancient Egyptian culture, history, and language.",
+    "retrieved_context": "Champollion's groundbreaking work in deciphering the Rosetta Stone opened up a new era of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The translation of hieroglyphic texts made possible by the Rosetta Stone revealed insights into the ancient Egyptians' religious beliefs, political structures, and daily life.",
+    "retrieved_context": "of hieroglyphic texts made possible by the Rosetta Stone revealed insights into the religious ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Rosetta Stone inspired new methods and approaches to the study of ancient languages and scripts.",
+    "retrieved_context": "ancient languages and scripts. The Rosetta Stone served as a model for the study of other ancient ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Rosetta Stone has become an iconic symbol of the quest for knowledge and understanding.",
+    "retrieved_context": "Moreover, the Rosetta Stone has become an iconic symbol of the quest for knowledge and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Rosetta Stone stands as a testament to the ingenuity and intellect of ancient civilizations and modern scholars alike.",
+    "retrieved_context": "The Rosetta Stone is a significant artifact in the field of archaeology and linguistics due to its ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sleep is a fundamental biological process.",
+    "retrieved_context": "Sleep is a fundamental biological process that is essential for human health and well-being. It is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is essential for human health and well-being.",
+    "retrieved_context": "Sleep is a fundamental biological process that is essential for human health and well-being. It is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep involves various physiological and neurological mechanisms.",
+    "retrieved_context": "The regulation of sleep is controlled by a complex interplay of physiological processes and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is divided into rapid eye movement (REM) sleep and non-REM sleep.",
+    "retrieved_context": "make up the sleep cycle. Sleep is divided into two main categories: rapid eye movement (REM) sleep ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Non-REM sleep consists of three stages: N1, N2, and N3.",
+    "retrieved_context": "sleep and non-REM sleep. Non-REM sleep is further divided into three stages: N1, N2, and N3. During ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N1 stage is the lightest stage of sleep.",
+    "retrieved_context": "During the N1 stage, which is the lightest stage of sleep, individuals may experience drifting in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N2 stage is characterized by a decrease in body temperature and heart rate.",
+    "retrieved_context": "in and out of consciousness. The N2 stage is characterized by a decrease in body temperature and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N3 stage is the deepest stage of sleep.",
+    "retrieved_context": "known as slow-wave sleep, is the deepest stage of sleep, during which the body undergoes ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "REM sleep is the stage where most dreaming occurs.",
+    "retrieved_context": "REM sleep, on the other hand, is the stage of sleep in which most dreaming occurs. It is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "REM sleep is characterized by rapid eye movements and muscle paralysis.",
+    "retrieved_context": "It is characterized by rapid eye movements, increased brain activity, and muscle paralysis. REM ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Circadian rhythm plays a significant role in determining sleep timing.",
+    "retrieved_context": "plays a significant role in determining the timing of sleep and wakefulness. The suprachiasmatic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The suprachiasmatic nucleus in the brain regulates the release of melatonin.",
+    "retrieved_context": "nucleus in the brain acts as the body's master clock, regulating the release of the hormone ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Adenosine is a neurotransmitter that promotes sleep.",
+    "retrieved_context": "hormone melatonin, which helps promote sleep. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Serotonin and dopamine also play a role in sleep regulation.",
+    "retrieved_context": "in the regulation of sleep. Disruptions to these neurotransmitter systems can lead to sleep ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "External factors like light exposure, noise, and temperature can impact sleep quality.",
+    "retrieved_context": "Furthermore, external factors such as light exposure, noise, temperature, and lifestyle choices can ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

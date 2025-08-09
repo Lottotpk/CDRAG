@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "a type of salamander native to Mexico. The axolotl has the remarkable ability to regenerate lost ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "the axolotl's regenerative abilities in the hopes of unlocking new medical treatments for humans. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "Another fascinating example of animal adaptation is the mantis shrimp, a colorful crustacean found ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "make the mantis shrimp a formidable predator in its underwater habitat. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "The pangolin is another animal with a remarkable adaptation \u00e2\u20ac\u201c its protective scales. These scales ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "tough and act as armor to shield the pangolin from predators. When threatened, the pangolin curls ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "flying abilities. The common swift spends almost its entire life in the air, only landing to breed. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "enable the common swift to travel thousands of miles each year during its migratory journeys. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "In the depths of the ocean, we find the barreleye fish, a deep-sea dweller with transparent head ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "In the depths of the ocean, we find the barreleye fish, a deep-sea dweller with transparent head ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "The aye-aye, a lemur native to Madagascar, showcases yet another extraordinary adaptation \u00e2\u20ac\u201c its ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "\u00e2\u20ac\u201c its elongated middle finger. This specialized digit is used by the aye-aye to extract insects ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "Animals have evolved a myriad of fascinating and sometimes bizarre adaptations to survive in their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "unusual adaptations, scientists gain valuable insights into the complexities of evolution and the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "```Unusual Animal Adaptations``` ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

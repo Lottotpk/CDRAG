@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "Bread is a staple food in many cultures around the world, and the process of baking it is both an ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "In conclusion, baking bread is a fascinating blend of art and science. From the fermentation of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "In addition to yeast, the other key ingredient in bread baking is flour. Flour is made up of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "the flavor and texture of the bread. Yeast, a type of fungus, plays a key role in this process. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "flour, producing carbon dioxide gas as a byproduct. This gas is what causes the dough to rise, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "flour, producing carbon dioxide gas as a byproduct. This gas is what causes the dough to rise, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "The fermentation process also produces alcohol, which contributes to the flavor of the bread. The ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "The longer the dough is allowed to ferment, the more complex and developed the flavor will be. This ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "up of proteins called gluten, which give bread its structure and elasticity. When flour is mixed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "is mixed with water, the gluten proteins form a network that traps the carbon dioxide gas produced ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "stretches and strengthens the gluten strands, giving the bread its structure and chewy texture. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "texture. Proper kneading is crucial for ensuring that the bread rises properly and has a good crumb ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "of the dough and the role of heat in the baking process. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "When the dough is placed in the oven, the heat causes the yeast to become more active, producing ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "This reaction is responsible for the browning of the crust and the development of complex flavors ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

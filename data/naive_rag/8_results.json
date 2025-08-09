@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "Space exploration has always been a fascinating and groundbreaking endeavor that has captured the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "orbit to the exploration of other planets and beyond, humans have constantly pushed the boundaries ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "launched the first artificial satellite, Sputnik 1, into orbit in 1957. This event marked the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "the beginning of the space race between the United States and the Soviet Union, leading to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "to significant advancements in space technology. In 1961, Yuri Gagarin became the first human to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "humans to walk on the moon as part of the Apollo 11 mission. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "space missions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "of the International Space Station (ISS), a collaborative effort between multiple countries to ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "like SpaceX has significantly reduced the cost of launching payloads into space, making it more ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "NASA's Perseverance rover, which landed on Mars in February 2021, is conducting experiments to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "multiple crewed missions to the ISS and has plans to send humans to Mars in the near future. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "and Saturn, are being planned to study their moons and uncover the secrets of these distant worlds. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "Advancements in space technology, such as the development of ion propulsion systems and advanced ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "The concept of space tourism is also gaining traction, with companies like Blue Origin and Virgin ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "Looking to the future, space exploration holds endless possibilities for further discovery and ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

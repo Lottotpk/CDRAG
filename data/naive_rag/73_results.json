@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The Bermuda Triangle is a region in the western part of the North Atlantic Ocean.",
+    "retrieved_context": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Bermuda Triangle is also known as the Devil's Triangle.",
+    "retrieved_context": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aircraft and ships have disappeared in the Bermuda Triangle under mysterious circumstances.",
+    "retrieved_context": "One of the most well-known disappearances in the Bermuda Triangle is that of Flight 19, a squadron ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The boundaries of the Bermuda Triangle vary depending on sources and theories.",
+    "retrieved_context": "Despite the various theories and speculations, the Bermuda Triangle continues to be a source of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Bermuda Triangle is generally believed to be between Miami, Bermuda, and Puerto Rico.",
+    "retrieved_context": "to be between Miami, Bermuda, and Puerto Rico. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Flight 19, a squadron of five U.S. Navy bombers, disappeared in the Bermuda Triangle in December 1945.",
+    "retrieved_context": "One of the most well-known disappearances in the Bermuda Triangle is that of Flight 19, a squadron ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The USS Cyclops, a U.S. Navy cargo ship, went missing in the Bermuda Triangle in March 1918.",
+    "retrieved_context": "Another notable incident is the disappearance of the USS Cyclops, a U.S. Navy cargo ship that went ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The USS Cyclops was carrying a full load of manganese ore when it disappeared.",
+    "retrieved_context": "Another notable incident is the disappearance of the USS Cyclops, a U.S. Navy cargo ship that went ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Bermuda Triangle has fueled a wide range of theories, including supernatural forces and extraterrestrial involvement.",
+    "retrieved_context": "Bermuda Triangle, with some suggesting that supernatural forces, extraterrestrial involvement, or ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Strong magnetic anomalies in the Bermuda Triangle could interfere with navigation systems.",
+    "retrieved_context": "presence of strong magnetic anomalies that could interfere with navigation systems, leading to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Bermuda Triangle is known for its unpredictable weather patterns, including sudden storms and rogue waves.",
+    "retrieved_context": "known for its unpredictable weather patterns, including sudden storms and rogue waves, which could ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Methane gas trapped beneath the seafloor could be a possible explanation for disappearances in the Bermuda Triangle.",
+    "retrieved_context": "Another theory posits that methane gas trapped beneath the seafloor could be released in large ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The lack of concrete evidence deepens the intrigue surrounding the Bermuda Triangle.",
+    "retrieved_context": "The mystery surrounding the Bermuda Triangle has captured the imagination of people around the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Bermuda Triangle remains a mystery for researchers, scientists, and enthusiasts.",
+    "retrieved_context": "The mystery surrounding the Bermuda Triangle has captured the imagination of people around the ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The allure of the Bermuda Triangle continues to captivate those who explore its secrets.",
+    "retrieved_context": "The mystery surrounding the Bermuda Triangle has captured the imagination of people around the ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

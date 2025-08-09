@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Coffee is a cultural phenomenon in society.",
+    "retrieved_context": "Coffee is more than just a beverage; it is a cultural phenomenon that plays a significant role in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee is an integral part of people's daily lives.",
+    "retrieved_context": "In the modern era, coffee has become a global phenomenon, with millions of people consuming it ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee's history dates back to ancient times.",
+    "retrieved_context": "The history of coffee dates back to ancient times, with its origins traced to the Ethiopian ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee originated from the Ethiopian plateau.",
+    "retrieved_context": "The history of coffee dates back to ancient times, with its origins traced to the Ethiopian ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee was discovered by a goat herder named Kaldi.",
+    "retrieved_context": "Ethiopian plateau. Legend has it that a goat herder named Kaldi discovered the stimulating effects ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee spread to the Arabian Peninsula.",
+    "retrieved_context": "of coffee beans. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee houses emerged in the Middle East as social spaces.",
+    "retrieved_context": "and traded extensively. Coffee houses, known as \"qahveh khaneh,\" began to emerge in the Middle East ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee reached Europe by the 17th century.",
+    "retrieved_context": "Coffee's popularity continued to grow, and by the 17th century, coffee had made its way to Europe. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee houses in Europe were hubs for social interaction.",
+    "retrieved_context": "Europe. Coffee houses became central hubs for social interaction, political discourse, and business ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee played a pivotal role in the Enlightenment period.",
+    "retrieved_context": "Coffee's popularity continued to grow, and by the 17th century, coffee had made its way to Europe. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee consumption is global in the modern era.",
+    "retrieved_context": "In the modern era, coffee has become a global phenomenon, with millions of people consuming it ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee chains like Starbucks have transformed coffee consumption.",
+    "retrieved_context": "In the modern era, coffee has become a global phenomenon, with millions of people consuming it ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee is a symbol of social status and lifestyle.",
+    "retrieved_context": "symbol of social status, lifestyle, and personal identity. The \"coffee culture\" that has emerged in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee is associated with productivity and focus.",
+    "retrieved_context": "with productivity, focus, and energy. Many people rely on their morning cup of coffee to kickstart ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee breaks are opportunities for socializing.",
+    "retrieved_context": "East as social spaces where people gathered to drink coffee, socialize, and engage in intellectual ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

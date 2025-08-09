@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The human body has defense mechanisms to protect itself against harmful pathogens.",
+    "retrieved_context": "```The human body is a complex and intricate system that is equipped with various defense mechanisms ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune system fights off infections to restore health.",
+    "retrieved_context": "play a crucial role in preventing infections and reducing the burden on the immune system. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The immune response involves coordinated responses of cells, tissues, and organs.",
+    "retrieved_context": "that involve different cells, tissues, and organs working together to eliminate the threat. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Physical barriers prevent pathogens from entering the body.",
+    "retrieved_context": "prevent pathogens from entering the body. The skin, for example, acts as a protective barrier that ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The skin acts as a protective barrier against pathogens.",
+    "retrieved_context": "prevent pathogens from entering the body. The skin, for example, acts as a protective barrier that ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mucous membranes produce mucus to trap pathogens.",
+    "retrieved_context": "in the respiratory and digestive tracts produce mucus that traps pathogens and prevents them from ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The acidic environment of the stomach can kill pathogens.",
+    "retrieved_context": "them from entering the body. In addition, the acidic environment of the stomach can kill many ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White blood cells are key players in the immune response.",
+    "retrieved_context": "Macrophages are another type of white blood cell that play a crucial role in the immune response. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neutrophils are the first responders to infections.",
+    "retrieved_context": "Neutrophils are the most abundant type of white blood cells and are the first responders to an ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Macrophages patrol the body and alert other immune cells.",
+    "retrieved_context": "Macrophages are another type of white blood cell that play a crucial role in the immune response. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lymphocytes mount a targeted immune response.",
+    "retrieved_context": "immune response and regulate the activity of immune cells. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dendritic cells present antigens to T cells for a specific immune response.",
+    "retrieved_context": "capturing and presenting antigens to T cells, initiating a more specific immune response. Natural ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Natural killer cells can directly kill infected cells.",
+    "retrieved_context": "Natural killer cells are another type of immune cell that can directly kill infected cells. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Complement proteins enhance the ability of antibodies to destroy pathogens.",
+    "retrieved_context": "play a crucial role in preventing infections and reducing the burden on the immune system. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cytokines coordinate the immune response and regulate immune cell activity.",
+    "retrieved_context": "immune response and regulate the activity of immune cells. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

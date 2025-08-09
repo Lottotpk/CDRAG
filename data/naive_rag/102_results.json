@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Surveillance cameras are used in crime prevention strategies.",
+    "retrieved_context": "cameras in crime prevention. Video analytics technology can automatically detect suspicious ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras monitor public areas, streets, buildings, and transportation hubs.",
+    "retrieved_context": "use of surveillance cameras. These cameras are strategically placed in public areas, streets, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Surveillance cameras act as a deterrent to criminals.",
+    "retrieved_context": "criminal behavior. The presence of surveillance cameras not only acts as a deterrent to criminals ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras provide valuable evidence in criminal investigations.",
+    "retrieved_context": "criminals but also provides valuable evidence in criminal investigations. Law enforcement agencies ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology can detect suspicious behaviors in real-time.",
+    "retrieved_context": "cameras in crime prevention. Video analytics technology can automatically detect suspicious ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology alerts law enforcement personnel to potential threats.",
+    "retrieved_context": "cameras in crime prevention. Video analytics technology can automatically detect suspicious ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Predictive analytics and data mining are used in crime prevention.",
+    "retrieved_context": "Another critical technology in crime prevention is the use of predictive analytics and data mining. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Law enforcement agencies analyze vast amounts of data for potential criminal activities.",
+    "retrieved_context": "the capabilities of law enforcement agencies to detect, deter, and investigate criminal activities. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Predictive analytics help allocate resources efficiently and target high-risk areas.",
+    "retrieved_context": "can streamline processes, analyze large datasets, and provide valuable insights that can help ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Technology enables real-time information sharing among law enforcement personnel.",
+    "retrieved_context": "tool in modern criminal investigations. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mobile devices and digital platforms facilitate communication and collaboration among law enforcement agencies.",
+    "retrieved_context": "the way law enforcement agencies communicate and collaborate. The use of mobile devices, secure ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media platforms and mobile applications enhance community engagement in crime prevention.",
+    "retrieved_context": "public participation in crime prevention. Social media platforms, mobile applications, and online ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Citizens can report crimes and share information easily through online reporting systems.",
+    "retrieved_context": "online reporting systems allow citizens to report crimes, share information, and communicate with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology raises concerns about privacy rights and potential abuses of power.",
+    "retrieved_context": "about the right to privacy and the potential for abuse of power by governments or corporations. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Establishing clear guidelines and regulations is essential to ensure responsible and ethical use of technology in crime prevention.",
+    "retrieved_context": "to ensure that technology is used responsibly and ethically in crime prevention activities. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

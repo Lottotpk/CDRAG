@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tattooing is a form of art.",
+    "retrieved_context": "Tattooing is a form of art that has been practiced for centuries in various cultures around the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattooing involves inserting ink into the skin.",
+    "retrieved_context": "the world. It involves the process of inserting ink into the skin to create permanent designs or ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos are viewed as body decorations by some.",
+    "retrieved_context": "or images. While some may view tattoos simply as body decorations, they hold much deeper meanings ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos hold deeper meanings for those who wear them.",
+    "retrieved_context": "beliefs, tattoos have the power to tell a story and evoke powerful emotions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattooing has been practiced for centuries.",
+    "retrieved_context": "Tattooing is a form of art that has been practiced for centuries in various cultures around the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattooed mummies have been found in ancient Egypt, Asia, and Europe.",
+    "retrieved_context": "The history of tattooing dates back thousands of years, with evidence of tattooed mummies found in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoos were used as symbols of status in many indigenous cultures.",
+    "retrieved_context": "found in ancient Egypt, Asia, and Europe. In many indigenous cultures, tattoos were used as symbols ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "In Polynesian cultures, tattoos were a rite of passage.",
+    "retrieved_context": "beliefs, and experiences. For example, in ancient Polynesian cultures, tattoos were used to signify ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "In Japan, tattoos were associated with the criminal underworld.",
+    "retrieved_context": "example, among the Ainu people of Japan, tattoos were used to symbolize a person's spiritual ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoo artists bring clients' ideas to life.",
+    "retrieved_context": "client are on the same page regarding the design, placement, and overall outcome of the tattoo. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Communication is key in the tattooing process.",
+    "retrieved_context": "Communication is key in the tattooing process, as it ensures that both the artist and the client ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Getting a tattoo can be a transformative experience.",
+    "retrieved_context": "The process of getting a tattoo can be a transformative experience for many people. It requires a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos have become more accepted in mainstream society.",
+    "retrieved_context": "In recent years, there has been a growing acceptance of tattoos in mainstream society. Many ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos can hold deep personal meanings.",
+    "retrieved_context": "beliefs, tattoos have the power to tell a story and evoke powerful emotions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattooing combines technical skill, creativity, and personal expression.",
+    "retrieved_context": "In conclusion, tattooing is a unique form of art that combines technical skill, creativity, and ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

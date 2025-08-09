@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space tourism is becoming a reality for civilians.",
+    "retrieved_context": "Space tourism, once a dream only for trained astronauts, is now becoming a reality for civilians. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Private space companies like SpaceX, Blue Origin, and Virgin Galactic are driving the rise of space tourism.",
+    "retrieved_context": "The concept of space tourism is also gaining traction, with companies like Blue Origin and Virgin ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Traveling to space for leisure is no longer confined to science fiction novels.",
+    "retrieved_context": "Space tourism, once a dream only for trained astronauts, is now becoming a reality for civilians. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space tourism has immense potential for transforming the perception and experience of outer space.",
+    "retrieved_context": "future of space tourism holds immense potential for transforming the way we perceive and experience ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in technology and competition among private companies are driving down the cost of space tourism.",
+    "retrieved_context": "One of the key drivers of the future of space tourism is the increasing affordability of space ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "More individuals can now consider space tourism as a viable travel option due to decreasing prices.",
+    "retrieved_context": "a result, more individuals are now able to consider space tourism as a viable option for their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The affordability of space travel is increasing, making it accessible to a broader range of people.",
+    "retrieved_context": "future, making space tourism more accessible to a broader range of people. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is a need for more sophisticated and sustainable living spaces in space as the demand for space travel grows.",
+    "retrieved_context": "travel to innovative space habitats, the future of space tourism is set to redefine our ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Companies like SpaceX are working on creating habitats on Mars.",
+    "retrieved_context": "already working on creating habitats on Mars, while others are exploring the possibility of space ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space hotels in Earth's orbit are being explored as a possibility.",
+    "retrieved_context": "of space hotels in Earth's orbit. These developments will not only facilitate longer stays in space ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in space transportation technology will revolutionize the way we travel to space.",
+    "retrieved_context": "Furthermore, advancements in space transportation technology are set to revolutionize the way we ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Reusable rockets and spacecraft will significantly reduce the cost of space travel.",
+    "retrieved_context": "and spacecraft, which will significantly reduce the cost of space travel and make it more ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in space transportation technology will make space tourism more convenient and attractive for travelers.",
+    "retrieved_context": "future, making space tourism more accessible to a broader range of people. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space tourism holds promise for scientific research and exploration.",
+    "retrieved_context": "The future of space tourism also holds promise for scientific research and exploration. As more ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space tourism could serve as a platform for collaboration between scientists, researchers, and space enthusiasts.",
+    "retrieved_context": "The future of space tourism also holds promise for scientific research and exploration. As more ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

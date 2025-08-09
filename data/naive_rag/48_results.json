@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Spiders build intricate webs.",
+    "retrieved_context": "Overall, the process of how spiders build webs is a complex and fascinating phenomenon. Spiders ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Webs serve as homes and hunting grounds for spiders.",
+    "retrieved_context": "produced by the spider, which helps to trap prey that comes into contact with the web. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders catch prey efficiently using their webs.",
+    "retrieved_context": "produced by the spider, which helps to trap prey that comes into contact with the web. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders select suitable locations for web-building.",
+    "retrieved_context": "Overall, the process of how spiders build webs is a complex and fascinating phenomenon. Spiders ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders produce silk from spinnerets.",
+    "retrieved_context": "produced by the spider, which helps to trap prey that comes into contact with the web. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spider silk is strong and elastic.",
+    "retrieved_context": "The silk produced by spiders is a remarkable material that is incredibly strong and elastic. It is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spider silk is composed of protein molecules.",
+    "retrieved_context": "The silk produced by spiders is a remarkable material that is incredibly strong and elastic. It is ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders can produce different types of silk.",
+    "retrieved_context": "properties. Spiders have the ability to produce different types of silk for various purposes, such ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders anchor silk strands to surfaces to build webs.",
+    "retrieved_context": "To build a web, the spider will anchor a strand of silk to a surface, such as a branch or a wall. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders construct radial lines as the framework of the web.",
+    "retrieved_context": "the web. These spiral lines are made by the spider moving in a circular pattern, laying down silk ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders lay down sticky spiral lines on the web.",
+    "retrieved_context": "the web. These spiral lines are made by the spider moving in a circular pattern, laying down silk ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders periodically test the tension of silk strands.",
+    "retrieved_context": "As the spider builds the web, it will periodically stop to test the tension and strength of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders have an innate sense of how to build webs.",
+    "retrieved_context": "Spiders demonstrate remarkable skill and precision in constructing their webs, using their unique ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders place a trap line in the web to signal prey.",
+    "retrieved_context": "silk that serves as a signal line for the spider. When prey becomes trapped in the web, the spider ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders immobilize prey with a bite and wrap it in silk.",
+    "retrieved_context": "produced by the spider, which helps to trap prey that comes into contact with the web. ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Satellites are objects that orbit around a larger body in space.",
+    "retrieved_context": "At its core, a satellite is simply an object that orbits around a larger body in space. In the case ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Communication satellites relay signals for television, internet, and phone calls.",
+    "retrieved_context": "satellite, which is used to relay signals for television, internet, phone calls, and other forms of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Weather satellites are equipped with sensors and cameras to monitor weather patterns.",
+    "retrieved_context": "and cameras to monitor our planet's weather patterns and provide valuable data for meteorologists. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Satellites operate based on the laws of motion and gravity.",
+    "retrieved_context": "Satellites operate based on the principles of physics, particularly the laws of motion and gravity. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Satellites must achieve the right balance between speed and Earth's gravity to stay in orbit.",
+    "retrieved_context": "gravity. To stay in orbit around Earth, a satellite must achieve the right balance between its ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Satellites are launched into specific orbits like low Earth orbit or geostationary orbit.",
+    "retrieved_context": "There are several types of satellites based on their orbits and functions. Geostationary ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The key components of a satellite include the payload and the bus.",
+    "retrieved_context": "The key components of a satellite include the payload, which is the equipment or instruments that ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Satellites are powered by solar panels that convert sunlight into electricity.",
+    "retrieved_context": "by solar panels that convert sunlight into electricity to operate their systems and charge their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Communication with satellites is typically done through radio signals.",
+    "retrieved_context": "their batteries. Communication with satellites is typically done through radio signals, which are ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geostationary satellites orbit at the same speed as Earth's rotation.",
+    "retrieved_context": "satellites, for example, orbit at the same speed as Earth's rotation, allowing them to remain fixed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Low Earth orbit satellites are used for Earth observation and remote sensing.",
+    "retrieved_context": "are used for tasks like Earth observation, remote sensing, and satellite internet. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Satellites play a crucial role in providing global connectivity in telecommunications.",
+    "retrieved_context": "satellites play a crucial role in providing global connectivity, especially in remote and rural ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Weather satellites help track storms and monitor climate patterns.",
+    "retrieved_context": "and cameras to monitor our planet's weather patterns and provide valuable data for meteorologists. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scientific research satellites are used to study the Earth's climate and land cover.",
+    "retrieved_context": "are used for tasks like Earth observation, remote sensing, and satellite internet. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in miniaturization and propulsion are making satellites more capable and affordable.",
+    "retrieved_context": "Small satellites, known as CubeSats, are revolutionizing the satellite industry by reducing costs ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

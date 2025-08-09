@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The bicycle is a two-wheeled vehicle propelled by human power.",
+    "retrieved_context": "The bicycle, a two-wheeled vehicle propelled by human power, has a rich history of evolution and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known prototype of the bicycle was called the 'draisine'.",
+    "retrieved_context": "the \"draisine.\" This early version of the bicycle had no pedals and was propelled by the rider ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The draisine had no pedals and was propelled by the rider pushing off the ground with their feet.",
+    "retrieved_context": "the \"draisine.\" This early version of the bicycle had no pedals and was propelled by the rider ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The velocipede, also known as the 'boneshaker', featured pedals attached directly to the front wheel.",
+    "retrieved_context": "with the invention of the velocipede, also known as the \"boneshaker.\" This early bicycle featured ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The boneshaker offered a smoother ride and greater speed compared to the draisine.",
+    "retrieved_context": "forward by turning the pedals in a circular motion. The boneshaker was a significant improvement ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The high-wheel bicycle, or penny-farthing, had a large front wheel and a smaller rear wheel.",
+    "retrieved_context": "with the invention of the high-wheel bicycle, also known as the penny-farthing. This distinctive ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The safety bicycle featured two wheels of equal size, a chain drive system, and pneumatic tires.",
+    "retrieved_context": "rode bikes. The safety bicycle featured two wheels of equal size, a chain drive system, and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The safety bicycle was more stable, comfortable, and efficient than its predecessors.",
+    "retrieved_context": "In the late 19th century, the safety bicycle was invented, revolutionizing the way people rode ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steel became the primary material used in bicycle frames in the early 1900s.",
+    "retrieved_context": "design, and technology. In the early 1900s, steel became the primary material used in bicycle ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aluminum and titanium emerged as popular alternatives to steel in the mid-20th century.",
+    "retrieved_context": "century, aluminum and titanium emerged as popular alternatives to steel, providing lighter weight ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon fiber frames are lightweight, strong, and aerodynamic.",
+    "retrieved_context": "bicycle construction. Carbon fiber frames are lightweight, strong, and aerodynamic, making them ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon fiber frames are ideal for competitive racing and high-performance cycling.",
+    "retrieved_context": "them ideal for competitive racing and high-performance cycling. The use of carbon fiber in bicycle ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electric bikes offer motorized assistance for easier riding and longer distances.",
+    "retrieved_context": "bikes in recent years has further expanded the options for cyclists, offering motorized assistance ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bicycles have become a popular mode of transportation for commuting, exercise, and leisure.",
+    "retrieved_context": "recreation, and culture in significant ways. Bicycles have become a popular mode of transportation ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cycling has become a competitive sport enjoyed by millions of people around the world.",
+    "retrieved_context": "recreation, and culture in significant ways. Bicycles have become a popular mode of transportation ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

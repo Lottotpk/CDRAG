@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Calligraphy is the art of beautiful writing.",
+    "retrieved_context": "Calligraphy is the art of beautiful writing, a skill that has been practiced and revered for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Calligraphy has been practiced and revered for centuries.",
+    "retrieved_context": "Calligraphy is the art of beautiful writing, a skill that has been practiced and revered for ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Calligraphy embodies the harmony of form and expression.",
+    "retrieved_context": "Calligraphy involves the use of specialized tools and materials to create beautiful and expressive ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Arabic calligraphy developed alongside the spread of Islam.",
+    "retrieved_context": "One of the most well-known calligraphic traditions is Arabic calligraphy, which developed alongside ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chinese calligraphy is known as 'shufa'.",
+    "retrieved_context": "a high art form practiced by scholars and nobility. Chinese calligraphy, known as \"shufa,\" ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Japanese calligraphy was influenced by Chinese calligraphy.",
+    "retrieved_context": "the essence of Chinese philosophy and aesthetics. Japanese calligraphy, or \"shodo,\" was influenced ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Western calligraphy has been practiced since ancient times.",
+    "retrieved_context": "In the Western world, calligraphy has been practiced since ancient times by scribes and monks who ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Calligraphy involves the use of specialized tools and materials.",
+    "retrieved_context": "Calligraphy involves the use of specialized tools and materials to create beautiful and expressive ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The most essential tool in calligraphy is the writing instrument.",
+    "retrieved_context": "writing. The most essential tool in calligraphy is the writing instrument, which can vary from a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chinese and Japanese calligraphy use a brush made of animal hair.",
+    "retrieved_context": "Japanese calligraphy, a brush made of animal hair or synthetic fibers is used to create bold and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arabic calligraphy commonly uses a reed pen or a bamboo pen.",
+    "retrieved_context": "bold and fluid strokes. In Arabic calligraphy, a reed pen or a bamboo pen is commonly used to write ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Various types of pens are used in Western calligraphy.",
+    "retrieved_context": "In Western calligraphy, various types of pens such as fountain pens, dip pens, and markers are used ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Calligraphers use a variety of nibs, inks, and papers.",
+    "retrieved_context": "In Western calligraphy, various types of pens such as fountain pens, dip pens, and markers are used ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Calligraphy involves mastering the art of letterforms, spacing, and rhythm.",
+    "retrieved_context": "The techniques of calligraphy involve mastering the art of letterforms, spacing, and rhythm. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Calligraphy continues to be practiced and appreciated in the modern world.",
+    "retrieved_context": "Calligraphy is the art of beautiful writing, a skill that has been practiced and revered for ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

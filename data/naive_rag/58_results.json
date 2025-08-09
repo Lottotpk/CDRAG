@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "Modern medicine has made significant advancements over the past few centuries, revolutionizing ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "Modern medicine has made significant advancements over the past few centuries, revolutionizing ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "and improved the quality of life for millions of people around the world. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "of medicine can be traced back to ancient civilizations, where primitive forms of medical treatment ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "of medicine can be traced back to ancient civilizations, where primitive forms of medical treatment ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "of the modern era that have paved the way for the sophisticated medical practices we have today. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "One of the key developments in modern medicine is the understanding of human anatomy and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "period that the study of anatomy began to take shape, with pioneering figures such as Andreas ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "Andreas Vesalius challenging traditional beliefs and conducting detailed dissections to understand ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "specific microorganisms as the cause of diseases revolutionized the field of medicine, as it paved ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "The 20th century witnessed rapid advancements in medical technology, leading to the emergence of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "of new diagnostic tools and treatment modalities. The invention of the X-ray by Wilhelm Roentgen in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "The pharmaceutical industry has also played a crucial role in the development of modern medicine. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "The discovery of penicillin marks a significant milestone in the history of medicine, ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

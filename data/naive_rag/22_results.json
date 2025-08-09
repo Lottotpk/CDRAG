@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cryptocurrencies revolutionized the way we think about money and transactions.",
+    "retrieved_context": "```Cryptocurrencies have taken the financial world by storm in recent years, revolutionizing the way ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bitcoin was created in 2009 by an anonymous individual or group known as Satoshi Nakamoto.",
+    "retrieved_context": "anonymous individual or group known as Satoshi Nakamoto, to the thousands of altcoins that have ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies have become a significant player in the global economy.",
+    "retrieved_context": "that have since emerged, cryptocurrencies have become a significant player in the global economy. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies are decentralized digital assets.",
+    "retrieved_context": "nature of these digital assets. Unlike traditional fiat currencies that are controlled by ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies operate on a peer-to-peer network.",
+    "retrieved_context": "by governments and central banks, cryptocurrencies operate on a peer-to-peer network, allowing for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transactions occur directly between users without intermediaries in cryptocurrencies.",
+    "retrieved_context": "for transactions to occur directly between users without the need for intermediaries. This ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decentralization provides users with more control over their funds in cryptocurrencies.",
+    "retrieved_context": "This decentralization not only provides users with more control over their funds but also enhances ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decentralization enhances security and privacy in cryptocurrencies.",
+    "retrieved_context": "One of the key factors contributing to the rise of cryptocurrencies is the decentralized nature of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain is the technology that underpins cryptocurrencies.",
+    "retrieved_context": "Another driving force behind the popularity of cryptocurrencies is the technology that underpins ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain ensures transparency and immutability of transactions.",
+    "retrieved_context": "the transparency and immutability of transactions on the network. Each transaction is recorded in a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each transaction in blockchain is recorded in a block.",
+    "retrieved_context": "in a block and linked to the previous block, forming a chain of blocks that cannot be altered once ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain forms a chain of blocks that cannot be altered once validated.",
+    "retrieved_context": "in a block and linked to the previous block, forming a chain of blocks that cannot be altered once ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts are self-executing contracts with terms written into code.",
+    "retrieved_context": "are self-executing contracts with the terms of the agreement directly written into code. These ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts automatically enforce and execute themselves when conditions are met.",
+    "retrieved_context": "are self-executing contracts with the terms of the agreement directly written into code. These ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies offer financial inclusion to individuals in underserved communities.",
+    "retrieved_context": "Cryptocurrencies have also gained traction due to their potential for financial inclusion. In many ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

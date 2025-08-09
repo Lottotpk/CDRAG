@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Renewable energy sources gaining momentum in recent years",
+    "retrieved_context": "Renewable energy sources have been gaining momentum in recent years as the world moves towards a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "World moving towards a more sustainable and environmentally friendly future",
+    "retrieved_context": "towards a more sustainable and environmentally friendly future. The growing concerns over climate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Growing concerns over climate change, air pollution, and finite nature of fossil fuels",
+    "retrieved_context": "challenges such as air pollution and deforestation, highlighting the need for sustainable practices ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Increased investments and advancements in renewable energy technologies",
+    "retrieved_context": "The development of renewable energy sources has been driven by technological advancements, policy ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Solar panels harness energy from the sun and convert it into electricity",
+    "retrieved_context": "by solar panels that convert sunlight into electricity to operate their systems and charge their ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cost of solar panels steadily decreasing over the years",
+    "retrieved_context": "source of energy. The cost of solar panels has been steadily decreasing over the years, making it ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in solar technology improving efficiency and effectiveness of solar power generation",
+    "retrieved_context": "the efficiency and effectiveness of solar power generation. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind turbines capture kinetic energy of the wind and convert it into electricity",
+    "retrieved_context": "turbines capture the kinetic energy of the wind and convert it into electricity. Wind power is a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind power growing in popularity as a clean and renewable resource",
+    "retrieved_context": "Wind power is another renewable energy source that has been growing in popularity. Wind turbines ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hydropower derived from the energy of moving water",
+    "retrieved_context": "Hydropower, derived from the energy of moving water, is one of the oldest sources of renewable ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Large-scale hydropower plants capable of generating significant amounts of electricity",
+    "retrieved_context": "Large-scale hydropower projects, such as dams and reservoirs, have been built to meet electricity ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bioenergy derived from organic materials such as plants and waste",
+    "retrieved_context": "Bioenergy, derived from organic materials such as plants and waste, is another renewable energy ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geothermal energy derived from the heat of the Earth's interior",
+    "retrieved_context": "Geothermal energy utilizes heat from the Earth's core to generate electricity and provide heating ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ongoing research and development driving innovation and efficiency improvements in renewable energy sources",
+    "retrieved_context": "The future of renewable energy is bright, with ongoing research and development driving innovation ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Policy support and incentives essential for continued growth of renewable energy",
+    "retrieved_context": "Policy support and incentives are essential for the continued growth of renewable energy. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

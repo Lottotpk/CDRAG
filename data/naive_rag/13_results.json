@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "Roller coasters are thrilling amusement park rides that provide riders with an exhilarating ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "Roller coasters are thrilling amusement park rides that provide riders with an exhilarating ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "In conclusion, the physics of roller coasters is a fascinating subject that involves the interplay ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "One of the key concepts in understanding the physics of roller coasters is the concept of forces. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "the force that pulls objects toward the center of the Earth, and it plays a significant role in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "gravity pulls it downward, causing the car to accelerate as it descends. This acceleration creates ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "force is responsible for keeping the roller coaster car on the track as it goes around curves and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "and negative effects on a roller coaster ride. On one hand, friction between the wheels of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "Roller coasters rely on the conservation of mechanical energy, which is the sum of kinetic energy ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "energy as it climbs. As the car descends the hill, this potential energy is converted into kinetic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "of roller coasters. Acceleration is the rate of change of velocity, and it plays a key role in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "in the thrill of a roller coaster ride. Riders experience acceleration when the roller coaster car ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "on the other hand, is the speed and direction of an object's motion. Roller coasters reach high ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "in the thrill of a roller coaster ride. Riders experience acceleration when the roller coaster car ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "In conclusion, the physics of roller coasters is a fascinating subject that involves the interplay ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

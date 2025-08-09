@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Human cloning is a controversial topic.",
+    "retrieved_context": "Human cloning is a controversial topic that raises complex ethical questions about the nature of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Human cloning raises complex ethical questions.",
+    "retrieved_context": "Human cloning is a controversial topic that raises complex ethical questions about the nature of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Human cloning manipulates genetic material.",
+    "retrieved_context": "Human cloning is a controversial topic that raises complex ethical questions about the nature of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning creates genetically identical copies of individuals.",
+    "retrieved_context": "and personal identity. Cloning involves creating a genetic replica of an existing individual, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning sparks fascination among scientists.",
+    "retrieved_context": "cloning holds promise for medical progress and scientific discovery, it also raises profound ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning raises concerns about individuality.",
+    "retrieved_context": "One of the primary ethical concerns raised by human cloning is the question of individuality and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises concerns about personal identity.",
+    "retrieved_context": "and personal identity. Cloning involves creating a genetic replica of an existing individual, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning undermines the uniqueness of individuals.",
+    "retrieved_context": "and personal identity. Cloning involves creating a genetic replica of an existing individual, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning could be misused for creating designer babies.",
+    "retrieved_context": "The technology to clone humans could be misused for purposes such as creating designer babies with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning could be misused for unethical experiments.",
+    "retrieved_context": "The technology to clone humans could be misused for purposes such as creating designer babies with ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning raises moral and religious questions.",
+    "retrieved_context": "In addition to concerns about individuality and exploitation, human cloning raises profound moral ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning challenges the boundaries between humans and the divine.",
+    "retrieved_context": "seen as a hubristic endeavor that challenges the boundaries between humans and the divine, with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning could have positive implications for medicine.",
+    "retrieved_context": "cloning holds promise for medical progress and scientific discovery, it also raises profound ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning could revolutionize healthcare.",
+    "retrieved_context": "for medicine and healthcare. Cloning technology could be used to create patient-specific stem cells ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises complex ethical considerations.",
+    "retrieved_context": "Human cloning is a controversial topic that raises complex ethical questions about the nature of ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

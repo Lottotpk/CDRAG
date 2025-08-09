@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Water is crucial for the development of civilization.",
+    "retrieved_context": "One of the most fundamental roles of water in the development of civilization is its importance for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is essential for human survival.",
+    "retrieved_context": "for human survival. Water is essential for drinking, cooking, and sanitation, without which human ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for drinking.",
+    "retrieved_context": "for human survival. Water is essential for drinking, cooking, and sanitation, without which human ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for cooking.",
+    "retrieved_context": "for human survival. Water is essential for drinking, cooking, and sanitation, without which human ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for sanitation.",
+    "retrieved_context": "for human survival. Water is essential for drinking, cooking, and sanitation, without which human ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early human settlements were established near sources of water.",
+    "retrieved_context": "human life would not be sustainable. Early human settlements were often established near sources of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Access to water was crucial for the survival of early civilizations.",
+    "retrieved_context": "```Water has played a crucial role in the development of civilization throughout history. From ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The availability of water determined the success of settlements.",
+    "retrieved_context": "The availability of water determined the success and longevity of these settlements, leading to the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is vital for agriculture.",
+    "retrieved_context": "In addition to its role in sustaining human life, water has been vital for agriculture, which has ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is used to irrigate crops.",
+    "retrieved_context": "In addition to its role in sustaining human life, water has been vital for agriculture, which has ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water allows societies to cultivate larger areas of land.",
+    "retrieved_context": "using water from rivers and streams allowed ancient societies to cultivate larger areas of land and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been essential for transportation and trade.",
+    "retrieved_context": "Furthermore, water has been essential for transportation and trade, facilitating the exchange of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rivers and seas have served as natural highways for trade.",
+    "retrieved_context": "of goods and ideas between different regions. Rivers and seas have served as natural highways for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been a source of power for industry and innovation.",
+    "retrieved_context": "Moreover, water has been a source of power for industry and innovation, driving technological ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Watermills and waterwheels were used in ancient times for various purposes.",
+    "retrieved_context": "advancements that have shaped the course of human history. Watermills and waterwheels were used in ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

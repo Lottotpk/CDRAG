@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "the first artificial satellite, Sputnik 1, by the Soviet Union on October 4, 1957. This historic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "launched the first artificial satellite, Sputnik 1, into orbit in 1957. This event marked the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "Following the launch of Sputnik 1, the Soviet Union continued to make strides in space exploration ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "with the launch of Yuri Gagarin, the first human to travel into space, on April 12, 1961. Gagarin's ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Gagarin's historic flight aboard Vostok 1 marked a significant milestone in human history and paved ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "(National Aeronautics and Space Administration) and embarked on a series of ambitious missions to ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "July 20, 1969, when Apollo 11 landed on the moon, with astronauts Neil Armstrong and Buzz Aldrin ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "humans to walk on the moon as part of the Apollo 11 mission. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "program, initiated by NASA in the 1980s, revolutionized space travel by providing a reusable ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "reusable spacecraft for multiple missions. The shuttle program enabled the construction of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "of the International Space Station (ISS), a collaborative effort between multiple countries to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "general public. SpaceX, founded by entrepreneur Elon Musk, has successfully launched multiple ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "multiple crewed missions to the ISS and has plans to send humans to Mars in the near future. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "shuttle Challenger disaster in 1986 and the Columbia disaster in 2003 served as stark reminders of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "Plans for manned missions to Mars, the establishment of lunar bases, and the development of ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

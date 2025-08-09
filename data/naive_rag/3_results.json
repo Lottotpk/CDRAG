@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "Artificial Intelligence (AI) has rapidly advanced in recent years, revolutionizing various ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "Artificial Intelligence (AI) has rapidly advanced in recent years, revolutionizing various ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "comes a myriad of ethical dilemmas that need to be addressed in the development and deployment of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "presents challenges and ethical considerations that must be addressed. The widespread use of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "One of the key ethical dilemmas in AI development is the issue of privacy. As AI systems collect ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "collect and analyze massive amounts of data, there is a growing concern about how this data is ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "facial recognition technology can be used for surveillance purposes, raising questions about the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "Another ethical dilemma in AI development is the issue of bias. AI systems are only as good as the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "lead to discriminatory outcomes. For example, biased algorithms in hiring processes can perpetuate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "to ensuring fairness and equity in decision-making processes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "Accountability is another ethical dilemma in AI development. As AI systems become more autonomous ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "Accountability is another ethical dilemma in AI development. As AI systems become more autonomous ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "Transparency is also a significant ethical dilemma in AI development. As AI systems become more ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "Lack of transparency can lead to distrust in AI systems and hinder their acceptance and adoption. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "decisions and processes, is essential to building trust and ensuring accountability. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bees are crucial pollinators in agriculture.",
+    "retrieved_context": "Bees play a crucial role in agriculture as pollinators, contributing significantly to the success ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees contribute significantly to crop production.",
+    "retrieved_context": "Bees play a crucial role in agriculture as pollinators, contributing significantly to the success ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees are responsible for pollinating fruits, vegetables, and nuts.",
+    "retrieved_context": "Bees play a crucial role in agriculture as pollinators, contributing significantly to the success ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pollination is a primary function of bees in agriculture.",
+    "retrieved_context": "One of the primary functions of bees in agriculture is pollination. Pollination is the process by ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees facilitate cross-pollination and increase genetic diversity.",
+    "retrieved_context": "flower to another, facilitating cross-pollination and increasing genetic diversity within plant ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crops like almonds, apples, cherries, and blueberries depend on bees for pollination.",
+    "retrieved_context": "Many crops, such as almonds, apples, cherries, and blueberries, depend on bees for pollination. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees are estimated to pollinate one-third of food crops worldwide.",
+    "retrieved_context": "Bees play a crucial role in agriculture as pollinators, contributing significantly to the success ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bee pollination services have immense economic value.",
+    "retrieved_context": "is immense, with billions of dollars' worth of agricultural produce dependent on bee pollination ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees help maintain biodiversity and ecosystem stability.",
+    "retrieved_context": "maintain biodiversity and ecosystem stability. Furthermore, bees are essential for the survival of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The decline of bee populations poses a threat to food security.",
+    "retrieved_context": "The decline of bee populations in recent years has raised concerns about the sustainability of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Factors contributing to bee decline include habitat loss, pesticide use, and climate change.",
+    "retrieved_context": "climate change, and diseases have contributed to the decline of bee populations worldwide. This ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conservation efforts are needed to protect and restore bee habitats.",
+    "retrieved_context": "To address the decline of bee populations, conservation efforts are needed to protect and restore ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Farmers can support bee populations by planting bee-friendly flowers.",
+    "retrieved_context": "can support bee populations by planting bee-friendly flowers, providing nesting sites, and avoiding ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments can promote bee conservation through legislation and incentives.",
+    "retrieved_context": "a role in promoting bee conservation through legislation and incentives for sustainable agriculture ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Recognizing the importance of bees in agriculture is crucial for a sustainable future.",
+    "retrieved_context": "bee populations. By recognizing the importance of bees in agriculture and taking action to support ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pop culture refers to the mainstream lifestyle and ideas driven by mass media and entertainment.",
+    "retrieved_context": "Pop culture, short for popular culture, refers to the mainstream lifestyle and ideas that are ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture influences global trends in fashion through celebrity endorsements and social media.",
+    "retrieved_context": "One of the most prominent ways pop culture influences global trends is through fashion. Fashion ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion and online shopping have contributed to a more globalized fashion landscape.",
+    "retrieved_context": "to a more globalized fashion landscape. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music artists shape popular culture through songs, music videos, and public personas.",
+    "retrieved_context": "artists have the ability to reach a vast audience and shape popular culture through their songs, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "K-pop has led to a surge in interest in Korean culture and fashion worldwide.",
+    "retrieved_context": "of K-pop in recent years has led to a surge in interest in Korean culture and fashion around the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology trends spread quickly across the globe with the help of social media platforms.",
+    "retrieved_context": "The rapid pace of technological advancements has made it easier for trends to spread quickly across ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media is a powerful tool for spreading ideas and influencing behavior globally.",
+    "retrieved_context": "spreading ideas and influencing behavior on a global scale. Tech companies often leverage pop ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tech companies leverage pop culture trends to market their products and services.",
+    "retrieved_context": "pop culture trends to market their products and services, further blurring the lines between ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture influences societal norms and values, shaping perceptions of gender, race, and sexuality.",
+    "retrieved_context": "Moreover, pop culture has a significant impact on societal norms and values, shaping how people ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Increased visibility of LGBTQ+ characters in media promotes acceptance and inclusivity.",
+    "retrieved_context": "norms and cultural practices. For example, the increased visibility of LGBTQ+ characters in movies ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture critics argue it promotes superficiality and consumerism.",
+    "retrieved_context": "that pop culture promotes superficiality and consumerism, leading to a society obsessed with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Critics raise concerns about cultural appropriation and misrepresentation in popular media.",
+    "retrieved_context": "with material possessions and celebrity worship. Others raise concerns about cultural appropriation ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture brings people together, sparks creativity, and drives social change.",
+    "retrieved_context": "positive aspects of pop culture and its ability to bring people together, spark creativity, and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture plays a crucial role in shaping global trends across various industries.",
+    "retrieved_context": "In conclusion, pop culture plays a crucial role in shaping global trends across various industries ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the influence of pop culture helps navigate the ever-changing landscape of popular culture.",
+    "retrieved_context": "influence of pop culture on global trends, we can better navigate the ever-changing landscape of ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

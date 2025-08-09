@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Electricity is a significant discovery in human history.",
+    "retrieved_context": "Electricity is one of the most significant discoveries in human history, and its impact on the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity powers homes and businesses.",
+    "retrieved_context": "advancements, electricity has revolutionized the way we live, work, and interact with one another. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity drives technological advancements.",
+    "retrieved_context": "The impact of electricity on technology cannot be ignored. The development of electrical ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people live.",
+    "retrieved_context": "advancements, electricity has revolutionized the way we live, work, and interact with one another. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people work.",
+    "retrieved_context": "advancements, electricity has revolutionized the way we live, work, and interact with one another. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people interact with each other.",
+    "retrieved_context": "advancements, electricity has revolutionized the way we live, work, and interact with one another. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity modernized society.",
+    "retrieved_context": "```Electricity Revolutionized the World ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity made daily tasks easier and faster.",
+    "retrieved_context": "advancements, electricity has revolutionized the way we live, work, and interact with one another. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity freed up time and energy for other activities.",
+    "retrieved_context": "stoves freed up time and energy for people to focus on other activities, leading to a higher ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Electric lighting reduced crime rates in cities.",
+    "retrieved_context": "Electric lighting made it possible for cities to operate at night, reducing crime rates and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electric heating and cooling systems regulate indoor temperatures.",
+    "retrieved_context": "generation and heating and cooling buildings. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Electricity powers factories and manufacturing plants.",
+    "retrieved_context": "and economic growth. Factories and manufacturing plants rely on electricity to power machinery and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity increased production efficiency and output.",
+    "retrieved_context": "In terms of the economy, electricity has played a crucial role in driving industrialization and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity facilitated global trade and communication.",
+    "retrieved_context": "The availability of electricity has also facilitated global trade and communication, connecting ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity paved the way for innovations in telecommunications, transportation, and computing.",
+    "retrieved_context": "engineering has paved the way for innovations in telecommunications, transportation, and computing. ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts global agriculture.",
+    "retrieved_context": "One of the most immediate and direct impacts of climate change on agriculture is changing weather ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Agriculture is highly dependent on climate conditions.",
+    "retrieved_context": "One of the most immediate and direct impacts of climate change on agriculture is changing weather ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Changes in climate affect crop production.",
+    "retrieved_context": "One of the most immediate and direct impacts of climate change on agriculture is changing weather ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change leads to more severe weather events.",
+    "retrieved_context": "weather patterns. Rising global temperatures are leading to more frequent and severe weather ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events can devastate crops.",
+    "retrieved_context": "weather events, such as droughts, floods, and heatwaves, which can devastate crops and reduce ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rising temperatures affect planting and harvesting seasons.",
+    "retrieved_context": "Another impact of climate change on agriculture is the shift in growing seasons and the expansion ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer temperatures lead to the spread of pests and diseases.",
+    "retrieved_context": "warmer temperatures can lead to the spread of pests and diseases that were previously limited to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change challenges water availability for agriculture.",
+    "retrieved_context": "Climate change also poses challenges to water availability for agriculture. Changes in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water scarcity affects farmers' ability to irrigate crops.",
+    "retrieved_context": "in many regions, making it difficult for farmers to irrigate their crops. This can result in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable water management practices are crucial for adaptation.",
+    "retrieved_context": "rainwater harvesting and efficient irrigation systems, are crucial for adapting to changing water ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change presents opportunities for innovation in agriculture.",
+    "retrieved_context": "change on agriculture are already being felt, there are opportunities for innovation and adaptation ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Drought-resistant crop varieties can mitigate climate change impacts.",
+    "retrieved_context": "climate change on their crops. Sustainable farming practices, such as agroforestry and crop ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sustainable farming practices can improve soil health.",
+    "retrieved_context": "and crop rotation, can also help build resilience to climate change and improve soil health. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Promoting sustainable agriculture can reduce greenhouse gas emissions.",
+    "retrieved_context": "can help reduce greenhouse gas emissions, improve soil health, and protect biodiversity. By ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Investing in research and technology can address climate change challenges in agriculture.",
+    "retrieved_context": "agricultural practices and investing in research and technology, we can address the challenges ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

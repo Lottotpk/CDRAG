@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Rocket requires careful planning",
+    "retrieved_context": "```Building a Rocket: A Step-by-Step Guide ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires precise engineering",
+    "retrieved_context": "you are a student, hobbyist, or aspiring aerospace engineer, building a rocket is a valuable ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of physics",
+    "retrieved_context": "```Building a Rocket: A Step-by-Step Guide ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of materials science",
+    "retrieved_context": "precise engineering, and a thorough understanding of physics and materials science. Rockets have ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rockets have been instrumental in space exploration",
+    "retrieved_context": "space missions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be rewarding",
+    "retrieved_context": "you can turn your dream of building a rocket into a reality and reach for the stars. Happy building ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be educational",
+    "retrieved_context": "you are a student, hobbyist, or aspiring aerospace engineer, building a rocket is a valuable ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves defining purpose and requirements",
+    "retrieved_context": "```Building a Rocket: A Step-by-Step Guide ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves designing the rocket",
+    "retrieved_context": "of building a rocket, from initial design to launch. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves gathering materials and components",
+    "retrieved_context": "of building a rocket, from initial design to launch. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket body is typically constructed from lightweight materials",
+    "retrieved_context": "The body of the rocket is typically constructed from lightweight but durable materials such as ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Propulsion system provides thrust to the rocket",
+    "retrieved_context": "The propulsion system is the heart of the rocket, providing the thrust needed to lift it off the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern rockets use sophisticated electronics and guidance systems",
+    "retrieved_context": "Modern rockets rely on sophisticated electronics and guidance systems to control their flight path ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Testing is essential before launching the rocket",
+    "retrieved_context": "Before launching the rocket, it is essential to conduct thorough testing to identify and resolve ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket requires a deep understanding of science and engineering principles",
+    "retrieved_context": "Building a rocket is a fascinating and complex endeavor that requires careful planning, precise ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

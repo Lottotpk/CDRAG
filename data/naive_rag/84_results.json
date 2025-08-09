@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Consumer behavior is a study area within psychology.",
+    "retrieved_context": "```Consumer behavior is a complex and fascinating area of study within the field of psychology. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding consumer purchasing decisions is crucial for businesses.",
+    "retrieved_context": "Understanding why consumers make certain purchasing decisions is crucial for businesses to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Motivation influences consumer behavior.",
+    "retrieved_context": "Motivation plays a significant role in consumer behavior. Consumers are driven by both intrinsic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumers are driven by intrinsic and extrinsic motivations.",
+    "retrieved_context": "Motivation plays a significant role in consumer behavior. Consumers are driven by both intrinsic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Intrinsic motivation includes personal preferences and values.",
+    "retrieved_context": "refers to internal factors such as personal preferences, values, and emotions, while extrinsic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extrinsic motivation is influenced by external factors like social norms.",
+    "retrieved_context": "extrinsic motivation is influenced by external factors like social norms, peer pressure, and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception shapes consumer behavior.",
+    "retrieved_context": "Perception is another key factor that shapes consumer behavior. How consumers perceive a product or ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumer perception is influenced by marketing messages.",
+    "retrieved_context": "various psychological factors that influence consumer behavior, including motivation, perception, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Attitudes impact consumer behavior.",
+    "retrieved_context": "various psychological factors that influence consumer behavior, including motivation, perception, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Attitudes are a combination of beliefs, feelings, and behaviors.",
+    "retrieved_context": "attitudes, and decision-making processes. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decision-making processes involve cognitive, emotional, and behavioral factors.",
+    "retrieved_context": "attitudes, and decision-making processes. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumers go through stages like problem recognition and information search.",
+    "retrieved_context": "decision, including problem recognition, information search, evaluation of alternatives, purchase ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural factors influence consumer preferences and decision-making.",
+    "retrieved_context": "various psychological factors that influence consumer behavior, including motivation, perception, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Culture includes values, beliefs, customs, and norms.",
+    "retrieved_context": "of goods, ideas, and culture. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Businesses can tailor marketing strategies based on psychological factors.",
+    "retrieved_context": "processes. Businesses that are able to harness these psychological factors can better understand ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

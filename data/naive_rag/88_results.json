@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Forensic science is the application of scientific methods and techniques to solve crimes and legal issues.",
+    "retrieved_context": "Forensic science is the application of scientific methods and techniques to solve crimes and legal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic science plays a crucial role in the criminal justice system.",
+    "retrieved_context": "Forensic science is the application of scientific methods and techniques to solve crimes and legal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic science combines various scientific disciplines such as biology, chemistry, physics, and mathematics.",
+    "retrieved_context": "forensic science combines various scientific disciplines such as biology, chemistry, physics, and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forensic science analyzes physical evidence to draw conclusions for court.",
+    "retrieved_context": "One of the key aspects of forensic science is the collection and analysis of physical evidence. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Physical evidence in forensic science can include fingerprints, DNA samples, firearms, and tool marks.",
+    "retrieved_context": "evidence. This evidence can range from fingerprints and DNA samples to firearms and tool marks. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic scientists use microscopy, spectroscopy, chromatography, and DNA profiling to analyze evidence.",
+    "retrieved_context": "marks. Forensic scientists use a variety of techniques to collect and analyze this evidence, ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forensic scientists determine details like suspect identity, cause of death, and presence of substances at a crime scene.",
+    "retrieved_context": "In addition to analyzing physical evidence, forensic scientists also play a crucial role in crime ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic science uses advanced technology like scanning electron microscopes and mass spectrometry.",
+    "retrieved_context": "Forensic science also involves the use of advanced technology and instrumentation to aid in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic scientists document and preserve crime scenes, collect evidence, and reconstruct events.",
+    "retrieved_context": "in crime scene investigation. They are responsible for documenting and preserving the integrity of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic scientists interpret evidence and present findings in court.",
+    "retrieved_context": "as expert witnesses in court to explain their analysis and conclusions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forensic scientists must analyze complex data and communicate findings effectively.",
+    "retrieved_context": "of findings in court. Forensic scientists must be able to analyze complex data and draw logical ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forensic scientists require technical expertise, critical thinking skills, and attention to detail.",
+    "retrieved_context": "The art of forensic science requires not only technical expertise but also critical thinking skills ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forensic scientists must meticulously document every step of the analysis process.",
+    "retrieved_context": "In addition to analyzing physical evidence, forensic scientists also play a crucial role in crime ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forensic scientists must handle and process evidence in a controlled and consistent manner.",
+    "retrieved_context": "One of the key aspects of forensic science is the collection and analysis of physical evidence. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The art of forensic science is a powerful tool in the fight against crime and injustice.",
+    "retrieved_context": "In conclusion, the art of forensic science is a powerful tool in the fight against crime and ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

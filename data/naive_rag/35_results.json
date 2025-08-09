@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Origami is an ancient Japanese art of paper folding.",
+    "retrieved_context": "Origami, the ancient Japanese art of paper folding, has captivated people around the world for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Origami involves complex mathematical principles and theories.",
+    "retrieved_context": "complex mathematical principles and theories. The intersection of mathematics and origami has led ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mathematics and origami intersect to develop new geometric concepts.",
+    "retrieved_context": "In addition to geometry and symmetry, origami also involves the application of mathematical ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Origami transforms a flat sheet of paper into intricate 3D structures through folds.",
+    "retrieved_context": "At its core, origami involves the transformation of a flat sheet of paper into intricate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each fold in origami involves precise manipulation of paper's edges, angles, and vertices.",
+    "retrieved_context": "At its core, origami involves the transformation of a flat sheet of paper into intricate ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mathematical principles guiding origami include symmetry, proportion, and geometry.",
+    "retrieved_context": "Symmetry is another key mathematical concept in origami. Symmetry refers to the balance and harmony ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Geometry is a fundamental mathematical concept in origami.",
+    "retrieved_context": "One of the fundamental mathematical concepts in origami is geometry. The study of shapes, angles, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Euclidean geometry is applied in origami to calculate angles and lengths of folds.",
+    "retrieved_context": "One of the fundamental mathematical concepts in origami is geometry. The study of shapes, angles, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Symmetry is a key mathematical concept in origami for creating visually appealing designs.",
+    "retrieved_context": "Symmetry is another key mathematical concept in origami. Symmetry refers to the balance and harmony ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Symmetrical folds and repetitions enhance the beauty and stability of origami models.",
+    "retrieved_context": "origami artists can create visually appealing and structurally sound models. The use of symmetry in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proportion and ratio are important mathematical principles in origami design.",
+    "retrieved_context": "such as geometry, symmetry, proportion, and ratio, origami artists and researchers can create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Origami principles have applications in engineering, architecture, and material science.",
+    "retrieved_context": "material science. Engineers and designers have used origami-inspired principles to develop ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Origami-inspired principles have been used to develop innovative structures like solar panels.",
+    "retrieved_context": "material science. Engineers and designers have used origami-inspired principles to develop ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Computational origami involves developing algorithms to simulate folding patterns.",
+    "retrieved_context": "contributions. The study of computational origami involves developing algorithms and software ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mathematics of origami has contributed to advancements in robotics and artificial intelligence.",
+    "retrieved_context": "been able to design advanced origami models and explore new possibilities in the field of robotics ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

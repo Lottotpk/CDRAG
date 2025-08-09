@@ -3,7 +3,8 @@ submit.sh
 setupCSE.sh
 note.txt
 data/raw
-data/naive_rag
+data/naive_rag/metadata.pt
+data/naive_rag/vector.pt
 output.txt
 RAKG
 

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Comedy provides entertainment to audiences.",
+    "retrieved_context": "One of the primary functions of comedy is to provide entertainment and laughter to audiences. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Laughter has health benefits like reducing stress.",
+    "retrieved_context": "Laughter is known to have numerous health benefits, including reducing stress, boosting the immune ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy helps people relax and escape daily pressures.",
+    "retrieved_context": "immune system, and improving overall well-being. Comedy allows people to relax and forget about ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy uplifts spirits and brings joy to people.",
+    "retrieved_context": "Through humor, comedians have the power to uplift spirits, challenge norms, and bring people ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy is a tool for social commentary and criticism.",
+    "retrieved_context": "Moreover, comedy serves as a powerful tool for social commentary and criticism. Comedians often use ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to challenge societal norms.",
+    "retrieved_context": "Through humor, comedians have the power to uplift spirits, challenge norms, and bring people ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy highlights absurdities and injustices in society.",
+    "retrieved_context": "Through humor, comedians have the power to uplift spirits, challenge norms, and bring people ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy fosters a sense of community and unity.",
+    "retrieved_context": "In addition, comedy has the unique ability to bring people together and foster a sense of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Shared laughter creates bonds among individuals.",
+    "retrieved_context": "and fosters genuine connection among people. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy events bring people together to connect through humor.",
+    "retrieved_context": "One of the primary functions of comedy is to provide entertainment and laughter to audiences. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy can promote change and challenge the status quo.",
+    "retrieved_context": "Furthermore, comedy can be a powerful tool for promoting change and challenging the status quo. By ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to inspire action and drive social progress.",
+    "retrieved_context": "Through humor, comedians have the power to uplift spirits, challenge norms, and bring people ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humor is subjective and can be offensive to some.",
+    "retrieved_context": "what one person finds funny, another may find offensive. Comedians must navigate the fine line ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians must balance pushing boundaries with respecting sensitivities.",
+    "retrieved_context": "what one person finds funny, another may find offensive. Comedians must navigate the fine line ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians must use humor responsibly and ethically.",
+    "retrieved_context": "power of their humor and strive to use it responsibly and ethically. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

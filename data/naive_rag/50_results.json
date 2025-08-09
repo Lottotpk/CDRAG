@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Autonomous vehicles are also known as self-driving cars.",
+    "retrieved_context": "Autonomous vehicles, also known as self-driving cars, have been a topic of great interest and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles have the potential to revolutionize transportation.",
+    "retrieved_context": "In conclusion, autonomous vehicles have the potential to revolutionize transportation by increasing ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles promise increased safety, efficiency, and convenience.",
+    "retrieved_context": "In addition to the safety benefits, autonomous vehicles also have the potential to greatly increase ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Significant progress has been made in the development of autonomous vehicles.",
+    "retrieved_context": "Despite these challenges, the future of autonomous vehicles looks promising. Many major automakers ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Experts believe autonomous vehicles will play a significant role in the future of transportation.",
+    "retrieved_context": "play a significant role in the future of transportation. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles can greatly reduce the number of accidents on the road.",
+    "retrieved_context": "In addition to the safety benefits, autonomous vehicles also have the potential to greatly increase ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles eliminate human error from the driving equation.",
+    "retrieved_context": "factor. Autonomous vehicles have the ability to eliminate human error from the driving equation, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles use sensors, cameras, and AI algorithms to monitor surroundings.",
+    "retrieved_context": "While autonomous vehicles are equipped with the technology needed to navigate and operate on their ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles can react to potential hazards faster than human drivers.",
+    "retrieved_context": "vehicles can constantly monitor their surroundings and react to potential hazards much faster than ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles can optimize traffic flow in real-time.",
+    "retrieved_context": "posed by autonomous vehicles while ensuring the safety of all road users. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles can reduce congestion and travel times.",
+    "retrieved_context": "In addition to the safety benefits, autonomous vehicles also have the potential to greatly increase ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles could lead to a decrease in the number of vehicles on the road.",
+    "retrieved_context": "stuck in traffic. Furthermore, autonomous vehicles could also lead to a decrease in the number of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles offer convenience by allowing passengers to relax or work during commutes.",
+    "retrieved_context": "In addition to the safety benefits, autonomous vehicles also have the potential to greatly increase ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles provide mobility options for those unable to drive.",
+    "retrieved_context": "posed by autonomous vehicles while ensuring the safety of all road users. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Challenges for autonomous vehicles include safety, regulations, and infrastructure.",
+    "retrieved_context": "Despite the many potential benefits of autonomous vehicles, there are still significant challenges ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

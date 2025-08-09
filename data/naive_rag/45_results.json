@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "changing tastes and values of society. From ancient civilizations to the modern era, fashion has ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "In addition to fashion and music, pop culture also influences global trends in technology. The ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "In ancient civilizations, such as Egypt, Greece, and Rome, clothing was not just a means of ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "and elite would often wear elaborate garments made from luxurious fabrics, adorned with intricate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "peasants wore humble clothing made from rougher materials. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "During the Middle Ages, fashion trends were heavily influenced by religion and social hierarchy. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "and royalty would wear garments made from expensive fabrics like silk and velvet, while peasants ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "peasants wore humble clothing made from rougher materials. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "The Renaissance period saw a resurgence of interest in art, culture, and fashion. The wealthy elite ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "in the fashion industry. Mass production techniques allowed for the creation of ready-to-wear ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "stores and fashion magazines further democratized fashion, as people could now follow the latest ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "political movements. The Roaring Twenties marked a shift towards more relaxed and liberating ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "cuts. The Great Depression of the 1930s led to a more conservative approach to fashion, with simple ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "to a resurgence of glamour and luxury in fashion. The 1950s saw the rise of iconic fashion figures ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "to a resurgence of glamour and luxury in fashion. The 1950s saw the rise of iconic fashion figures ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

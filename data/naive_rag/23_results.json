@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Astronaut is fascinated by space exploration.",
+    "retrieved_context": "space missions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut requires dedication, intelligence, and physical fitness.",
+    "retrieved_context": "but also challenging, requiring a high level of dedication, intelligence, and physical fitness. A ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut's day is filled with tasks like scientific experiments and maintenance work.",
+    "retrieved_context": "A typical day in the life of an astronaut is filled with a variety of tasks, ranging from ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut begins the day with a morning briefing with the crew.",
+    "retrieved_context": "The day of an astronaut usually begins early, as they are required to adhere to a strict schedule ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have breakfast together before starting daily work assignments.",
+    "retrieved_context": "After the morning briefing, the astronauts typically have breakfast together before starting their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts conduct scientific research or perform maintenance work.",
+    "retrieved_context": "their day conducting scientific research, while others may be tasked with performing maintenance ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts spend at least two hours daily exercising.",
+    "retrieved_context": "these effects. Astronauts typically spend at least two hours each day exercising, using specialized ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts use specialized equipment for exercise.",
+    "retrieved_context": "One of the most important aspects of an astronaut's daily routine is exercise. Living in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have daily chores like cleaning, meal preparation, and system checks.",
+    "retrieved_context": "A typical day in the life of an astronaut is filled with a variety of tasks, ranging from ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have scheduled breaks for meals and relaxation.",
+    "retrieved_context": "Throughout the day, astronauts have scheduled breaks for meals and relaxation, during which they ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts socialize with crewmates during breaks.",
+    "retrieved_context": "with astronauts from different countries living and working together in space. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have downtime for reading, watching movies, or gazing at Earth.",
+    "retrieved_context": "moment they drift off to sleep, astronauts are constantly engaged in a wide range of activities ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts wind down activities in the evening and prepare for bed.",
+    "retrieved_context": "As evening approaches, the astronauts begin to wind down their activities and prepare for bed. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have a final check-in with mission control before sleeping.",
+    "retrieved_context": "As evening approaches, the astronauts begin to wind down their activities and prepare for bed. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts sleep in quarters with sleeping bags attached to walls.",
+    "retrieved_context": "which are equipped with sleeping bags attached to the walls to prevent them from floating around in ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

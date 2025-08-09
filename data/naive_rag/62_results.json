@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music streaming services revolutionized music consumption.",
+    "retrieved_context": "```Music streaming services have revolutionized the way people consume music in the modern era. With ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Platforms like Spotify, Apple Music, and Pandora provide extensive song libraries.",
+    "retrieved_context": "can explore new artists and genres easily. Personalized playlists and recommendations algorithms ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Shift from physical music formats to online platforms due to streaming services.",
+    "retrieved_context": "music is distributed and consumed. In the past, physical music formats like CDs and vinyl records ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decline in physical music sales due to the rise of streaming services.",
+    "retrieved_context": "raised concerns about the sustainability of the music business model. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Streaming services offer opportunities for artists to reach a global audience.",
+    "retrieved_context": "further expanding the reach of artists and their music. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Streaming platforms democratize the music industry for independent artists.",
+    "retrieved_context": "Music streaming services have also democratized the music industry by providing a platform for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artists earn royalties based on the number of streams on music streaming services.",
+    "retrieved_context": "Additionally, music streaming services have changed the way artists are compensated for their work. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Critics argue that the current royalty system is unfair to lesser-known artists.",
+    "retrieved_context": "that the current royalty system is unfair to artists, especially those who are not well-known or ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Established artists benefit from streaming platforms as a new revenue stream.",
+    "retrieved_context": "providing them with a new revenue stream. Many artists have embraced streaming platforms as a way ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Streaming services provide valuable data and analytics for artists.",
+    "retrieved_context": "as a way to connect with fans and promote their music. Streaming services also offer valuable data ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listeners can easily discover new artists and genres through streaming services.",
+    "retrieved_context": "From a listener's perspective, music streaming services have transformed the way people discover ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Personalized playlists and recommendations enhance the music listening experience.",
+    "retrieved_context": "can explore new artists and genres easily. Personalized playlists and recommendations algorithms ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music streaming services have made music more accessible to a wider audience.",
+    "retrieved_context": "Furthermore, music streaming services have made music more accessible to a wider audience. Gone are ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listeners can stream individual tracks and create personalized playlists.",
+    "retrieved_context": "can explore new artists and genres easily. Personalized playlists and recommendations algorithms ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Challenges include concerns about the sustainability of the music business model.",
+    "retrieved_context": "raised concerns about the sustainability of the music business model. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

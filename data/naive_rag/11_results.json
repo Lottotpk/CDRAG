@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Language processing is a function of the human brain.",
+    "retrieved_context": "```Language processing is a fascinating and complex function of the human brain, involving multiple ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves multiple regions in the brain.",
+    "retrieved_context": "Several key brain regions are involved in language processing, each contributing to different ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves intricate neural pathways.",
+    "retrieved_context": "is a dynamic process that involves the activation of neural networks in the brain, which work ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Understanding and producing language is key for communication.",
+    "retrieved_context": "to understand and produce speech. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Researchers have made significant strides in understanding language processing.",
+    "retrieved_context": "intricate computations to make sense of language. Understanding how the brain processes language ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves stages like perception, comprehension, production, and acquisition.",
+    "retrieved_context": "The first stage of language processing is perception, which involves the recognition and decoding ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "retrieved_context": "The first stage of language processing is perception, which involves the recognition and decoding ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage begins in the auditory cortex for spoken language.",
+    "retrieved_context": "decoding of speech sounds or written symbols. This process begins in the auditory cortex for spoken ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension involves making sense of linguistic input and extracting meaning.",
+    "retrieved_context": "Comprehension is the next stage of language processing, where the brain makes sense of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension integrates phonological, syntactic, and semantic information.",
+    "retrieved_context": "of phonological, syntactic, and semantic information to understand the structure and content of a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage involves generating a response in spoken or written language.",
+    "retrieved_context": "where it generates a response in the form of spoken or written language. This process involves the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage activates motor areas in the frontal lobe.",
+    "retrieved_context": "the activation of motor areas in the frontal lobe, such as the Broca's area and the premotor ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language acquisition involves learning new words and grammatical rules.",
+    "retrieved_context": "Language acquisition is a lifelong process that involves learning new words, grammatical rules, and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Broca's area is crucial for language production and grammatical processing.",
+    "retrieved_context": "as the Wernicke's area, which is involved in the comprehension of language. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wernicke's area is responsible for language comprehension and semantic processing.",
+    "retrieved_context": "as the Wernicke's area, which is involved in the comprehension of language. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

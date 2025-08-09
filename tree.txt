@@ -1,0 +1,2725 @@
+.
+├── data
+│   ├── CDRAG
+│   │   ├── 100.json
+│   │   ├── 100_results.json
+│   │   ├── 101.json
+│   │   ├── 101_results.json
+│   │   ├── 102.json
+│   │   ├── 102_results.json
+│   │   ├── 103.json
+│   │   ├── 103_results.json
+│   │   ├── 104.json
+│   │   ├── 104_results.json
+│   │   ├── 105.json
+│   │   ├── 105_results.json
+│   │   ├── 10.json
+│   │   ├── 10_results.json
+│   │   ├── 11.json
+│   │   ├── 11_results.json
+│   │   ├── 12.json
+│   │   ├── 12_results.json
+│   │   ├── 13.json
+│   │   ├── 13_results.json
+│   │   ├── 14.json
+│   │   ├── 14_results.json
+│   │   ├── 15.json
+│   │   ├── 15_results.json
+│   │   ├── 16.json
+│   │   ├── 16_results.json
+│   │   ├── 17.json
+│   │   ├── 17_results.json
+│   │   ├── 18.json
+│   │   ├── 18_results.json
+│   │   ├── 19.json
+│   │   ├── 19_results.json
+│   │   ├── 1.json
+│   │   ├── 1_results.json
+│   │   ├── 20.json
+│   │   ├── 20_results.json
+│   │   ├── 21.json
+│   │   ├── 21_results.json
+│   │   ├── 22.json
+│   │   ├── 22_results.json
+│   │   ├── 23.json
+│   │   ├── 23_results.json
+│   │   ├── 24.json
+│   │   ├── 24_results.json
+│   │   ├── 25.json
+│   │   ├── 25_results.json
+│   │   ├── 26.json
+│   │   ├── 26_results.json
+│   │   ├── 27.json
+│   │   ├── 27_results.json
+│   │   ├── 28.json
+│   │   ├── 28_results.json
+│   │   ├── 29.json
+│   │   ├── 29_results.json
+│   │   ├── 2.json
+│   │   ├── 2_results.json
+│   │   ├── 30.json
+│   │   ├── 30_results.json
+│   │   ├── 31.json
+│   │   ├── 31_results.json
+│   │   ├── 32.json
+│   │   ├── 32_results.json
+│   │   ├── 33.json
+│   │   ├── 33_results.json
+│   │   ├── 34.json
+│   │   ├── 34_results.json
+│   │   ├── 35.json
+│   │   ├── 35_results.json
+│   │   ├── 36.json
+│   │   ├── 36_results.json
+│   │   ├── 37.json
+│   │   ├── 37_results.json
+│   │   ├── 38.json
+│   │   ├── 38_results.json
+│   │   ├── 39.json
+│   │   ├── 39_results.json
+│   │   ├── 3.json
+│   │   ├── 3_results.json
+│   │   ├── 40.json
+│   │   ├── 40_results.json
+│   │   ├── 41.json
+│   │   ├── 41_results.json
+│   │   ├── 42.json
+│   │   ├── 42_results.json
+│   │   ├── 43.json
+│   │   ├── 43_results.json
+│   │   ├── 44.json
+│   │   ├── 44_results.json
+│   │   ├── 45.json
+│   │   ├── 45_results.json
+│   │   ├── 46.json
+│   │   ├── 46_results.json
+│   │   ├── 47.json
+│   │   ├── 47_results.json
+│   │   ├── 48.json
+│   │   ├── 48_results.json
+│   │   ├── 49.json
+│   │   ├── 49_results.json
+│   │   ├── 4.json
+│   │   ├── 4_results.json
+│   │   ├── 50.json
+│   │   ├── 50_results.json
+│   │   ├── 51.json
+│   │   ├── 51_results.json
+│   │   ├── 52.json
+│   │   ├── 52_results.json
+│   │   ├── 53.json
+│   │   ├── 53_results.json
+│   │   ├── 54.json
+│   │   ├── 54_results.json
+│   │   ├── 55.json
+│   │   ├── 55_results.json
+│   │   ├── 56.json
+│   │   ├── 56_results.json
+│   │   ├── 57.json
+│   │   ├── 57_results.json
+│   │   ├── 58.json
+│   │   ├── 58_results.json
+│   │   ├── 59.json
+│   │   ├── 59_results.json
+│   │   ├── 5.json
+│   │   ├── 5_results.json
+│   │   ├── 60.json
+│   │   ├── 60_results.json
+│   │   ├── 61.json
+│   │   ├── 61_results.json
+│   │   ├── 62.json
+│   │   ├── 62_results.json
+│   │   ├── 63.json
+│   │   ├── 63_results.json
+│   │   ├── 64.json
+│   │   ├── 64_results.json
+│   │   ├── 65.json
+│   │   ├── 65_results.json
+│   │   ├── 66.json
+│   │   ├── 66_results.json
+│   │   ├── 67.json
+│   │   ├── 67_results.json
+│   │   ├── 68.json
+│   │   ├── 68_results.json
+│   │   ├── 69.json
+│   │   ├── 69_results.json
+│   │   ├── 6.json
+│   │   ├── 6_results.json
+│   │   ├── 70.json
+│   │   ├── 70_results.json
+│   │   ├── 71.json
+│   │   ├── 71_results.json
+│   │   ├── 72.json
+│   │   ├── 72_results.json
+│   │   ├── 73.json
+│   │   ├── 73_results.json
+│   │   ├── 74.json
+│   │   ├── 74_results.json
+│   │   ├── 75.json
+│   │   ├── 75_results.json
+│   │   ├── 76.json
+│   │   ├── 76_results.json
+│   │   ├── 77.json
+│   │   ├── 77_results.json
+│   │   ├── 78.json
+│   │   ├── 78_results.json
+│   │   ├── 79.json
+│   │   ├── 79_results.json
+│   │   ├── 7.json
+│   │   ├── 7_results.json
+│   │   ├── 80.json
+│   │   ├── 80_results.json
+│   │   ├── 81.json
+│   │   ├── 81_results.json
+│   │   ├── 82.json
+│   │   ├── 82_results.json
+│   │   ├── 83.json
+│   │   ├── 83_results.json
+│   │   ├── 84.json
+│   │   ├── 84_results.json
+│   │   ├── 85.json
+│   │   ├── 85_results.json
+│   │   ├── 86.json
+│   │   ├── 86_results.json
+│   │   ├── 87.json
+│   │   ├── 87_results.json
+│   │   ├── 88.json
+│   │   ├── 88_results.json
+│   │   ├── 89.json
+│   │   ├── 89_results.json
+│   │   ├── 8.json
+│   │   ├── 8_results.json
+│   │   ├── 90.json
+│   │   ├── 90_results.json
+│   │   ├── 91.json
+│   │   ├── 91_results.json
+│   │   ├── 92.json
+│   │   ├── 92_results.json
+│   │   ├── 93.json
+│   │   ├── 93_results.json
+│   │   ├── 94.json
+│   │   ├── 94_results.json
+│   │   ├── 95.json
+│   │   ├── 95_results.json
+│   │   ├── 96.json
+│   │   ├── 96_results.json
+│   │   ├── 97.json
+│   │   ├── 97_results.json
+│   │   ├── 98.json
+│   │   ├── 98_results.json
+│   │   ├── 99.json
+│   │   ├── 99_results.json
+│   │   ├── 9.json
+│   │   └── 9_results.json
+│   ├── KGs
+│   │   ├── 100.json
+│   │   ├── 100_results.json
+│   │   ├── 101.json
+│   │   ├── 101_results.json
+│   │   ├── 102.json
+│   │   ├── 102_results.json
+│   │   ├── 103.json
+│   │   ├── 103_results.json
+│   │   ├── 104.json
+│   │   ├── 104_results.json
+│   │   ├── 105.json
+│   │   ├── 105_results.json
+│   │   ├── 10.json
+│   │   ├── 10_results.json
+│   │   ├── 11.json
+│   │   ├── 11_results.json
+│   │   ├── 12.json
+│   │   ├── 12_results.json
+│   │   ├── 13.json
+│   │   ├── 13_results.json
+│   │   ├── 14.json
+│   │   ├── 14_results.json
+│   │   ├── 15.json
+│   │   ├── 15_results.json
+│   │   ├── 16.json
+│   │   ├── 16_results.json
+│   │   ├── 17.json
+│   │   ├── 17_results.json
+│   │   ├── 18.json
+│   │   ├── 18_results.json
+│   │   ├── 19.json
+│   │   ├── 19_results.json
+│   │   ├── 1.json
+│   │   ├── 1_results.json
+│   │   ├── 20.json
+│   │   ├── 20_results.json
+│   │   ├── 21.json
+│   │   ├── 21_results.json
+│   │   ├── 22.json
+│   │   ├── 22_results.json
+│   │   ├── 23.json
+│   │   ├── 23_results.json
+│   │   ├── 24.json
+│   │   ├── 24_results.json
+│   │   ├── 25.json
+│   │   ├── 25_results.json
+│   │   ├── 26.json
+│   │   ├── 26_results.json
+│   │   ├── 27.json
+│   │   ├── 27_results.json
+│   │   ├── 28.json
+│   │   ├── 28_results.json
+│   │   ├── 29.json
+│   │   ├── 29_results.json
+│   │   ├── 2.json
+│   │   ├── 2_results.json
+│   │   ├── 30.json
+│   │   ├── 30_results.json
+│   │   ├── 31.json
+│   │   ├── 31_results.json
+│   │   ├── 32.json
+│   │   ├── 32_results.json
+│   │   ├── 33.json
+│   │   ├── 33_results.json
+│   │   ├── 34.json
+│   │   ├── 34_results.json
+│   │   ├── 35.json
+│   │   ├── 35_results.json
+│   │   ├── 36.json
+│   │   ├── 36_results.json
+│   │   ├── 37.json
+│   │   ├── 37_results.json
+│   │   ├── 38.json
+│   │   ├── 38_results.json
+│   │   ├── 39.json
+│   │   ├── 39_results.json
+│   │   ├── 3.json
+│   │   ├── 3_results.json
+│   │   ├── 40.json
+│   │   ├── 40_results.json
+│   │   ├── 41.json
+│   │   ├── 41_results.json
+│   │   ├── 42.json
+│   │   ├── 42_results.json
+│   │   ├── 43.json
+│   │   ├── 43_results.json
+│   │   ├── 44.json
+│   │   ├── 44_results.json
+│   │   ├── 45.json
+│   │   ├── 45_results.json
+│   │   ├── 46.json
+│   │   ├── 46_results.json
+│   │   ├── 47.json
+│   │   ├── 47_results.json
+│   │   ├── 48.json
+│   │   ├── 48_results.json
+│   │   ├── 49.json
+│   │   ├── 49_results.json
+│   │   ├── 4.json
+│   │   ├── 4_results.json
+│   │   ├── 50.json
+│   │   ├── 50_results.json
+│   │   ├── 51.json
+│   │   ├── 51_results.json
+│   │   ├── 52.json
+│   │   ├── 52_results.json
+│   │   ├── 53.json
+│   │   ├── 53_results.json
+│   │   ├── 54.json
+│   │   ├── 54_results.json
+│   │   ├── 55.json
+│   │   ├── 55_results.json
+│   │   ├── 56.json
+│   │   ├── 56_results.json
+│   │   ├── 57.json
+│   │   ├── 57_results.json
+│   │   ├── 58.json
+│   │   ├── 58_results.json
+│   │   ├── 59.json
+│   │   ├── 59_results.json
+│   │   ├── 5.json
+│   │   ├── 5_results.json
+│   │   ├── 60.json
+│   │   ├── 60_results.json
+│   │   ├── 61.json
+│   │   ├── 61_results.json
+│   │   ├── 62.json
+│   │   ├── 62_results.json
+│   │   ├── 63.json
+│   │   ├── 63_results.json
+│   │   ├── 64.json
+│   │   ├── 64_results.json
+│   │   ├── 65.json
+│   │   ├── 65_results.json
+│   │   ├── 66.json
+│   │   ├── 66_results.json
+│   │   ├── 67.json
+│   │   ├── 67_results.json
+│   │   ├── 68.json
+│   │   ├── 68_results.json
+│   │   ├── 69.json
+│   │   ├── 69_results.json
+│   │   ├── 6.json
+│   │   ├── 6_results.json
+│   │   ├── 70.json
+│   │   ├── 70_results.json
+│   │   ├── 71.json
+│   │   ├── 71_results.json
+│   │   ├── 72.json
+│   │   ├── 72_results.json
+│   │   ├── 73.json
+│   │   ├── 73_results.json
+│   │   ├── 74.json
+│   │   ├── 74_results.json
+│   │   ├── 75.json
+│   │   ├── 75_results.json
+│   │   ├── 76.json
+│   │   ├── 76_results.json
+│   │   ├── 77.json
+│   │   ├── 77_results.json
+│   │   ├── 78.json
+│   │   ├── 78_results.json
+│   │   ├── 79.json
+│   │   ├── 79_results.json
+│   │   ├── 7.json
+│   │   ├── 7_results.json
+│   │   ├── 80.json
+│   │   ├── 80_results.json
+│   │   ├── 81.json
+│   │   ├── 81_results.json
+│   │   ├── 82.json
+│   │   ├── 82_results.json
+│   │   ├── 83.json
+│   │   ├── 83_results.json
+│   │   ├── 84.json
+│   │   ├── 84_results.json
+│   │   ├── 85.json
+│   │   ├── 85_results.json
+│   │   ├── 86.json
+│   │   ├── 86_results.json
+│   │   ├── 87.json
+│   │   ├── 87_results.json
+│   │   ├── 88.json
+│   │   ├── 88_results.json
+│   │   ├── 89.json
+│   │   ├── 89_results.json
+│   │   ├── 8.json
+│   │   ├── 8_results.json
+│   │   ├── 90.json
+│   │   ├── 90_results.json
+│   │   ├── 91.json
+│   │   ├── 91_results.json
+│   │   ├── 92.json
+│   │   ├── 92_results.json
+│   │   ├── 93.json
+│   │   ├── 93_results.json
+│   │   ├── 94.json
+│   │   ├── 94_results.json
+│   │   ├── 95.json
+│   │   ├── 95_results.json
+│   │   ├── 96.json
+│   │   ├── 96_results.json
+│   │   ├── 97.json
+│   │   ├── 97_results.json
+│   │   ├── 98.json
+│   │   ├── 98_results.json
+│   │   ├── 99.json
+│   │   ├── 99_results.json
+│   │   ├── 9.json
+│   │   └── 9_results.json
+│   ├── MINE.json
+│   └── naive_rag
+│       ├── 100_results.json
+│       ├── 101_results.json
+│       ├── 102_results.json
+│       ├── 103_results.json
+│       ├── 104_results.json
+│       ├── 105_results.json
+│       ├── 10_results.json
+│       ├── 11_results.json
+│       ├── 12_results.json
+│       ├── 13_results.json
+│       ├── 14_results.json
+│       ├── 15_results.json
+│       ├── 16_results.json
+│       ├── 17_results.json
+│       ├── 18_results.json
+│       ├── 19_results.json
+│       ├── 1_results.json
+│       ├── 20_results.json
+│       ├── 21_results.json
+│       ├── 22_results.json
+│       ├── 23_results.json
+│       ├── 24_results.json
+│       ├── 25_results.json
+│       ├── 26_results.json
+│       ├── 27_results.json
+│       ├── 28_results.json
+│       ├── 29_results.json
+│       ├── 2_results.json
+│       ├── 30_results.json
+│       ├── 31_results.json
+│       ├── 32_results.json
+│       ├── 33_results.json
+│       ├── 34_results.json
+│       ├── 35_results.json
+│       ├── 36_results.json
+│       ├── 37_results.json
+│       ├── 38_results.json
+│       ├── 39_results.json
+│       ├── 3_results.json
+│       ├── 40_results.json
+│       ├── 41_results.json
+│       ├── 42_results.json
+│       ├── 43_results.json
+│       ├── 44_results.json
+│       ├── 45_results.json
+│       ├── 46_results.json
+│       ├── 47_results.json
+│       ├── 48_results.json
+│       ├── 49_results.json
+│       ├── 4_results.json
+│       ├── 50_results.json
+│       ├── 51_results.json
+│       ├── 52_results.json
+│       ├── 53_results.json
+│       ├── 54_results.json
+│       ├── 55_results.json
+│       ├── 56_results.json
+│       ├── 57_results.json
+│       ├── 58_results.json
+│       ├── 59_results.json
+│       ├── 5_results.json
+│       ├── 60_results.json
+│       ├── 61_results.json
+│       ├── 62_results.json
+│       ├── 63_results.json
+│       ├── 64_results.json
+│       ├── 65_results.json
+│       ├── 66_results.json
+│       ├── 67_results.json
+│       ├── 68_results.json
+│       ├── 69_results.json
+│       ├── 6_results.json
+│       ├── 70_results.json
+│       ├── 71_results.json
+│       ├── 72_results.json
+│       ├── 73_results.json
+│       ├── 74_results.json
+│       ├── 75_results.json
+│       ├── 76_results.json
+│       ├── 77_results.json
+│       ├── 78_results.json
+│       ├── 79_results.json
+│       ├── 7_results.json
+│       ├── 80_results.json
+│       ├── 81_results.json
+│       ├── 82_results.json
+│       ├── 83_results.json
+│       ├── 84_results.json
+│       ├── 85_results.json
+│       ├── 86_results.json
+│       ├── 87_results.json
+│       ├── 88_results.json
+│       ├── 89_results.json
+│       ├── 8_results.json
+│       ├── 90_results.json
+│       ├── 91_results.json
+│       ├── 92_results.json
+│       ├── 93_results.json
+│       ├── 94_results.json
+│       ├── 95_results.json
+│       ├── 96_results.json
+│       ├── 97_results.json
+│       ├── 98_results.json
+│       ├── 99_results.json
+│       ├── 9_results.json
+│       ├── metadata.pt
+│       └── vector.pt
+├── LICENSE
+├── note.txt
+├── output.txt
+├── RAKG
+│   ├── data
+│   │   ├── graphrag
+│   │   │   ├── MINE_txt
+│   │   │   │   ├── 100.txt
+│   │   │   │   ├── 101.txt
+│   │   │   │   ├── 102.txt
+│   │   │   │   ├── 103.txt
+│   │   │   │   ├── 104.txt
+│   │   │   │   ├── 105.txt
+│   │   │   │   ├── 10.txt
+│   │   │   │   ├── 11.txt
+│   │   │   │   ├── 12.txt
+│   │   │   │   ├── 13.txt
+│   │   │   │   ├── 14.txt
+│   │   │   │   ├── 15.txt
+│   │   │   │   ├── 16.txt
+│   │   │   │   ├── 17.txt
+│   │   │   │   ├── 18.txt
+│   │   │   │   ├── 19.txt
+│   │   │   │   ├── 1.txt
+│   │   │   │   ├── 20.txt
+│   │   │   │   ├── 21.txt
+│   │   │   │   ├── 22.txt
+│   │   │   │   ├── 23.txt
+│   │   │   │   ├── 24.txt
+│   │   │   │   ├── 25.txt
+│   │   │   │   ├── 26.txt
+│   │   │   │   ├── 27.txt
+│   │   │   │   ├── 28.txt
+│   │   │   │   ├── 29.txt
+│   │   │   │   ├── 2.txt
+│   │   │   │   ├── 30.txt
+│   │   │   │   ├── 31.txt
+│   │   │   │   ├── 32.txt
+│   │   │   │   ├── 33.txt
+│   │   │   │   ├── 34.txt
+│   │   │   │   ├── 35.txt
+│   │   │   │   ├── 36.txt
+│   │   │   │   ├── 37.txt
+│   │   │   │   ├── 38.txt
+│   │   │   │   ├── 39.txt
+│   │   │   │   ├── 3.txt
+│   │   │   │   ├── 40.txt
+│   │   │   │   ├── 41.txt
+│   │   │   │   ├── 42.txt
+│   │   │   │   ├── 43.txt
+│   │   │   │   ├── 44.txt
+│   │   │   │   ├── 45.txt
+│   │   │   │   ├── 46.txt
+│   │   │   │   ├── 47.txt
+│   │   │   │   ├── 48.txt
+│   │   │   │   ├── 49.txt
+│   │   │   │   ├── 4.txt
+│   │   │   │   ├── 50.txt
+│   │   │   │   ├── 51.txt
+│   │   │   │   ├── 52.txt
+│   │   │   │   ├── 53.txt
+│   │   │   │   ├── 54.txt
+│   │   │   │   ├── 55.txt
+│   │   │   │   ├── 56.txt
+│   │   │   │   ├── 57.txt
+│   │   │   │   ├── 58.txt
+│   │   │   │   ├── 59.txt
+│   │   │   │   ├── 5.txt
+│   │   │   │   ├── 60.txt
+│   │   │   │   ├── 61.txt
+│   │   │   │   ├── 62.txt
+│   │   │   │   ├── 63.txt
+│   │   │   │   ├── 64.txt
+│   │   │   │   ├── 65.txt
+│   │   │   │   ├── 66.txt
+│   │   │   │   ├── 67.txt
+│   │   │   │   ├── 68.txt
+│   │   │   │   ├── 69.txt
+│   │   │   │   ├── 6.txt
+│   │   │   │   ├── 70.txt
+│   │   │   │   ├── 71.txt
+│   │   │   │   ├── 72.txt
+│   │   │   │   ├── 73.txt
+│   │   │   │   ├── 74.txt
+│   │   │   │   ├── 75.txt
+│   │   │   │   ├── 76.txt
+│   │   │   │   ├── 77.txt
+│   │   │   │   ├── 78.txt
+│   │   │   │   ├── 79.txt
+│   │   │   │   ├── 7.txt
+│   │   │   │   ├── 80.txt
+│   │   │   │   ├── 81.txt
+│   │   │   │   ├── 82.txt
+│   │   │   │   ├── 83.txt
+│   │   │   │   ├── 84.txt
+│   │   │   │   ├── 85.txt
+│   │   │   │   ├── 86.txt
+│   │   │   │   ├── 87.txt
+│   │   │   │   ├── 88.txt
+│   │   │   │   ├── 89.txt
+│   │   │   │   ├── 8.txt
+│   │   │   │   ├── 90.txt
+│   │   │   │   ├── 91.txt
+│   │   │   │   ├── 92.txt
+│   │   │   │   ├── 93.txt
+│   │   │   │   ├── 94.txt
+│   │   │   │   ├── 95.txt
+│   │   │   │   ├── 96.txt
+│   │   │   │   ├── 97.txt
+│   │   │   │   ├── 98.txt
+│   │   │   │   ├── 99.txt
+│   │   │   │   └── 9.txt
+│   │   │   ├── ragtest
+│   │   │   │   └── settings.yaml
+│   │   │   └── setup_ragtest.sh
+│   │   ├── processed
+│   │   │   ├── graphrag_graph
+│   │   │   │   ├── 100.json
+│   │   │   │   ├── 100_results.json
+│   │   │   │   ├── 101.json
+│   │   │   │   ├── 101_results.json
+│   │   │   │   ├── 102.json
+│   │   │   │   ├── 102_results.json
+│   │   │   │   ├── 103.json
+│   │   │   │   ├── 103_results.json
+│   │   │   │   ├── 104.json
+│   │   │   │   ├── 104_results.json
+│   │   │   │   ├── 105.json
+│   │   │   │   ├── 105_results.json
+│   │   │   │   ├── 10.json
+│   │   │   │   ├── 10_results.json
+│   │   │   │   ├── 11.json
+│   │   │   │   ├── 11_results.json
+│   │   │   │   ├── 12.json
+│   │   │   │   ├── 12_results.json
+│   │   │   │   ├── 13.json
+│   │   │   │   ├── 13_results.json
+│   │   │   │   ├── 14.json
+│   │   │   │   ├── 14_results.json
+│   │   │   │   ├── 15.json
+│   │   │   │   ├── 15_results.json
+│   │   │   │   ├── 16.json
+│   │   │   │   ├── 16_results.json
+│   │   │   │   ├── 17.json
+│   │   │   │   ├── 17_results.json
+│   │   │   │   ├── 18.json
+│   │   │   │   ├── 18_results.json
+│   │   │   │   ├── 19.json
+│   │   │   │   ├── 19_results.json
+│   │   │   │   ├── 1.json
+│   │   │   │   ├── 1_results.json
+│   │   │   │   ├── 20.json
+│   │   │   │   ├── 20_results.json
+│   │   │   │   ├── 21.json
+│   │   │   │   ├── 21_results.json
+│   │   │   │   ├── 22.json
+│   │   │   │   ├── 22_results.json
+│   │   │   │   ├── 23.json
+│   │   │   │   ├── 23_results.json
+│   │   │   │   ├── 24.json
+│   │   │   │   ├── 24_results.json
+│   │   │   │   ├── 25.json
+│   │   │   │   ├── 25_results.json
+│   │   │   │   ├── 26.json
+│   │   │   │   ├── 26_results.json
+│   │   │   │   ├── 27.json
+│   │   │   │   ├── 27_results.json
+│   │   │   │   ├── 28.json
+│   │   │   │   ├── 28_results.json
+│   │   │   │   ├── 29.json
+│   │   │   │   ├── 29_results.json
+│   │   │   │   ├── 2.json
+│   │   │   │   ├── 2_results.json
+│   │   │   │   ├── 30.json
+│   │   │   │   ├── 30_results.json
+│   │   │   │   ├── 31.json
+│   │   │   │   ├── 31_results.json
+│   │   │   │   ├── 32.json
+│   │   │   │   ├── 32_results.json
+│   │   │   │   ├── 33.json
+│   │   │   │   ├── 33_results.json
+│   │   │   │   ├── 34.json
+│   │   │   │   ├── 34_results.json
+│   │   │   │   ├── 35.json
+│   │   │   │   ├── 35_results.json
+│   │   │   │   ├── 36.json
+│   │   │   │   ├── 36_results.json
+│   │   │   │   ├── 37.json
+│   │   │   │   ├── 37_results.json
+│   │   │   │   ├── 38.json
+│   │   │   │   ├── 38_results.json
+│   │   │   │   ├── 39.json
+│   │   │   │   ├── 39_results.json
+│   │   │   │   ├── 3.json
+│   │   │   │   ├── 3_results.json
+│   │   │   │   ├── 40.json
+│   │   │   │   ├── 40_results.json
+│   │   │   │   ├── 41.json
+│   │   │   │   ├── 41_results.json
+│   │   │   │   ├── 42.json
+│   │   │   │   ├── 42_results.json
+│   │   │   │   ├── 43.json
+│   │   │   │   ├── 43_results.json
+│   │   │   │   ├── 44.json
+│   │   │   │   ├── 44_results.json
+│   │   │   │   ├── 45.json
+│   │   │   │   ├── 45_results.json
+│   │   │   │   ├── 46.json
+│   │   │   │   ├── 46_results.json
+│   │   │   │   ├── 47.json
+│   │   │   │   ├── 47_results.json
+│   │   │   │   ├── 48.json
+│   │   │   │   ├── 48_results.json
+│   │   │   │   ├── 49.json
+│   │   │   │   ├── 49_results.json
+│   │   │   │   ├── 4.json
+│   │   │   │   ├── 4_results.json
+│   │   │   │   ├── 50.json
+│   │   │   │   ├── 50_results.json
+│   │   │   │   ├── 51.json
+│   │   │   │   ├── 51_results.json
+│   │   │   │   ├── 52.json
+│   │   │   │   ├── 52_results.json
+│   │   │   │   ├── 53.json
+│   │   │   │   ├── 53_results.json
+│   │   │   │   ├── 54.json
+│   │   │   │   ├── 54_results.json
+│   │   │   │   ├── 55.json
+│   │   │   │   ├── 55_results.json
+│   │   │   │   ├── 56.json
+│   │   │   │   ├── 56_results.json
+│   │   │   │   ├── 57.json
+│   │   │   │   ├── 57_results.json
+│   │   │   │   ├── 58.json
+│   │   │   │   ├── 58_results.json
+│   │   │   │   ├── 59.json
+│   │   │   │   ├── 59_results.json
+│   │   │   │   ├── 5.json
+│   │   │   │   ├── 5_results.json
+│   │   │   │   ├── 60.json
+│   │   │   │   ├── 60_results.json
+│   │   │   │   ├── 61.json
+│   │   │   │   ├── 61_results.json
+│   │   │   │   ├── 62.json
+│   │   │   │   ├── 62_results.json
+│   │   │   │   ├── 63.json
+│   │   │   │   ├── 63_results.json
+│   │   │   │   ├── 64.json
+│   │   │   │   ├── 64_results.json
+│   │   │   │   ├── 65.json
+│   │   │   │   ├── 65_results.json
+│   │   │   │   ├── 66.json
+│   │   │   │   ├── 66_results.json
+│   │   │   │   ├── 67.json
+│   │   │   │   ├── 67_results.json
+│   │   │   │   ├── 68.json
+│   │   │   │   ├── 68_results.json
+│   │   │   │   ├── 69.json
+│   │   │   │   ├── 69_results.json
+│   │   │   │   ├── 6.json
+│   │   │   │   ├── 6_results.json
+│   │   │   │   ├── 70.json
+│   │   │   │   ├── 70_results.json
+│   │   │   │   ├── 71.json
+│   │   │   │   ├── 71_results.json
+│   │   │   │   ├── 72.json
+│   │   │   │   ├── 72_results.json
+│   │   │   │   ├── 73.json
+│   │   │   │   ├── 73_results.json
+│   │   │   │   ├── 74.json
+│   │   │   │   ├── 74_results.json
+│   │   │   │   ├── 75.json
+│   │   │   │   ├── 75_results.json
+│   │   │   │   ├── 76.json
+│   │   │   │   ├── 76_results.json
+│   │   │   │   ├── 77.json
+│   │   │   │   ├── 77_results.json
+│   │   │   │   ├── 78.json
+│   │   │   │   ├── 78_results.json
+│   │   │   │   ├── 79.json
+│   │   │   │   ├── 79_results.json
+│   │   │   │   ├── 7.json
+│   │   │   │   ├── 7_results.json
+│   │   │   │   ├── 80.json
+│   │   │   │   ├── 80_results.json
+│   │   │   │   ├── 81.json
+│   │   │   │   ├── 81_results.json
+│   │   │   │   ├── 82.json
+│   │   │   │   ├── 82_results.json
+│   │   │   │   ├── 83.json
+│   │   │   │   ├── 83_results.json
+│   │   │   │   ├── 84.json
+│   │   │   │   ├── 84_results.json
+│   │   │   │   ├── 85.json
+│   │   │   │   ├── 85_results.json
+│   │   │   │   ├── 86.json
+│   │   │   │   ├── 86_results.json
+│   │   │   │   ├── 87.json
+│   │   │   │   ├── 87_results.json
+│   │   │   │   ├── 88.json
+│   │   │   │   ├── 88_results.json
+│   │   │   │   ├── 89.json
+│   │   │   │   ├── 89_results.json
+│   │   │   │   ├── 8.json
+│   │   │   │   ├── 8_results.json
+│   │   │   │   ├── 90.json
+│   │   │   │   ├── 90_results.json
+│   │   │   │   ├── 91.json
+│   │   │   │   ├── 91_results.json
+│   │   │   │   ├── 92.json
+│   │   │   │   ├── 92_results.json
+│   │   │   │   ├── 93.json
+│   │   │   │   ├── 93_results.json
+│   │   │   │   ├── 94.json
+│   │   │   │   ├── 94_results.json
+│   │   │   │   ├── 95.json
+│   │   │   │   ├── 95_results.json
+│   │   │   │   ├── 96.json
+│   │   │   │   ├── 96_results.json
+│   │   │   │   ├── 97.json
+│   │   │   │   ├── 97_results.json
+│   │   │   │   ├── 98.json
+│   │   │   │   ├── 98_results.json
+│   │   │   │   ├── 99.json
+│   │   │   │   ├── 99_results.json
+│   │   │   │   ├── 9.json
+│   │   │   │   └── 9_results.json
+│   │   │   ├── idealKG
+│   │   │   │   ├── kg_100.json
+│   │   │   │   ├── kg_101.json
+│   │   │   │   ├── kg_102.json
+│   │   │   │   ├── kg_103.json
+│   │   │   │   ├── kg_104.json
+│   │   │   │   ├── kg_105.json
+│   │   │   │   ├── kg_10.json
+│   │   │   │   ├── kg_11.json
+│   │   │   │   ├── kg_12.json
+│   │   │   │   ├── kg_13.json
+│   │   │   │   ├── kg_14.json
+│   │   │   │   ├── kg_15.json
+│   │   │   │   ├── kg_16.json
+│   │   │   │   ├── kg_17.json
+│   │   │   │   ├── kg_18.json
+│   │   │   │   ├── kg_19.json
+│   │   │   │   ├── kg_1.json
+│   │   │   │   ├── kg_20.json
+│   │   │   │   ├── kg_21.json
+│   │   │   │   ├── kg_22.json
+│   │   │   │   ├── kg_23.json
+│   │   │   │   ├── kg_24.json
+│   │   │   │   ├── kg_25.json
+│   │   │   │   ├── kg_26.json
+│   │   │   │   ├── kg_27.json
+│   │   │   │   ├── kg_28.json
+│   │   │   │   ├── kg_29.json
+│   │   │   │   ├── kg_2.json
+│   │   │   │   ├── kg_30.json
+│   │   │   │   ├── kg_31.json
+│   │   │   │   ├── kg_32.json
+│   │   │   │   ├── kg_33.json
+│   │   │   │   ├── kg_34.json
+│   │   │   │   ├── kg_35.json
+│   │   │   │   ├── kg_36.json
+│   │   │   │   ├── kg_37.json
+│   │   │   │   ├── kg_38.json
+│   │   │   │   ├── kg_39.json
+│   │   │   │   ├── kg_3.json
+│   │   │   │   ├── kg_40.json
+│   │   │   │   ├── kg_41.json
+│   │   │   │   ├── kg_42.json
+│   │   │   │   ├── kg_43.json
+│   │   │   │   ├── kg_44.json
+│   │   │   │   ├── kg_45.json
+│   │   │   │   ├── kg_46.json
+│   │   │   │   ├── kg_47.json
+│   │   │   │   ├── kg_48.json
+│   │   │   │   ├── kg_49.json
+│   │   │   │   ├── kg_4.json
+│   │   │   │   ├── kg_50.json
+│   │   │   │   ├── kg_51.json
+│   │   │   │   ├── kg_52.json
+│   │   │   │   ├── kg_53.json
+│   │   │   │   ├── kg_54.json
+│   │   │   │   ├── kg_55.json
+│   │   │   │   ├── kg_56.json
+│   │   │   │   ├── kg_57.json
+│   │   │   │   ├── kg_58.json
+│   │   │   │   ├── kg_59.json
+│   │   │   │   ├── kg_5.json
+│   │   │   │   ├── kg_60.json
+│   │   │   │   ├── kg_61.json
+│   │   │   │   ├── kg_62.json
+│   │   │   │   ├── kg_63.json
+│   │   │   │   ├── kg_64.json
+│   │   │   │   ├── kg_65.json
+│   │   │   │   ├── kg_66.json
+│   │   │   │   ├── kg_67.json
+│   │   │   │   ├── kg_68.json
+│   │   │   │   ├── kg_69.json
+│   │   │   │   ├── kg_6.json
+│   │   │   │   ├── kg_70.json
+│   │   │   │   ├── kg_71.json
+│   │   │   │   ├── kg_72.json
+│   │   │   │   ├── kg_73.json
+│   │   │   │   ├── kg_74.json
+│   │   │   │   ├── kg_75.json
+│   │   │   │   ├── kg_76.json
+│   │   │   │   ├── kg_77.json
+│   │   │   │   ├── kg_78.json
+│   │   │   │   ├── kg_79.json
+│   │   │   │   ├── kg_7.json
+│   │   │   │   ├── kg_80.json
+│   │   │   │   ├── kg_81.json
+│   │   │   │   ├── kg_82.json
+│   │   │   │   ├── kg_83.json
+│   │   │   │   ├── kg_84.json
+│   │   │   │   ├── kg_85.json
+│   │   │   │   ├── kg_86.json
+│   │   │   │   ├── kg_87.json
+│   │   │   │   ├── kg_88.json
+│   │   │   │   ├── kg_89.json
+│   │   │   │   ├── kg_8.json
+│   │   │   │   ├── kg_90.json
+│   │   │   │   ├── kg_91.json
+│   │   │   │   ├── kg_92.json
+│   │   │   │   ├── kg_93.json
+│   │   │   │   ├── kg_94.json
+│   │   │   │   ├── kg_95.json
+│   │   │   │   ├── kg_96.json
+│   │   │   │   ├── kg_97.json
+│   │   │   │   ├── kg_98.json
+│   │   │   │   ├── kg_99.json
+│   │   │   │   └── kg_9.json
+│   │   │   ├── kggen_graph
+│   │   │   │   ├── 100.json
+│   │   │   │   ├── 100_results.json
+│   │   │   │   ├── 100_trans.json
+│   │   │   │   ├── 100.txt
+│   │   │   │   ├── 101.json
+│   │   │   │   ├── 101_results.json
+│   │   │   │   ├── 101_trans.json
+│   │   │   │   ├── 101.txt
+│   │   │   │   ├── 102.json
+│   │   │   │   ├── 102_results.json
+│   │   │   │   ├── 102_trans.json
+│   │   │   │   ├── 102.txt
+│   │   │   │   ├── 103.json
+│   │   │   │   ├── 103_results.json
+│   │   │   │   ├── 103_trans.json
+│   │   │   │   ├── 103.txt
+│   │   │   │   ├── 104.json
+│   │   │   │   ├── 104_results.json
+│   │   │   │   ├── 104_trans.json
+│   │   │   │   ├── 104.txt
+│   │   │   │   ├── 105.json
+│   │   │   │   ├── 105_results.json
+│   │   │   │   ├── 105_trans.json
+│   │   │   │   ├── 105.txt
+│   │   │   │   ├── 10.json
+│   │   │   │   ├── 10_results.json
+│   │   │   │   ├── 10_trans.json
+│   │   │   │   ├── 10.txt
+│   │   │   │   ├── 11.json
+│   │   │   │   ├── 11_results.json
+│   │   │   │   ├── 11_trans.json
+│   │   │   │   ├── 11.txt
+│   │   │   │   ├── 12.json
+│   │   │   │   ├── 12_results.json
+│   │   │   │   ├── 12_trans.json
+│   │   │   │   ├── 12.txt
+│   │   │   │   ├── 13.json
+│   │   │   │   ├── 13_results.json
+│   │   │   │   ├── 13_trans.json
+│   │   │   │   ├── 13.txt
+│   │   │   │   ├── 14.json
+│   │   │   │   ├── 14_results.json
+│   │   │   │   ├── 14_trans.json
+│   │   │   │   ├── 14.txt
+│   │   │   │   ├── 15.json
+│   │   │   │   ├── 15_results.json
+│   │   │   │   ├── 15_trans.json
+│   │   │   │   ├── 15.txt
+│   │   │   │   ├── 16.json
+│   │   │   │   ├── 16_results.json
+│   │   │   │   ├── 16_trans.json
+│   │   │   │   ├── 16.txt
+│   │   │   │   ├── 17.json
+│   │   │   │   ├── 17_results.json
+│   │   │   │   ├── 17_trans.json
+│   │   │   │   ├── 17.txt
+│   │   │   │   ├── 18.json
+│   │   │   │   ├── 18_results.json
+│   │   │   │   ├── 18_trans.json
+│   │   │   │   ├── 18.txt
+│   │   │   │   ├── 19.json
+│   │   │   │   ├── 19_results.json
+│   │   │   │   ├── 19_trans.json
+│   │   │   │   ├── 19.txt
+│   │   │   │   ├── 1.json
+│   │   │   │   ├── 1_results.json
+│   │   │   │   ├── 1_trans.json
+│   │   │   │   ├── 1.txt
+│   │   │   │   ├── 20.json
+│   │   │   │   ├── 20_results.json
+│   │   │   │   ├── 20_trans.json
+│   │   │   │   ├── 20.txt
+│   │   │   │   ├── 21.json
+│   │   │   │   ├── 21_results.json
+│   │   │   │   ├── 21_trans.json
+│   │   │   │   ├── 21.txt
+│   │   │   │   ├── 22.json
+│   │   │   │   ├── 22_results.json
+│   │   │   │   ├── 22_trans.json
+│   │   │   │   ├── 22.txt
+│   │   │   │   ├── 23.json
+│   │   │   │   ├── 23_results.json
+│   │   │   │   ├── 23_trans.json
+│   │   │   │   ├── 23.txt
+│   │   │   │   ├── 24.json
+│   │   │   │   ├── 24_results.json
+│   │   │   │   ├── 24_trans.json
+│   │   │   │   ├── 24.txt
+│   │   │   │   ├── 25.json
+│   │   │   │   ├── 25_results.json
+│   │   │   │   ├── 25_trans.json
+│   │   │   │   ├── 25.txt
+│   │   │   │   ├── 26.json
+│   │   │   │   ├── 26_results.json
+│   │   │   │   ├── 26_trans.json
+│   │   │   │   ├── 26.txt
+│   │   │   │   ├── 27.json
+│   │   │   │   ├── 27_results.json
+│   │   │   │   ├── 27_trans.json
+│   │   │   │   ├── 27.txt
+│   │   │   │   ├── 28.json
+│   │   │   │   ├── 28_results.json
+│   │   │   │   ├── 28_trans.json
+│   │   │   │   ├── 28.txt
+│   │   │   │   ├── 29.json
+│   │   │   │   ├── 29_results.json
+│   │   │   │   ├── 29_trans.json
+│   │   │   │   ├── 29.txt
+│   │   │   │   ├── 2.json
+│   │   │   │   ├── 2_results.json
+│   │   │   │   ├── 2_trans.json
+│   │   │   │   ├── 2.txt
+│   │   │   │   ├── 30.json
+│   │   │   │   ├── 30_results.json
+│   │   │   │   ├── 30_trans.json
+│   │   │   │   ├── 30.txt
+│   │   │   │   ├── 31.json
+│   │   │   │   ├── 31_results.json
+│   │   │   │   ├── 31_trans.json
+│   │   │   │   ├── 31.txt
+│   │   │   │   ├── 32.json
+│   │   │   │   ├── 32_results.json
+│   │   │   │   ├── 32_trans.json
+│   │   │   │   ├── 32.txt
+│   │   │   │   ├── 33.json
+│   │   │   │   ├── 33_results.json
+│   │   │   │   ├── 33_trans.json
+│   │   │   │   ├── 33.txt
+│   │   │   │   ├── 34.json
+│   │   │   │   ├── 34_results.json
+│   │   │   │   ├── 34_trans.json
+│   │   │   │   ├── 34.txt
+│   │   │   │   ├── 35.json
+│   │   │   │   ├── 35_results.json
+│   │   │   │   ├── 35_trans.json
+│   │   │   │   ├── 35.txt
+│   │   │   │   ├── 36.json
+│   │   │   │   ├── 36_results.json
+│   │   │   │   ├── 36_trans.json
+│   │   │   │   ├── 36.txt
+│   │   │   │   ├── 37.json
+│   │   │   │   ├── 37_results.json
+│   │   │   │   ├── 37_trans.json
+│   │   │   │   ├── 37.txt
+│   │   │   │   ├── 38.json
+│   │   │   │   ├── 38_results.json
+│   │   │   │   ├── 38_trans.json
+│   │   │   │   ├── 38.txt
+│   │   │   │   ├── 39.json
+│   │   │   │   ├── 39_results.json
+│   │   │   │   ├── 39_trans.json
+│   │   │   │   ├── 39.txt
+│   │   │   │   ├── 3.json
+│   │   │   │   ├── 3_results.json
+│   │   │   │   ├── 3_trans.json
+│   │   │   │   ├── 3.txt
+│   │   │   │   ├── 40.json
+│   │   │   │   ├── 40_results.json
+│   │   │   │   ├── 40_trans.json
+│   │   │   │   ├── 40.txt
+│   │   │   │   ├── 41.json
+│   │   │   │   ├── 41_results.json
+│   │   │   │   ├── 41_trans.json
+│   │   │   │   ├── 41.txt
+│   │   │   │   ├── 42.json
+│   │   │   │   ├── 42_results.json
+│   │   │   │   ├── 42_trans.json
+│   │   │   │   ├── 42.txt
+│   │   │   │   ├── 43.json
+│   │   │   │   ├── 43_results.json
+│   │   │   │   ├── 43_trans.json
+│   │   │   │   ├── 43.txt
+│   │   │   │   ├── 44.json
+│   │   │   │   ├── 44_results.json
+│   │   │   │   ├── 44_trans.json
+│   │   │   │   ├── 44.txt
+│   │   │   │   ├── 45.json
+│   │   │   │   ├── 45_results.json
+│   │   │   │   ├── 45_trans.json
+│   │   │   │   ├── 45.txt
+│   │   │   │   ├── 46.json
+│   │   │   │   ├── 46_results.json
+│   │   │   │   ├── 46_trans.json
+│   │   │   │   ├── 46.txt
+│   │   │   │   ├── 47.json
+│   │   │   │   ├── 47_results.json
+│   │   │   │   ├── 47_trans.json
+│   │   │   │   ├── 47.txt
+│   │   │   │   ├── 48.json
+│   │   │   │   ├── 48_results.json
+│   │   │   │   ├── 48_trans.json
+│   │   │   │   ├── 48.txt
+│   │   │   │   ├── 49.json
+│   │   │   │   ├── 49_results.json
+│   │   │   │   ├── 49_trans.json
+│   │   │   │   ├── 49.txt
+│   │   │   │   ├── 4.json
+│   │   │   │   ├── 4_results.json
+│   │   │   │   ├── 4_trans.json
+│   │   │   │   ├── 4.txt
+│   │   │   │   ├── 50.json
+│   │   │   │   ├── 50_results.json
+│   │   │   │   ├── 50_trans.json
+│   │   │   │   ├── 50.txt
+│   │   │   │   ├── 51.json
+│   │   │   │   ├── 51_results.json
+│   │   │   │   ├── 51_trans.json
+│   │   │   │   ├── 51.txt
+│   │   │   │   ├── 52.json
+│   │   │   │   ├── 52_results.json
+│   │   │   │   ├── 52_trans.json
+│   │   │   │   ├── 52.txt
+│   │   │   │   ├── 53.json
+│   │   │   │   ├── 53_results.json
+│   │   │   │   ├── 53_trans.json
+│   │   │   │   ├── 53.txt
+│   │   │   │   ├── 54.json
+│   │   │   │   ├── 54_results.json
+│   │   │   │   ├── 54_trans.json
+│   │   │   │   ├── 54.txt
+│   │   │   │   ├── 55.json
+│   │   │   │   ├── 55_results.json
+│   │   │   │   ├── 55_trans.json
+│   │   │   │   ├── 55.txt
+│   │   │   │   ├── 56.json
+│   │   │   │   ├── 56_results.json
+│   │   │   │   ├── 56_trans.json
+│   │   │   │   ├── 56.txt
+│   │   │   │   ├── 57.json
+│   │   │   │   ├── 57_results.json
+│   │   │   │   ├── 57_trans.json
+│   │   │   │   ├── 57.txt
+│   │   │   │   ├── 58.json
+│   │   │   │   ├── 58_results.json
+│   │   │   │   ├── 58_trans.json
+│   │   │   │   ├── 58.txt
+│   │   │   │   ├── 59.json
+│   │   │   │   ├── 59_results.json
+│   │   │   │   ├── 59_trans.json
+│   │   │   │   ├── 59.txt
+│   │   │   │   ├── 5.json
+│   │   │   │   ├── 5_results.json
+│   │   │   │   ├── 5_trans.json
+│   │   │   │   ├── 5.txt
+│   │   │   │   ├── 60.json
+│   │   │   │   ├── 60_results.json
+│   │   │   │   ├── 60_trans.json
+│   │   │   │   ├── 60.txt
+│   │   │   │   ├── 61.json
+│   │   │   │   ├── 61_results.json
+│   │   │   │   ├── 61_trans.json
+│   │   │   │   ├── 61.txt
+│   │   │   │   ├── 62.json
+│   │   │   │   ├── 62_results.json
+│   │   │   │   ├── 62_trans.json
+│   │   │   │   ├── 62.txt
+│   │   │   │   ├── 63.json
+│   │   │   │   ├── 63_results.json
+│   │   │   │   ├── 63_trans.json
+│   │   │   │   ├── 63.txt
+│   │   │   │   ├── 64.json
+│   │   │   │   ├── 64_results.json
+│   │   │   │   ├── 64_trans.json
+│   │   │   │   ├── 64.txt
+│   │   │   │   ├── 65.json
+│   │   │   │   ├── 65_results.json
+│   │   │   │   ├── 65_trans.json
+│   │   │   │   ├── 65.txt
+│   │   │   │   ├── 66.json
+│   │   │   │   ├── 66_results.json
+│   │   │   │   ├── 66_trans.json
+│   │   │   │   ├── 66.txt
+│   │   │   │   ├── 67.json
+│   │   │   │   ├── 67_results.json
+│   │   │   │   ├── 67_trans.json
+│   │   │   │   ├── 67.txt
+│   │   │   │   ├── 68.json
+│   │   │   │   ├── 68_results.json
+│   │   │   │   ├── 68_trans.json
+│   │   │   │   ├── 68.txt
+│   │   │   │   ├── 69.json
+│   │   │   │   ├── 69_results.json
+│   │   │   │   ├── 69_trans.json
+│   │   │   │   ├── 69.txt
+│   │   │   │   ├── 6.json
+│   │   │   │   ├── 6_results.json
+│   │   │   │   ├── 6_trans.json
+│   │   │   │   ├── 6.txt
+│   │   │   │   ├── 70.json
+│   │   │   │   ├── 70_results.json
+│   │   │   │   ├── 70_trans.json
+│   │   │   │   ├── 70.txt
+│   │   │   │   ├── 71.json
+│   │   │   │   ├── 71_results.json
+│   │   │   │   ├── 71_trans.json
+│   │   │   │   ├── 71.txt
+│   │   │   │   ├── 72.json
+│   │   │   │   ├── 72_results.json
+│   │   │   │   ├── 72_trans.json
+│   │   │   │   ├── 72.txt
+│   │   │   │   ├── 73.json
+│   │   │   │   ├── 73_results.json
+│   │   │   │   ├── 73_trans.json
+│   │   │   │   ├── 73.txt
+│   │   │   │   ├── 74.json
+│   │   │   │   ├── 74_results.json
+│   │   │   │   ├── 74_trans.json
+│   │   │   │   ├── 74.txt
+│   │   │   │   ├── 75.json
+│   │   │   │   ├── 75_results.json
+│   │   │   │   ├── 75_trans.json
+│   │   │   │   ├── 75.txt
+│   │   │   │   ├── 76.json
+│   │   │   │   ├── 76_results.json
+│   │   │   │   ├── 76_trans.json
+│   │   │   │   ├── 76.txt
+│   │   │   │   ├── 77.json
+│   │   │   │   ├── 77_results.json
+│   │   │   │   ├── 77_trans.json
+│   │   │   │   ├── 77.txt
+│   │   │   │   ├── 78.json
+│   │   │   │   ├── 78_results.json
+│   │   │   │   ├── 78_trans.json
+│   │   │   │   ├── 78.txt
+│   │   │   │   ├── 79.json
+│   │   │   │   ├── 79_results.json
+│   │   │   │   ├── 79_trans.json
+│   │   │   │   ├── 79.txt
+│   │   │   │   ├── 7.json
+│   │   │   │   ├── 7_results.json
+│   │   │   │   ├── 7_trans.json
+│   │   │   │   ├── 7.txt
+│   │   │   │   ├── 80.json
+│   │   │   │   ├── 80_results.json
+│   │   │   │   ├── 80_trans.json
+│   │   │   │   ├── 80.txt
+│   │   │   │   ├── 81.json
+│   │   │   │   ├── 81_results.json
+│   │   │   │   ├── 81_trans.json
+│   │   │   │   ├── 81.txt
+│   │   │   │   ├── 82.json
+│   │   │   │   ├── 82_results.json
+│   │   │   │   ├── 82_trans.json
+│   │   │   │   ├── 82.txt
+│   │   │   │   ├── 83.json
+│   │   │   │   ├── 83_results.json
+│   │   │   │   ├── 83_trans.json
+│   │   │   │   ├── 83.txt
+│   │   │   │   ├── 84.json
+│   │   │   │   ├── 84_results.json
+│   │   │   │   ├── 84_trans.json
+│   │   │   │   ├── 84.txt
+│   │   │   │   ├── 85.json
+│   │   │   │   ├── 85_results.json
+│   │   │   │   ├── 85_trans.json
+│   │   │   │   ├── 85.txt
+│   │   │   │   ├── 86.json
+│   │   │   │   ├── 86_results.json
+│   │   │   │   ├── 86_trans.json
+│   │   │   │   ├── 86.txt
+│   │   │   │   ├── 87.json
+│   │   │   │   ├── 87_results.json
+│   │   │   │   ├── 87_trans.json
+│   │   │   │   ├── 87.txt
+│   │   │   │   ├── 88.json
+│   │   │   │   ├── 88_results.json
+│   │   │   │   ├── 88_trans.json
+│   │   │   │   ├── 88.txt
+│   │   │   │   ├── 89.json
+│   │   │   │   ├── 89_results.json
+│   │   │   │   ├── 89_trans.json
+│   │   │   │   ├── 89.txt
+│   │   │   │   ├── 8.json
+│   │   │   │   ├── 8_results.json
+│   │   │   │   ├── 8_trans.json
+│   │   │   │   ├── 8.txt
+│   │   │   │   ├── 90.json
+│   │   │   │   ├── 90_results.json
+│   │   │   │   ├── 90_trans.json
+│   │   │   │   ├── 90.txt
+│   │   │   │   ├── 91.json
+│   │   │   │   ├── 91_results.json
+│   │   │   │   ├── 91_trans.json
+│   │   │   │   ├── 91.txt
+│   │   │   │   ├── 92.json
+│   │   │   │   ├── 92_results.json
+│   │   │   │   ├── 92_trans.json
+│   │   │   │   ├── 92.txt
+│   │   │   │   ├── 93.json
+│   │   │   │   ├── 93_results.json
+│   │   │   │   ├── 93_trans.json
+│   │   │   │   ├── 93.txt
+│   │   │   │   ├── 94.json
+│   │   │   │   ├── 94_results.json
+│   │   │   │   ├── 94_trans.json
+│   │   │   │   ├── 94.txt
+│   │   │   │   ├── 95.json
+│   │   │   │   ├── 95_results.json
+│   │   │   │   ├── 95_trans.json
+│   │   │   │   ├── 95.txt
+│   │   │   │   ├── 96.json
+│   │   │   │   ├── 96_results.json
+│   │   │   │   ├── 96_trans.json
+│   │   │   │   ├── 96.txt
+│   │   │   │   ├── 97.json
+│   │   │   │   ├── 97_results.json
+│   │   │   │   ├── 97_trans.json
+│   │   │   │   ├── 97.txt
+│   │   │   │   ├── 98.json
+│   │   │   │   ├── 98_results.json
+│   │   │   │   ├── 98_trans.json
+│   │   │   │   ├── 98.txt
+│   │   │   │   ├── 99.json
+│   │   │   │   ├── 99_results.json
+│   │   │   │   ├── 99_trans.json
+│   │   │   │   ├── 99.txt
+│   │   │   │   ├── 9.json
+│   │   │   │   ├── 9_results.json
+│   │   │   │   ├── 9_trans.json
+│   │   │   │   └── 9.txt
+│   │   │   ├── llmasjudge
+│   │   │   │   ├── ner_data
+│   │   │   │   │   ├── output_text_ner_100.jsonl
+│   │   │   │   │   ├── output_text_ner_101.jsonl
+│   │   │   │   │   ├── output_text_ner_102.jsonl
+│   │   │   │   │   ├── output_text_ner_103.jsonl
+│   │   │   │   │   ├── output_text_ner_104.jsonl
+│   │   │   │   │   ├── output_text_ner_105.jsonl
+│   │   │   │   │   ├── output_text_ner_10.jsonl
+│   │   │   │   │   ├── output_text_ner_11.jsonl
+│   │   │   │   │   ├── output_text_ner_12.jsonl
+│   │   │   │   │   ├── output_text_ner_13.jsonl
+│   │   │   │   │   ├── output_text_ner_14.jsonl
+│   │   │   │   │   ├── output_text_ner_15.jsonl
+│   │   │   │   │   ├── output_text_ner_16.jsonl
+│   │   │   │   │   ├── output_text_ner_17.jsonl
+│   │   │   │   │   ├── output_text_ner_18.jsonl
+│   │   │   │   │   ├── output_text_ner_19.jsonl
+│   │   │   │   │   ├── output_text_ner_1.jsonl
+│   │   │   │   │   ├── output_text_ner_20.jsonl
+│   │   │   │   │   ├── output_text_ner_21.jsonl
+│   │   │   │   │   ├── output_text_ner_22.jsonl
+│   │   │   │   │   ├── output_text_ner_23.jsonl
+│   │   │   │   │   ├── output_text_ner_24.jsonl
+│   │   │   │   │   ├── output_text_ner_25.jsonl
+│   │   │   │   │   ├── output_text_ner_26.jsonl
+│   │   │   │   │   ├── output_text_ner_27.jsonl
+│   │   │   │   │   ├── output_text_ner_28.jsonl
+│   │   │   │   │   ├── output_text_ner_29.jsonl
+│   │   │   │   │   ├── output_text_ner_2.jsonl
+│   │   │   │   │   ├── output_text_ner_30.jsonl
+│   │   │   │   │   ├── output_text_ner_31.jsonl
+│   │   │   │   │   ├── output_text_ner_32.jsonl
+│   │   │   │   │   ├── output_text_ner_33.jsonl
+│   │   │   │   │   ├── output_text_ner_34.jsonl
+│   │   │   │   │   ├── output_text_ner_35.jsonl
+│   │   │   │   │   ├── output_text_ner_36.jsonl
+│   │   │   │   │   ├── output_text_ner_37.jsonl
+│   │   │   │   │   ├── output_text_ner_38.jsonl
+│   │   │   │   │   ├── output_text_ner_39.jsonl
+│   │   │   │   │   ├── output_text_ner_3.jsonl
+│   │   │   │   │   ├── output_text_ner_40.jsonl
+│   │   │   │   │   ├── output_text_ner_41.jsonl
+│   │   │   │   │   ├── output_text_ner_42.jsonl
+│   │   │   │   │   ├── output_text_ner_43.jsonl
+│   │   │   │   │   ├── output_text_ner_44.jsonl
+│   │   │   │   │   ├── output_text_ner_45.jsonl
+│   │   │   │   │   ├── output_text_ner_46.jsonl
+│   │   │   │   │   ├── output_text_ner_47.jsonl
+│   │   │   │   │   ├── output_text_ner_48.jsonl
+│   │   │   │   │   ├── output_text_ner_49.jsonl
+│   │   │   │   │   ├── output_text_ner_4.jsonl
+│   │   │   │   │   ├── output_text_ner_50.jsonl
+│   │   │   │   │   ├── output_text_ner_51.jsonl
+│   │   │   │   │   ├── output_text_ner_52.jsonl
+│   │   │   │   │   ├── output_text_ner_53.jsonl
+│   │   │   │   │   ├── output_text_ner_54.jsonl
+│   │   │   │   │   ├── output_text_ner_55.jsonl
+│   │   │   │   │   ├── output_text_ner_56.jsonl
+│   │   │   │   │   ├── output_text_ner_57.jsonl
+│   │   │   │   │   ├── output_text_ner_58.jsonl
+│   │   │   │   │   ├── output_text_ner_59.jsonl
+│   │   │   │   │   ├── output_text_ner_5.jsonl
+│   │   │   │   │   ├── output_text_ner_60.jsonl
+│   │   │   │   │   ├── output_text_ner_61.jsonl
+│   │   │   │   │   ├── output_text_ner_62.jsonl
+│   │   │   │   │   ├── output_text_ner_63.jsonl
+│   │   │   │   │   ├── output_text_ner_64.jsonl
+│   │   │   │   │   ├── output_text_ner_65.jsonl
+│   │   │   │   │   ├── output_text_ner_66.jsonl
+│   │   │   │   │   ├── output_text_ner_67.jsonl
+│   │   │   │   │   ├── output_text_ner_68.jsonl
+│   │   │   │   │   ├── output_text_ner_69.jsonl
+│   │   │   │   │   ├── output_text_ner_6.jsonl
+│   │   │   │   │   ├── output_text_ner_70.jsonl
+│   │   │   │   │   ├── output_text_ner_71.jsonl
+│   │   │   │   │   ├── output_text_ner_72.jsonl
+│   │   │   │   │   ├── output_text_ner_73.jsonl
+│   │   │   │   │   ├── output_text_ner_74.jsonl
+│   │   │   │   │   ├── output_text_ner_75.jsonl
+│   │   │   │   │   ├── output_text_ner_76.jsonl
+│   │   │   │   │   ├── output_text_ner_77.jsonl
+│   │   │   │   │   ├── output_text_ner_78.jsonl
+│   │   │   │   │   ├── output_text_ner_79.jsonl
+│   │   │   │   │   ├── output_text_ner_7.jsonl
+│   │   │   │   │   ├── output_text_ner_80.jsonl
+│   │   │   │   │   ├── output_text_ner_81.jsonl
+│   │   │   │   │   ├── output_text_ner_82.jsonl
+│   │   │   │   │   ├── output_text_ner_83.jsonl
+│   │   │   │   │   ├── output_text_ner_84.jsonl
+│   │   │   │   │   ├── output_text_ner_85.jsonl
+│   │   │   │   │   ├── output_text_ner_86.jsonl
+│   │   │   │   │   ├── output_text_ner_87.jsonl
+│   │   │   │   │   ├── output_text_ner_88.jsonl
+│   │   │   │   │   ├── output_text_ner_89.jsonl
+│   │   │   │   │   ├── output_text_ner_8.jsonl
+│   │   │   │   │   ├── output_text_ner_90.jsonl
+│   │   │   │   │   ├── output_text_ner_91.jsonl
+│   │   │   │   │   ├── output_text_ner_92.jsonl
+│   │   │   │   │   ├── output_text_ner_93.jsonl
+│   │   │   │   │   ├── output_text_ner_94.jsonl
+│   │   │   │   │   ├── output_text_ner_95.jsonl
+│   │   │   │   │   ├── output_text_ner_96.jsonl
+│   │   │   │   │   ├── output_text_ner_97.jsonl
+│   │   │   │   │   ├── output_text_ner_98.jsonl
+│   │   │   │   │   ├── output_text_ner_99.jsonl
+│   │   │   │   │   └── output_text_ner_9.jsonl
+│   │   │   │   ├── ner_results
+│   │   │   │   │   ├── evaluation_results_ner_100.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_101.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_102.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_103.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_104.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_105.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_10.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_11.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_12.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_13.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_14.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_15.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_16.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_17.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_18.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_19.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_1.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_20.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_21.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_22.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_23.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_24.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_25\ copy.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_25.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_26.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_27.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_28.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_29.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_2.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_30.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_31.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_32.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_33.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_34.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_35.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_36.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_37.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_38.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_39.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_3.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_40.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_41.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_42.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_43.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_44.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_45.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_46.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_47.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_48.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_49.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_4.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_50.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_51.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_52.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_53.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_54.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_55.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_56.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_57.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_58.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_59.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_5.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_60.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_61.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_62.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_63.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_64.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_65.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_66.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_67.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_68.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_69.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_6.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_70.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_71.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_72.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_73.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_74.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_75.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_76.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_77.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_78.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_79.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_7.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_80.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_81.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_82.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_83.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_84.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_85.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_86.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_87.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_88.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_89.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_8.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_90.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_91.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_92.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_93.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_94.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_95.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_96.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_97.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_98.jsonl
+│   │   │   │   │   ├── evaluation_results_ner_99.jsonl
+│   │   │   │   │   └── evaluation_results_ner_9.jsonl
+│   │   │   │   ├── rel_data
+│   │   │   │   │   ├── output_kg_100.jsonl
+│   │   │   │   │   ├── output_kg_101.jsonl
+│   │   │   │   │   ├── output_kg_102.jsonl
+│   │   │   │   │   ├── output_kg_103.jsonl
+│   │   │   │   │   ├── output_kg_104.jsonl
+│   │   │   │   │   ├── output_kg_105.jsonl
+│   │   │   │   │   ├── output_kg_10.jsonl
+│   │   │   │   │   ├── output_kg_11.jsonl
+│   │   │   │   │   ├── output_kg_12.jsonl
+│   │   │   │   │   ├── output_kg_13.jsonl
+│   │   │   │   │   ├── output_kg_14.jsonl
+│   │   │   │   │   ├── output_kg_15.jsonl
+│   │   │   │   │   ├── output_kg_16.jsonl
+│   │   │   │   │   ├── output_kg_17.jsonl
+│   │   │   │   │   ├── output_kg_18.jsonl
+│   │   │   │   │   ├── output_kg_19.jsonl
+│   │   │   │   │   ├── output_kg_1.jsonl
+│   │   │   │   │   ├── output_kg_20.jsonl
+│   │   │   │   │   ├── output_kg_21.jsonl
+│   │   │   │   │   ├── output_kg_22.jsonl
+│   │   │   │   │   ├── output_kg_23.jsonl
+│   │   │   │   │   ├── output_kg_24.jsonl
+│   │   │   │   │   ├── output_kg_25.jsonl
+│   │   │   │   │   ├── output_kg_26.jsonl
+│   │   │   │   │   ├── output_kg_27.jsonl
+│   │   │   │   │   ├── output_kg_28.jsonl
+│   │   │   │   │   ├── output_kg_29.jsonl
+│   │   │   │   │   ├── output_kg_2.jsonl
+│   │   │   │   │   ├── output_kg_30.jsonl
+│   │   │   │   │   ├── output_kg_31.jsonl
+│   │   │   │   │   ├── output_kg_32.jsonl
+│   │   │   │   │   ├── output_kg_33.jsonl
+│   │   │   │   │   ├── output_kg_34.jsonl
+│   │   │   │   │   ├── output_kg_35.jsonl
+│   │   │   │   │   ├── output_kg_36.jsonl
+│   │   │   │   │   ├── output_kg_37.jsonl
+│   │   │   │   │   ├── output_kg_38.jsonl
+│   │   │   │   │   ├── output_kg_39.jsonl
+│   │   │   │   │   ├── output_kg_3.jsonl
+│   │   │   │   │   ├── output_kg_40.jsonl
+│   │   │   │   │   ├── output_kg_41.jsonl
+│   │   │   │   │   ├── output_kg_42.jsonl
+│   │   │   │   │   ├── output_kg_43.jsonl
+│   │   │   │   │   ├── output_kg_44.jsonl
+│   │   │   │   │   ├── output_kg_45.jsonl
+│   │   │   │   │   ├── output_kg_46.jsonl
+│   │   │   │   │   ├── output_kg_47.jsonl
+│   │   │   │   │   ├── output_kg_48.jsonl
+│   │   │   │   │   ├── output_kg_49.jsonl
+│   │   │   │   │   ├── output_kg_4.jsonl
+│   │   │   │   │   ├── output_kg_50.jsonl
+│   │   │   │   │   ├── output_kg_51.jsonl
+│   │   │   │   │   ├── output_kg_52.jsonl
+│   │   │   │   │   ├── output_kg_53.jsonl
+│   │   │   │   │   ├── output_kg_54.jsonl
+│   │   │   │   │   ├── output_kg_55.jsonl
+│   │   │   │   │   ├── output_kg_56.jsonl
+│   │   │   │   │   ├── output_kg_57.jsonl
+│   │   │   │   │   ├── output_kg_58.jsonl
+│   │   │   │   │   ├── output_kg_59.jsonl
+│   │   │   │   │   ├── output_kg_5.jsonl
+│   │   │   │   │   ├── output_kg_60.jsonl
+│   │   │   │   │   ├── output_kg_61.jsonl
+│   │   │   │   │   ├── output_kg_62.jsonl
+│   │   │   │   │   ├── output_kg_63.jsonl
+│   │   │   │   │   ├── output_kg_64.jsonl
+│   │   │   │   │   ├── output_kg_65.jsonl
+│   │   │   │   │   ├── output_kg_66.jsonl
+│   │   │   │   │   ├── output_kg_67.jsonl
+│   │   │   │   │   ├── output_kg_68.jsonl
+│   │   │   │   │   ├── output_kg_69.jsonl
+│   │   │   │   │   ├── output_kg_6.jsonl
+│   │   │   │   │   ├── output_kg_70.jsonl
+│   │   │   │   │   ├── output_kg_71.jsonl
+│   │   │   │   │   ├── output_kg_72.jsonl
+│   │   │   │   │   ├── output_kg_73.jsonl
+│   │   │   │   │   ├── output_kg_74.jsonl
+│   │   │   │   │   ├── output_kg_75.jsonl
+│   │   │   │   │   ├── output_kg_76.jsonl
+│   │   │   │   │   ├── output_kg_77.jsonl
+│   │   │   │   │   ├── output_kg_78.jsonl
+│   │   │   │   │   ├── output_kg_79.jsonl
+│   │   │   │   │   ├── output_kg_7.jsonl
+│   │   │   │   │   ├── output_kg_80.jsonl
+│   │   │   │   │   ├── output_kg_81.jsonl
+│   │   │   │   │   ├── output_kg_82.jsonl
+│   │   │   │   │   ├── output_kg_83.jsonl
+│   │   │   │   │   ├── output_kg_84.jsonl
+│   │   │   │   │   ├── output_kg_85.jsonl
+│   │   │   │   │   ├── output_kg_86.jsonl
+│   │   │   │   │   ├── output_kg_87.jsonl
+│   │   │   │   │   ├── output_kg_88.jsonl
+│   │   │   │   │   ├── output_kg_89.jsonl
+│   │   │   │   │   ├── output_kg_8.jsonl
+│   │   │   │   │   ├── output_kg_90.jsonl
+│   │   │   │   │   ├── output_kg_91.jsonl
+│   │   │   │   │   ├── output_kg_92.jsonl
+│   │   │   │   │   ├── output_kg_93.jsonl
+│   │   │   │   │   ├── output_kg_94.jsonl
+│   │   │   │   │   ├── output_kg_95.jsonl
+│   │   │   │   │   ├── output_kg_96.jsonl
+│   │   │   │   │   ├── output_kg_97.jsonl
+│   │   │   │   │   ├── output_kg_98.jsonl
+│   │   │   │   │   ├── output_kg_99.jsonl
+│   │   │   │   │   └── output_kg_9.jsonl
+│   │   │   │   └── rel_results
+│   │   │   │       ├── evaluation_results_kg_100_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_101_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_102_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_10_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_11_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_12_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_13_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_14_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_15_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_16_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_17_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_18_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_19_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_1_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_20_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_21_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_22_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_23_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_24_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_25_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_26_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_27_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_28_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_29_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_2_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_30_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_31_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_32_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_33_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_34_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_35_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_36_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_37_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_38_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_39_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_3_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_40_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_41_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_42_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_43_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_44_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_45_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_46_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_47_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_48_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_49_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_4_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_50_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_51_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_52_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_53_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_54_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_55_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_56_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_57_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_58_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_59_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_5_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_60_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_61_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_62_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_63_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_64_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_65_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_66_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_67_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_68_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_69_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_6_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_70_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_71_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_72_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_73_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_74_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_75_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_76_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_77_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_78_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_79_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_7_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_80_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_81_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_82_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_83_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_84_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_85_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_86_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_87_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_88_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_89_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_8_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_90_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_91_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_92_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_93_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_94_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_95_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_96_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_97_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_98_intern.jsonl
+│   │   │   │       ├── evaluation_results_kg_99_intern.jsonl
+│   │   │   │       └── evaluation_results_kg_9_intern.jsonl
+│   │   │   ├── RAKG_graph_v1
+│   │   │   │   ├── 100_entities.json
+│   │   │   │   ├── 100.json
+│   │   │   │   ├── 100_ner.json
+│   │   │   │   ├── 100_results.json
+│   │   │   │   ├── 101_entities.json
+│   │   │   │   ├── 101.json
+│   │   │   │   ├── 101_ner.json
+│   │   │   │   ├── 101_results.json
+│   │   │   │   ├── 102_entities.json
+│   │   │   │   ├── 102.json
+│   │   │   │   ├── 102_ner.json
+│   │   │   │   ├── 102_results.json
+│   │   │   │   ├── 103_entities.json
+│   │   │   │   ├── 103.json
+│   │   │   │   ├── 103_ner.json
+│   │   │   │   ├── 103_results.json
+│   │   │   │   ├── 104_entities.json
+│   │   │   │   ├── 104.json
+│   │   │   │   ├── 104_ner.json
+│   │   │   │   ├── 104_results.json
+│   │   │   │   ├── 105_entities.json
+│   │   │   │   ├── 105.json
+│   │   │   │   ├── 105_ner.json
+│   │   │   │   ├── 105_results.json
+│   │   │   │   ├── 10_entities.json
+│   │   │   │   ├── 10.json
+│   │   │   │   ├── 10_ner.json
+│   │   │   │   ├── 10_results.json
+│   │   │   │   ├── 11_entities.json
+│   │   │   │   ├── 11.json
+│   │   │   │   ├── 11_ner.json
+│   │   │   │   ├── 11_results.json
+│   │   │   │   ├── 12_entities.json
+│   │   │   │   ├── 12.json
+│   │   │   │   ├── 12_ner.json
+│   │   │   │   ├── 12_results.json
+│   │   │   │   ├── 13_entities.json
+│   │   │   │   ├── 13.json
+│   │   │   │   ├── 13_ner.json
+│   │   │   │   ├── 13_results.json
+│   │   │   │   ├── 14_entities.json
+│   │   │   │   ├── 14.json
+│   │   │   │   ├── 14_ner.json
+│   │   │   │   ├── 14_results.json
+│   │   │   │   ├── 15_entities.json
+│   │   │   │   ├── 15.json
+│   │   │   │   ├── 15_ner.json
+│   │   │   │   ├── 15_results.json
+│   │   │   │   ├── 16_entities.json
+│   │   │   │   ├── 16.json
+│   │   │   │   ├── 16_ner.json
+│   │   │   │   ├── 16_results.json
+│   │   │   │   ├── 17_entities.json
+│   │   │   │   ├── 17.json
+│   │   │   │   ├── 17_ner.json
+│   │   │   │   ├── 17_results.json
+│   │   │   │   ├── 18_entities.json
+│   │   │   │   ├── 18.json
+│   │   │   │   ├── 18_ner.json
+│   │   │   │   ├── 18_results.json
+│   │   │   │   ├── 19_entities.json
+│   │   │   │   ├── 19.json
+│   │   │   │   ├── 19_ner.json
+│   │   │   │   ├── 19_results.json
+│   │   │   │   ├── 1_entities.json
+│   │   │   │   ├── 1.json
+│   │   │   │   ├── 1_ner.json
+│   │   │   │   ├── 1_results.json
+│   │   │   │   ├── 20_entities.json
+│   │   │   │   ├── 20.json
+│   │   │   │   ├── 20_ner.json
+│   │   │   │   ├── 20_results.json
+│   │   │   │   ├── 21_entities.json
+│   │   │   │   ├── 21.json
+│   │   │   │   ├── 21_ner.json
+│   │   │   │   ├── 21_results.json
+│   │   │   │   ├── 22_entities.json
+│   │   │   │   ├── 22.json
+│   │   │   │   ├── 22_ner.json
+│   │   │   │   ├── 22_results.json
+│   │   │   │   ├── 23_entities.json
+│   │   │   │   ├── 23.json
+│   │   │   │   ├── 23_ner.json
+│   │   │   │   ├── 23_results.json
+│   │   │   │   ├── 24_entities.json
+│   │   │   │   ├── 24.json
+│   │   │   │   ├── 24_ner.json
+│   │   │   │   ├── 24_results.json
+│   │   │   │   ├── 25_entities.json
+│   │   │   │   ├── 25.json
+│   │   │   │   ├── 25_ner.json
+│   │   │   │   ├── 25_results.json
+│   │   │   │   ├── 26_entities.json
+│   │   │   │   ├── 26.json
+│   │   │   │   ├── 26_ner.json
+│   │   │   │   ├── 26_results.json
+│   │   │   │   ├── 27_entities.json
+│   │   │   │   ├── 27.json
+│   │   │   │   ├── 27_ner.json
+│   │   │   │   ├── 27_results.json
+│   │   │   │   ├── 28_entities.json
+│   │   │   │   ├── 28.json
+│   │   │   │   ├── 28_ner.json
+│   │   │   │   ├── 28_results.json
+│   │   │   │   ├── 29_entities.json
+│   │   │   │   ├── 29.json
+│   │   │   │   ├── 29_ner.json
+│   │   │   │   ├── 29_results.json
+│   │   │   │   ├── 2_entities.json
+│   │   │   │   ├── 2.json
+│   │   │   │   ├── 2_ner.json
+│   │   │   │   ├── 2_results.json
+│   │   │   │   ├── 30_entities.json
+│   │   │   │   ├── 30.json
+│   │   │   │   ├── 30_ner.json
+│   │   │   │   ├── 30_results.json
+│   │   │   │   ├── 31_entities.json
+│   │   │   │   ├── 31.json
+│   │   │   │   ├── 31_ner.json
+│   │   │   │   ├── 31_results.json
+│   │   │   │   ├── 32_entities.json
+│   │   │   │   ├── 32.json
+│   │   │   │   ├── 32_ner.json
+│   │   │   │   ├── 32_results.json
+│   │   │   │   ├── 33_entities.json
+│   │   │   │   ├── 33.json
+│   │   │   │   ├── 33_ner.json
+│   │   │   │   ├── 33_results.json
+│   │   │   │   ├── 34_entities.json
+│   │   │   │   ├── 34.json
+│   │   │   │   ├── 34_ner.json
+│   │   │   │   ├── 34_results.json
+│   │   │   │   ├── 35_entities.json
+│   │   │   │   ├── 35.json
+│   │   │   │   ├── 35_ner.json
+│   │   │   │   ├── 35_results.json
+│   │   │   │   ├── 36_entities.json
+│   │   │   │   ├── 36.json
+│   │   │   │   ├── 36_ner.json
+│   │   │   │   ├── 36_results.json
+│   │   │   │   ├── 37_entities.json
+│   │   │   │   ├── 37.json
+│   │   │   │   ├── 37_ner.json
+│   │   │   │   ├── 37_results.json
+│   │   │   │   ├── 38_entities.json
+│   │   │   │   ├── 38.json
+│   │   │   │   ├── 38_ner.json
+│   │   │   │   ├── 38_results.json
+│   │   │   │   ├── 39_entities.json
+│   │   │   │   ├── 39.json
+│   │   │   │   ├── 39_ner.json
+│   │   │   │   ├── 39_results.json
+│   │   │   │   ├── 3_entities.json
+│   │   │   │   ├── 3.json
+│   │   │   │   ├── 3_ner.json
+│   │   │   │   ├── 3_results.json
+│   │   │   │   ├── 40_entities.json
+│   │   │   │   ├── 40.json
+│   │   │   │   ├── 40_ner.json
+│   │   │   │   ├── 40_results.json
+│   │   │   │   ├── 41_entities.json
+│   │   │   │   ├── 41.json
+│   │   │   │   ├── 41_ner.json
+│   │   │   │   ├── 41_results.json
+│   │   │   │   ├── 42_entities.json
+│   │   │   │   ├── 42.json
+│   │   │   │   ├── 42_ner.json
+│   │   │   │   ├── 42_results.json
+│   │   │   │   ├── 43_entities.json
+│   │   │   │   ├── 43.json
+│   │   │   │   ├── 43_ner.json
+│   │   │   │   ├── 43_results.json
+│   │   │   │   ├── 44_entities.json
+│   │   │   │   ├── 44.json
+│   │   │   │   ├── 44_ner.json
+│   │   │   │   ├── 44_results.json
+│   │   │   │   ├── 45_entities.json
+│   │   │   │   ├── 45.json
+│   │   │   │   ├── 45_ner.json
+│   │   │   │   ├── 45_results.json
+│   │   │   │   ├── 46_entities.json
+│   │   │   │   ├── 46.json
+│   │   │   │   ├── 46_ner.json
+│   │   │   │   ├── 46_results.json
+│   │   │   │   ├── 47_entities.json
+│   │   │   │   ├── 47.json
+│   │   │   │   ├── 47_ner.json
+│   │   │   │   ├── 47_results.json
+│   │   │   │   ├── 48_entities.json
+│   │   │   │   ├── 48.json
+│   │   │   │   ├── 48_ner.json
+│   │   │   │   ├── 48_results.json
+│   │   │   │   ├── 49_entities.json
+│   │   │   │   ├── 49.json
+│   │   │   │   ├── 49_ner.json
+│   │   │   │   ├── 49_results.json
+│   │   │   │   ├── 4_entities.json
+│   │   │   │   ├── 4.json
+│   │   │   │   ├── 4_ner.json
+│   │   │   │   ├── 4_results.json
+│   │   │   │   ├── 50_entities.json
+│   │   │   │   ├── 50.json
+│   │   │   │   ├── 50_ner.json
+│   │   │   │   ├── 50_results.json
+│   │   │   │   ├── 51_entities.json
+│   │   │   │   ├── 51.json
+│   │   │   │   ├── 51_ner.json
+│   │   │   │   ├── 51_results.json
+│   │   │   │   ├── 52_entities.json
+│   │   │   │   ├── 52.json
+│   │   │   │   ├── 52_ner.json
+│   │   │   │   ├── 52_results.json
+│   │   │   │   ├── 53_entities.json
+│   │   │   │   ├── 53.json
+│   │   │   │   ├── 53_ner.json
+│   │   │   │   ├── 53_results.json
+│   │   │   │   ├── 54_entities.json
+│   │   │   │   ├── 54.json
+│   │   │   │   ├── 54_ner.json
+│   │   │   │   ├── 54_results.json
+│   │   │   │   ├── 55_entities.json
+│   │   │   │   ├── 55.json
+│   │   │   │   ├── 55_ner.json
+│   │   │   │   ├── 55_results.json
+│   │   │   │   ├── 56_entities.json
+│   │   │   │   ├── 56.json
+│   │   │   │   ├── 56_ner.json
+│   │   │   │   ├── 56_results.json
+│   │   │   │   ├── 57_entities.json
+│   │   │   │   ├── 57.json
+│   │   │   │   ├── 57_ner.json
+│   │   │   │   ├── 57_results.json
+│   │   │   │   ├── 58_entities.json
+│   │   │   │   ├── 58.json
+│   │   │   │   ├── 58_ner.json
+│   │   │   │   ├── 58_results.json
+│   │   │   │   ├── 59_entities.json
+│   │   │   │   ├── 59.json
+│   │   │   │   ├── 59_ner.json
+│   │   │   │   ├── 59_results.json
+│   │   │   │   ├── 5_entities.json
+│   │   │   │   ├── 5.json
+│   │   │   │   ├── 5_ner.json
+│   │   │   │   ├── 5_results.json
+│   │   │   │   ├── 60_entities.json
+│   │   │   │   ├── 60.json
+│   │   │   │   ├── 60_ner.json
+│   │   │   │   ├── 60_results.json
+│   │   │   │   ├── 61_entities.json
+│   │   │   │   ├── 61.json
+│   │   │   │   ├── 61_ner.json
+│   │   │   │   ├── 61_results.json
+│   │   │   │   ├── 62_entities.json
+│   │   │   │   ├── 62.json
+│   │   │   │   ├── 62_ner.json
+│   │   │   │   ├── 62_results.json
+│   │   │   │   ├── 63_entities.json
+│   │   │   │   ├── 63.json
+│   │   │   │   ├── 63_ner.json
+│   │   │   │   ├── 63_results.json
+│   │   │   │   ├── 64_entities.json
+│   │   │   │   ├── 64.json
+│   │   │   │   ├── 64_ner.json
+│   │   │   │   ├── 64_results.json
+│   │   │   │   ├── 65_entities.json
+│   │   │   │   ├── 65.json
+│   │   │   │   ├── 65_ner.json
+│   │   │   │   ├── 65_results.json
+│   │   │   │   ├── 66_entities.json
+│   │   │   │   ├── 66.json
+│   │   │   │   ├── 66_ner.json
+│   │   │   │   ├── 66_results.json
+│   │   │   │   ├── 67_entities.json
+│   │   │   │   ├── 67.json
+│   │   │   │   ├── 67_ner.json
+│   │   │   │   ├── 67_results.json
+│   │   │   │   ├── 68_entities.json
+│   │   │   │   ├── 68.json
+│   │   │   │   ├── 68_ner.json
+│   │   │   │   ├── 68_results.json
+│   │   │   │   ├── 69_entities.json
+│   │   │   │   ├── 69.json
+│   │   │   │   ├── 69_ner.json
+│   │   │   │   ├── 69_results.json
+│   │   │   │   ├── 6_entities.json
+│   │   │   │   ├── 6.json
+│   │   │   │   ├── 6_ner.json
+│   │   │   │   ├── 6_results.json
+│   │   │   │   ├── 70_entities.json
+│   │   │   │   ├── 70.json
+│   │   │   │   ├── 70_ner.json
+│   │   │   │   ├── 70_results.json
+│   │   │   │   ├── 71_entities.json
+│   │   │   │   ├── 71.json
+│   │   │   │   ├── 71_ner.json
+│   │   │   │   ├── 71_results.json
+│   │   │   │   ├── 72_entities.json
+│   │   │   │   ├── 72.json
+│   │   │   │   ├── 72_ner.json
+│   │   │   │   ├── 72_results.json
+│   │   │   │   ├── 73_entities.json
+│   │   │   │   ├── 73.json
+│   │   │   │   ├── 73_ner.json
+│   │   │   │   ├── 73_results.json
+│   │   │   │   ├── 74_entities.json
+│   │   │   │   ├── 74.json
+│   │   │   │   ├── 74_ner.json
+│   │   │   │   ├── 74_results.json
+│   │   │   │   ├── 75_entities.json
+│   │   │   │   ├── 75.json
+│   │   │   │   ├── 75_ner.json
+│   │   │   │   ├── 75_results.json
+│   │   │   │   ├── 76_entities.json
+│   │   │   │   ├── 76.json
+│   │   │   │   ├── 76_ner.json
+│   │   │   │   ├── 76_results.json
+│   │   │   │   ├── 77_entities.json
+│   │   │   │   ├── 77.json
+│   │   │   │   ├── 77_ner.json
+│   │   │   │   ├── 77_results.json
+│   │   │   │   ├── 78_entities.json
+│   │   │   │   ├── 78.json
+│   │   │   │   ├── 78_ner.json
+│   │   │   │   ├── 78_results.json
+│   │   │   │   ├── 79_entities.json
+│   │   │   │   ├── 79.json
+│   │   │   │   ├── 79_ner.json
+│   │   │   │   ├── 79_results.json
+│   │   │   │   ├── 7_entities.json
+│   │   │   │   ├── 7.json
+│   │   │   │   ├── 7_ner.json
+│   │   │   │   ├── 7_results.json
+│   │   │   │   ├── 80_entities.json
+│   │   │   │   ├── 80.json
+│   │   │   │   ├── 80_ner.json
+│   │   │   │   ├── 80_results.json
+│   │   │   │   ├── 81_entities.json
+│   │   │   │   ├── 81.json
+│   │   │   │   ├── 81_ner.json
+│   │   │   │   ├── 81_results.json
+│   │   │   │   ├── 82_entities.json
+│   │   │   │   ├── 82.json
+│   │   │   │   ├── 82_ner.json
+│   │   │   │   ├── 82_results.json
+│   │   │   │   ├── 83_entities.json
+│   │   │   │   ├── 83.json
+│   │   │   │   ├── 83_ner.json
+│   │   │   │   ├── 83_results.json
+│   │   │   │   ├── 84_entities.json
+│   │   │   │   ├── 84.json
+│   │   │   │   ├── 84_ner.json
+│   │   │   │   ├── 84_results.json
+│   │   │   │   ├── 85_entities.json
+│   │   │   │   ├── 85.json
+│   │   │   │   ├── 85_ner.json
+│   │   │   │   ├── 85_results.json
+│   │   │   │   ├── 86_entities.json
+│   │   │   │   ├── 86.json
+│   │   │   │   ├── 86_ner.json
+│   │   │   │   ├── 86_results.json
+│   │   │   │   ├── 87_entities.json
+│   │   │   │   ├── 87.json
+│   │   │   │   ├── 87_ner.json
+│   │   │   │   ├── 87_results.json
+│   │   │   │   ├── 88_entities.json
+│   │   │   │   ├── 88.json
+│   │   │   │   ├── 88_ner.json
+│   │   │   │   ├── 88_results.json
+│   │   │   │   ├── 89_entities.json
+│   │   │   │   ├── 89.json
+│   │   │   │   ├── 89_ner.json
+│   │   │   │   ├── 89_results.json
+│   │   │   │   ├── 8_entities.json
+│   │   │   │   ├── 8.json
+│   │   │   │   ├── 8_ner.json
+│   │   │   │   ├── 8_results.json
+│   │   │   │   ├── 90_entities.json
+│   │   │   │   ├── 90.json
+│   │   │   │   ├── 90_ner.json
+│   │   │   │   ├── 90_results.json
+│   │   │   │   ├── 91_entities.json
+│   │   │   │   ├── 91.json
+│   │   │   │   ├── 91_ner.json
+│   │   │   │   ├── 91_results.json
+│   │   │   │   ├── 92_entities.json
+│   │   │   │   ├── 92.json
+│   │   │   │   ├── 92_ner.json
+│   │   │   │   ├── 92_results.json
+│   │   │   │   ├── 93_entities.json
+│   │   │   │   ├── 93.json
+│   │   │   │   ├── 93_ner.json
+│   │   │   │   ├── 93_results.json
+│   │   │   │   ├── 94_entities.json
+│   │   │   │   ├── 94.json
+│   │   │   │   ├── 94_ner.json
+│   │   │   │   ├── 94_results.json
+│   │   │   │   ├── 95_entities.json
+│   │   │   │   ├── 95.json
+│   │   │   │   ├── 95_ner.json
+│   │   │   │   ├── 95_results.json
+│   │   │   │   ├── 96_entities.json
+│   │   │   │   ├── 96.json
+│   │   │   │   ├── 96_ner.json
+│   │   │   │   ├── 96_results.json
+│   │   │   │   ├── 97_entities.json
+│   │   │   │   ├── 97.json
+│   │   │   │   ├── 97_ner.json
+│   │   │   │   ├── 97_results.json
+│   │   │   │   ├── 98_entities.json
+│   │   │   │   ├── 98.json
+│   │   │   │   ├── 98_ner.json
+│   │   │   │   ├── 98_results.json
+│   │   │   │   ├── 99_entities.json
+│   │   │   │   ├── 99.json
+│   │   │   │   ├── 99_ner.json
+│   │   │   │   ├── 99_results.json
+│   │   │   │   ├── 9_entities.json
+│   │   │   │   ├── 9.json
+│   │   │   │   ├── 9_ner.json
+│   │   │   │   └── 9_results.json
+│   │   │   ├── RAKG_graph_v2
+│   │   │   └── RAKG_graph_v2_1
+│   │   │       ├── 100.json
+│   │   │       ├── 100_results.json
+│   │   │       ├── 101.json
+│   │   │       ├── 101_results.json
+│   │   │       ├── 102.json
+│   │   │       ├── 102_results.json
+│   │   │       ├── 103.json
+│   │   │       ├── 103_results.json
+│   │   │       ├── 104.json
+│   │   │       ├── 104_results.json
+│   │   │       ├── 105.json
+│   │   │       ├── 105_results.json
+│   │   │       ├── 10.json
+│   │   │       ├── 10_results.json
+│   │   │       ├── 11.json
+│   │   │       ├── 11_results.json
+│   │   │       ├── 12.json
+│   │   │       ├── 12_results.json
+│   │   │       ├── 13.json
+│   │   │       ├── 13_results.json
+│   │   │       ├── 14.json
+│   │   │       ├── 14_results.json
+│   │   │       ├── 15.json
+│   │   │       ├── 15_results.json
+│   │   │       ├── 16.json
+│   │   │       ├── 16_results.json
+│   │   │       ├── 17.json
+│   │   │       ├── 17_results.json
+│   │   │       ├── 18.json
+│   │   │       ├── 18_results.json
+│   │   │       ├── 19.json
+│   │   │       ├── 19_results.json
+│   │   │       ├── 1.json
+│   │   │       ├── 1_results.json
+│   │   │       ├── 20.json
+│   │   │       ├── 20_results.json
+│   │   │       ├── 21.json
+│   │   │       ├── 21_results.json
+│   │   │       ├── 22.json
+│   │   │       ├── 22_results.json
+│   │   │       ├── 23.json
+│   │   │       ├── 23_results.json
+│   │   │       ├── 24.json
+│   │   │       ├── 24_results.json
+│   │   │       ├── 25.json
+│   │   │       ├── 25_results.json
+│   │   │       ├── 26.json
+│   │   │       ├── 26_results.json
+│   │   │       ├── 27.json
+│   │   │       ├── 27_results.json
+│   │   │       ├── 28.json
+│   │   │       ├── 28_results.json
+│   │   │       ├── 29.json
+│   │   │       ├── 29_results.json
+│   │   │       ├── 2.json
+│   │   │       ├── 2_results.json
+│   │   │       ├── 30.json
+│   │   │       ├── 30_results.json
+│   │   │       ├── 31.json
+│   │   │       ├── 31_results.json
+│   │   │       ├── 32.json
+│   │   │       ├── 32_results.json
+│   │   │       ├── 33.json
+│   │   │       ├── 33_results.json
+│   │   │       ├── 34.json
+│   │   │       ├── 34_results.json
+│   │   │       ├── 35.json
+│   │   │       ├── 35_results.json
+│   │   │       ├── 36.json
+│   │   │       ├── 36_results.json
+│   │   │       ├── 37.json
+│   │   │       ├── 37_results.json
+│   │   │       ├── 38.json
+│   │   │       ├── 38_results.json
+│   │   │       ├── 39.json
+│   │   │       ├── 39_results.json
+│   │   │       ├── 3.json
+│   │   │       ├── 3_results.json
+│   │   │       ├── 40.json
+│   │   │       ├── 40_results.json
+│   │   │       ├── 41.json
+│   │   │       ├── 41_results.json
+│   │   │       ├── 42.json
+│   │   │       ├── 42_results.json
+│   │   │       ├── 43.json
+│   │   │       ├── 43_results.json
+│   │   │       ├── 44.json
+│   │   │       ├── 44_results.json
+│   │   │       ├── 45.json
+│   │   │       ├── 45_results.json
+│   │   │       ├── 46.json
+│   │   │       ├── 46_results.json
+│   │   │       ├── 47.json
+│   │   │       ├── 47_results.json
+│   │   │       ├── 48.json
+│   │   │       ├── 48_results.json
+│   │   │       ├── 49.json
+│   │   │       ├── 49_results.json
+│   │   │       ├── 4.json
+│   │   │       ├── 4_results.json
+│   │   │       ├── 50.json
+│   │   │       ├── 50_results.json
+│   │   │       ├── 51.json
+│   │   │       ├── 51_results.json
+│   │   │       ├── 52.json
+│   │   │       ├── 52_results.json
+│   │   │       ├── 53.json
+│   │   │       ├── 53_results.json
+│   │   │       ├── 54.json
+│   │   │       ├── 54_results.json
+│   │   │       ├── 55.json
+│   │   │       ├── 55_results.json
+│   │   │       ├── 56.json
+│   │   │       ├── 56_results.json
+│   │   │       ├── 57.json
+│   │   │       ├── 57_results.json
+│   │   │       ├── 58.json
+│   │   │       ├── 58_results.json
+│   │   │       ├── 59.json
+│   │   │       ├── 59_results.json
+│   │   │       ├── 5.json
+│   │   │       ├── 5_results.json
+│   │   │       ├── 60.json
+│   │   │       ├── 60_results.json
+│   │   │       ├── 61.json
+│   │   │       ├── 61_results.json
+│   │   │       ├── 62.json
+│   │   │       ├── 62_results.json
+│   │   │       ├── 63.json
+│   │   │       ├── 63_results.json
+│   │   │       ├── 64.json
+│   │   │       ├── 64_results.json
+│   │   │       ├── 65.json
+│   │   │       ├── 65_results.json
+│   │   │       ├── 66.json
+│   │   │       ├── 66_results.json
+│   │   │       ├── 67.json
+│   │   │       ├── 67_results.json
+│   │   │       ├── 68.json
+│   │   │       ├── 68_results.json
+│   │   │       ├── 69.json
+│   │   │       ├── 69_results.json
+│   │   │       ├── 6.json
+│   │   │       ├── 6_results.json
+│   │   │       ├── 70.json
+│   │   │       ├── 70_results.json
+│   │   │       ├── 71.json
+│   │   │       ├── 71_results.json
+│   │   │       ├── 72.json
+│   │   │       ├── 72_results.json
+│   │   │       ├── 73.json
+│   │   │       ├── 73_results.json
+│   │   │       ├── 74.json
+│   │   │       ├── 74_results.json
+│   │   │       ├── 75.json
+│   │   │       ├── 75_results.json
+│   │   │       ├── 76.json
+│   │   │       ├── 76_results.json
+│   │   │       ├── 77.json
+│   │   │       ├── 77_results.json
+│   │   │       ├── 78.json
+│   │   │       ├── 78_results.json
+│   │   │       ├── 79.json
+│   │   │       ├── 79_results.json
+│   │   │       ├── 7.json
+│   │   │       ├── 7_results.json
+│   │   │       ├── 80.json
+│   │   │       ├── 80_results.json
+│   │   │       ├── 81.json
+│   │   │       ├── 81_results.json
+│   │   │       ├── 82.json
+│   │   │       ├── 82_results.json
+│   │   │       ├── 83.json
+│   │   │       ├── 83_results.json
+│   │   │       ├── 84.json
+│   │   │       ├── 84_results.json
+│   │   │       ├── 85.json
+│   │   │       ├── 85_results.json
+│   │   │       ├── 86.json
+│   │   │       ├── 86_results.json
+│   │   │       ├── 87.json
+│   │   │       ├── 87_results.json
+│   │   │       ├── 88.json
+│   │   │       ├── 88_results.json
+│   │   │       ├── 89.json
+│   │   │       ├── 89_results.json
+│   │   │       ├── 8.json
+│   │   │       ├── 8_results.json
+│   │   │       ├── 90.json
+│   │   │       ├── 90_results.json
+│   │   │       ├── 91.json
+│   │   │       ├── 91_results.json
+│   │   │       ├── 92.json
+│   │   │       ├── 92_results.json
+│   │   │       ├── 93.json
+│   │   │       ├── 93_results.json
+│   │   │       ├── 94.json
+│   │   │       ├── 94_results.json
+│   │   │       ├── 95.json
+│   │   │       ├── 95_results.json
+│   │   │       ├── 96.json
+│   │   │       ├── 96_results.json
+│   │   │       ├── 97.json
+│   │   │       ├── 97_results.json
+│   │   │       ├── 98.json
+│   │   │       ├── 98_results.json
+│   │   │       ├── 99.json
+│   │   │       ├── 99_results.json
+│   │   │       ├── 9.json
+│   │   │       └── 9_results.json
+│   │   └── raw
+│   │       ├── MINE.json
+│   │       ├── MINE_md
+│   │       │   ├── 100.md
+│   │       │   ├── 101.md
+│   │       │   ├── 102.md
+│   │       │   ├── 103.md
+│   │       │   ├── 104.md
+│   │       │   ├── 105.md
+│   │       │   ├── 10.md
+│   │       │   ├── 11.md
+│   │       │   ├── 12.md
+│   │       │   ├── 13.md
+│   │       │   ├── 14.md
+│   │       │   ├── 15.md
+│   │       │   ├── 16.md
+│   │       │   ├── 17.md
+│   │       │   ├── 18.md
+│   │       │   ├── 19.md
+│   │       │   ├── 1.md
+│   │       │   ├── 20.md
+│   │       │   ├── 21.md
+│   │       │   ├── 22.md
+│   │       │   ├── 23.md
+│   │       │   ├── 24.md
+│   │       │   ├── 25.md
+│   │       │   ├── 26.md
+│   │       │   ├── 27.md
+│   │       │   ├── 28.md
+│   │       │   ├── 29.md
+│   │       │   ├── 2.md
+│   │       │   ├── 30.md
+│   │       │   ├── 31.md
+│   │       │   ├── 32.md
+│   │       │   ├── 33.md
+│   │       │   ├── 34.md
+│   │       │   ├── 35.md
+│   │       │   ├── 36.md
+│   │       │   ├── 37.md
+│   │       │   ├── 38.md
+│   │       │   ├── 39.md
+│   │       │   ├── 3.md
+│   │       │   ├── 40.md
+│   │       │   ├── 41.md
+│   │       │   ├── 42.md
+│   │       │   ├── 43.md
+│   │       │   ├── 44.md
+│   │       │   ├── 45.md
+│   │       │   ├── 46.md
+│   │       │   ├── 47.md
+│   │       │   ├── 48.md
+│   │       │   ├── 49.md
+│   │       │   ├── 4.md
+│   │       │   ├── 50.md
+│   │       │   ├── 51.md
+│   │       │   ├── 52.md
+│   │       │   ├── 53.md
+│   │       │   ├── 54.md
+│   │       │   ├── 55.md
+│   │       │   ├── 56.md
+│   │       │   ├── 57.md
+│   │       │   ├── 58.md
+│   │       │   ├── 59.md
+│   │       │   ├── 5.md
+│   │       │   ├── 60.md
+│   │       │   ├── 61.md
+│   │       │   ├── 62.md
+│   │       │   ├── 63.md
+│   │       │   ├── 64.md
+│   │       │   ├── 65.md
+│   │       │   ├── 66.md
+│   │       │   ├── 67.md
+│   │       │   ├── 68.md
+│   │       │   ├── 69.md
+│   │       │   ├── 6.md
+│   │       │   ├── 70.md
+│   │       │   ├── 71.md
+│   │       │   ├── 72.md
+│   │       │   ├── 73.md
+│   │       │   ├── 74.md
+│   │       │   ├── 75.md
+│   │       │   ├── 76.md
+│   │       │   ├── 77.md
+│   │       │   ├── 78.md
+│   │       │   ├── 79.md
+│   │       │   ├── 7.md
+│   │       │   ├── 80.md
+│   │       │   ├── 81.md
+│   │       │   ├── 82.md
+│   │       │   ├── 83.md
+│   │       │   ├── 84.md
+│   │       │   ├── 85.md
+│   │       │   ├── 86.md
+│   │       │   ├── 87.md
+│   │       │   ├── 88.md
+│   │       │   ├── 89.md
+│   │       │   ├── 8.md
+│   │       │   ├── 90.md
+│   │       │   ├── 91.md
+│   │       │   ├── 92.md
+│   │       │   ├── 93.md
+│   │       │   ├── 94.md
+│   │       │   ├── 95.md
+│   │       │   ├── 96.md
+│   │       │   ├── 97.md
+│   │       │   ├── 98.md
+│   │       │   ├── 99.md
+│   │       │   └── 9.md
+│   │       └── MINE_txt
+│   │           ├── 100.txt
+│   │           ├── 101.txt
+│   │           ├── 102.txt
+│   │           ├── 103.txt
+│   │           ├── 104.txt
+│   │           ├── 105.txt
+│   │           ├── 10.txt
+│   │           ├── 11.txt
+│   │           ├── 12.txt
+│   │           ├── 13.txt
+│   │           ├── 14.txt
+│   │           ├── 15.txt
+│   │           ├── 16.txt
+│   │           ├── 17.txt
+│   │           ├── 18.txt
+│   │           ├── 19.txt
+│   │           ├── 1.txt
+│   │           ├── 20.txt
+│   │           ├── 21.txt
+│   │           ├── 22.txt
+│   │           ├── 23.txt
+│   │           ├── 24.txt
+│   │           ├── 25.txt
+│   │           ├── 26.txt
+│   │           ├── 27.txt
+│   │           ├── 28.txt
+│   │           ├── 29.txt
+│   │           ├── 2.txt
+│   │           ├── 30.txt
+│   │           ├── 31.txt
+│   │           ├── 32.txt
+│   │           ├── 33.txt
+│   │           ├── 34.txt
+│   │           ├── 35.txt
+│   │           ├── 36.txt
+│   │           ├── 37.txt
+│   │           ├── 38.txt
+│   │           ├── 39.txt
+│   │           ├── 3.txt
+│   │           ├── 40.txt
+│   │           ├── 41.txt
+│   │           ├── 42.txt
+│   │           ├── 43.txt
+│   │           ├── 44.txt
+│   │           ├── 45.txt
+│   │           ├── 46.txt
+│   │           ├── 47.txt
+│   │           ├── 48.txt
+│   │           ├── 49.txt
+│   │           ├── 4.txt
+│   │           ├── 50.txt
+│   │           ├── 51.txt
+│   │           ├── 52.txt
+│   │           ├── 53.txt
+│   │           ├── 54.txt
+│   │           ├── 55.txt
+│   │           ├── 56.txt
+│   │           ├── 57.txt
+│   │           ├── 58.txt
+│   │           ├── 59.txt
+│   │           ├── 5.txt
+│   │           ├── 60.txt
+│   │           ├── 61.txt
+│   │           ├── 62.txt
+│   │           ├── 63.txt
+│   │           ├── 64.txt
+│   │           ├── 65.txt
+│   │           ├── 66.txt
+│   │           ├── 67.txt
+│   │           ├── 68.txt
+│   │           ├── 69.txt
+│   │           ├── 6.txt
+│   │           ├── 70.txt
+│   │           ├── 71.txt
+│   │           ├── 72.txt
+│   │           ├── 73.txt
+│   │           ├── 74.txt
+│   │           ├── 75.txt
+│   │           ├── 76.txt
+│   │           ├── 77.txt
+│   │           ├── 78.txt
+│   │           ├── 79.txt
+│   │           ├── 7.txt
+│   │           ├── 80.txt
+│   │           ├── 81.txt
+│   │           ├── 82.txt
+│   │           ├── 83.txt
+│   │           ├── 84.txt
+│   │           ├── 85.txt
+│   │           ├── 86.txt
+│   │           ├── 87.txt
+│   │           ├── 88.txt
+│   │           ├── 89.txt
+│   │           ├── 8.txt
+│   │           ├── 90.txt
+│   │           ├── 91.txt
+│   │           ├── 92.txt
+│   │           ├── 93.txt
+│   │           ├── 94.txt
+│   │           ├── 95.txt
+│   │           ├── 96.txt
+│   │           ├── 97.txt
+│   │           ├── 98.txt
+│   │           ├── 99.txt
+│   │           └── 9.txt
+│   ├── examples
+│   │   └── RAKG_example.py
+│   ├── image
+│   │   └── RAKG_flow.jpg
+│   ├── LICENSE
+│   ├── README.md
+│   ├── requirements.txt
+│   └── src
+│       ├── config.py
+│       ├── construct
+│       └── eval
+│           ├── count_eval
+│           │   ├── count_ner_rel_KGGEN.py
+│           │   └── count_ner_rel_RAKG.py
+│           ├── ideal_kg_eval
+│           │   ├── kg_eval.py
+│           │   └── kg_eval_result.py
+│           ├── llm_eval
+│           │   ├── deepeval_test_kg.py
+│           │   └── deepeval_test_ner.py
+│           ├── MINE_eval
+│           │   ├── evaluate_MINE_graphrag.py
+│           │   ├── evaluate_MINE_kggen.py
+│           │   └── evaluate_MINE_RAKG.py
+│           └── result_visualization
+│               ├── accuracy_results.jsonl
+│               ├── count_results.jsonl
+│               ├── draw_llmeval.py
+│               ├── draw_MINE.py
+│               ├── draw_num.py
+│               ├── llmasjudge_boxplot.png
+│               ├── llmasjudge_eval.jsonl
+│               ├── result_count.py
+│               ├── result_llmasJudge_kg.py
+│               ├── result_llmasJudg_ner.py
+│               └── result_MINE.py
+├── README.md
+├── requirements.txt
+├── setupCSE.sh
+├── src
+│   ├── cdrag.py
+│   ├── config.py
+│   ├── construct
+│   │   ├── __pycache__
+│   │   │   ├── lightrag.cpython-312.pyc
+│   │   │   └── vectordb.cpython-312.pyc
+│   │   ├── rakg_processing.py
+│   │   ├── RAKG.py
+│   │   ├── storing_data.py
+│   │   └── vectordb.py
+│   ├── eval
+│   │   ├── eval.py
+│   │   ├── image.png
+│   │   └── image.svg
+│   ├── graphrag_result_store.py
+│   ├── kgAgent.py
+│   ├── kggen.py
+│   ├── llm_provider.py
+│   ├── naive.py
+│   ├── pdfProcess.py
+│   ├── prompt.py
+│   ├── __pycache__
+│   │   └── config.cpython-312.pyc
+│   └── textPrcess.py
+├── submit.sh
+└── tree.txt
+
+39 directories, 2683 files

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "```Clouds are a fascinating natural phenomenon that can be observed in the sky on a daily basis. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "```Clouds are a fascinating natural phenomenon that can be observed in the sky on a daily basis. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "In conclusion, clouds form through the process of condensation, which occurs when warm, moist air ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "Cloud formation begins with the warming of the Earth's surface by the sun. As the sun's rays heat ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "form when warm air rises rapidly and cools quickly, causing the water vapor in the air to condense ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "When the air reaches its dew point, the water vapor in the air begins to condense into tiny water ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "moist air rises and cools, leading to the condensation of water vapor into tiny droplets or ice ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "water droplets or ice crystals. These tiny droplets or crystals then come together to form clouds. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "clouds. The process of condensation is crucial to cloud formation, as it is the mechanism by which ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "In addition to temperature and humidity, air currents also play a significant role in cloud ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "In addition to temperature and humidity, air currents also play a significant role in cloud ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "form and the different types of clouds that can be observed in the sky. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "form when warm air rises rapidly and cools quickly, causing the water vapor in the air to condense ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "Stratus clouds, on the other hand, are low-lying clouds that form in a more uniform layer across ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "Cirrus clouds are high, wispy clouds that are thin and delicate in appearance. These clouds form at ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

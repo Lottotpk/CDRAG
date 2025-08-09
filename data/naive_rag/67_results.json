@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fairytales are a beloved form of storytelling for centuries.",
+    "retrieved_context": "Fairytales have been a beloved form of storytelling for centuries, captivating audiences of all ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fairytales often feature fantastical creatures.",
+    "retrieved_context": "of these famous fairytales are often shrouded in mystery and folklore. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fairytales often feature heroic protagonists.",
+    "retrieved_context": "One of the most enduring and popular fairytales is \"Beauty and the Beast.\" The origins of this tale ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fairytales often feature moral lessons.",
+    "retrieved_context": "and moral lessons. Whether it's the Brothers Grimm's collection of fairy tales or classic stories ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Brothers Grimm collected and published 'Grimm's Fairy Tales' in the early 19th century.",
+    "retrieved_context": "One of the most well-known collections of fairytales is the Brothers Grimm's \"Grimm's Fairy Tales,\" ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Brothers Grimm gathered stories from peasants and villagers.",
+    "retrieved_context": "by the Grimms. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known version of Cinderella can be traced back to ancient Greece.",
+    "retrieved_context": "The earliest known version of the Cinderella story can be traced back to ancient Greece, where the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Charles Perrault published a version of Cinderella in 1697.",
+    "retrieved_context": "today is the one published by Charles Perrault in 1697. Perrault's version introduced iconic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The story of Snow White can be found in folklore from various cultures.",
+    "retrieved_context": "Another famous fairytale with ancient origins is \"Snow White.\" The story of Snow White can be found ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The most well-known version of Snow White was collected by the Brothers Grimm.",
+    "retrieved_context": "and Slavic traditions. The most well-known version of \"Snow White\" is the one collected by the ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hansel and Gretel is a classic fairytale collected by the Brothers Grimm.",
+    "retrieved_context": "\"Hansel and Gretel\" is another classic fairytale that has captured the imaginations of readers for ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The story of Hansel and Gretel is believed to have originated from European folklore.",
+    "retrieved_context": "is believed to have originated from European folklore, with similar tales of children outsmarting ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The origins of Beauty and the Beast can be traced back to ancient myths.",
+    "retrieved_context": "One of the most enduring and popular fairytales is \"Beauty and the Beast.\" The origins of this tale ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known version of Beauty and the Beast can be found in the works of the Roman poet Ovid.",
+    "retrieved_context": "forms throughout history. The earliest known version of \"Beauty and the Beast\" can be found in the ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Beauty and the Beast explores the theme of love and transformation.",
+    "retrieved_context": "The theme of love and transformation is central to the tale of \"Beauty and the Beast,\" where a ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

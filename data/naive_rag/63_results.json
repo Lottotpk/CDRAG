@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "wheel is believed to have been invented around 3500 BC in Mesopotamia. It revolutionized ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "transportation and enabled the development of wheeled vehicles, making it easier to transport goods ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "of the printing press by Johannes Gutenberg in the 15th century. This revolutionary invention ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "Another groundbreaking invention that transformed society is the printing press, invented by ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "The invention of the steam engine in the 18th century marked a significant turning point in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "The invention of the steam engine in the 18th century marked the beginning of the Industrial ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "In the 19th century, the invention of the telephone by Alexander Graham Bell revolutionized ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "communication. The telephone enabled people to communicate over long distances in real time, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "The invention of the light bulb by Thomas Edison in the late 19th century revolutionized the way we ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "way we illuminate our homes and cities. The light bulb replaced gas lamps and candles as the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "In the 20th century, the invention of the computer ushered in the digital age. The first electronic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "In the 20th century, the invention of the computer ushered in the digital age. The first electronic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "The invention of the internet in the late 20th century has had a profound impact on society. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "The invention of the internet in the late 20th century has had a profound impact on society. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "In conclusion, inventions have played a crucial role in shaping human history and driving progress ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

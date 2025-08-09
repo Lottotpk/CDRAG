@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Atlantis is a legendary island.",
+    "retrieved_context": "```Atlantis is a legendary island first mentioned by the ancient Greek philosopher Plato in his ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plato mentioned Atlantis in his dialogues 'Timaeus' and 'Critias'.",
+    "retrieved_context": "```Atlantis is a legendary island first mentioned by the ancient Greek philosopher Plato in his ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis story has captivated people for centuries.",
+    "retrieved_context": "In conclusion, the legend of Atlantis is a captivating tale that has fascinated people for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plato claimed Atlantis existed around 11,000 years ago.",
+    "retrieved_context": "```Atlantis is a legendary island first mentioned by the ancient Greek philosopher Plato in his ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some believe Atlantis was a real place in the Atlantic Ocean.",
+    "retrieved_context": "believe that Atlantis was a real place that existed in the Atlantic Ocean, while others argue that ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Others argue Atlantis is a myth created by Plato.",
+    "retrieved_context": "Atlantis was a real place or simply a creation of Plato's imagination, its legacy continues to live ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis was located beyond the 'Pillars of Hercules'.",
+    "retrieved_context": "According to Plato, Atlantis was a large island located beyond the \"Pillars of Hercules,\" which are ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis was rich in resources and had advanced technology.",
+    "retrieved_context": "believe that Atlantis was a highly advanced civilization that possessed knowledge and technology ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Atlanteans were described as noble and virtuous people.",
+    "retrieved_context": "believe that Atlantis was a highly advanced civilization that possessed knowledge and technology ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atlantis was destroyed suddenly and catastrophically.",
+    "retrieved_context": "The most famous aspect of the Atlantis legend is its sudden and catastrophic destruction. Plato ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The destruction of Atlantis was described by Plato.",
+    "retrieved_context": "The most famous aspect of the Atlantis legend is its sudden and catastrophic destruction. Plato ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Numerous theories have been proposed about Atlantis.",
+    "retrieved_context": "Over the years, numerous theories have been proposed to explain the story of Atlantis. Some believe ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The legend of Atlantis continues to fascinate people worldwide.",
+    "retrieved_context": "In conclusion, the legend of Atlantis is a captivating tale that has fascinated people for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Many have speculated about the possible location of Atlantis.",
+    "retrieved_context": "The legend of Atlantis has been the subject of much speculation and interpretation. Some believe ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The enduring appeal of Atlantis lies in its mystery and intrigue.",
+    "retrieved_context": "The enduring appeal of the Atlantis legend lies in its mystery and intrigue. The idea of a lost ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

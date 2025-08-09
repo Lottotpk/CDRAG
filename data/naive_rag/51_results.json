@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Coral reefs are often referred to as the 'rainforests of the sea' due to their incredible biodiversity.",
+    "retrieved_context": "```Coral reefs are often referred to as the \"rainforests of the sea\" due to their incredible ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs are made up of tiny animals called coral polyps.",
+    "retrieved_context": "of tiny animals called coral polyps that secrete calcium carbonate to form intricate structures ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral polyps secrete calcium carbonate to form intricate structures.",
+    "retrieved_context": "of tiny animals called coral polyps that secrete calcium carbonate to form intricate structures ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs provide shelter and food for a wide variety of marine life.",
+    "retrieved_context": "of coral reefs offers hiding places, breeding grounds, and food sources for a wide range of marine ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs cover less than 1% of the ocean floor.",
+    "retrieved_context": "marine biodiversity. Despite covering less than 1% of the ocean floor, coral reefs are home to an ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs are home to an estimated 25% of all marine species.",
+    "retrieved_context": "to an estimated 25% of all marine species. These ecosystems provide a habitat for a vast array of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs provide a habitat for fish, invertebrates, and plants.",
+    "retrieved_context": "of coral reefs offers hiding places, breeding grounds, and food sources for a wide range of marine ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs offer hiding places, breeding grounds, and food sources for marine life.",
+    "retrieved_context": "of coral reefs offers hiding places, breeding grounds, and food sources for a wide range of marine ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs help dissipate wave energy, reducing the impact of storms.",
+    "retrieved_context": "reefs helps to dissipate wave energy, reducing the impact of storms and protecting coastal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs act as natural barriers in regions prone to hurricanes and tsunamis.",
+    "retrieved_context": "coral reefs act as natural barriers that help to mitigate the destructive effects of these natural ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs support fisheries by providing food, shelter, and breeding grounds for fish.",
+    "retrieved_context": "on coral reefs for food, shelter, and breeding grounds. Coral reefs support local fisheries by ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs support local fisheries and provide a source of income for coastal communities.",
+    "retrieved_context": "on coral reefs for food, shelter, and breeding grounds. Coral reefs support local fisheries by ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coral reefs contribute to global food security by supporting sustainable fisheries.",
+    "retrieved_context": "Coral reefs also play a crucial role in supporting fisheries and providing food security for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs are popular destinations for divers and snorkelers.",
+    "retrieved_context": "Coral reefs are popular destinations for divers and snorkelers, attracting millions of tourists ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coral reefs attract millions of tourists each year and support local economies.",
+    "retrieved_context": "Coral reefs are popular destinations for divers and snorkelers, attracting millions of tourists ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

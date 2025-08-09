@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Magic tricks captivate audiences for centuries.",
+    "retrieved_context": "```Magic tricks have been captivating audiences for centuries, with their ability to defy logic and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magic tricks defy logic and challenge perceptions of reality.",
+    "retrieved_context": "ability to defy logic and challenge our perceptions of reality. Magic tricks are more than just ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magic tricks date back to ancient times.",
+    "retrieved_context": "logic and challenge our perceptions of reality. The history of magic tricks dates back to ancient ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Illusions and sleight of hand entertain and mystify people.",
+    "retrieved_context": "elaborate illusions that baffled and astounded audiences. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egypt has early records of magic tricks.",
+    "retrieved_context": "One of the earliest known records of magic tricks can be traced back to ancient Egypt, where ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magicians in ancient Egypt used sleight of hand and misdirection.",
+    "retrieved_context": "One of the earliest known records of magic tricks can be traced back to ancient Egypt, where ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Magic tricks were used in religious ceremonies in ancient Egypt.",
+    "retrieved_context": "magic tricks were often used in religious ceremonies and were believed to have supernatural powers. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians used props like cups and balls in magic tricks.",
+    "retrieved_context": "powers. The ancient Egyptians were skilled in the art of illusion, using props such as cups and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magicians in ancient Greece and Rome incorporated storytelling into performances.",
+    "retrieved_context": "and Rome incorporating elements of storytelling and theatrics into their performances. These early ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magicians in ancient Greece and Rome performed in public squares.",
+    "retrieved_context": "early magicians would often perform in public squares and marketplaces, using their skills to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magic tricks in the Middle Ages had a mysterious and mystical quality.",
+    "retrieved_context": "During the Middle Ages, magic tricks took on a more mysterious and mystical quality, with magicians ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magicians in the Middle Ages were associated with witchcraft and the occult.",
+    "retrieved_context": "During the Middle Ages, magic tricks took on a more mysterious and mystical quality, with magicians ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Props like wands and crystal balls were common in magic performances in the Middle Ages.",
+    "retrieved_context": "During the Middle Ages, magic tricks took on a more mysterious and mystical quality, with magicians ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in magic tricks.",
+    "retrieved_context": "The Renaissance period saw a resurgence of interest in magic tricks, with magicians such as John ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Magicians in the Renaissance used science and mathematics in their performances.",
+    "retrieved_context": "The Renaissance period saw a resurgence of interest in magic tricks, with magicians such as John ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

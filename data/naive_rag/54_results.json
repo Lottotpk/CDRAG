@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tornadoes are powerful and destructive natural phenomena on Earth.",
+    "retrieved_context": "Tornadoes are one of the most powerful and destructive natural phenomena on Earth. These violent ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes can cause immense damage to buildings, trees, and anything in their path.",
+    "retrieved_context": "violent rotating columns of air can cause immense damage to buildings, trees, and anything else in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes form in severe thunderstorms when specific atmospheric conditions are present.",
+    "retrieved_context": "Tornadoes form in severe thunderstorms when certain atmospheric conditions are present. One of the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear is a key ingredient for tornado formation.",
+    "retrieved_context": "of the key ingredients for tornado formation is wind shear, which refers to the change in wind ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm.",
+    "retrieved_context": "in wind speed and direction with height. Wind shear creates a rotating column of air known as a ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Instability in the atmosphere is another important factor in tornado formation.",
+    "retrieved_context": "Another important factor in tornado formation is instability in the atmosphere. Instability occurs ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft.",
+    "retrieved_context": "occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft. This creates a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A trigger mechanism, such as a cold front, dry line, or outflow boundary, is needed for tornado formation.",
+    "retrieved_context": "The third ingredient for tornado formation is a trigger mechanism, such as a cold front, dry line, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes go through stages of development: dust whirl stage, mature stage, and dissipating stage.",
+    "retrieved_context": "Once a tornado forms, it goes through various stages of development. The initial stage is known as ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes are classified using the Enhanced Fujita (EF) scale.",
+    "retrieved_context": "Tornadoes are classified using the Enhanced Fujita (EF) scale, which ranges from EF0 (weakest) to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The EF scale ranges from EF0 (weakest) to EF5 (strongest).",
+    "retrieved_context": "Tornadoes are classified using the Enhanced Fujita (EF) scale, which ranges from EF0 (weakest) to ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Forecasting tornadoes is complex due to their rapid and unpredictable nature.",
+    "retrieved_context": "Forecasting tornadoes remains a complex and challenging task due to the rapid and unpredictable ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Meteorologists use weather radar, satellite imagery, and ground observations to monitor atmospheric conditions for tornado development.",
+    "retrieved_context": "radar, satellite imagery, and ground observations, to monitor atmospheric conditions and identify ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doppler radar is instrumental in detecting rotation within thunderstorms and issuing tornado warnings.",
+    "retrieved_context": "in detecting rotation within thunderstorms and issuing timely tornado warnings to the public. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Despite advances in technology, tornadoes continue to pose a significant threat to communities.",
+    "retrieved_context": "Despite advances in technology and forecasting capabilities, tornadoes continue to pose a ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

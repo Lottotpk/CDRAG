@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts animals' habitats.",
+    "retrieved_context": "diseases, the impacts of a warming planet are putting immense pressure on animal populations ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are forced to adapt or migrate due to changing ecosystems.",
+    "retrieved_context": "pace, forcing many species to adapt or migrate to new areas. For example, polar bears are facing a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Polar bears are losing sea ice in the Arctic due to warming temperatures.",
+    "retrieved_context": "facing a loss of sea ice in the Arctic, their primary hunting ground, as it melts due to warming ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer ocean temperatures cause coral bleaching, affecting fish populations.",
+    "retrieved_context": "Rising sea temperatures and ocean acidification are causing coral bleaching, a phenomenon in which ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events like wildfires can destroy animal habitats.",
+    "retrieved_context": "such as hurricanes, droughts, and wildfires, which can have devastating effects on animal ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wildfires in Australia have decimated koala populations.",
+    "retrieved_context": "years have decimated populations of koalas and other wildlife, pushing them closer to the brink of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change can lead to the spread of diseases among animals.",
+    "retrieved_context": "Another significant impact of climate change on animals is the spread of diseases and parasites. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White-nose syndrome in bats is linked to climate change.",
+    "retrieved_context": "spread of white-nose syndrome, a fungal disease that affects bats, has been linked to climate ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are shifting their ranges due to climate change.",
+    "retrieved_context": "while others are altering their breeding seasons in response to changing environmental conditions. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some species are altering their breeding seasons in response to environmental changes.",
+    "retrieved_context": "while others are altering their breeding seasons in response to changing environmental conditions. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change threatens the survival of many animal species.",
+    "retrieved_context": "In conclusion, climate change poses a serious threat to animals and the ecosystems they inhabit. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Urgent action is needed to protect biodiversity from climate change.",
+    "retrieved_context": "the survival of many species around the world. Urgent action is needed to address this crisis and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments, conservation organizations, and individuals all have a role in addressing climate change impacts on animals.",
+    "retrieved_context": "conserving habitats, and implementing strategies to help animals adapt to a changing climate. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change puts pressure on animal populations worldwide.",
+    "retrieved_context": "diseases, the impacts of a warming planet are putting immense pressure on animal populations ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Action is necessary to ensure a sustainable future for all living creatures on Earth.",
+    "retrieved_context": "ensure a sustainable future for generations to come. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

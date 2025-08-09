@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Typography is the art of arranging type to make written language readable and appealing.",
+    "retrieved_context": "Typography, the art and technique of arranging type to make written language readable and ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography has a rich and fascinating history that dates back centuries.",
+    "retrieved_context": "In conclusion, the history of typography is a testament to the power of written language and visual ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography played a crucial role in shaping the way we communicate and consume information.",
+    "retrieved_context": "earliest forms of written communication to the digital age, typography has played a crucial role in ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The origins of typography can be traced back to ancient civilizations like the Egyptians.",
+    "retrieved_context": "The origins of typography can be traced back to ancient civilizations such as the Egyptians, who ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Egyptians used hieroglyphics for written communication.",
+    "retrieved_context": "In ancient Egypt, hieroglyphics were used as a writing system to record important religious and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The development of writing systems led to the creation of various scripts and typefaces.",
+    "retrieved_context": "The development of writing systems has been influenced by cultural, technological, and social ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Johannes Gutenberg invented the printing press in the 15th century.",
+    "retrieved_context": "of the printing press by Johannes Gutenberg in the 15th century. This revolutionary invention ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press allowed for the mass production of books and printed materials.",
+    "retrieved_context": "invention allowed for the mass production of books and other printed materials, making information ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press made information more accessible to a wider audience.",
+    "retrieved_context": "invention allowed for the mass production of books and other printed materials, making information ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designers began to experiment with different fonts, sizes, and layouts for printed materials.",
+    "retrieved_context": "printing techniques. Typography began to evolve as designers experimented with different fonts, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Claude Garamond and Giambattista Bodoni created iconic typefaces during the Renaissance period.",
+    "retrieved_context": "such as Claude Garamond and Giambattista Bodoni creating iconic typefaces that are still used ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography evolved with an emphasis on aesthetics, readability, and functionality.",
+    "retrieved_context": "with an emphasis on aesthetics, readability, and functionality. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought advancements in typography and new printing technologies.",
+    "retrieved_context": "The Industrial Revolution brought further advancements in typography, with the invention of new ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Designers explored new ways of using type to convey messages and evoke emotions.",
+    "retrieved_context": "Designers began to explore new ways of using type to convey messages and evoke emotions, leading to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography plays a crucial role in branding, marketing, and communication today.",
+    "retrieved_context": "Today, typography plays a crucial role in branding, marketing, and communication, with designers ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

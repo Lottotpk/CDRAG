@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Smell is also known as olfaction.",
+    "retrieved_context": "The sense of smell, also known as olfaction, is one of the most fascinating and complex senses in ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smell influences emotions, memories, and behavior.",
+    "retrieved_context": "One of the most intriguing aspects of smell is its ability to evoke powerful emotions and memories. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Odor molecules enter the nasal cavity through the nostrils.",
+    "retrieved_context": "Smell begins when odor molecules enter the nasal cavity through the nostrils. These molecules then ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Olfactory receptors are located in the olfactory epithelium.",
+    "retrieved_context": "then bind to specialized olfactory receptors located in the olfactory epithelium, a thin layer of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each receptor is sensitive to specific odor molecules.",
+    "retrieved_context": "layer of tissue at the back of the nasal cavity. Each receptor is sensitive to specific odor ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Odor molecules trigger chemical reactions in the brain.",
+    "retrieved_context": "binds to a receptor, it triggers a series of chemical reactions that send signals to the brain, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans relied on smell to detect predators and find food.",
+    "retrieved_context": "evolution. Early humans relied on their sense of smell to detect predators, find food, and identify ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Our sense of smell warns us of danger, like spoiled food.",
+    "retrieved_context": "such as warning us of danger (like the smell of smoke or spoiled food) and guiding our food choices ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smells can trigger memories more vividly than other cues.",
+    "retrieved_context": "One of the most intriguing aspects of smell is its ability to evoke powerful emotions and memories. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The limbic system is responsible for emotions and memories.",
+    "retrieved_context": "the olfactory system and the brain's limbic system, which is responsible for emotions and memories. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aromatherapy uses essential oils for physical and psychological well-being.",
+    "retrieved_context": "medicine that uses plant-derived essential oils to improve physical and psychological well-being. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Certain scents can help people with Alzheimer's recall memories.",
+    "retrieved_context": "used as a tool to help individuals with memory-related disorders such as Alzheimer's disease. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different cultures have unique preferences for scents.",
+    "retrieved_context": "traditions, and personal preferences. For example, certain cultures may value the scent of incense ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scents can influence perceptions, moods, and attraction in social settings.",
+    "retrieved_context": "smells can influence our perceptions of others, affect our mood, and even influence our attraction ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The fragrance industry is a multi-billion-dollar business.",
+    "retrieved_context": "to potential partners. This is why the fragrance industry is a multi-billion-dollar business, with ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

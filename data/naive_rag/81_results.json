@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Architecture shapes the way we live, work, and interact with one another.",
+    "retrieved_context": "In conclusion, architecture is a powerful force that shapes the way we live, work, and interact ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture influences society through the design of public spaces.",
+    "retrieved_context": "In addition to public spaces, architecture also plays a crucial role in shaping the built ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Public buildings serve as symbols of a society's values and priorities.",
+    "retrieved_context": "and schools serve as symbols of a society's values and priorities. The design of these buildings ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The design of public buildings can convey a sense of authority, tradition, or modernity.",
+    "retrieved_context": "buildings can convey a sense of authority, tradition, or modernity, depending on the architectural ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Public buildings shape how people interact with their surroundings.",
+    "retrieved_context": "Beyond just their symbolic value, public buildings also shape the way people interact with their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The layout of a city influences how people move through urban spaces.",
+    "retrieved_context": "of parks and public squares all influence how people move through and experience urban spaces. For ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed parks can encourage social interaction and community engagement.",
+    "retrieved_context": "For example, a well-designed park with plenty of seating and greenery can encourage social ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture shapes the built environment of residential areas.",
+    "retrieved_context": "the built environment of residential areas. The design of homes and neighborhoods can have a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The design of homes and neighborhoods impacts the quality of life of residents.",
+    "retrieved_context": "the built environment of residential areas. The design of homes and neighborhoods can have a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed houses can promote a sense of pride and ownership among residents.",
+    "retrieved_context": "pride and ownership among residents, leading to a stronger sense of community and social cohesion. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture influences the economic development of a society.",
+    "retrieved_context": "Furthermore, architecture can also influence the economic development of a society. Well-designed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed buildings can attract investment and tourism, boosting the local economy.",
+    "retrieved_context": "buildings and infrastructure can attract investment and tourism, creating jobs and boosting the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture can influence the environment and sustainability.",
+    "retrieved_context": "Moreover, architecture can also have a significant impact on the environment and sustainability. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designing energy-efficient buildings can help reduce the carbon footprint of the built environment.",
+    "retrieved_context": "building techniques are being used to reduce the environmental impact of buildings and create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Green spaces and urban forests can improve air quality and provide habitat for wildlife.",
+    "retrieved_context": "and urban forests can help improve air quality, reduce urban heat islands, and provide habitat for ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Genetic engineering is a rapidly advancing field.",
+    "retrieved_context": "```Genetic engineering is a rapidly advancing field with the potential to revolutionize medicine, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering has the potential to revolutionize medicine.",
+    "retrieved_context": "```Genetic engineering is a rapidly advancing field with the potential to revolutionize medicine, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering has the potential to revolutionize agriculture.",
+    "retrieved_context": "this technology holds great promise for treating genetic disorders and improving food production, ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises ethical concerns.",
+    "retrieved_context": "and progress, genetic engineering also raises significant ethical concerns that must be carefully ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering can alter the fundamental building blocks of life.",
+    "retrieved_context": "the fundamental building blocks of life. By manipulating genes, scientists have the power to create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering manipulates genes to create organisms with specific traits.",
+    "retrieved_context": "the fundamental building blocks of life. By manipulating genes, scientists have the power to create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises questions about human intervention in the natural world.",
+    "retrieved_context": "it also raises questions about the boundaries of human intervention in the natural world. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering involves deliberate changes to the genetic makeup of living organisms.",
+    "retrieved_context": "as it involves making deliberate changes to the genetic makeup of living organisms. Critics argue ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering interventions could have unforeseen consequences.",
+    "retrieved_context": "One of the primary ethical implications of genetic engineering is the potential for altering the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetically modified organisms have sparked debates about safety for human consumption.",
+    "retrieved_context": "modified organisms (GMOs) have sparked debates about their safety for human consumption and their ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises concerns about consent and autonomy.",
+    "retrieved_context": "Another ethical concern related to genetic engineering is the issue of consent and autonomy. With ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering risks infringing on individuals' rights to make informed decisions.",
+    "retrieved_context": "With the ability to manipulate genes, there is a risk of infringing on individuals' rights to make ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises concerns about social justice and equity.",
+    "retrieved_context": "Furthermore, genetic engineering raises concerns about social justice and equity. As genetic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic technologies could widen the gap between those who can afford enhancements.",
+    "retrieved_context": "genetic technologies become more advanced and accessible, there is a risk of widening the gap ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises questions about the long-term implications of altering the genetic code.",
+    "retrieved_context": "about the long-term implications of altering the genetic code. While the potential benefits of ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bonsai cultivation is a centuries-old practice.",
+    "retrieved_context": "The art of bonsai tree cultivation is a centuries-old practice that originated in China and Japan. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai originated in China and Japan.",
+    "retrieved_context": "The art of bonsai tree cultivation is a centuries-old practice that originated in China and Japan. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai translates to 'planted in a container'.",
+    "retrieved_context": "Japan. Bonsai, which translates to \"planted in a container,\" involves growing and shaping miniature ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai involves growing and shaping miniature trees in pots.",
+    "retrieved_context": "Japan. Bonsai, which translates to \"planted in a container,\" involves growing and shaping miniature ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai mimics the appearance of full-sized trees in nature.",
+    "retrieved_context": "miniature trees in pots to mimic the appearance of full-sized trees in nature. This ancient art ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai cultivation requires patience and skill.",
+    "retrieved_context": "In addition to technical skill, bonsai cultivation also requires a keen eye for aesthetics. Bonsai ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bonsai cultivation requires a deep understanding of horticulture and aesthetics.",
+    "retrieved_context": "In addition to technical skill, bonsai cultivation also requires a keen eye for aesthetics. Bonsai ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists prune and trim branches and roots to maintain small size.",
+    "retrieved_context": "artists carefully prune and trim the tree's branches and roots to maintain its small size while ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists create a sense of age and maturity in the trees.",
+    "retrieved_context": "while creating a sense of age and maturity. By carefully controlling the growth of the tree, bonsai ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists carefully control the growth of the trees.",
+    "retrieved_context": "while creating a sense of age and maturity. By carefully controlling the growth of the tree, bonsai ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists use wiring, pruning, and grafting techniques.",
+    "retrieved_context": "various techniques, such as wiring, pruning, and grafting, to sculpt the tree into a desired form. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists aim to create a harmonious balance in the trees.",
+    "retrieved_context": "Bonsai artists carefully consider factors such as proportion, balance, and asymmetry to create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai artists consider proportion, balance, and asymmetry in their compositions.",
+    "retrieved_context": "Bonsai artists carefully consider factors such as proportion, balance, and asymmetry to create ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai cultivation is a form of artistic expression.",
+    "retrieved_context": "Bonsai cultivation is not just about creating miniature trees; it is also a form of artistic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bonsai cultivation offers therapeutic and meditative benefits.",
+    "retrieved_context": "The practice of caring for bonsai trees can be a therapeutic and meditative experience, providing a ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

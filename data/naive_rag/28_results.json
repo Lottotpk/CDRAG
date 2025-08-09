@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Old English was spoken in England from the 5th to the 11th century.",
+    "retrieved_context": "Old English, also known as Anglo-Saxon, was spoken in England from the 5th to the 11th century. It ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Norman Conquest of England led to the mixing of Old English and Old Norman.",
+    "retrieved_context": "the ruling class in England. This led to the mixing of Old English and Old Norman, giving rise to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Middle English was spoken from the 11th to the 15th century.",
+    "retrieved_context": "Middle English was spoken from the 11th to the 15th century and saw the introduction of many French ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geoffrey Chaucer's works are prime examples of Middle English literature.",
+    "retrieved_context": "are prime examples of Middle English literature. During this period, English underwent a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "William Caxton invented the printing press in the late 15th century.",
+    "retrieved_context": "The invention of the printing press by William Caxton in the late 15th century played a crucial ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caxton's printing press helped spread the use of English across England.",
+    "retrieved_context": "a crucial role in the standardization of the English language. Caxton's printing press helped ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early Modern English period began in the late 15th century.",
+    "retrieved_context": "The Early Modern English period began in the late 15th century and lasted until the mid-17th ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "William Shakespeare's works exemplify Early Modern English.",
+    "retrieved_context": "William Shakespeare, considered one of the greatest writers in the English language, exemplify ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The British Empire's rise led to the spread of English to various parts of the world.",
+    "retrieved_context": "The 18th and 19th centuries saw the rise of the British Empire, which led to the spread of English ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The British Empire's global influence contributed to the development of different English dialects.",
+    "retrieved_context": "The 18th and 19th centuries saw the rise of the British Empire, which led to the spread of English ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "English solidified its status as a global language in the 20th century.",
+    "retrieved_context": "In the 20th century, English solidified its status as a global language, becoming the lingua franca ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English became the lingua franca of international communication, business, and diplomacy.",
+    "retrieved_context": "In the 20th century, English solidified its status as a global language, becoming the lingua franca ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English is spoken by over 1.5 billion people worldwide today.",
+    "retrieved_context": "Today, English is spoken by over 1.5 billion people worldwide and continues to evolve with the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English continues to evolve with the influence of technology and globalization.",
+    "retrieved_context": "with the influence of technology and globalization. The history of the English language is a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The history of the English language reflects diverse cultures and peoples.",
+    "retrieved_context": "In conclusion, the history of the English language is a story of evolution and transformation, ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

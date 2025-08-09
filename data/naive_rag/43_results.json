@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Conspiracy theories challenge official explanations of historical events.",
+    "retrieved_context": "that challenge official explanations and present alternative interpretations of historical events. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories are dismissed as outlandish or baseless.",
+    "retrieved_context": "events. While some conspiracy theories are dismissed as outlandish or baseless, others have gained ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Conspiracy theories influence popular culture and public discourse.",
+    "retrieved_context": "Overall, conspiracy theories play a complex role in shaping public discourse and challenging ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The moon landing hoax theory suggests the Apollo 11 mission was staged.",
+    "retrieved_context": "One of the most enduring conspiracy theories is the belief that the moon landing was staged by the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proponents of the moon landing hoax theory point to alleged discrepancies in evidence.",
+    "retrieved_context": "the moon landing hoax theory continues to be a popular topic of discussion and debate. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The JFK assassination conspiracy theory suggests a larger plot was at play.",
+    "retrieved_context": "Another famous conspiracy theory involves the assassination of President John F. Kennedy in 1963. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Illuminati conspiracy theory alleges a secret society controls world events.",
+    "retrieved_context": "In the realm of popular culture, one of the most famous conspiracy theories is the belief that the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is no concrete evidence to support the existence of the Illuminati.",
+    "retrieved_context": "Despite the lack of concrete evidence for the existence of Atlantis, the legend continues to ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories about 9/11 suggest government involvement in the attacks.",
+    "retrieved_context": "given rise to numerous conspiracy theories, with some people believing that the attacks were ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories about 9/11 point to alleged inconsistencies in official accounts.",
+    "retrieved_context": "```Famous Conspiracy Theories``` ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet and social media have fueled the spread of conspiracy theories.",
+    "retrieved_context": "In recent years, the rise of the internet and social media has fueled the spread of conspiracy ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Conspiracy theories tap into societal anxieties and distrust of authority.",
+    "retrieved_context": "Overall, conspiracy theories play a complex role in shaping public discourse and challenging ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories provide a sense of empowerment and community to believers.",
+    "retrieved_context": "sense of empowerment and community to those who subscribe to them. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Conspiracy theories challenge official narratives and raise questions about power and truth.",
+    "retrieved_context": "Overall, conspiracy theories play a complex role in shaping public discourse and challenging ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Examining famous conspiracy theories can provide insight into human desire for alternative explanations.",
+    "retrieved_context": "famous conspiracy theories and their cultural impact, we can gain insight into the human desire for ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

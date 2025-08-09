@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Dinosaurs captivate human imagination for centuries.",
+    "retrieved_context": "```Dinosaurs have captivated the human imagination for centuries, sparking curiosity and wonder ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs roamed the Earth millions of years ago.",
+    "retrieved_context": "```Dinosaurs have captivated the human imagination for centuries, sparking curiosity and wonder ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs fascinate us due to their immense size.",
+    "retrieved_context": "One of the primary reasons why dinosaurs fascinate us is their sheer size and power. From the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tyrannosaurus rex was a towering dinosaur.",
+    "retrieved_context": "From the towering Tyrannosaurus rex to the colossal Brachiosaurus, these prehistoric giants evoke a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Brachiosaurus was a colossal dinosaur.",
+    "retrieved_context": "From the towering Tyrannosaurus rex to the colossal Brachiosaurus, these prehistoric giants evoke a ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs challenge our understanding of the natural world.",
+    "retrieved_context": "```Dinosaurs have captivated the human imagination for centuries, sparking curiosity and wonder ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs captivate us with their diverse range of adaptations.",
+    "retrieved_context": "In addition to their size, dinosaurs also captivate us with their diverse range of adaptations and ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carnivorous dinosaurs had razor-sharp teeth.",
+    "retrieved_context": "and physical features. From the razor-sharp teeth of carnivorous dinosaurs to the intricate frills ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ceratopsians had intricate frills.",
+    "retrieved_context": "frills of ceratopsians, these creatures display a remarkable array of evolutionary traits. The ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs lived in the Mesozoic era.",
+    "retrieved_context": "from our own. The Mesozoic era, also known as the Age of Dinosaurs, was a time of dramatic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Mesozoic era was known as the Age of Dinosaurs.",
+    "retrieved_context": "from our own. The Mesozoic era, also known as the Age of Dinosaurs, was a time of dramatic ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs represent a world vastly different from our own.",
+    "retrieved_context": "Furthermore, dinosaurs fascinate us because they represent a world that is vastly different from ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The extinction of dinosaurs is surrounded by mystery.",
+    "retrieved_context": "The mystery surrounding the extinction of dinosaurs also adds to their allure. Theories about what ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs have an enduring presence in popular culture.",
+    "retrieved_context": "Dinosaurs also captivate us because of their enduring presence in popular culture. From blockbuster ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs inspire creativity and imagination in both children and adults.",
+    "retrieved_context": "```Dinosaurs have captivated the human imagination for centuries, sparking curiosity and wonder ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

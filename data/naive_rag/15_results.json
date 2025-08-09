@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Ancient Egyptian burial practices reflect Egyptians' beliefs about the afterlife.",
+    "retrieved_context": "Ancient Egypt is known for its elaborate burial practices, which reflect the Egyptians' beliefs ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Elaborate tombs were constructed to house pharaohs and important individuals.",
+    "retrieved_context": "tombs, such as the pyramids at Giza. These monumental structures were built to house the pharaohs ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pyramids at Giza were designed to protect the deceased's body and possessions.",
+    "retrieved_context": "pharaohs and other important individuals in the afterlife. The pyramids were designed to protect ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Items like food, clothing, and jewelry were buried with the deceased.",
+    "retrieved_context": "in the afterlife, such as food, tools, and personal belongings. ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mummification was used to preserve the body for the afterlife.",
+    "retrieved_context": "of mummification involved preserving the body to prevent decay and ensure its preservation for the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification involved removing internal organs and drying out the body.",
+    "retrieved_context": "of mummification involved preserving the body to prevent decay and ensure its preservation for the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Religious texts and amulets were included in the burial chamber.",
+    "retrieved_context": "of religious texts and amulets in the burial chamber to guide the deceased on their journey to the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Book of the Dead helped the deceased navigate the afterlife.",
+    "retrieved_context": "believed to represent the journey of the soul through the afterlife. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial process required priests, embalmers, and skilled individuals.",
+    "retrieved_context": "that required the expertise of priests, embalmers, and other skilled individuals. The deceased's ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Professional mourners were hired to lead funeral processions.",
+    "retrieved_context": "family would often hire professional mourners to lead the funeral procession and perform rituals to ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient Egypt were buried with care and respect.",
+    "retrieved_context": "Egypt were also buried with care and respect. While they may not have had the resources to build ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ordinary Egyptians were buried with items they would need in the afterlife.",
+    "retrieved_context": "to build grand pyramids, ordinary Egyptians were still buried with items they would need in the ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial practices ensured the deceased's safe passage into the afterlife.",
+    "retrieved_context": "protect the deceased's body and possessions and to serve as a gateway to the afterlife. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians believed in the existence of a soul.",
+    "retrieved_context": "The ancient Egyptians also believed in the existence of a soul that would need to be reunited with ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptian burial practices were a vital part of Egyptian culture.",
+    "retrieved_context": "In conclusion, ancient Egyptian burial practices were a vital part of Egyptian culture and society. ",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

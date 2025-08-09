@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Social media revolutionized communication in the digital age.",
+    "retrieved_context": "```Social media has revolutionized the way we communicate in today's digital age. This powerful tool ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media impacted relationships, behaviors, and perceptions.",
+    "retrieved_context": "the various ways in which social media has influenced communication and examine both the positive ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media influenced communication positively and negatively.",
+    "retrieved_context": "the various ways in which social media has influenced communication and examine both the positive ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media enables connection regardless of physical distance.",
+    "retrieved_context": "networks have enabled instant communication and real-time collaboration across vast distances. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Platforms like Facebook, Twitter, Instagram, and Snapchat facilitate staying in touch globally.",
+    "retrieved_context": "and Snapchat have made it easier than ever to stay in touch with friends, family, and acquaintances ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media allows sharing updates, photos, and thoughts in real-time.",
+    "retrieved_context": "features, individuals can share updates, photos, and thoughts in real-time, fostering a sense of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "News spreads rapidly through social media via citizen journalism and user-generated content.",
+    "retrieved_context": "the rise of citizen journalism and user-generated content, news spreads rapidly through social ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media democratizes information and engages individuals in current events.",
+    "retrieved_context": "media outlets. This democratization of information has empowered individuals to be more informed ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Twitter provides a platform for marginalized groups to share stories and advocate for change.",
+    "retrieved_context": "and the visibility of marginalized groups. Platforms like Twitter have provided a platform for ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media amplifies voices and visibility of underrepresented communities.",
+    "retrieved_context": "One of the most significant impacts of social media on communication is the ability to connect with ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Misinformation and fake news are challenges on social networking sites.",
+    "retrieved_context": "rise of misinformation and fake news on social networking sites. The ease with which information ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media promotes shallow communication forms like likes and emojis.",
+    "retrieved_context": "forms of communication, such as likes, shares, and emojis, that prioritize quantity over quality. ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Superficial communication on social media can lead to a lack of genuine connections.",
+    "retrieved_context": "One of the most significant impacts of social media on communication is the ability to connect with ",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Validation through likes and comments can impact mental health and self-esteem.",
+    "retrieved_context": "can also have negative effects on mental health and self-esteem, contributing to feelings of ",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media shapes connectivity, information sharing, and interactions in society.",
+    "retrieved_context": "One of the most significant impacts of social media on communication is the ability to connect with ",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]
