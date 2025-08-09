@@ -11,6 +11,9 @@ The information retrieval pipeline is derived from the [GraphRAG](https://github
 ![Information retrieval](https://github.com/Lottotpk/CDRAG/blob/main/fig/Retreive_white.png)
 
 ## Results
+- The Measure of Information in Nodes and Edges (MINE) dataset contains 105 articles, ~1000 words each, which covers multiple fields: art, science, history, ethics, and psychology.
+- The relevancy of the retrieval in each RAG method will be measured through this dataset. Three RAG methods are tested.
+
 We use the three RAG frameworks for comparison: the traditional RAG, Knowledge Graph Generation ([KGGen](https://github.com/stair-lab/kg-gen)), and our framework CDRAG. The results are shown below.
 ![Results](https://github.com/Lottotpk/CDRAG/blob/main/fig/Results.png)
 - The tradition RAG struggles to retrieve the relevant context from multiple documents with only 83.05%, almost 10% lower than KGGen.
@@ -57,3 +60,11 @@ There are may files contained in this repository. The most important files are a
 - `src/kggen.py`: The graph construction and retrieval python script for KGGen method.
 - `src/rakg_processing`: The data cleaner for JSON format from [RAKG](https://github.com/LMMApplication/RAKG) method. RAKG is our graph construction baseline. Moreover, this script also converts the JSON constructed graph in parquet file, ready to construct the graph into [GraphRAG](https://github.com/microsoft/graphrag) architecture (not used in this project).
 - The rest of `src` files: The python scripts to construct the graph, enhancing the content with NER, which is drawn from [RAKG](https://github.com/LMMApplication/RAKG).
+
+## Run this repository
+1. Download python version 3.12, or create conda environment. ```conda create -n <your environment name> python=3.12```
+2. Install the dependencies. ```pip install -r requirements.txt``` Note that there are some dependency conflicts that use different version of openai. You can ignore this if the openai library is not used.
+3. Set up all of the configs in `src/config.py`. Please see [RAKG repository](https://github.com/LMMApplication/RAKG) for more info.
+4. To reproduce the traditional RAG results, execute this command ```python src/construct/storing_data.py``` to create a vector database. Then, run ```python src/naive.py``` to perform a test on the dataset.
+5. To reproduce the KGGen results, execute this command ```python src/kggen.py``` to create a knowledge graph and test on the dataset simultaneously. Note that you may want to change the base LLM model and embedding model if the code does not work.
+6. To reproduce CDRAG results, execute this command ```python src/construct/RAKG.py``` to construct a graph, or directly use the constructed graph in `data/CDRAG`. Then, run ```python src/cdrag.py``` to perform information retrieval and perform benchmarking on the dataset.
