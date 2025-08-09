@@ -62,9 +62,36 @@ There are may files contained in this repository. The most important files are a
 - The rest of `src` files: The python scripts to construct the graph, enhancing the content with NER, which is drawn from [RAKG](https://github.com/LMMApplication/RAKG).
 
 ## Run this repository
-1. Download python version 3.12, or create conda environment. ```conda create -n <your environment name> python=3.12```
-2. Install the dependencies. ```pip install -r requirements.txt``` Note that there are some dependency conflicts that use different version of openai. You can ignore this if the openai library is not used.
-3. Set up all of the configs in `src/config.py`. Please see [RAKG repository](https://github.com/LMMApplication/RAKG) for more info.
-4. To reproduce the traditional RAG results, execute this command ```python src/construct/storing_data.py``` to create a vector database. Then, run ```python src/naive.py``` to perform a test on the dataset.
-5. To reproduce the KGGen results, execute this command ```python src/kggen.py``` to create a knowledge graph and test on the dataset simultaneously. Note that you may want to change the base LLM model and embedding model if the code does not work.
-6. To reproduce CDRAG results, execute this command ```python src/construct/RAKG.py``` to construct a graph, or directly use the constructed graph in `data/CDRAG`. Then, run ```python src/cdrag.py``` to perform information retrieval and perform benchmarking on the dataset.
+1. Download python version 3.12, or create conda environment.
+```
+conda create -n <your environment name> python=3.12
+```
+3. Install the dependencies.
+```
+pip install -r requirements.txt
+```
+Note that there are some dependency conflicts that use different version of openai. You can ignore this if the openai library is not used.
+6. Set up all of the configs in `src/config.py`. Please see [RAKG repository](https://github.com/LMMApplication/RAKG) for more info.
+7. To reproduce the traditional RAG results, execute this command 
+```
+python src/construct/storing_data.py
+```
+to create a vector database. Then, run 
+```
+python src/naive.py
+```
+to perform a test on the dataset.
+8. To reproduce the KGGen results, execute this command 
+```
+python src/kggen.py
+```
+to create a knowledge graph and test on the dataset simultaneously. Note that you may want to change the base LLM model and embedding model if the code does not work.
+9. To reproduce CDRAG results, execute this command 
+```
+python src/construct/RAKG.py
+```
+to construct a graph, or directly use the constructed graph in `data/CDRAG`. Then, run 
+```
+python src/cdrag.py
+```
+to perform information retrieval and perform benchmarking on the dataset.
