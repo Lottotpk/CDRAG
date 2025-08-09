@@ -1,30 +1,21 @@
-PROMPT_DICT = {
-    "fin": {
-        "system": "You are a financial analyzer, given a section of a company's annual report, please answer the question according to the report context. Let's do this step by step. The final answer output should be in the format of 'The answer is: <answer>', and the <answer> must be simple and short (e.g. just an accurate numerical value or phrases). ",
-        "user_1": "### Context: ...\n ## Question: What is the average price of the products?\n ### Response:",
-        "assistant_1": "There are 8 products with a total price value of 1000, so the average value is 125.00 .\n The answer is: 125.00",
-    },
-    "tat": {
-        "system": "You are a financial analyzer, given a section of a company's annual report, please answer the question according to the report context. Let's do this step by step. The final answer output should be in the format of 'The answer is: <answer>', and the <answer> must be simple and short (e.g. just an accurate numerical value or phrases). ",
-        "user_1": "### Context: ...\n ## Question: What is the average price of the products?\n ### Response:",
-        "assistant_1": "There are 8 products with a total price value of 1000, so the average value is 125.00 .\n The answer is: 125.00",
-    },
-    "paper": {
-        "system": "You are a scientific researcher, given a section of an academic paper, please answer the question according to the context of the paper. The final answer output should be in the format of 'The answer is: <answer>', and the <answer> should be concise with no explanation.",
-        "user_1": "### Context: ...\n ## Question: Which Indian languages do they experiment with\n ### Response:",
-        "assistant_1": "The answer is: Hindi, English, Kannada, Telugu, Assamese, Bengali and Malayalam",
-    },
-    "feta": {
-        "system": "Given a section of a document, plese answer the question according to the context. The final answer output should be in the format of 'The answer is: <answer>', and the <answer> should be a natural sentence.",
-        "user_1": "### Context: ...\n ## Question: When and in what play did Platt appear at the Music Box Theatre?\n ### Response:",
-        "assistant_1": "The answer is: In 2016 and 2017, Platt played in Dear Evan Hansen on Broadway at the Music Box Theatre.",
-    },
-    "nq": {
-        "system": "Given a section of a document, plese answer the question according to the context. The final answer output should be in the format of 'The answer is: <answer>', and the <answer> should be a paragraph from the context or a summarized short phrase.",
-        "user_1": "### Context: ...\n ## Question: When will tour de france teams be announced?\n ### Response:",
-        "assistant_1": "The answer is: 6 January 2018",
-    },
-}
+# Global configuration variables
+OLLAMA_BASE_URL = "http://localhost:11434"  # Change this to your Ollama server URL
+DEFAULT_MODEL = "qwen2.5:72b"
+EMBEDDING_MODEL = "bge-m3:latest"   
+SIMILARITY_MODEL = "qwen2:7b"
+
+
+
+# OpenAI Configuration
+base_url="https://api.siliconflow.cn/v1" # https://api.siliconflow.cn/v1 for siliconflow
+OPENAI_API_KEY = "your_api_key"  # Set your OpenAI API key here
+OPENAI_MODEL = "Qwen/Qwen2.5-72B-Instruct"  # Default model
+OPENAI_EMBEDDING_MODEL = "BAAI/bge-m3"  # Default embedding model
+OPENAI_SIMILARITY_MODEL = "Qwen/Qwen2.5-14B-Instruct"  # Model for similarity checks
+
+
+# Model Provider Selection
+USE_OPENAI = True  # Set to True to use OpenAI, False to use Ollama
 
 ALL_QUESTIONS_ANSWERS = [
 [{"answer": "Butterflies undergo a remarkable transformation throughout their life cycle."}, {"answer": "Female butterflies lay their eggs on specific host plants."}, {"answer": "Butterfly eggs are usually laid on the underside of leaves."}, {"answer": "The size, shape, and color of butterfly eggs vary depending on the species."}, {"answer": "After hatching, a tiny larva, known as a caterpillar, emerges."}, {"answer": "Caterpillars are voracious eaters and spend most of their time feeding on leaves."}, {"answer": "Caterpillars shed their skin several times as they grow."}, {"answer": "Caterpillars come in a variety of shapes, sizes, and colors."}, {"answer": "Caterpillars play a crucial role in pollination and maintaining plant populations."}, {"answer": "The caterpillar attaches itself to a leaf or stem and forms a chrysalis."}, {"answer": "Inside the chrysalis, the caterpillar undergoes metamorphosis."}, {"answer": "During metamorphosis, the caterpillar's body undergoes significant changes."}, {"answer": "The adult butterfly emerges from the chrysalis after metamorphosis is complete."}, {"answer": "Adult butterflies feed on nectar from flowers using their proboscis."}, {"answer": "Butterflies play a crucial role in pollination and serve as a food source for other animals."}]
