@@ -4,10 +4,12 @@ Cross-Document Retrieval-Augmented Generation (CDRAG): An RAG framework for enha
 ## CDRAG Pipelines
 ### Graph Construction
 The knowledge graph architecture is very similar to the one in [this](https://github.com/LMMApplication/RAKG) repository, where the LLM will process the text in chunk and construct knowledge graph with appropriate entities-relationships. The text will be separated into multiple chunks and passed into LLM to construct the graph, along with Named Entities Recoginition (NER) mechanism to enrich the representation of the graph. Then, the new created graph will merge with the existing graph. The similar entities may be merged into a single entity, which will be determined the cosine similarity threshold (like the similarity in vector database). Below is the architecture of the graph construction pipeline.
+
 ![Graph construct](https://github.com/Lottotpk/CDRAG/blob/main/fig/Construct_white.png)
 
 ### Information Retrieval
 The information retrieval pipeline is derived from the [GraphRAG](https://github.com/microsoft/graphrag) idea, which combines the global and local search. The gloobal search will search through all of the relevant nodes and find the top-k most relevant nodes. After that, the local search will continue to search the nodes belong to the communities of the top-k retrieval. This procedure will give make the retrieval steps have more fine-grained and detailed information of LLMs to process and generate the answer. Below is the architecture of the information retrieval pipeline.
+
 ![Information retrieval](https://github.com/Lottotpk/CDRAG/blob/main/fig/Retreive_white.png)
 
 ## Results
@@ -15,8 +17,10 @@ The information retrieval pipeline is derived from the [GraphRAG](https://github
 - The relevancy of the retrieval in each RAG method will be measured through this dataset. Three RAG methods are tested.
 
 We use the three RAG frameworks for comparison: the traditional RAG, Knowledge Graph Generation ([KGGen](https://github.com/stair-lab/kg-gen)), and our framework CDRAG. The results are shown below.
+
 ![Results](https://github.com/Lottotpk/CDRAG/blob/main/fig/Results.png)
-- The tradition RAG struggles to retrieve the relevant context from multiple documents with only 83.05%, almost 10% lower than KGGen.
+
+- The traditional RAG struggles to retrieve the relevant context from multiple documents with only 83.05%, almost 10% lower than KGGen.
 - KGGen and CDRAG are both graph‐based method, which also have similar accuracy, with CDRAG slightly ahead by 2.60% due to richer details construction.
 - CDRAG also perform more consistent than KGGen, which no domains have under 60% while KGGen has some topics around 50% accuracy.
 
