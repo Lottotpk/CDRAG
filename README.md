@@ -66,13 +66,13 @@ There are may files contained in this repository. The most important files are a
 ```
 conda create -n <your environment name> python=3.12
 ```
-3. Install the dependencies.
+2. Install the dependencies.
 ```
 pip install -r requirements.txt
 ```
 Note that there are some dependency conflicts that use different version of openai. You can ignore this if the openai library is not used.
-6. Set up all of the configs in `src/config.py`. Please see [RAKG repository](https://github.com/LMMApplication/RAKG) for more info.
-7. To reproduce the traditional RAG results, execute this command 
+3. Set up all of the configs in `src/config.py`. Please see [RAKG repository](https://github.com/LMMApplication/RAKG) for more info.
+4. To reproduce the traditional RAG results, execute this command 
 ```
 python src/construct/storing_data.py
 ```
@@ -81,12 +81,12 @@ to create a vector database. Then, run
 python src/naive.py
 ```
 to perform a test on the dataset.
-8. To reproduce the KGGen results, execute this command 
+5. To reproduce the KGGen results, execute this command 
 ```
 python src/kggen.py
 ```
 to create a knowledge graph and test on the dataset simultaneously. Note that you may want to change the base LLM model and embedding model if the code does not work.
-9. To reproduce CDRAG results, execute this command 
+6. To reproduce CDRAG results, execute this command 
 ```
 python src/construct/RAKG.py
 ```
